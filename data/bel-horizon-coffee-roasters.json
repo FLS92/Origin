@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:05:16Z",
+  "scrapedAt": "2026-09-03T09:55:01Z",
   "products": [
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-1000-hills",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-cordillera-del-fuego",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-el-porvenir",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-finca-los-primos",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-finca-bella",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:16Z",
-      "lastSeenAt": "2026-09-03T09:05:16Z"
+      "firstSeenAt": "2026-09-03T09:55:01Z",
+      "lastSeenAt": "2026-09-03T09:55:01Z"
     }
   ]
 }

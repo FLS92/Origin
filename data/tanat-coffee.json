@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:05:22Z",
+  "scrapedAt": "2026-09-03T09:51:53Z",
   "products": [
     {
       "id": "tanat-coffee-cafe-nestor-lasso-colombie",
@@ -20,7 +20,7 @@
       "process": "Anaérobie Lavée",
       "variety": "Castillo, Caturra",
       "producer": "El Diviso, Nestor Lasso",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Espresso",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-ngacha-estate-yellow-honey",
@@ -53,7 +53,7 @@
       "process": "Yellow Honey",
       "variety": "SL28, SL34",
       "producer": "Martin Muriuki",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-elida-falda-crd-gw0403",
@@ -86,7 +86,7 @@
       "process": "Lavé CRD",
       "variety": "Geisha",
       "producer": "Elida Estate, Wilford Lamastus",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-4fb",
@@ -119,7 +119,7 @@
       "process": "Anaérobie Lavée",
       "variety": "Geisha",
       "producer": "Hacienda la Esmeralda",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-chibor-gw97",
@@ -152,7 +152,7 @@
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Ratibor Hartmann",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-los-lajones-bambu-gn10265",
@@ -185,7 +185,7 @@
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Graciano Cruz",
-      "score": 93.0,
+      "score": 93,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-6hc",
@@ -218,7 +218,7 @@
       "process": "Controlled Honey",
       "variety": "Geisha",
       "producer": "Hacienda la Esmeralda",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-gathaithi-aa-washed",
@@ -251,7 +251,7 @@
       "process": "Lavé",
       "variety": "Batian, Ruiru 11, SL28, SL34",
       "producer": "Gathaithi Cooperative",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-hellen-mora-caturra-natural",
@@ -284,7 +284,7 @@
       "process": "Anaérobie Naturelle",
       "variety": "Caturra",
       "producer": "Hellen Mora",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Omni",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-panama-hacienda-la-esmeralda-lino-8fc",
@@ -317,7 +317,7 @@
       "process": "Fermentation à froid, Lavé",
       "variety": "Geisha",
       "producer": "Hacienda la Esmeralda",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-janson-hacienda-gn115",
@@ -350,7 +350,7 @@
       "process": "Natural",
       "variety": "Geisha",
       "producer": "Kaï Janson",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-abu-gh4135",
@@ -383,7 +383,7 @@
       "process": "Honey",
       "variety": "Geisha",
       "producer": "Abu Coffee, José Luttrell",
-      "score": 89.0,
+      "score": 89,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-el-destino-crimson-lot-21-geisha-washed",
@@ -416,7 +416,7 @@
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Benito Bermudez &amp; Mario Castrellon, Finca El Destino",
-      "score": 89.0,
+      "score": 89,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -438,18 +438,18 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-40",
-      "name": "Finca Sophia [RW4 &#8211; Colibri 40 GW] &#8211; Auction Lot",
+      "name": "Finca Sophia [RW4 – Colibri 40 GW] – Auction Lot",
       "originCountry": null,
       "originDetail": null,
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "David Pohl, Kelly Hartmann, Willem Boot",
-      "score": 92.0,
+      "score": 92,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -471,18 +471,18 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-37",
-      "name": "Finca Sophia [RW2 &#8211; Colibrí 37 GW] &#8211; Auction Lot",
+      "name": "Finca Sophia [RW2 – Colibrí 37 GW] – Auction Lot",
       "originCountry": null,
       "originDetail": null,
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "David Pohl, Kelly Hartmann, Willem Boot",
-      "score": 92.0,
+      "score": 92,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -504,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-abu-gn6265",
@@ -515,7 +515,7 @@
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Abu Coffee, José Luttrell",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -537,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-lerida-geisha-honey-832",
@@ -548,7 +548,7 @@
       "process": "Honey",
       "variety": "Geisha",
       "producer": "Lerida Estate, Maria Antonella Amoruso",
-      "score": 89.0,
+      "score": 89,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -570,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-santa-elena-obata-washed",
@@ -581,7 +581,7 @@
       "process": "Lavé",
       "variety": "Obata",
       "producer": "Cafelino - Santa Elena Estate",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Espresso",
@@ -603,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-jhon-saenz-geisha-washed",
@@ -614,7 +614,7 @@
       "process": "Dry Honey 36h, Lavé",
       "variety": "Geisha Inca [SL9]",
       "producer": "Incahuasi Coop, Jhon Saenz",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -636,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-la-riviera-sudan-rume",
@@ -647,7 +647,7 @@
       "process": "Bioreactor Inoculation",
       "variety": "Sudan Rume",
       "producer": "Julio Madrid",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -669,8 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-bambito-geisha-washed",
@@ -680,7 +680,7 @@
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Bambito Estate, Priscilla Amar de Gonzále",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -702,8 +702,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-elto-elora-blood-yeast",
@@ -713,7 +713,7 @@
       "process": "Anaérobie Naturelle 72h - Blood Yeast",
       "variety": "74158",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
-      "score": 89.0,
+      "score": 89,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -735,8 +735,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-elto-hamasho-96h",
@@ -746,7 +746,7 @@
       "process": "Anaerobic Natural 96h",
       "variety": "74158",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -768,8 +768,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-alo-digs-project-mosto-natural-72h",
@@ -779,7 +779,7 @@
       "process": "Naturel - 72h de Fermentation Mosto",
       "variety": "74158",
       "producer": "Tamiru Tadesse",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -801,8 +801,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-alo-digs-project-anaerobic-honey-48h",
@@ -812,7 +812,7 @@
       "process": "Anaérobie Honey ; 48h de fermentation",
       "variety": "74158",
       "producer": "Tamiru Tadesse",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -834,8 +834,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-la-riviera-pink-bourbon",
@@ -845,7 +845,7 @@
       "process": "Bioreactor Inoculation, Lavé",
       "variety": "Pink Bourbon",
       "producer": "Julio Madrid",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Espresso",
@@ -867,8 +867,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-gesha-village-surma-semi-anaerobic-26-e22",
@@ -878,7 +878,7 @@
       "process": "Semi Anaerobic",
       "variety": "Gesha 1931",
       "producer": "Gesha Village",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -900,8 +900,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-arauca-geisha-washed",
@@ -911,7 +911,7 @@
       "process": "Lavé",
       "variety": "Gesha",
       "producer": "Jimy Muñoz",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -933,8 +933,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-melao-pink-bourbon",
@@ -944,7 +944,7 @@
       "process": "Lavé",
       "variety": "Pink Bourbon",
       "producer": "Groupes de Producteurs",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Omni",
@@ -966,8 +966,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-gesha-village-oma-anaerobic-natural-26-e-24",
@@ -977,7 +977,7 @@
       "process": "Anaérobie Naturelle",
       "variety": "Gesha 1931",
       "producer": "Gesha Village",
-      "score": 89.0,
+      "score": 89,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -999,8 +999,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gw2-estacion",
@@ -1010,7 +1010,7 @@
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Kelly Hartmann",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1032,8 +1032,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-janson-los-alpes-gn125",
@@ -1043,7 +1043,7 @@
       "process": "Anaérobie naturelle ; 72h de fermentation",
       "variety": "Geisha",
       "producer": "Kaï Janson",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1065,8 +1065,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-elida-falda-gn0503",
@@ -1076,7 +1076,7 @@
       "process": "Natural",
       "variety": "Geisha",
       "producer": "Elida Estate, Wilford Lamastus",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1098,8 +1098,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-eudis-orosco-geisha-washed",
@@ -1109,7 +1109,7 @@
       "process": "Lavé",
       "variety": "Geisha Inca [SL9]",
       "producer": "Eudis Orosco, Victoria Atao",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1131,8 +1131,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-janson-hacienda-gw121",
@@ -1142,7 +1142,7 @@
       "process": "Washed - 48h fermentation with Mosto",
       "variety": "Geisha",
       "producer": "Kaï Janson",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1164,8 +1164,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-rumudamo-washed",
@@ -1175,7 +1175,7 @@
       "process": "Naturel",
       "variety": "74112",
       "producer": "Rumudamo Station",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1197,8 +1197,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-alobore-washed",
@@ -1208,7 +1208,7 @@
       "process": "Lavé",
       "variety": "74158",
       "producer": "Tamiru Tadesse",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Omni",
@@ -1230,8 +1230,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-nestor-lasso-typica-mejorado-natural",
@@ -1241,7 +1241,7 @@
       "process": "Naturel",
       "variety": "Typica Mejorado",
       "producer": "Nestor Lasso",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1263,8 +1263,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-colombia-zarza-pacamara-advanced-washed",
@@ -1296,8 +1296,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-lost-origin-abu-x-tanat-lot-232",
@@ -1307,7 +1307,7 @@
       "process": "Natural Yeast Innoculation",
       "variety": "Geisha",
       "producer": "José Luttrell",
-      "score": 92.0,
+      "score": 92,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1329,8 +1329,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-la-union-gesha-anaerobic-washed",
@@ -1340,7 +1340,7 @@
       "process": "Anaérobie lavé",
       "variety": "Geisha",
       "producer": "Esencia Pura Cooperative",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1362,8 +1362,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-1890-catuai-rojo-yeast-washed",
@@ -1373,7 +1373,7 @@
       "process": "Yeast Washed",
       "variety": "Red Catuai",
       "producer": "Frinj Coffee",
-      "score": 91.0,
+      "score": 91,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1395,8 +1395,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gn51-geisha-natural",
@@ -1406,7 +1406,7 @@
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Kelly Hartmann",
-      "score": 90.0,
+      "score": 90,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1428,8 +1428,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gw93-geisha-washed",
@@ -1439,7 +1439,7 @@
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Kelly Hartmann",
-      "score": 92.0,
+      "score": 92,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1461,8 +1461,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cgle-potosi-sidra-naturel",
@@ -1472,7 +1472,7 @@
       "process": "Naturel",
       "variety": "Sidra",
       "producer": "Cafe Granja La Esperanza, Rigoberto Herrera",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1494,8 +1494,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-elto-elora-anaerobic-72h",
@@ -1505,7 +1505,7 @@
       "process": "Anaérobie naturelle ; 72h de fermentation",
       "variety": "74110, 74112",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1527,8 +1527,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-alo-mosto-anaerobic-natural",
@@ -1538,7 +1538,7 @@
       "process": "Anaérobie Naturelle avec Mosto ; 96h de Fermentation",
       "variety": "JARC 74158",
       "producer": "Tamiru Tadesse",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1560,8 +1560,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-alo-bombe-washed",
@@ -1571,7 +1571,7 @@
       "process": "Lavé, Zero Fermentation",
       "variety": "JARC 74158",
       "producer": "Tamiru Tadesse",
-      "score": 88.0,
+      "score": 88,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1593,8 +1593,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-alo-chilaka-natural",
@@ -1604,7 +1604,7 @@
       "process": "Naturel",
       "variety": "JARC 74158",
       "producer": "Tamiru Tadesse",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Omni",
@@ -1626,8 +1626,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-papaya-typica-washed",
@@ -1637,7 +1637,7 @@
       "process": "Lavé ; 15h de Fermentation",
       "variety": "Typica Mejorado",
       "producer": "Hacienda la Papaya, Juan Peña",
-      "score": 87.0,
+      "score": 87,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1659,12 +1659,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-abonnement-rarities-90",
-      "name": "Abonnement Rarities &#038; 90+",
+      "name": "Abonnement Rarities & 90+",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -1692,8 +1692,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-abonnement-gros-buveur",
@@ -1725,8 +1725,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-cgle-las-margaritas-sudan-rume-washed",
@@ -1736,7 +1736,7 @@
       "process": "Lavé",
       "variety": "Sudan Rume",
       "producer": "Cafe Granja La Esperanza, Las Margaritas",
-      "score": 89.0,
+      "score": 89,
       "acidity": null,
       "body": null,
       "method": "Filtre",
@@ -1758,8 +1758,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-decafeine-el-sueno-mexique",
@@ -1769,7 +1769,7 @@
       "process": "Lavé",
       "variety": "Bourbon, Caturra, Typica",
       "producer": null,
-      "score": 80.0,
+      "score": 80,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -1791,8 +1791,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-moka-lekempti-ethiopie",
@@ -1802,7 +1802,7 @@
       "process": "Naturel",
       "variety": "Heirloom",
       "producer": null,
-      "score": 84.0,
+      "score": 84,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -1824,8 +1824,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-todosantarita-guatemala",
@@ -1835,7 +1835,7 @@
       "process": "Lavé",
       "variety": "Caturra, Pache, Typica",
       "producer": null,
-      "score": 84.0,
+      "score": 84,
       "acidity": null,
       "body": null,
       "method": "Espresso",
@@ -1857,8 +1857,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-blend-kawa-espresso",
@@ -1868,7 +1868,7 @@
       "process": "Lavé, Naturel",
       "variety": "Caturra, Mundo Novo, Typica, Yellow Catuaí",
       "producer": null,
-      "score": 83.0,
+      "score": 83,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -1890,8 +1890,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-blend-espresso-bio",
@@ -1901,7 +1901,7 @@
       "process": "Lavé",
       "variety": "Catuai, Caturra, Typica",
       "producer": null,
-      "score": 82.0,
+      "score": 82,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -1923,8 +1923,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-rosa-blend-bio-espresso",
@@ -1934,7 +1934,7 @@
       "process": "Lavé, Naturel",
       "variety": "Arabicas, Robusta",
       "producer": null,
-      "score": 81.0,
+      "score": 81,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -1956,8 +1956,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-blend-189-bio-espresso",
@@ -1967,7 +1967,7 @@
       "process": "Lavé",
       "variety": "Caturra, Yellow &amp; Red Catuaí",
       "producer": null,
-      "score": 83.0,
+      "score": 83,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -1989,8 +1989,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-cafe-boa-esperanca-bresil",
@@ -2000,7 +2000,7 @@
       "process": "Naturel",
       "variety": "Yellow Catuaí, Mundo Novo",
       "producer": null,
-      "score": 84.0,
+      "score": 84,
       "acidity": null,
       "body": null,
       "method": "Espresso, Machine auto",
@@ -2022,8 +2022,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     },
     {
       "id": "tanat-coffee-abonnement-decouverte-cafe-de-specialite",
@@ -2055,8 +2055,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:22Z",
-      "lastSeenAt": "2026-09-03T09:05:22Z"
+      "firstSeenAt": "2026-09-03T09:51:53Z",
+      "lastSeenAt": "2026-09-03T09:51:53Z"
     }
   ]
 }

@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:22Z",
+  "scrapedAt": "2026-09-03T09:53:47Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:22Z",
-      "lastSeenAt": "2026-09-03T09:07:22Z"
+      "firstSeenAt": "2026-09-03T09:53:47Z",
+      "lastSeenAt": "2026-09-03T09:53:47Z"
     },
     {
       "id": "cafe-1802-gasharu-rwanda-washed",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:22Z",
-      "lastSeenAt": "2026-09-03T09:07:22Z"
+      "firstSeenAt": "2026-09-03T09:53:47Z",
+      "lastSeenAt": "2026-09-03T09:53:47Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:22Z",
-      "lastSeenAt": "2026-09-03T09:07:22Z"
+      "firstSeenAt": "2026-09-03T09:53:47Z",
+      "lastSeenAt": "2026-09-03T09:53:47Z"
     },
     {
       "id": "cafe-1802-zarza-colombie-honey",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:22Z",
-      "lastSeenAt": "2026-09-03T09:07:22Z"
+      "firstSeenAt": "2026-09-03T09:53:47Z",
+      "lastSeenAt": "2026-09-03T09:53:47Z"
     }
   ]
 }

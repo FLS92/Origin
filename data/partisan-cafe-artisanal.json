@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:04:33Z",
+  "scrapedAt": "2026-09-03T09:50:58Z",
   "products": [
     {
       "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:04:33Z",
-      "lastSeenAt": "2026-09-03T09:04:33Z"
+      "firstSeenAt": "2026-09-03T09:50:58Z",
+      "lastSeenAt": "2026-09-03T09:50:58Z"
     },
     {
       "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:04:33Z",
-      "lastSeenAt": "2026-09-03T09:04:33Z"
+      "firstSeenAt": "2026-09-03T09:50:58Z",
+      "lastSeenAt": "2026-09-03T09:50:58Z"
     },
     {
       "id": "partisan-cafe-artisanal-ethiopie-biftu-250g",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:04:33Z",
-      "lastSeenAt": "2026-09-03T09:04:33Z"
+      "firstSeenAt": "2026-09-03T09:50:58Z",
+      "lastSeenAt": "2026-09-03T09:50:58Z"
     },
     {
       "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:04:33Z",
-      "lastSeenAt": "2026-09-03T09:04:33Z"
+      "firstSeenAt": "2026-09-03T09:50:58Z",
+      "lastSeenAt": "2026-09-03T09:50:58Z"
     },
     {
       "id": "partisan-cafe-artisanal-italian-blend-250g-copy",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:04:33Z",
-      "lastSeenAt": "2026-09-03T09:04:33Z"
+      "firstSeenAt": "2026-09-03T09:50:58Z",
+      "lastSeenAt": "2026-09-03T09:50:58Z"
     }
   ]
 }

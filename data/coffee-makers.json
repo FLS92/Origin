@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:44Z",
+  "scrapedAt": "2026-09-03T09:54:01Z",
   "products": [
     {
       "id": "coffee-makers-chelbesa-ethiopie-sachet-de-250g",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:44Z",
-      "lastSeenAt": "2026-09-03T09:07:44Z"
+      "firstSeenAt": "2026-09-03T09:54:01Z",
+      "lastSeenAt": "2026-09-03T09:54:01Z"
     }
   ]
 }

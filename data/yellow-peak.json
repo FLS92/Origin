@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:11:30Z",
+  "scrapedAt": "2026-09-03T09:52:49Z",
   "products": [
     {
       "id": "yellow-peak-cafe-laurina",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-yellow-coquette",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-doradito",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-alapi-honey-du-bresil",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-coucal",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-monterita",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-decafeine-roupillon",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     },
     {
       "id": "yellow-peak-cafe-papou",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:11:30Z",
-      "lastSeenAt": "2026-09-03T09:11:30Z"
+      "firstSeenAt": "2026-09-03T09:52:49Z",
+      "lastSeenAt": "2026-09-03T09:52:49Z"
     }
   ]
 }

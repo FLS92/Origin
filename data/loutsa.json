@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:05:33Z",
+  "scrapedAt": "2026-09-03T09:52:11Z",
   "products": [
     {
       "id": "loutsa-colis-couleur-cafe",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-coffret-cold-brew-ethiopie",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-colombie-capsules",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cold-brew",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-geisha-cafe-dexception",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-signature-jules-guesde",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-meilleur-matcha",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-ketiara-gayo-capsules",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-cafe-chocolat",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-ibrik-lyon",
@@ -438,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-liqueur-cafe-jacoulot",
@@ -471,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-sachet-chai-250g-hellogoodsip-1",
@@ -504,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-pistache",
@@ -537,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cup-quy-cup",
@@ -570,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-the-vert-sencha",
@@ -603,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-the-vert-menthe-marrakech",
@@ -636,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-infusion-peche-melba",
@@ -669,8 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-infusion-verveine-menthe",
@@ -702,8 +702,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-chai-copie",
@@ -735,8 +735,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-the-noir-assam-copie",
@@ -768,8 +768,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-the-noir-earl-grey-agrumes",
@@ -801,8 +801,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-the-blanc-vert-citron-gingembre",
@@ -834,8 +834,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-guimauve-verveine",
@@ -867,8 +867,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-moulin-timemore-c3s-pro",
@@ -900,8 +900,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-poster-tableau-des-aromes-loutsa",
@@ -933,8 +933,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-plateau-bois-presentation",
@@ -966,8 +966,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-taie-coussin-carre",
@@ -999,8 +999,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cascara-2",
@@ -1032,8 +1032,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-v60-t2",
@@ -1065,8 +1065,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -1098,8 +1098,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -1131,8 +1131,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-coffret-artisanal",
@@ -1164,8 +1164,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-biscuit-myrtille",
@@ -1197,8 +1197,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-guimauve-saveur-caramel-sale",
@@ -1230,8 +1230,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-guimauve-saveur-fraise",
@@ -1263,8 +1263,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-guimauve-saveur-cappuccino",
@@ -1296,8 +1296,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-huile-cafe-loutsa",
@@ -1329,8 +1329,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-biscuit-framboise",
@@ -1362,8 +1362,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-biscuit-abricot",
@@ -1395,8 +1395,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-tot-bag-loutsa",
@@ -1428,8 +1428,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-machine-e8-jura",
@@ -1461,8 +1461,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-detergent-pour-systeme-de-lait",
@@ -1494,8 +1494,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-espresso-duo",
@@ -1527,8 +1527,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-toile-de-jute-loutsa",
@@ -1560,8 +1560,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-porte-filtre-155-kalita",
@@ -1593,8 +1593,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-copie-de-machine-ena4-jura",
@@ -1626,8 +1626,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-copie-de-machine-ono-jura",
@@ -1659,8 +1659,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -1692,8 +1692,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-espresso-capsules",
@@ -1725,8 +1725,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -1758,8 +1758,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -1791,8 +1791,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -1824,8 +1824,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -1857,8 +1857,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-canette-cold-brew",
@@ -1890,8 +1890,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-offrir-un-atelier",
@@ -1923,8 +1923,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-abonnement-cafe",
@@ -1956,8 +1956,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-recevoir-une-loutsabox-decouverte-1kg-12mois",
@@ -1989,8 +1989,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-recevoir-une-loutsabox-decouverte-500gr-12mois",
@@ -2022,8 +2022,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-recevoir-une-loutsabox-decouverte-1kg-6mois",
@@ -2055,8 +2055,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-recevoir-une-loutsabox-decouverte-500gr-6mois",
@@ -2088,8 +2088,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-recevoir-une-loutsabox-decouverte-1kg-3mois",
@@ -2121,8 +2121,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-recevoir-une-loutsabox-decouverte-500gr-3mois",
@@ -2154,8 +2154,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-offrir-un-abonnement-cafe",
@@ -2187,8 +2187,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-habtamu-bio-abonnement",
@@ -2220,8 +2220,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-deca-sueno-bio-abonnement",
@@ -2253,8 +2253,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-ketiara-gayo-bio-abonnement",
@@ -2286,8 +2286,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-le-parisien-bio-abonnement",
@@ -2319,8 +2319,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-espresso-bio-abonnement",
@@ -2352,8 +2352,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-italian-roast-bio-abonnement",
@@ -2385,8 +2385,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-arhuaco-bio-abonnement",
@@ -2418,8 +2418,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-el-palto-bio-abonnement",
@@ -2451,8 +2451,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-nos-5-sens-paris",
@@ -2484,8 +2484,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-slow-coffee-paris",
@@ -2517,8 +2517,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-machines-a-grains-paris",
@@ -2550,8 +2550,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-latte-art-paris",
@@ -2583,8 +2583,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-espresso-paris",
@@ -2616,8 +2616,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-italian-roast-capsules",
@@ -2649,8 +2649,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-deca-sueno-capsules",
@@ -2682,8 +2682,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-el-palto-capsules",
@@ -2715,8 +2715,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-habtamu-capsules",
@@ -2748,8 +2748,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-5-sens",
@@ -2781,8 +2781,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-slow-coffee",
@@ -2814,8 +2814,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-machines-a-grains",
@@ -2847,8 +2847,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-latte-art",
@@ -2880,8 +2880,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-airscape-500g",
@@ -2913,8 +2913,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-airscape-250g",
@@ -2946,8 +2946,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-carafe-hario-infuseur-cafe-froid-700-ml",
@@ -2979,8 +2979,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-carafe-kinto-600-ml",
@@ -3012,8 +3012,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-filtre-aeropress",
@@ -3045,8 +3045,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-filtre-chemex-6-tasses",
@@ -3078,8 +3078,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-filtre-v60-taille-2",
@@ -3111,8 +3111,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-chambord-1l",
@@ -3144,8 +3144,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-chambord-0-5l",
@@ -3177,8 +3177,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-aeropress",
@@ -3210,8 +3210,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-chemex-6-tasses",
@@ -3243,8 +3243,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-timemore-moulin-c3espresso",
@@ -3276,8 +3276,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-puly-cleaner-detartrant-10-sachets",
@@ -3309,8 +3309,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-pastilles-machine-boite-de-100-puly-caff",
@@ -3342,8 +3342,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-detergent-lait-1l-puly-milk",
@@ -3375,8 +3375,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-filtre-jura-claris-smart",
@@ -3408,8 +3408,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-pastille-detartrage-jura",
@@ -3441,8 +3441,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-pastille-nettoyage-jura-x25",
@@ -3474,8 +3474,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -3507,8 +3507,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-espresso",
@@ -3540,8 +3540,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -3573,8 +3573,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -3606,8 +3606,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-atelier-cafeologie-lyon",
@@ -3639,8 +3639,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -3672,8 +3672,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -3705,8 +3705,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -3738,8 +3738,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:33Z",
-      "lastSeenAt": "2026-09-03T09:05:33Z"
+      "firstSeenAt": "2026-09-03T09:52:11Z",
+      "lastSeenAt": "2026-09-03T09:52:11Z"
     }
   ]
 }

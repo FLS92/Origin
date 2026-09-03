@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:14Z",
+  "scrapedAt": "2026-09-03T09:53:40Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
-      "name": "COLOMBIE &#8211; GESHA &#8211; LAVÉ",
+      "name": "COLOMBIE – GESHA – LAVÉ",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:14Z",
-      "lastSeenAt": "2026-09-03T09:07:14Z"
+      "firstSeenAt": "2026-09-03T09:53:40Z",
+      "lastSeenAt": "2026-09-03T09:53:40Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
-      "name": "ETHIOPIE &#8211; GUJI &#8211; NATURE",
+      "name": "ETHIOPIE – GUJI – NATURE",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:14Z",
-      "lastSeenAt": "2026-09-03T09:07:14Z"
+      "firstSeenAt": "2026-09-03T09:53:40Z",
+      "lastSeenAt": "2026-09-03T09:53:40Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
-      "name": "COLOMBIE &#8211; CASTILLO &#8211; LAVÉ",
+      "name": "COLOMBIE – CASTILLO – LAVÉ",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:14Z",
-      "lastSeenAt": "2026-09-03T09:07:14Z"
+      "firstSeenAt": "2026-09-03T09:53:40Z",
+      "lastSeenAt": "2026-09-03T09:53:40Z"
     }
   ]
 }

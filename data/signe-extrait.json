@@ -10,6 +10,73 @@
     "platform": "prestashop",
     "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active."
   },
-  "scrapedAt": "2026-09-03T09:05:48Z",
-  "products": []
+  "scrapedAt": "2026-09-03T09:52:28Z",
+  "products": [
+    {
+      "id": "signe-extrait-p69",
+      "name": "SUNDA",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.extrait.fr/201-home_default/sunda-indonesie-cafe-grains-300g.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Signé Extrait",
+          "url": "https://www.extrait.fr/cafes/69-sunda-indonesie-cafe-grains-300g.html",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:52:28Z",
+      "lastSeenAt": "2026-09-03T09:52:28Z"
+    },
+    {
+      "id": "signe-extrait-p80",
+      "name": "CHIAPAS",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.extrait.fr/212-home_default/chiapas-mexique-cafe-grains.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Signé Extrait",
+          "url": "https://www.extrait.fr/cafes/80-chiapas-mexique-cafe-grains.html",
+          "price": 11.6,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:52:28Z",
+      "lastSeenAt": "2026-09-03T09:52:28Z"
+    }
+  ]
 }

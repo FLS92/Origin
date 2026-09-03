@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:06:53Z",
+  "scrapedAt": "2026-09-03T09:53:22Z",
   "products": [
     {
       "id": "cafe-plume-colombie-yuppie-100-arabica",
-      "name": "Colombie &#8211; Yuppie 100% Arabica",
+      "name": "Colombie – Yuppie 100% Arabica",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-perou-cataratas-100-arabica-bio",
-      "name": "Pérou &#8211; Cataratas 100% Arabica BIO",
+      "name": "Pérou – Cataratas 100% Arabica BIO",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-guatemala-panama-100-robusta",
-      "name": "Guatemala &#8211; Panama 100% Robusta",
+      "name": "Guatemala – Panama 100% Robusta",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-nicaragua-jinotega-100-arabica",
-      "name": "Nicaragua &#8211; Jinotega 100% Arabica",
+      "name": "Nicaragua – Jinotega 100% Arabica",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -141,12 +141,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
-      "name": "Vietnam &#8211; Dak Lak ROBUSTA 100% Robusta",
+      "name": "Vietnam – Dak Lak ROBUSTA 100% Robusta",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -174,12 +174,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-ethiopie-moka-boji-wollega",
-      "name": "Ethiopie &#8211; Moka Boji Wollega 100% Arabica",
+      "name": "Ethiopie – Moka Boji Wollega 100% Arabica",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-inde-bresil-le-melange-corse",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-bresil-espirito-santo-vanille",
@@ -273,12 +273,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     },
     {
       "id": "cafe-plume-ethiopie-jebena",
-      "name": "Ethiopie &#8211; Jebena 100% Arabica",
+      "name": "Ethiopie – Jebena 100% Arabica",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:53Z",
-      "lastSeenAt": "2026-09-03T09:06:53Z"
+      "firstSeenAt": "2026-09-03T09:53:22Z",
+      "lastSeenAt": "2026-09-03T09:53:22Z"
     }
   ]
 }

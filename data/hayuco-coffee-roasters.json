@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:06:33Z",
+  "scrapedAt": "2026-09-03T09:53:02Z",
   "products": [
     {
       "id": "hayuco-coffee-roasters-lec-1",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-agua-de-dios",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-luis-b",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-anderson",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-durley-brouillon-copie",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-naeb-ituze-1",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-exclow",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-opita",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-cielow",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-sinscrire-a-un-atelier-methode-douce-1",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-trinity-zero",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "hayuco-coffee-roasters-atelier-decouverte",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:33Z",
-      "lastSeenAt": "2026-09-03T09:06:33Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     }
   ]
 }

@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:05:04Z",
+  "scrapedAt": "2026-09-03T09:51:32Z",
   "products": [
     {
       "id": "gramgram-cafe-honduras-copan",
-      "name": "Café HONDURAS &#8211; COPAN",
+      "name": "Café HONDURAS – COPAN",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-ethiopie-choche",
-      "name": "Café ETHIOPIE &#8211; CHOCHE",
+      "name": "Café ETHIOPIE – CHOCHE",
       "originCountry": "Afrique",
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-perou-geisha-grain-ou-moulu",
-      "name": "Café PEROU &#8211; GEISHA",
+      "name": "Café PEROU – GEISHA",
       "originCountry": "Amérique centrale",
       "originDetail": null,
       "process": null,
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-perou-amazonas",
@@ -141,12 +141,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-nicaragua-san-jose",
-      "name": "Café NICARAGUA &#8211; San José",
+      "name": "Café NICARAGUA – San José",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -174,12 +174,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-rwanda-ubuki",
-      "name": "Café RWANDA &#8211; UBUKI",
+      "name": "Café RWANDA – UBUKI",
       "originCountry": "Afrique",
       "originDetail": null,
       "process": null,
@@ -207,12 +207,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-guatemala-quetzalito",
-      "name": "Café Guatemala &#8211; Quetzalito",
+      "name": "Café Guatemala – Quetzalito",
       "originCountry": "Amérique centrale",
       "originDetail": null,
       "process": null,
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-bresil-santa-caete",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-mug-de-cafe-rouge",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-carte-cadeau-cafe-fete-des-peres",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-carte-cadeau-cafe-fete-des-meres",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-carte-cadeau-cafe",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-filtre-a-eau-pour-machine-a-cafe",
@@ -438,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-detartrant-machine-a-cafe",
@@ -471,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-filtres-chemex-6-tasses",
@@ -504,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetiere-chemex-3-tasses",
@@ -537,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-coffeevac-sous-vide-en-acier-1-2l",
@@ -570,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-coffeevac-sous-vide-0-7l",
@@ -603,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-mug-de-cafe-design",
@@ -636,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetire-a-piston",
@@ -669,8 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetiere-italienne-bialetti-gaz-3-tasses-jaune",
@@ -702,8 +702,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetiere-italienne-bialetti-gaz",
@@ -735,8 +735,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetiere-italienne-induction",
@@ -768,12 +768,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-ethiopie-yrga",
-      "name": "Café ETHIOPIE &#8211; YRGA",
+      "name": "Café ETHIOPIE – YRGA",
       "originCountry": "Afrique",
       "originDetail": null,
       "process": null,
@@ -801,12 +801,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-el-salvador-rojos",
-      "name": "Café EL SALVADOR &#8211; ROJOS",
+      "name": "Café EL SALVADOR – ROJOS",
       "originCountry": "Amérique centrale",
       "originDetail": null,
       "process": null,
@@ -834,12 +834,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-blend-italiano",
-      "name": "Café BLEND &#8211; ITALIANO",
+      "name": "Café BLEND – ITALIANO",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -867,12 +867,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-mexique-azteca",
-      "name": "Café MEXIQUE &#8211; AZTECA",
+      "name": "Café MEXIQUE – AZTECA",
       "originCountry": "Amérique centrale",
       "originDetail": null,
       "process": null,
@@ -900,12 +900,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-grain-colombie-panela",
-      "name": "Café COLOMBIE &#8211; PANELA",
+      "name": "Café COLOMBIE – PANELA",
       "originCountry": "Amérique du Sud",
       "originDetail": null,
       "process": null,
@@ -933,12 +933,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafe-bresil-guarani",
-      "name": "Café BRESIL &#8211; GUARANI",
+      "name": "Café BRESIL – GUARANI",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -966,8 +966,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-filtres-v60",
@@ -999,8 +999,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-filtres-chemex-3-tasses",
@@ -1032,8 +1032,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-carafe-verre-pour-v60",
@@ -1065,8 +1065,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-100-capsules-a-remplir",
@@ -1098,8 +1098,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetiere-chemex-6-tasses",
@@ -1131,8 +1131,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-coffeevac-sous-vide",
@@ -1164,8 +1164,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-cafetiere-filtre-v60",
@@ -1197,8 +1197,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-kit-200-capsules-3-paquets-de-250g",
@@ -1230,8 +1230,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-machine-a-cafe-delonghi-avec-broyeur",
@@ -1263,8 +1263,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     },
     {
       "id": "gramgram-assortiment-cafe-degustation",
@@ -1296,8 +1296,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:05:04Z",
-      "lastSeenAt": "2026-09-03T09:05:04Z"
+      "firstSeenAt": "2026-09-03T09:51:32Z",
+      "lastSeenAt": "2026-09-03T09:51:32Z"
     }
   ]
 }

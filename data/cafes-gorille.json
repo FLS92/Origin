@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:06:37Z",
+  "scrapedAt": "2026-09-03T09:53:05Z",
   "products": [
     {
       "id": "cafes-gorille-cafe-de-colombie-neiva",
-      "name": "CAFÉ DE COLOMBIE &#8211; NEIVA",
+      "name": "CAFÉ DE COLOMBIE – NEIVA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-pays-nom-fiche-type-a-dupliquer-biologique",
-      "name": "CAFÉ DU PAYS &#8211; NOM (FICHE TYPE A DUPLIQUER) &#8211; Biologique",
+      "name": "CAFÉ DU PAYS – NOM (FICHE TYPE A DUPLIQUER) – Biologique",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-macucane",
-      "name": "CAFÉ DU NICARAGUA &#8211; MACUCANE",
+      "name": "CAFÉ DU NICARAGUA – MACUCANE",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-moyobamba-biologique",
-      "name": "CAFÉ DU PÉROU &#8211; MOYOBAMBA &#8211; Biologique",
+      "name": "CAFÉ DU PÉROU – MOYOBAMBA – Biologique",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -141,12 +141,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-dindonesie-ijenhighlands",
-      "name": "CAFÉ D&rsquo;INDONESIE &#8211; IJEN HIGHLANDS",
+      "name": "CAFÉ D’INDONESIE – IJEN HIGHLANDS",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -174,12 +174,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-rugamba",
-      "name": "CAFÉ DU RWANDA &#8211; RUGAMBA",
+      "name": "CAFÉ DU RWANDA – RUGAMBA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -207,12 +207,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-saqulew-biologique",
-      "name": "CAFÉ DU GUATEMALA &#8211; SAQÜLEW &#8211; BIOLOGIQUE",
+      "name": "CAFÉ DU GUATEMALA – SAQÜLEW – BIOLOGIQUE",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -240,12 +240,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-dethiopie-moka-abyssinia",
-      "name": "CAFÉ D&rsquo;ÉTHIOPIE &#8211; MOKA ABYSSINIA",
+      "name": "CAFÉ D’ÉTHIOPIE – MOKA ABYSSINIA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -273,12 +273,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-xarisma",
-      "name": "CAFÉ DU NICARAGUA &#8211; XARISMA",
+      "name": "CAFÉ DU NICARAGUA – XARISMA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -306,12 +306,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-honduras-copanti-biologique",
-      "name": "CAFÉ DU HONDURAS &#8211; COPANTI &#8211; Biologique",
+      "name": "CAFÉ DU HONDURAS – COPANTI – Biologique",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -339,12 +339,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-muka-kivu",
-      "name": "CAFÉ DU RWANDA &#8211; MUKA KIVU",
+      "name": "CAFÉ DU RWANDA – MUKA KIVU",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -372,12 +372,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-de-colombie-golden-huila",
-      "name": "CAFE DE COLOMBIE &#8211; GOLDEN HUILA",
+      "name": "CAFE DE COLOMBIE – GOLDEN HUILA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -405,12 +405,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-tata-nahual",
-      "name": "CAFÉ DU GUATEMALA &#8211; TATA NAHUAL",
+      "name": "CAFÉ DU GUATEMALA – TATA NAHUAL",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -438,12 +438,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-matunda",
-      "name": "CAFÉ DU KENYA &#8211; MATUNDA",
+      "name": "CAFÉ DU KENYA – MATUNDA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -471,12 +471,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-kiambu",
-      "name": "CAFE KENYA &#8211; KIAMBU",
+      "name": "CAFE KENYA – KIAMBU",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -504,12 +504,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-pozuzo",
-      "name": "CAFÉ DU PEROU &#8211; POZUZO",
+      "name": "CAFÉ DU PEROU – POZUZO",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -537,12 +537,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-mexique-custepec-rainforest-alliance",
-      "name": "CAFÉ DU MEXIQUE &#8211; CUSTEPEC &#8211; Rainforest Alliance",
+      "name": "CAFÉ DU MEXIQUE – CUSTEPEC – Rainforest Alliance",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -570,12 +570,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda",
-      "name": "CAFÉ DU RWANDA &#8211; INGOMA",
+      "name": "CAFÉ DU RWANDA – INGOMA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -603,12 +603,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     },
     {
       "id": "cafes-gorille-cafe-du-bresil",
-      "name": "CAFÉ DU BRÉSIL &#8211; PEARL",
+      "name": "CAFÉ DU BRÉSIL – PEARL",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -636,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:37Z",
-      "lastSeenAt": "2026-09-03T09:06:37Z"
+      "firstSeenAt": "2026-09-03T09:53:05Z",
+      "lastSeenAt": "2026-09-03T09:53:05Z"
     }
   ]
 }

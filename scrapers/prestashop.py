@@ -26,6 +26,8 @@ def find_coffee_category_url(soup, base_url):
         href = a["href"].split("?")[0].split("#")[0]
         if href.strip("/") in ("", base_url.strip("/")):
             continue
+        if "/content/" in href or "/cms/" in href:
+            continue  # static CMS page, not a product category
         label = norm(a.get_text())
         if not label:
             continue
@@ -38,14 +40,25 @@ def find_coffee_category_url(soup, base_url):
 
 
 def parse_listing(html, base_url):
+    """Handles both PrestaShop 1.7/8 ('.product-miniature') and 1.6
+    ('.product-container') themes — different installs in the wild use
+    either, with different class names throughout."""
     soup = BeautifulSoup(html, "html.parser")
-    cards = soup.select(".product-miniature, article.product-miniature")
+    cards = soup.select(".product-miniature, article.product-miniature, .product-container")
     items = []
     for card in cards:
         pid = card.get("data-id-product")
-        link = card.select_one("h3.product-title a") or card.select_one(".product-title a")
-        title_el = card.select_one("h2.product-title, h3.product-title, .product-title")
-        thumb = card.select_one("a.product-thumbnail")
+        if not pid:
+            id_el = card.select_one("[data-id-product]")
+            pid = id_el.get("data-id-product") if id_el else None
+
+        link = (
+            card.select_one("h3.product-title a")
+            or card.select_one(".product-title a")
+            or card.select_one("a.product-name")
+        )
+        title_el = card.select_one("h2.product-title, h3.product-title, .product-title, [itemprop=name]")
+        thumb = card.select_one("a.product-thumbnail, a.product_img_link")
         if not link and not thumb:
             continue
         href = (link or thumb).get("href", "")
@@ -59,9 +72,13 @@ def parse_listing(html, base_url):
         image_url = None
         if img:
             image_url = img.get("data-full-size-image-url") or img.get("src")
-        price_el = card.select_one(".price")
+        price_el = card.select_one(".product-price, .price")
         price = parse_price_eur(price_el.get_text()) if price_el else None
-        items.append({"id": pid, "name": name, "url": url, "image": image_url, "price": price})
+        desc_el = card.select_one("[itemprop=description], .product-desc")
+        items.append({
+            "id": pid, "name": name, "url": url, "image": image_url, "price": price,
+            "listing_description_html": str(desc_el) if desc_el else None,
+        })
     return items
 
 
@@ -131,7 +148,7 @@ def scrape(roaster_meta):
             slug=f"p{item['id']}",
             name=item["name"],
             retailers=[retailer],
-            raw_description_html=detail.get("description_html"),
+            raw_description_html=detail.get("description_html") or item.get("listing_description_html"),
             image_url=item["image"],
         ))
 

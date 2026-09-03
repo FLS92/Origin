@@ -10,7 +10,7 @@
     "platform": "prestashop",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:14:25Z",
+  "scrapedAt": "2026-09-03T09:52:32Z",
   "products": [
     {
       "id": "cafes-goneo-p693",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p692",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p639",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p652",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p640",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p685",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p727",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p701",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p728",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p597",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p592",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     },
     {
       "id": "cafes-goneo-p591",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:14:25Z",
-      "lastSeenAt": "2026-09-03T09:14:25Z"
+      "firstSeenAt": "2026-09-03T09:52:32Z",
+      "lastSeenAt": "2026-09-03T09:52:32Z"
     }
   ]
 }

@@ -10,7 +10,7 @@
     "platform": "odoo",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:00Z",
+  "scrapedAt": "2026-09-03T09:53:30Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p4",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p752",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -372,8 +372,41 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p930",
+      "name": "ETHIOPIE - Beloya - Yirgacheffe",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/930/image_512/ETHIOPIE%20-%20Beloya%20-%20Yirgacheffe?unique=d5a3971",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-beloya-yirgacheffe-930",
+          "price": 13.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -405,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -438,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p880",
@@ -471,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -504,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -537,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -570,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p659",
@@ -603,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p847",
@@ -636,41 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
-    },
-    {
-      "id": "la-brulerie-des-filatiers-p649",
-      "name": "Le thé d'Aligre",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/649/image_512/Le%20th%C3%A9%20d%27Aligre?unique=2ce1529",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Brûlerie des Filatiers",
-          "url": "https://labruleriedesfilatiers.fr/shop/le-the-d-aligre-649",
-          "price": 10.9,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:07:00Z",
-      "lastSeenAt": "2026-09-03T09:07:00Z"
+      "firstSeenAt": "2026-09-03T09:53:30Z",
+      "lastSeenAt": "2026-09-03T09:53:30Z"
     }
   ]
 }

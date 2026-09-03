@@ -8,8 +8,8 @@
     "url": "https://www.reck.fr/",
     "domain": "reck.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte."
   },
-  "scrapedAt": "2026-09-03T09:07:39Z",
+  "scrapedAt": "2026-09-03T09:53:58Z",
   "products": []
 }

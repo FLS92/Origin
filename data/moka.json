@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:10Z",
+  "scrapedAt": "2026-09-03T09:53:36Z",
   "products": [
     {
       "id": "moka-maritza-nicaragua",
-      "name": "Maritza &#8211; Nicaragua",
+      "name": "Maritza – Nicaragua",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-lonya-perou",
-      "name": "Lonya &#8211; Pérou",
+      "name": "Lonya – Pérou",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-zocapa-mexique",
-      "name": "Zocapa &#8211; Mexique",
+      "name": "Zocapa – Mexique",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-shanga-rwanda",
-      "name": "Shanga &#8211; Rwanda",
+      "name": "Shanga – Rwanda",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -141,12 +141,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-julio-cesar-colombie",
-      "name": "Julio César &#8211; Colombie",
+      "name": "Julio César – Colombie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -174,12 +174,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-misadhi-kenya",
-      "name": "Misadhi &#8211; Kenya",
+      "name": "Misadhi – Kenya",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -207,12 +207,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-edilberto-colombie",
-      "name": "Edilberto &#8211; Colombie",
+      "name": "Edilberto – Colombie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -240,12 +240,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-cerrado-bresil",
-      "name": "Cerrado &#8211; Brésil",
+      "name": "Cerrado – Brésil",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -273,12 +273,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-alma-guatemala",
-      "name": "Alma &#8211; Guatemala",
+      "name": "Alma – Guatemala",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -306,12 +306,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-copanito-honduras",
-      "name": "Copanito &#8211; Honduras",
+      "name": "Copanito – Honduras",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -339,12 +339,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-hadama-ethiopie",
-      "name": "Hadama &#8211; Éthiopie",
+      "name": "Hadama – Éthiopie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -372,12 +372,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-negele-ethiopie",
-      "name": "Négélé &#8211; Éthiopie",
+      "name": "Négélé – Éthiopie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -405,12 +405,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-melaku-ethiopie",
-      "name": "Melaku &#8211; Éthiopie",
+      "name": "Melaku – Éthiopie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -438,12 +438,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-palestina-colombie",
-      "name": "Palestina &#8211; Colombie",
+      "name": "Palestina – Colombie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -471,12 +471,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-lucha-libre-mexique",
-      "name": "Lucha Libre &#8211; Mexique",
+      "name": "Lucha Libre – Mexique",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -504,12 +504,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-rosa-colombie-bio",
-      "name": "Rosa &#8211; Colombie",
+      "name": "Rosa – Colombie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -537,12 +537,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-decaf-colombie",
-      "name": "Decaf &#8211; Colombie",
+      "name": "Decaf – Colombie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -570,12 +570,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     },
     {
       "id": "moka-nobo-nicaragua",
-      "name": "Nobo &#8211; Nicaragua",
+      "name": "Nobo – Nicaragua",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -603,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:10Z",
-      "lastSeenAt": "2026-09-03T09:07:10Z"
+      "firstSeenAt": "2026-09-03T09:53:36Z",
+      "lastSeenAt": "2026-09-03T09:53:36Z"
     }
   ]
 }

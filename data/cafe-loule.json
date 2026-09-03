@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:13Z",
+  "scrapedAt": "2026-09-03T09:53:39Z",
   "products": [
     {
       "id": "cafe-loule-cold-brew-palermo-1",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:13Z",
-      "lastSeenAt": "2026-09-03T09:07:13Z"
+      "firstSeenAt": "2026-09-03T09:53:39Z",
+      "lastSeenAt": "2026-09-03T09:53:39Z"
     },
     {
       "id": "cafe-loule-pack-decouverte-loule",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:13Z",
-      "lastSeenAt": "2026-09-03T09:07:13Z"
+      "firstSeenAt": "2026-09-03T09:53:39Z",
+      "lastSeenAt": "2026-09-03T09:53:39Z"
     }
   ]
 }

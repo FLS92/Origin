@@ -10,8 +10,41 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:06:15Z",
+  "scrapedAt": "2026-09-03T09:52:45Z",
   "products": [
+    {
+      "id": "cafe-piha-miss-wush",
+      "name": "Miss Wush",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": "Wush Wush",
+      "producer": "Deiro Garcia",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/08/IM1-MISS-WUSH.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Piha",
+          "url": "https://www.cafepiha.com/e-boutique/miss-wush/",
+          "price": 25.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
+    },
     {
       "id": "cafe-piha-jungle-halo",
       "name": "Jungle Halo",
@@ -42,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-villa-pastora-2",
@@ -75,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-jos-papayo",
-      "name": "Jo&rsquo;s Papayo",
+      "name": "Jo’s Papayo",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-mandela-100g",
@@ -141,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-mystic-geisha-cafe",
@@ -174,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-box-decouverte-piha",
@@ -207,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-petit-creme-chocolat-hasnaa",
@@ -240,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-e-carte-cadeau-piha",
@@ -273,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-los-campos",
@@ -306,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-la-victoria-honey",
@@ -339,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-cascara",
@@ -372,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-fleurs-de-cafe",
@@ -405,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-blend-bio-haka",
@@ -438,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-cafe-bio-honduras-la-victoria-nature",
@@ -471,12 +504,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-decafeine-la-belle-endormie",
-      "name": "Décaféiné &#8211; La Belle Endormie",
+      "name": "Décaféiné – La Belle Endormie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -504,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     },
     {
       "id": "cafe-piha-melange-cafes-grains-blend-all-blacks",
@@ -537,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:15Z",
-      "lastSeenAt": "2026-09-03T09:06:15Z"
+      "firstSeenAt": "2026-09-03T09:52:45Z",
+      "lastSeenAt": "2026-09-03T09:52:45Z"
     }
   ]
 }

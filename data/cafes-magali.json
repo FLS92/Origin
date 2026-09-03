@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:11Z",
+  "scrapedAt": "2026-09-03T09:53:37Z",
   "products": [
     {
       "id": "cafes-magali-chania-estate",
@@ -20,7 +20,7 @@
       "process": "Lavé",
       "variety": null,
       "producer": null,
-      "score": 85.0,
+      "score": 85,
       "acidity": null,
       "body": null,
       "method": null,
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-yirgacheffe-kurupe",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-tanzanie",
@@ -86,7 +86,7 @@
       "process": null,
       "variety": null,
       "producer": null,
-      "score": 83.0,
+      "score": 83,
       "acidity": null,
       "body": null,
       "method": null,
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-masai",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-coko",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-magali",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-kajwi-bio",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     },
     {
       "id": "cafes-magali-guarani",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:11Z",
-      "lastSeenAt": "2026-09-03T09:07:11Z"
+      "firstSeenAt": "2026-09-03T09:53:37Z",
+      "lastSeenAt": "2026-09-03T09:53:37Z"
     }
   ]
 }

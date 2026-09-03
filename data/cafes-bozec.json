@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:34Z",
+  "scrapedAt": "2026-09-03T09:53:52Z",
   "products": [
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-yirgacheffe",
-      "name": "Indonésie &#8211; Sumatra",
+      "name": "Indonésie – Sumatra",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-nicaragua-maragogype",
-      "name": "Nicaragua &#8211; Maragogype",
+      "name": "Nicaragua – Maragogype",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-nicaragua-buenos-aires",
-      "name": "Colombie &#8211; Huila",
+      "name": "Colombie – Huila",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-salvador-cerro-el-aguila",
-      "name": "Salvador &#8211; Cerro El Aguila",
+      "name": "Salvador – Cerro El Aguila",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -141,12 +141,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
-      "name": "Honduras &#8211; Comayagua",
+      "name": "Honduras – Comayagua",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -174,12 +174,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-bonga-micro-lot",
-      "name": "Éthiopie &#8211; Bonga",
+      "name": "Éthiopie – Bonga",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-blend-bio-ethiopie-honduras-mexique",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-blend-historique-costa-rica-mexique-bresil",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-blend-signature-ethiopie-bresil-colombie",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-bresil-fazenda-jaguara",
@@ -339,12 +339,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-origine",
-      "name": "Colombie &#8211; Origine",
+      "name": "Colombie – Origine",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -372,12 +372,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-kobi-gamme-terroir",
-      "name": "Éthiopie &#8211; Kobi",
+      "name": "Éthiopie – Kobi",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -405,12 +405,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     },
     {
       "id": "cafes-bozec-nicaragua-mogoton",
-      "name": "Pérou &#8211; Norandino",
+      "name": "Pérou – Norandino",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -438,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:34Z",
-      "lastSeenAt": "2026-09-03T09:07:34Z"
+      "firstSeenAt": "2026-09-03T09:53:52Z",
+      "lastSeenAt": "2026-09-03T09:53:52Z"
     }
   ]
 }

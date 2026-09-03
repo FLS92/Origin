@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:16Z",
+  "scrapedAt": "2026-09-03T09:53:42Z",
   "products": [
     {
       "id": "tinto-recreio-cafe-du-bresil-250g-1kg",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-paz-decafeine-250g-1-kg-2",
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-kebena-cafe-dethiopie-250-g-1-kg",
-      "name": "Kebena- Café d&#8217;Ethiopie",
+      "name": "Kebena- Café d’Ethiopie",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-lunatico-cafe-ouganda-250g-1kg-copie",
-      "name": "El Lunatico &#8211; Café d&#8217;Ouganda",
+      "name": "El Lunatico – Café d’Ouganda",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-resiliencia-cafe-de-colombie-250g-1kg",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-guarapito-cafe-de-colombie",
@@ -207,12 +207,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-bocadillo-cafe-colombie-250g-1kg",
-      "name": "Bocadillo- Café de Colombie (250g &#8211; 1Kg)",
+      "name": "Bocadillo- Café de Colombie (250g – 1Kg)",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -240,12 +240,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-pura-vida-mae-cafe-de-costa-rica-250g-1kg",
-      "name": "Pura Vida, Mae! &#8211; Café de Costa Rica (250g &#8211; 1Kg)",
+      "name": "Pura Vida, Mae! – Café de Costa Rica (250g – 1Kg)",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -273,12 +273,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-komothai-cafe-du-kenya-250g-1kg",
-      "name": "Komothai &#8211; Café du Kenya (250g &#8211; 1Kg)",
+      "name": "Komothai – Café du Kenya (250g – 1Kg)",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -306,12 +306,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     },
     {
       "id": "tinto-quilombo-cafe-bresilien-250g-1kg",
-      "name": "Quilombo &#8211; Café du Brésil (250g &#8211; 1Kg)",
+      "name": "Quilombo – Café du Brésil (250g – 1Kg)",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:16Z",
-      "lastSeenAt": "2026-09-03T09:07:16Z"
+      "firstSeenAt": "2026-09-03T09:53:42Z",
+      "lastSeenAt": "2026-09-03T09:53:42Z"
     }
   ]
 }

@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:06:32Z",
+  "scrapedAt": "2026-09-03T09:53:02Z",
   "products": [
     {
       "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
-      "name": "Bedaye Bio &#8211; Ethiopie &#8211; Nature",
+      "name": "Bedaye Bio – Ethiopie – Nature",
       "originCountry": "Ethiopie",
       "originDetail": null,
       "process": null,
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:32Z",
-      "lastSeenAt": "2026-09-03T09:06:32Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "la-fabrique-du-cafe-gedeb-bio-ethiopie-lave",
-      "name": "Gedeb Bio &#8211; Ethiopie Lavé",
+      "name": "Gedeb Bio – Ethiopie Lavé",
       "originCountry": "Ethiopie",
       "originDetail": null,
       "process": null,
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:32Z",
-      "lastSeenAt": "2026-09-03T09:06:32Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "la-fabrique-du-cafe-coko-fto-bio-rwanda-lave",
-      "name": "Coko FTO Bio &#8211; Rwanda Lavé",
+      "name": "Coko FTO Bio – Rwanda Lavé",
       "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:32Z",
-      "lastSeenAt": "2026-09-03T09:06:32Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     },
     {
       "id": "la-fabrique-du-cafe-la-pradera-bio-honey-process-colombie-ship-by-sail",
-      "name": "La Pradera &#8211; Bio &#8211; Colombie Ship by sail",
+      "name": "La Pradera – Bio – Colombie Ship by sail",
       "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:06:32Z",
-      "lastSeenAt": "2026-09-03T09:06:32Z"
+      "firstSeenAt": "2026-09-03T09:53:02Z",
+      "lastSeenAt": "2026-09-03T09:53:02Z"
     }
   ]
 }

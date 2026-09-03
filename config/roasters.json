@@ -910,7 +910,7 @@
     "url": "https://brulerieduleon.com/",
     "domain": "brulerieduleon.com",
     "platform": "woocommerce",
-    "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts."
+    "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts. | WooCommerce actif sur le site mais l'API Store (/wp-json/wc/store/v1/products) répond 404 \"aucune route correspondante\" — probablement une version de WooCommerce trop ancienne ou l'API désactivée. 0 produit récupéré, pas de solution générique appliquée (nécessiterait un scraper HTML dédié comme pour PrestaShop)."
   },
   {
     "id": "cafes-bozec",
@@ -965,7 +965,7 @@
     "url": "https://www.reck.fr/",
     "domain": "reck.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte."
   },
   {
     "id": "cafe-bretelles",
@@ -976,7 +976,7 @@
     "url": "https://cafe-bretelles.fr/",
     "domain": "cafe-bretelles.fr",
     "platform": "squarespace",
-    "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\"."
+    "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\". | La page /shop répond en JSON (Squarespace) mais sans clé \"items\" au niveau racine malgré itemCount=17 — structure de réponse différente de celle de Café Nibi, scraper actuel incompatible. A investiguer."
   },
   {
     "id": "moklair",

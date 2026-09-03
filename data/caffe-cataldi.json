@@ -10,6 +10,304 @@
     "platform": "prestashop",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:35Z",
-  "products": []
+  "scrapedAt": "2026-09-03T09:53:54Z",
+  "products": [
+    {
+      "id": "caffe-cataldi-p557",
+      "name": "Kenya Inoi Kianderi AA",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/734-home_default/kenya-inoi-kianderi-aa.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/afrique/557-kenya-inoi-kianderi-aa.html",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p556",
+      "name": "Rwanda Gitesi",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/735-home_default/rwanda-gitesi.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/afrique/556-rwanda-gitesi.html",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p550",
+      "name": "Honduras Caballero - Bomba de Fruta",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/737-home_default/honduras-caballero-bomba-de-fruta.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/amerique-centrale/550-honduras-caballero-bomba-de-fruta.html",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p548",
+      "name": "Guatemala La Libertad Mochilita",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/728-home_default/guatemala-la-libertad-mochilita.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/home/548-guatemala-la-libertad-mochilita.html",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p545",
+      "name": "Pérou Décaféiné Manzanilla",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/720-home_default/perou-decafeine-manzanilla.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/amerique-centrale/545-perou-decafeine-manzanilla.html",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p536",
+      "name": "Colombie Geisha Hervey et Rocio Cuellar",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/718-home_default/colombie-geisha-hervey-et-rocio-cuellar.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/amerique-du-sud/536-colombie-geisha-hervey-et-rocio-cuellar.html",
+          "price": 20.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p532",
+      "name": "Brésil FAF Curupira",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/714-home_default/bresil-faf-curupira.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/amerique-du-sud/532-bresil-faf-curupira.html",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p519",
+      "name": "Colombie Huila Remolinos",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/703-home_default/colombie-huila-remolinos.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/amerique-du-sud/519-colombie-huila-remolinos.html",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    },
+    {
+      "id": "caffe-cataldi-p339",
+      "name": "Le café c'est pas sorcier",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.caffe-cataldi.fr/432-home_default/le-cafe-c-est-pas-sorcier.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Caffè Cataldi",
+          "url": "https://www.caffe-cataldi.fr/fr/livres/339-le-cafe-c-est-pas-sorcier.html",
+          "price": 22.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:53:54Z",
+      "lastSeenAt": "2026-09-03T09:53:54Z"
+    }
+  ]
 }

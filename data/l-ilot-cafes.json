@@ -10,11 +10,11 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:07:03Z",
+  "scrapedAt": "2026-09-03T09:53:34Z",
   "products": [
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
-      "name": "Café pure origine Mexique &#8211; Majomut / Café indigène",
+      "name": "Café pure origine Mexique – Majomut / Café indigène",
       "originCountry": "Mexique",
       "originDetail": null,
       "process": "Lavé",
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
-      "name": "Café pure origine Colombie &#8211; Sud du Cauca",
+      "name": "Café pure origine Colombie – Sud du Cauca",
       "originCountry": "Colombie",
       "originDetail": null,
       "process": "Lavé",
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
-      "name": "Café pure origine Pérou &#8211; Pangoa / Gardien de la Forêt",
+      "name": "Café pure origine Pérou – Pangoa / Gardien de la Forêt",
       "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
@@ -108,12 +108,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
-      "name": "Café pure origine Décaféiné Mexique &#8211; Veracruz",
+      "name": "Café pure origine Décaféiné Mexique – Veracruz",
       "originCountry": "Mexique",
       "originDetail": null,
       "process": "Lavé",
@@ -141,12 +141,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafes-maison-dola-fami",
-      "name": "Assemblage cafés maison &#8211; Dola-Fami",
+      "name": "Assemblage cafés maison – Dola-Fami",
       "originCountry": null,
       "originDetail": null,
       "process": "Lavé",
@@ -174,12 +174,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafe-maison-cuilco",
-      "name": "Assemblage cafés maison &#8211; Cuilco",
+      "name": "Assemblage cafés maison – Cuilco",
       "originCountry": null,
       "originDetail": null,
       "process": "Lavé",
@@ -207,12 +207,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
-      "name": "Café pure origine Nicaragua &#8211; Jinotega",
+      "name": "Café pure origine Nicaragua – Jinotega",
       "originCountry": "Nicaragua",
       "originDetail": null,
       "process": "Lavé",
@@ -240,12 +240,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
-      "name": "Café pure origine Pérou &#8211; El Palomar",
+      "name": "Café pure origine Pérou – El Palomar",
       "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
@@ -273,12 +273,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-santa-rosa",
-      "name": "Café micro-lot pure origine Pérou &#8211; Santa Rosa",
+      "name": "Café micro-lot pure origine Pérou – Santa Rosa",
       "originCountry": "Pérou",
       "originDetail": null,
       "process": "Nature",
@@ -306,12 +306,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
-      "name": "Café pure origine Mexique &#8211; Chiapas",
+      "name": "Café pure origine Mexique – Chiapas",
       "originCountry": "Mexique",
       "originDetail": null,
       "process": "Lavé",
@@ -339,12 +339,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
-      "name": "Café pure origine Honduras &#8211; Capucas",
+      "name": "Café pure origine Honduras – Capucas",
       "originCountry": "Honduras",
       "originDetail": null,
       "process": "Lavé",
@@ -372,12 +372,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
-      "name": "Café pure origine Guatemala &#8211; Kitché",
+      "name": "Café pure origine Guatemala – Kitché",
       "originCountry": "Guatemala",
       "originDetail": null,
       "process": "Lavé",
@@ -405,12 +405,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
-      "name": "Café pure origine Equateur &#8211; Palanda",
+      "name": "Café pure origine Equateur – Palanda",
       "originCountry": "Équateur",
       "originDetail": null,
       "process": "Lavé",
@@ -438,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:07:03Z",
-      "lastSeenAt": "2026-09-03T09:07:03Z"
+      "firstSeenAt": "2026-09-03T09:53:34Z",
+      "lastSeenAt": "2026-09-03T09:53:34Z"
     }
   ]
 }
