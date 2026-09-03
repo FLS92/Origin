@@ -830,9 +830,9 @@
     "city": "Nantes",
     "region": "Pays de la Loire",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cime-cafe.fr/nos-cafes.html",
+    "domain": "cime-cafe.fr",
+    "platform": "magento",
     "notes": null
   },
   {
@@ -841,9 +841,9 @@
     "city": "Nantes",
     "region": "Pays de la Loire",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafe-loule.fr/",
+    "domain": "cafe-loule.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -852,9 +852,9 @@
     "city": "Nantes",
     "region": "Pays de la Loire",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.kultivarcafe.fr/",
+    "domain": "kultivarcafe.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -863,9 +863,9 @@
     "city": "Nantes",
     "region": "Pays de la Loire",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.tintonantes.fr/boutique-de-cafe-en-ligne/",
+    "domain": "tintonantes.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -874,9 +874,9 @@
     "city": "Le Mans",
     "region": "Pays de la Loire",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cafesboc.fr/boutique/",
+    "domain": "cafesboc.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -885,9 +885,9 @@
     "city": "Rennes",
     "region": "Bretagne",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafe1802.fr/",
+    "domain": "cafe1802.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -896,10 +896,10 @@
     "city": "Binic-Étables-sur-Mer",
     "region": "Bretagne",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://hugcoffees.com/",
+    "domain": "hugcoffees.com",
+    "platform": "inaccessible",
+    "notes": "Erreur TLS (\"internal error\" lors du handshake) sur toutes les requêtes HTTPS — configuration serveur cassée, site inaccessible en HTTP simple actuellement."
   },
   {
     "id": "brulerie-du-leon",
@@ -907,10 +907,10 @@
     "city": "Brest",
     "region": "Bretagne",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://brulerieduleon.com/",
+    "domain": "brulerieduleon.com",
+    "platform": "woocommerce",
+    "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts."
   },
   {
     "id": "cafes-bozec",
@@ -918,9 +918,9 @@
     "city": "Brest",
     "region": "Bretagne",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cafesbozec.fr/",
+    "domain": "cafesbozec.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -929,9 +929,9 @@
     "city": "Louargat",
     "region": "Bretagne",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://caffe-cataldi.fr/fr/",
+    "domain": "caffe-cataldi.fr",
+    "platform": "prestashop",
     "notes": null
   },
   {
