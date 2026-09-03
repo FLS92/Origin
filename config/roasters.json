@@ -940,9 +940,9 @@
     "city": "Plescop",
     "region": "Bretagne",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://lecafequifume.com/",
+    "domain": "lecafequifume.com",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -951,9 +951,9 @@
     "city": "Strasbourg",
     "region": "Grand Est",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafe.omnino.fr/",
+    "domain": "cafe.omnino.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -962,9 +962,9 @@
     "city": "Strasbourg",
     "region": "Grand Est",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.reck.fr/",
+    "domain": "reck.fr",
+    "platform": "prestashop",
     "notes": null
   },
   {
@@ -973,10 +973,10 @@
     "city": "Strasbourg",
     "region": "Grand Est",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://cafe-bretelles.fr/",
+    "domain": "cafe-bretelles.fr",
+    "platform": "squarespace",
+    "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\"."
   },
   {
     "id": "moklair",
@@ -984,9 +984,9 @@
     "city": "Reims",
     "region": "Grand Est",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://moklair.fr/shop/",
+    "domain": "moklair.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -995,9 +995,9 @@
     "city": "Lille",
     "region": "Hauts-de-France",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://coffeemakers.fr/",
+    "domain": "coffeemakers.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -1006,10 +1006,10 @@
     "city": "Valenciennes",
     "region": "Hauts-de-France",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://www.pikaro.fr/",
+    "domain": "pikaro.fr",
+    "platform": "wizishop",
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
   },
   {
     "id": "cafes-muda",
@@ -1017,9 +1017,9 @@
     "city": "Lille",
     "region": "Hauts-de-France",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafesmuda.fr/",
+    "domain": "cafesmuda.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -1028,10 +1028,10 @@
     "city": "Châteauroux",
     "region": "Centre-Val de Loire",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://www.kawaty.fr/",
+    "domain": "kawaty.fr",
+    "platform": "wizishop",
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
   },
   {
     "id": "au-cur-du-cafe",
@@ -1039,9 +1039,9 @@
     "city": "Troyes",
     "region": "Grand Est",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://www.aucoeurducafe.fr/",
+    "domain": "aucoeurducafe.fr",
+    "platform": "shopify",
+    "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source."
   }
 ]
