@@ -335,9 +335,9 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cafemokxa.com/",
+    "domain": "cafemokxa.com",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -346,9 +346,9 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://celsius-roasters.fr/",
+    "domain": "celsius-roasters.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -357,9 +357,9 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.fikaroasters.fr/",
+    "domain": "fikaroasters.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -368,9 +368,9 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.loutsa.fr/",
+    "domain": "loutsa.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -379,9 +379,9 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.lecafetoque.fr/",
+    "domain": "lecafetoque.fr",
+    "platform": "odoo",
     "notes": null
   },
   {
@@ -390,9 +390,9 @@
     "city": "Fontaine",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafechulo.fr/",
+    "domain": "cafechulo.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -401,9 +401,9 @@
     "city": "Grenoble",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafe-come.fr/",
+    "domain": "cafe-come.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -412,10 +412,10 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://www.placidroasters.com/",
+    "domain": "placidroasters.com",
+    "platform": "wix",
+    "notes": "Site Wix — contenu boutique rendu en JavaScript côté client, pas d'API produits publique simple trouvée. A confirmer avec un rendu navigateur avant d'écrire un scraper (site JS-only, pas de solution HTTP simple fiable)."
   },
   {
     "id": "signe-extrait",
@@ -423,10 +423,10 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://www.extrait.fr/",
+    "domain": "extrait.fr",
+    "platform": "prestashop",
+    "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active."
   },
   {
     "id": "kaova",
@@ -434,10 +434,10 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://kaovacafe.fr/",
+    "domain": "kaovacafe.fr",
+    "platform": "blocked",
+    "notes": "Le domaine renvoie 403 Forbidden sur toute requête HTTP simple (probable WAF anti-bot). Semble surtout être un café/pâtisserie avec vente de café sur place, pas de boutique en ligne identifiée dans les résultats de recherche."
   },
   {
     "id": "cafes-goneo",
@@ -445,9 +445,9 @@
     "city": "Lyon",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://shop.cafes-goneo.fr/",
+    "domain": "shop.cafes-goneo.fr",
+    "platform": "prestashop",
     "notes": null
   },
   {
@@ -458,8 +458,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Domaine towercoffee.fr ne resout pas (DNS). C'est un coffee shop qui vend du café torréfié par un tiers (Brûlerie des Alpes), pas son propre torréfacteur — pas de source e-commerce identifiable."
   },
   {
     "id": "minouch",
@@ -469,8 +469,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Coffee shop sans torréfaction propre ni site e-commerce — présence Instagram uniquement."
   },
   {
     "id": "kaffa-torrefacteur",
@@ -478,9 +478,9 @@
     "city": "Crest",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://kaffa-roastery.com/",
+    "domain": "kaffa-roastery.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -489,9 +489,9 @@
     "city": "Clermont-Ferrand",
     "region": "Auvergne-Rhône-Alpes",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://clintonhill.fr/",
+    "domain": "clintonhill.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
