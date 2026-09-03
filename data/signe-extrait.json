@@ -10,7 +10,7 @@
     "platform": "prestashop",
     "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active."
   },
-  "scrapedAt": "2026-09-03T09:52:28Z",
+  "scrapedAt": "2026-09-03T20:42:48Z",
   "products": [
     {
       "id": "signe-extrait-p69",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:28Z",
-      "lastSeenAt": "2026-09-03T09:52:28Z"
+      "firstSeenAt": "2026-09-03T20:42:48Z",
+      "lastSeenAt": "2026-09-03T20:42:48Z"
     },
     {
       "id": "signe-extrait-p80",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:28Z",
-      "lastSeenAt": "2026-09-03T09:52:28Z"
+      "firstSeenAt": "2026-09-03T20:42:48Z",
+      "lastSeenAt": "2026-09-03T20:42:48Z"
     }
   ]
 }

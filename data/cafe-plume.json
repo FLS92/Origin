@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:22Z",
+  "scrapedAt": "2026-09-03T20:43:39Z",
   "products": [
     {
       "id": "cafe-plume-colombie-yuppie-100-arabica",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-perou-cataratas-100-arabica-bio",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-guatemala-panama-100-robusta",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-nicaragua-jinotega-100-arabica",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-ethiopie-moka-boji-wollega",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-inde-bresil-le-melange-corse",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-bresil-espirito-santo-vanille",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     },
     {
       "id": "cafe-plume-ethiopie-jebena",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:22Z",
-      "lastSeenAt": "2026-09-03T09:53:22Z"
+      "firstSeenAt": "2026-09-03T20:43:39Z",
+      "lastSeenAt": "2026-09-03T20:43:39Z"
     }
   ]
 }

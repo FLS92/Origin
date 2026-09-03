@@ -10,7 +10,7 @@
     "platform": "prestashop",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:19Z",
+  "scrapedAt": "2026-09-03T20:43:36Z",
   "products": [
     {
       "id": "valini-p2",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     },
     {
       "id": "valini-p77",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     },
     {
       "id": "valini-p91",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     },
     {
       "id": "valini-p94",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     },
     {
       "id": "valini-p93",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     },
     {
       "id": "valini-p105",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     },
     {
       "id": "valini-p104",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:19Z",
-      "lastSeenAt": "2026-09-03T09:53:19Z"
+      "firstSeenAt": "2026-09-03T20:43:36Z",
+      "lastSeenAt": "2026-09-03T20:43:36Z"
     }
   ]
 }

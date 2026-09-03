@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:52:04Z",
+  "scrapedAt": "2026-09-03T20:42:27Z",
   "products": [
     {
       "id": "celsius-roasters-cafe-en-bean-to-bar-diggers-x-celsius-geisha-perou",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:04Z",
-      "lastSeenAt": "2026-09-03T09:52:04Z"
+      "firstSeenAt": "2026-09-03T20:42:27Z",
+      "lastSeenAt": "2026-09-03T20:42:27Z"
     }
   ]
 }

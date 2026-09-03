@@ -35,19 +35,53 @@ COFFEE_CATEGORY_ALLOW = {
     "cafes-specialty", "origines", "single-origin", "single-origins",
 }
 
+# Used only as a broader second pass, and only for products already excluded
+# by the exact allowlist above — a category slug/name containing one of these
+# tokens is almost always tea, equipment or an accessory, not coffee beans,
+# even though some also contain "cafe" as a substring (e.g. "filtres-a-cafe").
+NON_COFFEE_TOKENS = {
+    "machine", "moulin", "grinder", "tasse", "carafe", "balance", "tamper",
+    "dripper", "accessoire", "entretien", "cafetiere", "hario", "jura",
+    "commandante", "filtre", "the", "infusion", "chocolat", "capsule",
+}
 
-def _is_coffee_product(p):
+
+def _category_tokens(p):
+    tokens = set()
     for c in p.get("categories") or []:
-        if _norm(c.get("slug", "")).replace(" ", "-") in COFFEE_CATEGORY_ALLOW:
-            return True
-        if _norm(c.get("name", "")).replace(" ", "-") in COFFEE_CATEGORY_ALLOW:
+        tokens.add(_norm(c.get("slug", "")).replace(" ", "-"))
+        tokens.add(_norm(c.get("name", "")))
+    return tokens
+
+
+def _is_coffee_exact(p):
+    return bool(_category_tokens(p) & COFFEE_CATEGORY_ALLOW)
+
+
+def _is_coffee_loose(p):
+    for cat in p.get("categories") or []:
+        words = _norm(cat.get("name", "")).split() + _norm(cat.get("slug", "").replace("-", " ")).split()
+        if any(w in NON_COFFEE_TOKENS for w in words):
+            continue
+        if any(w.startswith("cafe") or w == "coffee" for w in words):
             return True
     return False
 
 
 def filter_coffee_products(products):
-    coffee = [p for p in products if _is_coffee_product(p)]
-    return coffee if coffee else products
+    """Two passes, each stricter than falling back to 'everything': an exact
+    allowlist match first, then a looser substring match (excluding known
+    non-coffee categories) if that finds nothing at all. Only if neither pass
+    finds a single coffee product do we give up and keep everything — better
+    than silently dropping a whole catalog because its taxonomy doesn't match
+    ours, but a real fallback of last resort, not the common case."""
+    exact = [p for p in products if _is_coffee_exact(p)]
+    if exact:
+        return exact, False
+    loose = [p for p in products if _is_coffee_loose(p)]
+    if loose:
+        return loose, False
+    return products, True
 
 
 def _norm(label):
@@ -164,9 +198,14 @@ def to_raw_product(p, site_name):
 def scrape(roaster_meta):
     domain = roaster_meta["domain"]
     products = fetch_all_products(domain)
-    coffee_products = filter_coffee_products(products)
+    coffee_products, filter_fallback = filter_coffee_products(products)
     raw_products = [to_raw_product(p, roaster_meta["name"]) for p in coffee_products]
     data, summary = apply_products(roaster_meta, raw_products)
+    if filter_fallback:
+        summary["warning"] = (
+            "aucune catégorie café reconnue — tous les produits du catalogue ont été "
+            "gardés (thés/machines/accessoires possiblement inclus)"
+        )
 
     # Backfill structured fields extracted from WooCommerce attributes, for
     # newly-created product entries only (apply_products doesn't know about

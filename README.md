@@ -31,9 +31,38 @@ n'est jamais supprimé du fichier.
 
 ## Automatisation
 
-`.github/workflows/scrape.yml` lance `run.py` chaque lundi et commite les
-JSON mis à jour. Ajouter le secret `ANTHROPIC_API_KEY` au repo GitHub pour
-activer la génération de description.
+`.github/workflows/scrape.yml` lance `run.py` puis `scripts/build_app_data.py`
+chaque lundi, et commite les JSON mis à jour (`data/` et `app/coffees-data.json`).
+Ajouter le secret `ANTHROPIC_API_KEY` au repo GitHub pour activer la
+génération de description.
+
+## L'app (`app/`)
+
+`app/index.html` est l'app Origin : elle charge `app/coffees-data.json` via
+`fetch()` au démarrage (voir `loadCoffeeData()` dans son `<script>`) — elle ne
+contient plus aucune donnée café en dur. Ce fichier JSON est généré par :
+
+```bash
+python3 scripts/build_app_data.py   # lit data/*.json -> écrit app/coffees-data.json
+```
+
+Comme il n'y a plus de données en dur dans le HTML, une mise à jour du
+catalogue (scraping hebdomadaire ou manuel) se répercute dans l'app sans
+jamais toucher à `index.html` — seul `coffees-data.json` change.
+
+**Servir l'app localement** (`fetch()` ne fonctionne pas en ouvrant le fichier
+directement avec `file://`, il faut un serveur) :
+
+```bash
+cd app && python3 -m http.server 8420
+# puis ouvrir http://localhost:8420/
+```
+
+**Pour que l'app reste à jour automatiquement sans intervention** : activer
+GitHub Pages sur ce repo (Settings → Pages → Deploy from a branch → branche
+`main`, dossier `/app`) une fois poussé sur GitHub. L'URL Pages obtenue sert
+alors `index.html` + `coffees-data.json` à jour à chaque exécution du
+workflow hebdomadaire, sans jamais republier l'app manuellement.
 
 ## Architecture
 

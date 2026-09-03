@@ -10,7 +10,7 @@
     "platform": "odoo",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:30Z",
+  "scrapedAt": "2026-09-03T20:43:49Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -240,8 +240,41 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p910",
+      "name": "Brésil - Mogiana - Fazenda Aliança",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/910/image_512/Br%C3%A9sil%20-%20Mogiana%20-%20Fazenda%20Alian%C3%A7a?unique=7ddab15",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/bresil-mogiana-fazenda-alianca-910",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p4",
@@ -273,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p752",
@@ -306,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -339,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -372,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -405,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -438,8 +471,41 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p1904",
+      "name": "ETHIOPIE - Sidama - Bombe G1",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1904/image_512/ETHIOPIE%20-%20Sidama%20-%20Bombe%20G1?unique=19c3081",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-sidama-bombe-g1-1904",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 125,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -471,41 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
-    },
-    {
-      "id": "la-brulerie-des-filatiers-p880",
-      "name": "Ethiopie - Guji - Uraga",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/880/image_512/Ethiopie%20-%20Guji%20-%20Uraga?unique=27f4c34",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Brûlerie des Filatiers",
-          "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-guji-uraga-880",
-          "price": 10.9,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -537,8 +570,41 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p1903",
+      "name": "GUATEMALA - Huehuetenango - El Panal",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1903/image_512/GUATEMALA%20-%20Huehuetenango%20-%20El%20Panal?unique=f62e55e",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/guatemala-huehuetenango-el-panal-1903",
+          "price": 14.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -570,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -603,74 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
-    },
-    {
-      "id": "la-brulerie-des-filatiers-p659",
-      "name": "Iles Stevenson",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/659/image_512/Iles%20Stevenson%20?unique=2ce1529",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Brûlerie des Filatiers",
-          "url": "https://labruleriedesfilatiers.fr/shop/iles-stevenson-659",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
-    },
-    {
-      "id": "la-brulerie-des-filatiers-p847",
-      "name": "KENYA - Kiriny Aga",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/847/image_512/KENYA%20-%20Kiriny%20Aga%20?unique=e476eb6",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Brûlerie des Filatiers",
-          "url": "https://labruleriedesfilatiers.fr/shop/kenya-kiriny-aga-847",
-          "price": 12.45,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:30Z",
-      "lastSeenAt": "2026-09-03T09:53:30Z"
+      "firstSeenAt": "2026-09-03T20:43:49Z",
+      "lastSeenAt": "2026-09-03T20:43:49Z"
     }
   ]
 }

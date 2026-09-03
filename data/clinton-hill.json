@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:52:39Z",
+  "scrapedAt": "2026-09-03T20:42:59Z",
   "products": [
     {
       "id": "clinton-hill-bresil-san-antonio-torrefaction-espresso",
@@ -42,12 +42,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:39Z",
-      "lastSeenAt": "2026-09-03T09:52:39Z"
+      "firstSeenAt": "2026-09-03T20:42:59Z",
+      "lastSeenAt": "2026-09-03T20:42:59Z"
     },
     {
       "id": "clinton-hill-colombie-micro-lot-vino",
-      "name": "Colombie – Microlot Vino",
+      "name": "Colombie – Microlot Vino – Torréfaction filtre",
       "originCountry": "Colombie",
       "originDetail": null,
       "process": "Fermenté au coffee mosto puis vieilli 30 jours en fût de vin",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:39Z",
-      "lastSeenAt": "2026-09-03T09:52:39Z"
+      "firstSeenAt": "2026-09-03T20:42:59Z",
+      "lastSeenAt": "2026-09-03T20:42:59Z"
     },
     {
       "id": "clinton-hill-colombie-el-tambo-torrefaction-espresso",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:39Z",
-      "lastSeenAt": "2026-09-03T09:52:39Z"
+      "firstSeenAt": "2026-09-03T20:42:59Z",
+      "lastSeenAt": "2026-09-03T20:42:59Z"
     },
     {
       "id": "clinton-hill-mexique-bella-vista-omniroast",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:39Z",
-      "lastSeenAt": "2026-09-03T09:52:39Z"
+      "firstSeenAt": "2026-09-03T20:42:59Z",
+      "lastSeenAt": "2026-09-03T20:42:59Z"
     },
     {
       "id": "clinton-hill-colombie-el-tambo-torrefaction-filtre",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:39Z",
-      "lastSeenAt": "2026-09-03T09:52:39Z"
+      "firstSeenAt": "2026-09-03T20:42:59Z",
+      "lastSeenAt": "2026-09-03T20:42:59Z"
     },
     {
       "id": "clinton-hill-ethiopie-yirgacheffe",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:39Z",
-      "lastSeenAt": "2026-09-03T09:52:39Z"
+      "firstSeenAt": "2026-09-03T20:42:59Z",
+      "lastSeenAt": "2026-09-03T20:42:59Z"
     }
   ]
 }

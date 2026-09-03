@@ -10,6 +10,6 @@
     "platform": "squarespace",
     "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\". | La page /shop répond en JSON (Squarespace) mais sans clé \"items\" au niveau racine malgré itemCount=17 — structure de réponse différente de celle de Café Nibi, scraper actuel incompatible. A investiguer."
   },
-  "scrapedAt": "2026-09-03T09:53:58Z",
+  "scrapedAt": "2026-09-03T20:44:20Z",
   "products": []
 }

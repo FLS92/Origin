@@ -10,6 +10,6 @@
     "platform": "woocommerce",
     "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts. | WooCommerce actif sur le site mais l'API Store (/wp-json/wc/store/v1/products) répond 404 \"aucune route correspondante\" — probablement une version de WooCommerce trop ancienne ou l'API désactivée. 0 produit récupéré, pas de solution générique appliquée (nécessiterait un scraper HTML dédié comme pour PrestaShop)."
   },
-  "scrapedAt": "2026-09-03T09:53:48Z",
+  "scrapedAt": "2026-09-03T20:44:10Z",
   "products": []
 }

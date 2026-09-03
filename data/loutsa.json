@@ -10,11 +10,11 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:52:11Z",
+  "scrapedAt": "2026-09-03T20:42:31Z",
   "products": [
     {
-      "id": "loutsa-colis-couleur-cafe",
-      "name": "Coffret Couleur Café",
+      "id": "loutsa-cafe-salvador-apanea",
+      "name": "Café SALVADOR APAÑEA",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -27,56 +27,23 @@
       "roastLevel": null,
       "flavors": null,
       "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-couleur-cafe-9609253.png?v=1787954899",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/pack3D_APANEA_neutre_HD.jpg?v=1788450327",
       "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
-          "url": "https://loutsa.fr/products/colis-couleur-cafe",
-          "price": 27.2,
+          "url": "https://loutsa.fr/products/cafe-salvador-apanea",
+          "price": 15.8,
           "currency": "EUR",
-          "unitWeightG": null,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-coffret-cold-brew-ethiopie",
-      "name": "COFFRET COLD BREW ÉTHIOPIE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-cold-brew-337462.jpg?v=1750084749",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/coffret-cold-brew-ethiopie",
-          "price": 42.7,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -108,41 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-colombie-capsules",
-      "name": "CAPSULES NASA WESX BIO Café Colombie",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-nasa-wesx-bio-cafe-colombie-1115095.png?v=1786462872",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/colombie-capsules",
-          "price": 5.6,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cold-brew",
@@ -174,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-geisha-cafe-dexception",
@@ -207,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -240,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-signature-jules-guesde",
@@ -273,74 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-meilleur-matcha",
-      "name": "MATCHA",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/matcha-409538.webp?v=1750225931",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/meilleur-matcha",
-          "price": 19.9,
-          "currency": "EUR",
-          "unitWeightG": 110,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-ketiara-gayo-capsules",
-      "name": "CAPSULES KETIARA GAYO BIO Café Indonésie",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-ketiara-gayo-bio-cafe-indonesie-563010.jpg?v=1749048486",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/ketiara-gayo-capsules",
-          "price": 5.6,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -372,701 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-cafe-chocolat",
-      "name": "ATELIER Accords Café & Chocolat Valrhona LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-accords-cafe-chocolat-valrhona-9381123.png?v=1773868037",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-cafe-chocolat",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-ibrik-lyon",
-      "name": "ATELIER Ibrik LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-ibrik-lyon-7006395.png?v=1772210898",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-ibrik-lyon",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-liqueur-cafe-jacoulot",
-      "name": "LIQUEUR CAFÉ JACOULOT",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/liqueur-cafe-jacoulot-255681.webp?v=1750225720",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/liqueur-cafe-jacoulot",
-          "price": 28.2,
-          "currency": "EUR",
-          "unitWeightG": 1200,
-          "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-sachet-chai-250g-hellogoodsip-1",
-      "name": "CHAI",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/chai-690285.webp?v=1750225931",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/sachet-chai-250g-hellogoodsip-1",
-          "price": 10.9,
-          "currency": "EUR",
-          "unitWeightG": 260,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-pistache",
-      "name": "Pistache",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/pistache-2318233.png?v=1764172349",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/pistache",
-          "price": 25.0,
-          "currency": "EUR",
-          "unitWeightG": 200,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-cup-quy-cup",
-      "name": "ECO TASSE LOUTSA",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/eco-tasse-loutsa-9783405.jpg?v=1778674211",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/cup-quy-cup",
-          "price": 12.8,
-          "currency": "EUR",
-          "unitWeightG": 165,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-the-vert-sencha",
-      "name": "THE VERT SENCHA",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/the-vert-sencha-2530974.png?v=1763757958",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/the-vert-sencha",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-the-vert-menthe-marrakech",
-      "name": "THE VERT MENTHE MARRAKECH",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/the-vert-menthe-marrakech-6943197.png?v=1763757958",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/the-vert-menthe-marrakech",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-infusion-peche-melba",
-      "name": "INFUSION PECHE MELBA",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/infusion-peche-melba-8454542.png?v=1763757957",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/infusion-peche-melba",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-infusion-verveine-menthe",
-      "name": "INFUSION VERVEINE MENTHE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/infusion-verveine-menthe-4237694.png?v=1763757957",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/infusion-verveine-menthe",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-chai-copie",
-      "name": "THE NOIR ASSAM",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/the-noir-assam-2468605.png?v=1763757959",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/chai-copie",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-the-noir-assam-copie",
-      "name": "THE NOIR FRAISE FRAMBOISE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/the-noir-fraise-framboise-1615106.png?v=1763757958",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/the-noir-assam-copie",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-the-noir-earl-grey-agrumes",
-      "name": "THE NOIR EARL GREY AGRUMES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/the-noir-earl-grey-agrumes-9996092.png?v=1763757958",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/the-noir-earl-grey-agrumes",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-the-blanc-vert-citron-gingembre",
-      "name": "THE BLANC VERT CITRON GINGEMBRE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/the-blanc-vert-citron-gingembre-4872795.png?v=1763757957",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/the-blanc-vert-citron-gingembre",
-          "price": 9.2,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-guimauve-verveine",
-      "name": "GUIMAUVE VERVEINE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/guimauve-verveine-5530494.jpg?v=1762265316",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/guimauve-verveine",
-          "price": 6.9,
-          "currency": "EUR",
-          "unitWeightG": 108,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-moulin-timemore-c3s-pro",
-      "name": "MOULIN MANUEL TIMEMORE Pro",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/moulin-manuel-timemore-pro-9073233.jpg?v=1761851128",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/moulin-timemore-c3s-pro",
-          "price": 89.0,
-          "currency": "EUR",
-          "unitWeightG": 760,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-poster-tableau-des-aromes-loutsa",
-      "name": "LOUTSA AFFICHE AROMES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/loutsa-affiche-aromes-3775114.webp?v=1756809814",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/poster-tableau-des-aromes-loutsa",
-          "price": 23.9,
-          "currency": "EUR",
-          "unitWeightG": 200,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-plateau-bois-presentation",
-      "name": "PLATEAU SERVICE BOIS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/plateau-bois-presentation-638628.jpg?v=1749047506",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/plateau-bois-presentation",
-          "price": 9.8,
-          "currency": "EUR",
-          "unitWeightG": 165,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-taie-coussin-carre",
-      "name": "COUSSIN TOILE DE JUTE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/taie-coussin-toile-de-jute-4720685.jpg?v=1752642811",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/taie-coussin-carre",
-          "price": 19.5,
-          "currency": "EUR",
-          "unitWeightG": 200,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-cascara-2",
-      "name": "Infusion Cascara",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": null,
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/cascara-2",
-          "price": 8.7,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-v60-t2",
-      "name": "HARIO PORTE FILTRE V60",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/hario-porte-filtre-v60-793475.jpg?v=1749048496",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/v60-t2",
-          "price": 28.9,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -1098,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -1131,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-coffret-artisanal",
@@ -1164,338 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-biscuit-myrtille",
-      "name": "BISCUIT MYRTILLE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/biscuit-myrtille-298489.webp?v=1749047514",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/biscuit-myrtille",
-          "price": 7.2,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-guimauve-saveur-caramel-sale",
-      "name": "GUIMAUVE CARAMEL BEURRE SALÉ",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/guimauve-caramel-beurre-sale-977345.webp?v=1750225717",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/guimauve-saveur-caramel-sale",
-          "price": 6.9,
-          "currency": "EUR",
-          "unitWeightG": 108,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-guimauve-saveur-fraise",
-      "name": "GUIMAUVE FRAISE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/guimauve-fraise-366287.webp?v=1750225717",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/guimauve-saveur-fraise",
-          "price": 6.9,
-          "currency": "EUR",
-          "unitWeightG": 108,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-guimauve-saveur-cappuccino",
-      "name": "GUIMAUVE CAPPUCCINO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/guimauve-cappuccino-257902.webp?v=1750225709",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/guimauve-saveur-cappuccino",
-          "price": 6.9,
-          "currency": "EUR",
-          "unitWeightG": 108,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-huile-cafe-loutsa",
-      "name": "HUILE CAFÉ LOUTSA",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/huile-cafe-loutsa-384480.webp?v=1750225717",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/huile-cafe-loutsa",
-          "price": 13.8,
-          "currency": "EUR",
-          "unitWeightG": 400,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-biscuit-framboise",
-      "name": "BISCUIT FRAMBOISE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/biscuit-framboise-204583.webp?v=1750225719",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/biscuit-framboise",
-          "price": 7.2,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-biscuit-abricot",
-      "name": "BISCUIT ABRICOT",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/biscuit-abricot-481952.webp?v=1750225721",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/biscuit-abricot",
-          "price": 7.2,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-tot-bag-loutsa",
-      "name": "TOTEBAG TOILE DE JUTE RECYCLEE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/totebag-toile-de-jute-recyclee-7339627.jpg?v=1752643094",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/tot-bag-loutsa",
-          "price": 8.8,
-          "currency": "EUR",
-          "unitWeightG": 130,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-machine-e8-jura",
-      "name": "JURA E8",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-e8-585436.jpg?v=1749047728",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/machine-e8-jura",
-          "price": 1349.0,
-          "currency": "EUR",
-          "unitWeightG": 25000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-detergent-pour-systeme-de-lait",
-      "name": "JURA DETERGENT",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-detergent-726319.jpg?v=1749048235",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/detergent-pour-systeme-de-lait",
-          "price": 27.6,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-espresso-duo",
@@ -1527,140 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-toile-de-jute-loutsa",
-      "name": "LOUTSA TOILE DE JUTE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/loutsa-toile-de-jute-947155.jpg?v=1749048235",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/toile-de-jute-loutsa",
-          "price": 5.0,
-          "currency": "EUR",
-          "unitWeightG": 400,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-porte-filtre-155-kalita",
-      "name": "KALITA Porte filtre",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/kalita-porte-filtre-803179.jpg?v=1749047730",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/porte-filtre-155-kalita",
-          "price": 44.2,
-          "currency": "EUR",
-          "unitWeightG": 265,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-copie-de-machine-ena4-jura",
-      "name": "JURA E6",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-e6-257600.jpg?v=1749047514",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/copie-de-machine-ena4-jura",
-          "price": 929.0,
-          "currency": "EUR",
-          "unitWeightG": 25000,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-copie-de-machine-ono-jura",
-      "name": "JURA ENA4",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-ena4-934431.jpg?v=1749047736",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/copie-de-machine-ono-jura",
-          "price": 699.0,
-          "currency": "EUR",
-          "unitWeightG": 25000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -1692,41 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-espresso-capsules",
-      "name": "CAPSULES ESPRESSO BIO Meilleur expresso",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-espresso-bio-meilleur-expresso-359290.jpg?v=1749048484",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/espresso-capsules",
-          "price": 4.9,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -1758,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -1791,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -1824,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -1857,74 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-canette-cold-brew",
-      "name": "COLD BREW CAFE GLACE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cold-brew-cafe-glace-503209.jpg?v=1749048245",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/canette-cold-brew",
-          "price": 3.8,
-          "currency": "EUR",
-          "unitWeightG": 200,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-offrir-un-atelier",
-      "name": "CARTE CADEAU ATELIER",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/carte-cadeau-atelier-430031.jpg?v=1749048241",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/offrir-un-atelier",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-abonnement-cafe",
@@ -1956,239 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-recevoir-une-loutsabox-decouverte-1kg-12mois",
-      "name": "J'active mon abonnement Loutsabox découverte - 1kg / 12mois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jactive-mon-abonnement-loutsabox-decouverte-1kg-12mois-645473.webp?v=1749048236",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/recevoir-une-loutsabox-decouverte-1kg-12mois",
-          "price": 630.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-recevoir-une-loutsabox-decouverte-500gr-12mois",
-      "name": "J'active mon abonnement Loutsabox découverte - 500gr / 12mois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jactive-mon-abonnement-loutsabox-decouverte-1kg-12mois-645473.webp?v=1749048236",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/recevoir-une-loutsabox-decouverte-500gr-12mois",
-          "price": 366.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-recevoir-une-loutsabox-decouverte-1kg-6mois",
-      "name": "J'active mon abonnement Loutsabox découverte - 1kg / 6mois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jactive-mon-abonnement-loutsabox-decouverte-1kg-12mois-645473.webp?v=1749048236",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/recevoir-une-loutsabox-decouverte-1kg-6mois",
-          "price": 324.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-recevoir-une-loutsabox-decouverte-500gr-6mois",
-      "name": "J'active mon abonnement Loutsabox découverte - 500gr / 6mois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jactive-mon-abonnement-loutsabox-decouverte-1kg-12mois-645473.webp?v=1749048236",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/recevoir-une-loutsabox-decouverte-500gr-6mois",
-          "price": 189.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-recevoir-une-loutsabox-decouverte-1kg-3mois",
-      "name": "J'active mon abonnement Loutsabox découverte 1kg / 3mois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jactive-mon-abonnement-loutsabox-decouverte-1kg-12mois-645473.webp?v=1749048236",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/recevoir-une-loutsabox-decouverte-1kg-3mois",
-          "price": 168.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-recevoir-une-loutsabox-decouverte-500gr-3mois",
-      "name": "J'active mon abonnement Loutsabox découverte - 500gr / 3mois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jactive-mon-abonnement-loutsabox-decouverte-1kg-12mois-645473.webp?v=1749048236",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/recevoir-une-loutsabox-decouverte-500gr-3mois",
-          "price": 99.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-offrir-un-abonnement-cafe",
-      "name": "CARTE CADEAU ABONNEMENT",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/carte-cadeau-abonnement-968088.jpg?v=1749048483",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/offrir-un-abonnement-cafe",
-          "price": 99.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-habtamu-bio-abonnement",
@@ -2220,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-deca-sueno-bio-abonnement",
@@ -2253,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-ketiara-gayo-bio-abonnement",
@@ -2286,8 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-le-parisien-bio-abonnement",
@@ -2319,8 +702,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-espresso-bio-abonnement",
@@ -2352,8 +735,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-italian-roast-bio-abonnement",
@@ -2385,8 +768,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-arhuaco-bio-abonnement",
@@ -2418,8 +801,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-el-palto-bio-abonnement",
@@ -2451,767 +834,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-nos-5-sens-paris",
-      "name": "ATELIER 5 Sens PARIS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-5-sens-paris-4577250.png?v=1785219920",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-nos-5-sens-paris",
-          "price": 89.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-slow-coffee-paris",
-      "name": "ATELIER Slow Café PARIS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-slow-cafe-paris-272578.webp?v=1750391788",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-slow-coffee-paris",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-machines-a-grains-paris",
-      "name": "ATELIER Machine à grain PARIS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-machine-a-grain-paris-179067.webp?v=1750225477",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-machines-a-grains-paris",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-latte-art-paris",
-      "name": "ATELIER Latte Art PARIS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-latte-art-paris-666548.webp?v=1750391786",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-latte-art-paris",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-espresso-paris",
-      "name": "ATELIER Espresso PARIS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-espresso-paris-399076.webp?v=1750391788",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-espresso-paris",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-italian-roast-capsules",
-      "name": "CAPSULES ITALIAN ROAST BIO Expresso Ristretto",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-italian-roast-bio-expresso-ristretto-121638.jpg?v=1749048484",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/italian-roast-capsules",
-          "price": 4.9,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-deca-sueno-capsules",
-      "name": "CAPSULES DECA SUENO BIO Café Mexique",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-deca-sueno-bio-cafe-mexique-230734.jpg?v=1749048485",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/deca-sueno-capsules",
-          "price": 5.6,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-el-palto-capsules",
-      "name": "CAPSULES EL PALTO BIO Café Pérou",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-el-palto-bio-cafe-perou-484155.jpg?v=1749048486",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/el-palto-capsules",
-          "price": 5.6,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-habtamu-capsules",
-      "name": "CAPSULES HABTAMU BIO Café Ethiopie",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/capsules-habtamu-bio-cafe-ethiopie-906857.jpg?v=1749048488",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/habtamu-capsules",
-          "price": 5.6,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-5-sens",
-      "name": "ATELIER 5 Sens LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-5-sens-paris-8784532.png?v=1785219919",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-5-sens",
-          "price": 79.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-slow-coffee",
-      "name": "ATELIER Slow Café LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-slow-cafe-paris-272578.webp?v=1750391788",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-slow-coffee",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-machines-a-grains",
-      "name": "ATELIER Machine à grain LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-machine-a-grain-paris-179067.webp?v=1750225477",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-machines-a-grains",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-latte-art",
-      "name": "ATELIER Latte Art LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-latte-art-paris-666548.webp?v=1750391786",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-latte-art",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-airscape-500g",
-      "name": "AIRSCAPE 500G",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/airscape-500g-865107.jpg?v=1749048492",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/airscape-500g",
-          "price": 39.9,
-          "currency": "EUR",
-          "unitWeightG": 600,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-airscape-250g",
-      "name": "AIRSCAPE 250G",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/airscape-500g-1510387.jpg?v=1766576292",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/airscape-250g",
-          "price": 34.9,
-          "currency": "EUR",
-          "unitWeightG": 490,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-carafe-hario-infuseur-cafe-froid-700-ml",
-      "name": "HARIO CARAFE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/hario-carafe-508397.jpg?v=1749048493",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/carafe-hario-infuseur-cafe-froid-700-ml",
-          "price": 29.9,
-          "currency": "EUR",
-          "unitWeightG": 600,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-carafe-kinto-600-ml",
-      "name": "KINTO CARAFE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/kinto-carafe-527905.jpg?v=1749048490",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/carafe-kinto-600-ml",
-          "price": 18.4,
-          "currency": "EUR",
-          "unitWeightG": 310,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-filtre-aeropress",
-      "name": "AEROPRESS FILTRE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/aeropress-filtre-515175.jpg?v=1749048491",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/filtre-aeropress",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": 70,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-filtre-chemex-6-tasses",
-      "name": "CHEMEX FILTRE 6 TASSES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/chemex-filtre-6-tasses-988651.jpg?v=1749048491",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/filtre-chemex-6-tasses",
-          "price": 12.9,
-          "currency": "EUR",
-          "unitWeightG": 610,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-filtre-v60-taille-2",
-      "name": "HARIO FILTRE V60",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/hario-filtre-v60-638394.jpg?v=1749048489",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/filtre-v60-taille-2",
-          "price": 7.8,
-          "currency": "EUR",
-          "unitWeightG": 134,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-chambord-1l",
-      "name": "BODUM PISTON 1L",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/bodum-piston-1l-889724.jpg?v=1749048495",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/chambord-1l",
-          "price": 39.8,
-          "currency": "EUR",
-          "unitWeightG": 600,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-chambord-0-5l",
-      "name": "BODUM PISTON 0.5L",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/bodum-piston-05l-961425.jpg?v=1749048493",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/chambord-0-5l",
-          "price": 29.8,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-aeropress",
-      "name": "AEROPRESS",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/aeropress-259909.jpg?v=1749048500",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/aeropress",
-          "price": 44.9,
-          "currency": "EUR",
-          "unitWeightG": 340,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-chemex-6-tasses",
@@ -3243,239 +867,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-timemore-moulin-c3espresso",
-      "name": "MOULIN TIMEMORE ESPRESSO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/moulin-timemore-espresso-3731692.jpg?v=1761851382",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/timemore-moulin-c3espresso",
-          "price": 109.0,
-          "currency": "EUR",
-          "unitWeightG": 740,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-puly-cleaner-detartrant-10-sachets",
-      "name": "ENTRETIEN DETARTRANT PULY CLEANER",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/entretien-detartrant-270019.jpg?v=1749048491",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/puly-cleaner-detartrant-10-sachets",
-          "price": 17.9,
-          "currency": "EUR",
-          "unitWeightG": 200,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-pastilles-machine-boite-de-100-puly-caff",
-      "name": "ENTRETIEN MACHINE PULY CAFF",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/entretien-machine-puly-caff-960405.jpg?v=1749048493",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/pastilles-machine-boite-de-100-puly-caff",
-          "price": 14.9,
-          "currency": "EUR",
-          "unitWeightG": 1100,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-detergent-lait-1l-puly-milk",
-      "name": "ENTRETIEN BUSE VAPEUR PULY MILK",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/entretien-buse-vapeur-141425.jpg?v=1749048493",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/detergent-lait-1l-puly-milk",
-          "price": 15.9,
-          "currency": "EUR",
-          "unitWeightG": 400,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-filtre-jura-claris-smart",
-      "name": "JURA FILTRE CLARIS SMART+",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-filtre-claris-smart-110808.jpg?v=1749048492",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/filtre-jura-claris-smart",
-          "price": 15.9,
-          "currency": "EUR",
-          "unitWeightG": 90,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-pastille-detartrage-jura",
-      "name": "JURA DETARTRANT 3x3 PASTILLES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-detartrant-pastilles-686785.jpg?v=1749048492",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/pastille-detartrage-jura",
-          "price": 14.9,
-          "currency": "EUR",
-          "unitWeightG": 180,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-pastille-nettoyage-jura-x25",
-      "name": "JURA NETTOYAGE 25 PASTILLES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/jura-pastille-nettoyage-516932.jpg?v=1749048492",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/pastille-nettoyage-jura-x25",
-          "price": 50.4,
-          "currency": "EUR",
-          "unitWeightG": 130,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -3507,8 +900,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-espresso",
@@ -3540,8 +933,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -3573,8 +966,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -3606,41 +999,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
-    },
-    {
-      "id": "loutsa-atelier-cafeologie-lyon",
-      "name": "ATELIER Espresso LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/atelier-espresso-paris-399076.webp?v=1750391788",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/atelier-cafeologie-lyon",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -3672,8 +1032,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -3705,8 +1065,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -3738,8 +1098,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:11Z",
-      "lastSeenAt": "2026-09-03T09:52:11Z"
+      "firstSeenAt": "2026-09-03T20:42:31Z",
+      "lastSeenAt": "2026-09-03T20:42:31Z"
     }
   ]
 }

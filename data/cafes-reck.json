@@ -10,6 +10,6 @@
     "platform": "prestashop",
     "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte."
   },
-  "scrapedAt": "2026-09-03T09:53:58Z",
+  "scrapedAt": "2026-09-03T20:44:20Z",
   "products": []
 }

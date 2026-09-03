@@ -10,8 +10,41 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:51:53Z",
+  "scrapedAt": "2026-09-03T20:42:17Z",
   "products": [
+    {
+      "id": "tanat-coffee-muthuaini-aa-washed",
+      "name": "Muthuaini AA [Washed]",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Batian, Ruiru 11, SL28, SL34",
+      "producer": "Mutheka Farmers Cooperative Society",
+      "score": 87,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-MuthuaniAA.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://tanat.coffee/boutique/muthuaini-aa-washed/",
+          "price": 14.9,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
+    },
     {
       "id": "tanat-coffee-cafe-nestor-lasso-colombie",
       "name": "Nestor Lasso [Estate #1]",
@@ -42,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-ngacha-estate-yellow-honey",
@@ -75,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-elida-falda-crd-gw0403",
@@ -108,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-4fb",
@@ -141,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-chibor-gw97",
@@ -174,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-los-lajones-bambu-gn10265",
@@ -207,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-6hc",
@@ -240,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-gathaithi-aa-washed",
@@ -273,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-hellen-mora-caturra-natural",
@@ -306,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-panama-hacienda-la-esmeralda-lino-8fc",
@@ -339,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-janson-hacienda-gn115",
@@ -372,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-abu-gh4135",
@@ -405,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-el-destino-crimson-lot-21-geisha-washed",
@@ -433,13 +466,13 @@
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-40",
@@ -471,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-37",
@@ -504,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-abu-gn6265",
@@ -528,7 +561,7 @@
         {
           "site": "Tanat Coffee",
           "url": "https://tanat.coffee/boutique/abu-gn6265/",
-          "price": 40.9,
+          "price": 35.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -537,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-lerida-geisha-honey-832",
@@ -570,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-santa-elena-obata-washed",
@@ -603,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-jhon-saenz-geisha-washed",
@@ -636,8 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-la-riviera-sudan-rume",
@@ -669,8 +702,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-bambito-geisha-washed",
@@ -702,8 +735,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-elto-elora-blood-yeast",
@@ -735,8 +768,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-elto-hamasho-96h",
@@ -768,8 +801,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-alo-digs-project-mosto-natural-72h",
@@ -801,8 +834,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-alo-digs-project-anaerobic-honey-48h",
@@ -834,8 +867,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-la-riviera-pink-bourbon",
@@ -867,8 +900,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-gesha-village-surma-semi-anaerobic-26-e22",
@@ -900,8 +933,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-arauca-geisha-washed",
@@ -933,8 +966,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-melao-pink-bourbon",
@@ -966,8 +999,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-gesha-village-oma-anaerobic-natural-26-e-24",
@@ -999,8 +1032,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gw2-estacion",
@@ -1032,8 +1065,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-janson-los-alpes-gn125",
@@ -1065,8 +1098,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-elida-falda-gn0503",
@@ -1098,8 +1131,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-eudis-orosco-geisha-washed",
@@ -1131,8 +1164,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-janson-hacienda-gw121",
@@ -1164,8 +1197,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-rumudamo-washed",
@@ -1197,8 +1230,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-alobore-washed",
@@ -1230,8 +1263,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-nestor-lasso-typica-mejorado-natural",
@@ -1263,8 +1296,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-colombia-zarza-pacamara-advanced-washed",
@@ -1296,8 +1329,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-lost-origin-abu-x-tanat-lot-232",
@@ -1329,8 +1362,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-la-union-gesha-anaerobic-washed",
@@ -1362,8 +1395,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-1890-catuai-rojo-yeast-washed",
@@ -1395,8 +1428,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gn51-geisha-natural",
@@ -1428,8 +1461,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gw93-geisha-washed",
@@ -1461,8 +1494,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cgle-potosi-sidra-naturel",
@@ -1494,8 +1527,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-elto-elora-anaerobic-72h",
@@ -1527,8 +1560,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-alo-mosto-anaerobic-natural",
@@ -1560,8 +1593,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-alo-bombe-washed",
@@ -1593,8 +1626,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-alo-chilaka-natural",
@@ -1626,8 +1659,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-papaya-typica-washed",
@@ -1659,8 +1692,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-abonnement-rarities-90",
@@ -1692,8 +1725,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-abonnement-gros-buveur",
@@ -1725,41 +1758,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
-    },
-    {
-      "id": "tanat-coffee-cafe-cgle-las-margaritas-sudan-rume-washed",
-      "name": "CGLE Las Margaritas [Sudan Rume Washed]",
-      "originCountry": null,
-      "originDetail": null,
-      "process": "Lavé",
-      "variety": "Sudan Rume",
-      "producer": "Cafe Granja La Esperanza, Las Margaritas",
-      "score": 89,
-      "acidity": null,
-      "body": null,
-      "method": "Filtre",
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB-Colombie-CGLE-Las-Margaritas-Sudan-Rume-Washed-100g.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/cafe-cgle-las-margaritas-sudan-rume-washed/",
-          "price": 20.9,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-decafeine-el-sueno-mexique",
@@ -1791,8 +1791,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-moka-lekempti-ethiopie",
@@ -1824,8 +1824,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-todosantarita-guatemala",
@@ -1857,8 +1857,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-blend-kawa-espresso",
@@ -1890,8 +1890,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-blend-espresso-bio",
@@ -1923,8 +1923,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-rosa-blend-bio-espresso",
@@ -1956,8 +1956,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-blend-189-bio-espresso",
@@ -1989,8 +1989,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-cafe-boa-esperanca-bresil",
@@ -2022,8 +2022,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     },
     {
       "id": "tanat-coffee-abonnement-decouverte-cafe-de-specialite",
@@ -2055,8 +2055,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:53Z",
-      "lastSeenAt": "2026-09-03T09:51:53Z"
+      "firstSeenAt": "2026-09-03T20:42:17Z",
+      "lastSeenAt": "2026-09-03T20:42:17Z"
     }
   ]
 }

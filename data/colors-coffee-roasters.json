@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:38Z",
+  "scrapedAt": "2026-09-03T20:43:59Z",
   "products": [
     {
       "id": "colors-coffee-roasters-burundi-nemba-copie",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:38Z",
-      "lastSeenAt": "2026-09-03T09:53:38Z"
+      "firstSeenAt": "2026-09-03T20:43:59Z",
+      "lastSeenAt": "2026-09-03T20:43:59Z"
     },
     {
       "id": "colors-coffee-roasters-ethiopie-guji",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:38Z",
-      "lastSeenAt": "2026-09-03T09:53:38Z"
+      "firstSeenAt": "2026-09-03T20:43:59Z",
+      "lastSeenAt": "2026-09-03T20:43:59Z"
     },
     {
       "id": "colors-coffee-roasters-kenya-embu",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:38Z",
-      "lastSeenAt": "2026-09-03T09:53:38Z"
+      "firstSeenAt": "2026-09-03T20:43:59Z",
+      "lastSeenAt": "2026-09-03T20:43:59Z"
     },
     {
       "id": "colors-coffee-roasters-el-salvador-pacamara",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:38Z",
-      "lastSeenAt": "2026-09-03T09:53:38Z"
+      "firstSeenAt": "2026-09-03T20:43:59Z",
+      "lastSeenAt": "2026-09-03T20:43:59Z"
     }
   ]
 }

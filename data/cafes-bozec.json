@@ -10,10 +10,10 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:52Z",
+  "scrapedAt": "2026-09-03T20:44:13Z",
   "products": [
     {
-      "id": "cafes-bozec-cafes-bozec-ethiopie-yirgacheffe",
+      "id": "cafes-bozec-cafes-bozec-indonesie-sumatra",
       "name": "Indonésie – Sumatra",
       "originCountry": null,
       "originDetail": null,
@@ -32,7 +32,7 @@
       "retailers": [
         {
           "site": "Cafés Bozec",
-          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-ethiopie-yirgacheffe/",
+          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-indonesie-sumatra/",
           "price": 15.0,
           "currency": "EUR",
           "unitWeightG": 1000,
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-nicaragua-maragogype",
@@ -75,11 +75,11 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
-      "id": "cafes-bozec-nicaragua-buenos-aires",
+      "id": "cafes-bozec-cafes-bozec-colombie-huila",
       "name": "Colombie – Huila",
       "originCountry": null,
       "originDetail": null,
@@ -98,7 +98,7 @@
       "retailers": [
         {
           "site": "Cafés Bozec",
-          "url": "https://www.cafesbozec.fr/produit/nicaragua-buenos-aires/",
+          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-colombie-huila/",
           "price": 14.0,
           "currency": "EUR",
           "unitWeightG": null,
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-salvador-cerro-el-aguila",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-bonga-micro-lot",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-blend-bio-ethiopie-honduras-mexique",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-blend-historique-costa-rica-mexique-bresil",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-blend-signature-ethiopie-bresil-colombie",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-bresil-fazenda-jaguara",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-origine",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-kobi-gamme-terroir",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     },
     {
       "id": "cafes-bozec-nicaragua-mogoton",
@@ -438,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:52Z",
-      "lastSeenAt": "2026-09-03T09:53:52Z"
+      "firstSeenAt": "2026-09-03T20:44:13Z",
+      "lastSeenAt": "2026-09-03T20:44:13Z"
     }
   ]
 }

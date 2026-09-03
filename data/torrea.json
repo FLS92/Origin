@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:34Z",
+  "scrapedAt": "2026-09-03T20:43:54Z",
   "products": [
     {
       "id": "torrea-cafe-san-rafael-bresil-commerce-equitable",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-blend-personnalise-torrea-tailor",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-ethiopie-salomon-commerce-equitable",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-blend-lheritage-des-cinq-terres-commerce-equitable",
@@ -141,74 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-mini-balance",
-      "name": "Mini Balance Précise 0,1 g Rechargeable avec Minuterie – Accessoire Barista",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2025/11/kf-S067bc8ce38bd4414821f818386c31039d.webp",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/mini-balance/",
-          "price": 34.32,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-kit-accessoire-ceremonie-matcha",
-      "name": "Kit Accessoire Cérémonie Matcha",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2025/11/kf-S7137446d0a91445391f84c8c1aa56d12i.webp",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/kit-accessoire-ceremonie-matcha/",
-          "price": 20.95,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-capucas-honduras-commerce-equitable",
@@ -240,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-equateur-palanda-commerce-equitable",
@@ -273,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-blend-douceur-hivernale-commerce-equitable",
@@ -306,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-blend-esprit-nomade-commerce-equitable",
@@ -339,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-blend-velours-nocturne-commerce-equitable",
@@ -372,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-blend-saveurs-tropicales-commerce-equitable",
@@ -405,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-blend-matins-gourmands-commerce-equitable",
@@ -438,338 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-bocal-hermetique-avec-extraction-dair-500ml",
-      "name": "Bocal hermétique avec extraction d’air 500ml",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/20241216_1519221-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/bocal-hermetique-avec-extraction-dair-500ml/",
-          "price": 11.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-tasse-en-ceramique-blanche-150ml",
-      "name": "Tasse en céramique blanche 150ml",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/20241216_1520031-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/tasse-en-ceramique-blanche-150ml/",
-          "price": 9.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-sucres-decoratifs-fleurs",
-      "name": "Sucres Décoratifs – Fleurs",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/Reglette-Mini-Fleurs-2.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/sucres-decoratifs-fleurs/",
-          "price": 3.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-sucres-decoratifs-flocons-de-neige",
-      "name": "Sucres Décoratifs – Flocons de Neige",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/Reglette-Flocons-1.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/sucres-decoratifs-flocons-de-neige/",
-          "price": 3.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-sucres-decoratifs-cerises",
-      "name": "Sucres Décoratifs – Cerises",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/Reglette-cerises-6.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/sucres-decoratifs-cerises/",
-          "price": 3.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-coffret-decouverte-nomade",
-      "name": "Coffret Découverte Nomade",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/coffret-decouverte-nomade-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/coffret-decouverte-nomade/",
-          "price": 38.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-coffret-decouverte-the",
-      "name": "Coffret Découverte Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/coffret-decouverte-the-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/coffret-decouverte-the/",
-          "price": 45.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-coffret-decouverte-filtre",
-      "name": "Coffret Découverte Filtre",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/coffret-decouverte-filtre-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/coffret-decouverte-filtre/",
-          "price": 40.0,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-coffret-decouverte-espresso",
-      "name": "Coffret Découverte Espresso",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/12/coffret-decouverte-espresso-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/coffret-decouverte-espresso/",
-          "price": 40.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-chocolat-au-lait-46-cacao-et-aux-amandes-15-sans-lecithine-bio-tablette-100g",
-      "name": "Chocolat au lait (46% cacao) et aux amandes 15%, sans lécithine, bio (Tablette 100g)",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/11/Lait-Amandes.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/chocolat-au-lait-46-cacao-et-aux-amandes-15-sans-lecithine-bio-tablette-100g/",
-          "price": 5.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-cauca-colombie-commerce-equitable",
@@ -801,338 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-chocolat-au-lait-46-cacao-et-aux-noisettes-15-sans-lecithine-bio-tablette-100g",
-      "name": "Chocolat au lait (46% cacao) et aux noisettes 15%, sans lécithine, bio (Tablette 100g)",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/lait-noisettes.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/chocolat-au-lait-46-cacao-et-aux-noisettes-15-sans-lecithine-bio-tablette-100g/",
-          "price": 5.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-chocolat-noir-63-a-lorange-15-sans-lecithine-bio-tablette-100g",
-      "name": "Chocolat noir 63% à l’orange 15%, sans lécithine, bio (Tablette 100g)",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/noir-orange.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/chocolat-noir-63-a-lorange-15-sans-lecithine-bio-tablette-100g/",
-          "price": 4.8,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-chocolat-noir-63-aux-amandes-15-sans-lecithine-bio",
-      "name": "Chocolat noir 63% aux amandes 15%, sans lécithine, bio (Tablette 100g)",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/noir-amande.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/chocolat-noir-63-aux-amandes-15-sans-lecithine-bio/",
-          "price": 4.8,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-chocolat-noir-70-de-cacao-sans-lecithine-bio",
-      "name": "Chocolat noir 70 % de cacao, sans lécithine, bio (Tablette 100g)",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/noir70.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/chocolat-noir-70-de-cacao-sans-lecithine-bio/",
-          "price": 4.6,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-infusion-cocktail-dorient-comptoir-francais-du-the",
-      "name": "Infusion Cocktail d’Orient – Comptoir Français Du Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Infusion-Cocktail-dOrient-1.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/infusion-cocktail-dorient-comptoir-francais-du-the/",
-          "price": 5.2,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-the-earl-grey-flower-comptoir-francais-du-the",
-      "name": "Thé Earl Grey Flower – Comptoir Français Du Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Earl-Grey-Flowers-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/the-earl-grey-flower-comptoir-francais-du-the/",
-          "price": 5.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-the-vert-de-coree-le-jardin-oublie-comptoir-francais-du-the",
-      "name": "Thé vert de corée “Le jardin oublié” – Comptoir Français Du Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Le-jardin-oublie-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/the-vert-de-coree-le-jardin-oublie-comptoir-francais-du-the/",
-          "price": 12.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-delicatesse-de-rooibos-et-cafe-par-nina-metayer-comptoir-francais-du-the",
-      "name": "Délicatesse de Rooibos et café par Nina Metayer – Comptoir Français Du Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Delicatesse-de_rooibos-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/delicatesse-de-rooibos-et-cafe-par-nina-metayer-comptoir-francais-du-the/",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-noel-en-blanc-comptoir-francais-du-the",
-      "name": "Thé blanc Noël en Blanc – Comptoir Français Du Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Noel-en-Blanc-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/noel-en-blanc-comptoir-francais-du-the/",
-          "price": 6.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-the-noir-noel-en-alsace-comptoir-francais-du-the",
-      "name": "Thé noir Noël en Alsace – Comptoir Français Du Thé",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/The-noir-Noel-en-Alsace-2.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/the-noir-noel-en-alsace-comptoir-francais-du-the/",
-          "price": 7.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-triunfo-mexique-commerce-equitable",
@@ -1164,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-el-palomar-perou-commerce-equitable",
@@ -1197,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-kitche-guatemala-commerce-equitable",
@@ -1230,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-vert-honduras",
@@ -1263,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-cafe-vert-colombie-huila",
@@ -1296,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     },
     {
       "id": "torrea-drip-cofffee-bag-boite-de-7-sachets",
@@ -1329,206 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-fellow-ode-brew-grinder",
-      "name": "Fellow Ode Brew Grinder",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/07/Fellow-Ode-Brew-Grinder.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/fellow-ode-brew-grinder/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-balance-a-cafe-numerique-fellow-tally-pro-studio",
-      "name": "Balance à café numérique Fellow Tally Pro Studio",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/07/Balance-a-cafe-numerique-Fellow-Tally-Pro-Studio.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/balance-a-cafe-numerique-fellow-tally-pro-studio/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-bouilloire-electrique-a-col-de-cygne-fellow-stagg-ekg",
-      "name": "Bouilloire électrique à col de cygne Fellow Stagg EKG",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/07/Bouilloire-electrique-a-col-de-cygne-Fellow-Stagg-EKG.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/bouilloire-electrique-a-col-de-cygne-fellow-stagg-ekg/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-hario-bouteille-de-cafe-a-filtre-cold-brew",
-      "name": "Hario – Bouteille de café à filtre – Cold Brew",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/07/Hario-Bouteille-de-cafe-a-filtre-Cold-Brew-2.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/hario-bouteille-de-cafe-a-filtre-cold-brew/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-hario-v60-switch",
-      "name": "Hario V60 Switch",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/07/Hario-v60-switch.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/hario-v60-switch/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
-    },
-    {
-      "id": "torrea-aeropress-noir",
-      "name": "AeroPress – Noir",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://torrea.fr/wp-content/uploads/2024/07/Aeropress.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Torrea",
-          "url": "https://torrea.fr/product/aeropress-noir/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:34Z",
-      "lastSeenAt": "2026-09-03T09:53:34Z"
+      "firstSeenAt": "2026-09-03T20:43:54Z",
+      "lastSeenAt": "2026-09-03T20:43:54Z"
     }
   ]
 }

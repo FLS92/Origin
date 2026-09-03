@@ -10,7 +10,7 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:47Z",
+  "scrapedAt": "2026-09-03T20:44:08Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:47Z",
-      "lastSeenAt": "2026-09-03T09:53:47Z"
+      "firstSeenAt": "2026-09-03T20:44:08Z",
+      "lastSeenAt": "2026-09-03T20:44:08Z"
     },
     {
       "id": "cafe-1802-gasharu-rwanda-washed",
@@ -75,12 +75,12 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:47Z",
-      "lastSeenAt": "2026-09-03T09:53:47Z"
+      "firstSeenAt": "2026-09-03T20:44:08Z",
+      "lastSeenAt": "2026-09-03T20:44:08Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
-      "name": "Buhoro - Rwanda - Anaérobic",
+      "name": "Buhoro - Rwanda - Anaérobic / last bags",
       "originCountry": null,
       "originDetail": null,
       "process": null,
@@ -108,41 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:47Z",
-      "lastSeenAt": "2026-09-03T09:53:47Z"
-    },
-    {
-      "id": "cafe-1802-zarza-colombie-honey",
-      "name": "Geisha Pinton -Zarza - Colombie - Extended fermentation",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Zarza_pinton.png?v=1775651607",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café 1802",
-          "url": "https://cafe1802.fr/products/zarza-colombie-honey",
-          "price": 17.5,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:53:47Z",
-      "lastSeenAt": "2026-09-03T09:53:47Z"
+      "firstSeenAt": "2026-09-03T20:44:08Z",
+      "lastSeenAt": "2026-09-03T20:44:08Z"
     }
   ]
 }

@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:52:47Z",
+  "scrapedAt": "2026-09-03T20:43:06Z",
   "products": [
     {
       "id": "la-pelle-cafe-cafe-specialite-rwanda-gatare-titus",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:47Z",
-      "lastSeenAt": "2026-09-03T09:52:47Z"
+      "firstSeenAt": "2026-09-03T20:43:06Z",
+      "lastSeenAt": "2026-09-03T20:43:06Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-nicaragua-geisha-el-paraiso",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:47Z",
-      "lastSeenAt": "2026-09-03T09:52:47Z"
+      "firstSeenAt": "2026-09-03T20:43:06Z",
+      "lastSeenAt": "2026-09-03T20:43:06Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-ethiopie-guji-coba",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:47Z",
-      "lastSeenAt": "2026-09-03T09:52:47Z"
+      "firstSeenAt": "2026-09-03T20:43:06Z",
+      "lastSeenAt": "2026-09-03T20:43:06Z"
     },
     {
       "id": "la-pelle-cafe-cafe-de-specialite-costa-rica-honey",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:47Z",
-      "lastSeenAt": "2026-09-03T09:52:47Z"
+      "firstSeenAt": "2026-09-03T20:43:06Z",
+      "lastSeenAt": "2026-09-03T20:43:06Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-bresil-caparao-santa-rita-2",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:47Z",
-      "lastSeenAt": "2026-09-03T09:52:47Z"
+      "firstSeenAt": "2026-09-03T20:43:06Z",
+      "lastSeenAt": "2026-09-03T20:43:06Z"
     }
   ]
 }

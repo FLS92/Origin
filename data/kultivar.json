@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:40Z",
+  "scrapedAt": "2026-09-03T20:44:01Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:40Z",
-      "lastSeenAt": "2026-09-03T09:53:40Z"
+      "firstSeenAt": "2026-09-03T20:44:01Z",
+      "lastSeenAt": "2026-09-03T20:44:01Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:40Z",
-      "lastSeenAt": "2026-09-03T09:53:40Z"
+      "firstSeenAt": "2026-09-03T20:44:01Z",
+      "lastSeenAt": "2026-09-03T20:44:01Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
@@ -93,7 +93,7 @@
       "roastLevel": null,
       "flavors": null,
       "description": null,
-      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2025/07/BERNARDO-TORRES_PHOTO1.webp",
+      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2025/07/26_DR_CO_BTO_CAS_LAV_01-2.webp",
       "harvestYear": null,
       "retailers": [
         {
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:40Z",
-      "lastSeenAt": "2026-09-03T09:53:40Z"
+      "firstSeenAt": "2026-09-03T20:44:01Z",
+      "lastSeenAt": "2026-09-03T20:44:01Z"
     }
   ]
 }

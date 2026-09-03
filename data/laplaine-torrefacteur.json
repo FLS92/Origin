@@ -10,206 +10,8 @@
     "platform": "shopify",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:51:46Z",
+  "scrapedAt": "2026-09-03T20:42:10Z",
   "products": [
-    {
-      "id": "laplaine-torrefacteur-orange",
-      "name": "ORANGE – Thé noir bio, Oranges du Portugal",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/theorange.jpg?v=1743590420",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/orange",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-jasmin",
-      "name": "JASMIN - MAO JIAN – Floral, Fruité",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/thejasmin.jpg?v=1743592765",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/jasmin",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-coffret-decouverte-thes-3-familles",
-      "name": "COFFRET DÉCOUVERTE THÉ & INFUSION – 3 familles",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/image3thes-DarjeelingJasminCitronnelle.png?v=1783938132",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/coffret-decouverte-thes-3-familles",
-          "price": 28.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-carte-cadeau-laplaine-torrefacteur",
-      "name": "CARTE CADEAU – Laplaine Torréfacteur",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/LogoLaplainefff9ec.png?v=1783946074",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/carte-cadeau-laplaine-torrefacteur",
-          "price": 15.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-coffret-decouverte-3-origines-fruitees",
-      "name": "COFFRET DÉCOUVERTE CAFÉ – 3 Origines fruitées",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/image3cafes.png?v=1783947698",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/coffret-decouverte-3-origines-fruitees",
-          "price": 36.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-hibiscus",
-      "name": "HIBISCUS – Infusion, Acidulée, Fruitée",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_hibiscus.jpg?v=1743588258",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/hibiscus",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
     {
       "id": "laplaine-torrefacteur-boreta-ethiopie",
       "name": "BORETA - ETHIOPIE – Mûre, Camomille, Orange",
@@ -240,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "laplaine-torrefacteur-ruli-rwanda",
@@ -273,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "laplaine-torrefacteur-el-mirador-colombie",
@@ -306,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "laplaine-torrefacteur-santa-isabel",
@@ -339,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "laplaine-torrefacteur-city-blend",
@@ -372,272 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-menthe",
-      "name": "MENTHE – Thé vert bio, Rafraîchissant",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_menthe.jpg?v=1743588259",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/menthe",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-darjeeling",
-      "name": "DARJEELING – Notes de miel",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_darjeeling.jpg?v=1743588257",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/darjeeling",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-citron-vert",
-      "name": "CITRON VERT – Infusion bio, Vanille, Agrumes",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/thecitronvert.jpg?v=1743593523",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/citron-vert",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-rooibos",
-      "name": "ROOÏBOS – Doux, Sans caféine",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_rooibos.jpg?v=1743588258",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/rooibos",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-earl-grey-blue",
-      "name": "EARL GREY – Thé noir bio, Bergamote",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_earl_grey.jpg?v=1743588259",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/earl-grey-blue",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-infusion-fruits-citronnelle",
-      "name": "CITRONNELLE – Infusion bio, Fruitée, Rafraîchissante",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_citronnelle.jpg?v=1743588259",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/infusion-fruits-citronnelle",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-rukeri",
-      "name": "RUKERI - RWANDA – Thé noir bio, Notes caramélisées",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_rukeri.jpg?v=1743588259",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/rukeri",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
-    },
-    {
-      "id": "laplaine-torrefacteur-jeju",
-      "name": "JEJU - CORÉE DU SUD – Thé vert, Douceur sucrée",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/the_jeju.jpg?v=1743588257",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Laplaine Torréfacteur",
-          "url": "https://laplaine.fr/products/jeju",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T09:51:46Z",
-      "lastSeenAt": "2026-09-03T09:51:46Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     }
   ]
 }

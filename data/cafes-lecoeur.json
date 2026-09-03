@@ -10,7 +10,7 @@
     "platform": "odoo",
     "notes": "E-commerce Odoo (module website_sale), pas d'API JSON publique standard — a scraper via parsing HTML des pages /shop."
   },
-  "scrapedAt": "2026-09-03T09:51:45Z",
+  "scrapedAt": "2026-09-03T20:42:10Z",
   "products": [
     {
       "id": "cafes-lecoeur-p174",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "cafes-lecoeur-p175",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "cafes-lecoeur-p177",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "cafes-lecoeur-p176",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "cafes-lecoeur-p179",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "cafes-lecoeur-p178",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     },
     {
       "id": "cafes-lecoeur-p181",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:51:45Z",
-      "lastSeenAt": "2026-09-03T09:51:45Z"
+      "firstSeenAt": "2026-09-03T20:42:10Z",
+      "lastSeenAt": "2026-09-03T20:42:10Z"
     }
   ]
 }

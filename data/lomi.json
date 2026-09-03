@@ -10,7 +10,7 @@
     "platform": "custom-swell",
     "notes": "Next.js SSR, données produits embarquées en JSON dans __NEXT_DATA__ (backend Swell/schema.io), pas de shop direct evident sur mobile mais scrapable en HTTP simple"
   },
-  "scrapedAt": "2026-09-03T09:54:54Z",
+  "scrapedAt": "2026-09-03T20:41:21Z",
   "products": [
     {
       "id": "lomi-cafe-jai-deux-amours",
@@ -45,8 +45,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-cafe-assemblage-il-piccolo",
@@ -82,8 +82,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-la-corda-stretta",
@@ -117,8 +117,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-sur-mesure-shakespeare",
@@ -152,8 +152,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-bobs",
@@ -187,8 +187,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-land-monkeys",
@@ -222,8 +222,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-smesure-coldrip",
@@ -257,8 +257,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-caf-du-prou-smesure-blas",
@@ -292,8 +292,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-caf-de-colombie-smesure-eklo",
@@ -325,8 +325,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-caf-du-prou-s-mesure-cesar-y-georgette",
@@ -360,8 +360,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-french-kiss-eklo",
@@ -395,8 +395,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-beaumier",
@@ -430,8 +430,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-maison-dimanche",
@@ -465,8 +465,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-deli-drinks-urban-red",
@@ -500,8 +500,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-deli-drinks-green-metropolitan",
@@ -535,8 +535,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-le-ritz-comptoir",
@@ -572,8 +572,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-caf-du-prou-las-damas-de-san-ignacio",
@@ -607,8 +607,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-demain-caf-du-honduras-las-capucas",
@@ -635,13 +635,13 @@
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-jai-deux-amours-slection-othman",
@@ -675,8 +675,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-assemblage-s-mesure-rems-coffee-shop",
@@ -712,8 +712,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-caf-jimma-gomma-slection-caf-des-carmes",
@@ -747,8 +747,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-don-alejo",
@@ -786,8 +786,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-jimma-gomma",
@@ -822,8 +822,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-capucas-bio",
@@ -859,8 +859,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-gera-forest-honey-bio",
@@ -895,8 +895,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-cafe-bresil-dois-irmaos",
@@ -932,8 +932,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-daterra",
@@ -970,8 +970,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-cafe-deca-swiss-water-process",
@@ -1005,8 +1005,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-kinini",
@@ -1043,8 +1043,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-cocatu",
@@ -1081,8 +1081,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-seggali-capsules-sur-mesure",
@@ -1116,8 +1116,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-dosettes-ese",
@@ -1151,8 +1151,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     },
     {
       "id": "lomi-capsules",
@@ -1186,8 +1186,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:54Z",
-      "lastSeenAt": "2026-09-03T09:54:54Z"
+      "firstSeenAt": "2026-09-03T20:41:21Z",
+      "lastSeenAt": "2026-09-03T20:41:21Z"
     }
   ]
 }

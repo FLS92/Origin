@@ -10,7 +10,7 @@
     "platform": "wizishop",
     "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
   },
-  "scrapedAt": "2026-09-03T09:54:11Z",
+  "scrapedAt": "2026-09-03T20:44:31Z",
   "products": [
     {
       "id": "kawaty-1982",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-alta-mogiana",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-bresil-mogiana",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-bridazul-nicaragua",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-cafe-aromatise-caramel",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-cafe-aromatise-noisette",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-cafe-aromatise-vanille",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-colombie-sofia",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-guatemala-los-volcanes",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-honduras-lenca",
@@ -339,8 +339,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-kawaty-blend",
@@ -372,8 +372,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-melange-italien",
@@ -405,8 +405,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-mexique-chocaman",
@@ -438,8 +438,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-perou-sueno-decafeine",
@@ -471,8 +471,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-mokaharrar",
@@ -504,8 +504,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-sidamo-moka",
@@ -537,8 +537,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-nicaragua",
@@ -570,8 +570,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-perou-palomar",
@@ -603,8 +603,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-costarica-san-rafael-tarrazu",
@@ -636,8 +636,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     },
     {
       "id": "kawaty-ethiopie-chancho-sidama",
@@ -669,8 +669,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:54:11Z",
-      "lastSeenAt": "2026-09-03T09:54:11Z"
+      "firstSeenAt": "2026-09-03T20:44:31Z",
+      "lastSeenAt": "2026-09-03T20:44:31Z"
     }
   ]
 }

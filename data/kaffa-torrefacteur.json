@@ -10,7 +10,7 @@
     "platform": "woocommerce",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:52:36Z",
+  "scrapedAt": "2026-09-03T20:42:56Z",
   "products": [
     {
       "id": "kaffa-torrefacteur-gaia",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:36Z",
-      "lastSeenAt": "2026-09-03T09:52:36Z"
+      "firstSeenAt": "2026-09-03T20:42:56Z",
+      "lastSeenAt": "2026-09-03T20:42:56Z"
     },
     {
       "id": "kaffa-torrefacteur-colombie",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:36Z",
-      "lastSeenAt": "2026-09-03T09:52:36Z"
+      "firstSeenAt": "2026-09-03T20:42:56Z",
+      "lastSeenAt": "2026-09-03T20:42:56Z"
     },
     {
       "id": "kaffa-torrefacteur-rwanda",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:36Z",
-      "lastSeenAt": "2026-09-03T09:52:36Z"
+      "firstSeenAt": "2026-09-03T20:42:56Z",
+      "lastSeenAt": "2026-09-03T20:42:56Z"
     },
     {
       "id": "kaffa-torrefacteur-perou",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:52:36Z",
-      "lastSeenAt": "2026-09-03T09:52:36Z"
+      "firstSeenAt": "2026-09-03T20:42:56Z",
+      "lastSeenAt": "2026-09-03T20:42:56Z"
     }
   ]
 }

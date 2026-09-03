@@ -1,0 +1,1358 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Origin — Découvrez et notez vos cafés</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#0d1b2e; --panel:#152a42; --panel-light:#1e3654;
+    --gold:#c9973e; --gold-soft:#e3c078; --sage:#6b8f5e; --sage-soft:#8fae82;
+    --cream:#eef1f6; --muted:#8fa0b8; --line:rgba(238,241,246,0.12); --danger:#c96a5a;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{ background:var(--ink); color:var(--cream); font-family:'Inter',sans-serif; min-height:100vh; -webkit-font-smoothing:antialiased; }
+  h1,h2,h3,.serif{ font-family:'Fraunces',serif; }
+  .app{ max-width:1100px; margin:0 auto; padding:28px 20px 80px; }
+
+  header.top{ display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:16px; flex-wrap:wrap; }
+  .brand{ display:flex; align-items:baseline; gap:10px; }
+  .brand .mark{ font-family:'Fraunces',serif; font-weight:700; font-size:28px; letter-spacing:-0.5px; }
+  .brand .mark span{ color:var(--gold); }
+  .brand .tag{ color:var(--muted); font-size:13px; }
+
+  nav.tabs{ display:flex; gap:4px; background:var(--panel); padding:4px; border-radius:10px; }
+  nav.tabs button{ background:none; border:none; color:var(--muted); font-family:'Inter',sans-serif; font-size:14px; font-weight:600; padding:9px 16px; border-radius:7px; cursor:pointer; transition:background .15s, color .15s; }
+  nav.tabs button.active{ background:var(--gold); color:#0d1b2e; }
+  nav.tabs button:not(.active):hover{ color:var(--cream); }
+
+  .roaster-filter{ display:flex; gap:8px; margin-bottom:18px; flex-wrap:wrap; }
+  .rf-chip{ background:var(--panel); border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:13px; font-weight:600; padding:8px 14px; border-radius:20px; cursor:pointer; }
+  .rf-chip.active{ background:var(--gold); color:#0d1b2e; border-color:var(--gold); }
+  .rf-chip:hover:not(.active){ border-color:var(--gold); color:var(--cream); }
+
+  .filters-panel{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin-bottom:20px; }
+  .filters-header{ display:flex; align-items:center; justify-content:space-between; margin-bottom:14px; }
+  .filters-title{ font-family:'Fraunces',serif; font-weight:600; font-size:15px; color:var(--gold-soft); }
+  .filter-group{ margin-bottom:14px; }
+  .filter-group:last-child{ margin-bottom:0; }
+  .fg-label{ display:block; font-size:11px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:.5px; margin-bottom:8px; }
+  .chips{ display:flex; gap:8px; flex-wrap:wrap; }
+  .filter-row-inline{ display:flex; gap:24px; flex-wrap:wrap; }
+  .filter-row-inline .filter-group{ flex:1; min-width:180px; }
+  #filter-country, #filter-price-min, #filter-price-max{
+    background:var(--panel-light); border:1px solid var(--line); color:var(--cream);
+    font-family:'Inter',sans-serif; font-size:13.5px; padding:9px 11px; border-radius:8px; outline:none; width:100%;
+  }
+  #filter-price-min, #filter-price-max{ width:100%; }
+  #filter-country:focus, #filter-price-min:focus, #filter-price-max:focus{ border-color:var(--gold); }
+
+  .search-row{ display:flex; gap:10px; margin-bottom:16px; align-items:stretch; }
+  .search-row .search{ margin-bottom:0; }
+  .search{ display:flex; align-items:center; gap:10px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:12px 16px; flex:1; min-width:0; margin-bottom:24px; }
+  .search input{ flex:1; background:none; border:none; outline:none; color:var(--cream); font-family:'Inter',sans-serif; font-size:15px; min-width:0; }
+  .search input::placeholder{ color:var(--muted); }
+  .search svg{ flex-shrink:0; opacity:.6; }
+
+  .filters-toggle{
+    display:flex; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--line);
+    color:var(--cream); font-family:'Inter',sans-serif; font-size:14px; font-weight:600; padding:12px 16px;
+    border-radius:10px; cursor:pointer; white-space:nowrap; flex-shrink:0; position:relative;
+  }
+  .filters-toggle:hover{ border-color:var(--gold); }
+  .filters-toggle.active{ border-color:var(--gold); background:var(--panel-light); }
+  .filters-toggle svg{ opacity:.8; flex-shrink:0; }
+  .filters-toggle .chevron{ transition:transform .15s; }
+  .filters-toggle.active .chevron{ transform:rotate(180deg); }
+  .filter-badge{
+    background:var(--gold); color:#0d1b2e; font-size:11px; font-weight:700; border-radius:20px;
+    padding:1px 7px; min-width:18px; text-align:center; line-height:1.5;
+  }
+  .sort-select{
+    background:var(--panel); border:1px solid var(--line); color:var(--cream);
+    font-family:'Inter',sans-serif; font-size:14px; font-weight:600; padding:12px 14px;
+    border-radius:10px; cursor:pointer; flex-shrink:0; outline:none;
+  }
+  .sort-select:hover, .sort-select:focus{ border-color:var(--gold); }
+  @media (max-width:640px){ .search-row{ flex-wrap:wrap; } .sort-select{ flex:1; } }
+
+  .grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:16px; }
+  .card{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px; cursor:pointer; transition:border-color .15s, transform .15s; display:flex; flex-direction:column; gap:12px; }
+  .card:hover{ border-color:var(--gold); transform:translateY(-2px); }
+  .roast-dial{ display:flex; align-items:center; gap:10px; }
+  .dial-arc{ width:46px; height:46px; flex-shrink:0; }
+  .roast-label{ font-size:11px; color:var(--muted); }
+  .roast-name{ font-size:13px; font-weight:600; color:var(--gold-soft); }
+  .card .roaster-tag{ font-size:11px; color:var(--muted); text-transform:uppercase; letter-spacing:.5px; font-weight:700; }
+  .card h3{ margin:0; font-size:18px; font-weight:600; line-height:1.25; }
+  .card .origin{ font-size:13px; color:var(--muted); }
+  .card .flavors{ font-size:13px; color:var(--sage-soft); }
+  .card-foot{ display:flex; align-items:center; justify-content:space-between; margin-top:auto; padding-top:8px; border-top:1px solid var(--line); }
+  .price{ font-weight:700; font-family:'Fraunces',serif; font-size:15px; }
+  .retailer-count{ font-size:11px; padding:3px 9px; border-radius:20px; font-weight:600; white-space:nowrap; background:rgba(107,143,94,.18); color:var(--sage-soft); }
+  .retailer-count.single{ background:rgba(184,168,144,.15); color:var(--muted); }
+
+  .empty{ text-align:center; padding:60px 20px; color:var(--muted); }
+  .empty h3{ color:var(--cream); margin-bottom:8px; }
+
+  .overlay{ position:fixed; inset:0; background:rgba(15,10,7,.72); display:none; align-items:flex-start; justify-content:center; padding:40px 16px; overflow-y:auto; z-index:50; }
+  .overlay.open{ display:flex; }
+  .detail{ background:var(--panel); border:1px solid var(--line); border-radius:18px; max-width:640px; width:100%; padding:32px; position:relative; }
+  .detail .close{ position:absolute; top:18px; right:18px; background:var(--panel-light); border:none; color:var(--cream); width:32px; height:32px; border-radius:50%; cursor:pointer; font-size:16px; }
+  .detail .roaster-line{ font-size:13px; color:var(--muted); margin-bottom:6px; }
+  .detail .roaster-line a{ color:var(--gold-soft); text-decoration:none; }
+  .detail .roaster-line a:hover{ text-decoration:underline; }
+  .detail h2{ margin:0 0 4px; font-size:26px; }
+  .detail .origin{ color:var(--muted); font-size:14px; margin-bottom:20px; }
+
+  .profile-row{ display:flex; gap:24px; align-items:center; margin-bottom:22px; flex-wrap:wrap; }
+  .profile-row .dial-arc{ width:60px; height:60px; }
+  .bars{ flex:1; min-width:180px; display:flex; flex-direction:column; gap:8px; }
+  .bar-item{ display:flex; align-items:center; gap:10px; }
+  .bar-item .lbl{ width:70px; font-size:12px; color:var(--muted); flex-shrink:0; }
+  .bar-track{ flex:1; height:6px; background:var(--panel-light); border-radius:4px; overflow:hidden; }
+  .bar-fill{ height:100%; background:var(--gold); border-radius:4px; }
+  .bar-val{ font-size:11.5px; color:var(--muted); width:70px; flex-shrink:0; text-align:right; }
+
+  .desc{ font-size:14.5px; line-height:1.65; color:var(--cream); margin-bottom:20px; }
+  .meta-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px; }
+  .meta-item{ background:var(--panel-light); border-radius:10px; padding:12px 14px; }
+  .meta-item .lbl{ font-size:11px; color:var(--muted); margin-bottom:3px; }
+  .meta-item .val{ font-size:13.5px; font-weight:600; }
+  .meta-item .val.unavailable{ color:var(--muted); font-weight:500; font-style:italic; }
+
+  .retailers-box{ margin-bottom:22px; }
+  .retailers-box .rb-title{ font-size:13px; font-weight:700; color:var(--gold-soft); margin-bottom:10px; }
+  .retailer-row{ display:flex; align-items:center; justify-content:space-between; background:var(--panel-light); border-radius:10px; padding:12px 14px; margin-bottom:8px; gap:12px; }
+  .retailer-row .rr-left{ display:flex; flex-direction:column; }
+  .retailer-row .rr-site{ font-weight:700; font-size:14px; }
+  .retailer-row .rr-note{ font-size:11.5px; color:var(--muted); }
+  .retailer-row .rr-price{ font-family:'Fraunces',serif; font-weight:700; font-size:16px; }
+  .retailer-row a.rr-link{ background:var(--gold); color:#0d1b2e; text-decoration:none; font-weight:700; font-size:12.5px; padding:8px 14px; border-radius:8px; white-space:nowrap; }
+  .retailer-row a.rr-link:hover{ background:var(--gold-soft); }
+  .currency-note{ font-size:11px; color:var(--muted); margin-top:2px; }
+
+  .community-box{ background:var(--panel-light); border-radius:12px; padding:16px 18px; margin-bottom:22px; }
+  .community-box .cb-head{ display:flex; align-items:center; justify-content:space-between; margin-bottom:10px; }
+  .community-box .cb-title{ font-size:13px; font-weight:700; color:var(--gold-soft); }
+  .avg-rating{ display:flex; align-items:center; gap:6px; font-size:13px; color:var(--muted); }
+  .avg-rating .stars-static{ color:var(--gold); letter-spacing:1px; }
+  .review-item{ border-top:1px solid var(--line); padding:10px 0; font-size:13px; }
+  .review-item:first-child{ border-top:none; padding-top:0; }
+  .review-item .rv-head{ display:flex; justify-content:space-between; color:var(--muted); font-size:11.5px; margin-bottom:3px; }
+  .review-item .rv-stars{ color:var(--gold); }
+  .review-item .rv-note{ color:var(--cream); }
+
+  button.primary{ background:var(--gold); color:#0d1b2e; border:none; font-family:'Inter',sans-serif; font-weight:700; font-size:14px; padding:12px 22px; border-radius:9px; cursor:pointer; transition:background .15s; }
+  button.primary:hover{ background:var(--gold-soft); }
+  button.primary:disabled{ background:var(--sage); cursor:default; }
+  button.danger-link{ background:none; border:none; color:var(--muted); font-size:12px; cursor:pointer; text-decoration:underline; }
+  button.danger-link:hover{ color:#d99a89; }
+
+  .privacy-box{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin-bottom:20px; display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; }
+  .privacy-box .pb-text{ flex:1; min-width:220px; }
+  .privacy-box .pb-title{ font-weight:700; font-size:14.5px; margin-bottom:4px; }
+  .privacy-box .pb-sub{ font-size:12px; color:var(--muted); line-height:1.5; }
+  .switch{ position:relative; display:inline-block; width:46px; height:26px; flex-shrink:0; }
+  .switch input{ opacity:0; width:0; height:0; }
+  .switch .slider{ position:absolute; cursor:pointer; inset:0; background:var(--panel-light); border:1px solid var(--line); border-radius:26px; transition:.2s; }
+  .switch .slider:before{ position:absolute; content:""; height:18px; width:18px; left:3px; top:3px; background:var(--muted); border-radius:50%; transition:.2s; }
+  .switch input:checked + .slider{ background:var(--sage); border-color:var(--sage); }
+  .switch input:checked + .slider:before{ background:var(--cream); transform:translateX(20px); }
+
+  .lib-entry{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:20px; margin-bottom:14px; }
+  .stats-row{ display:grid; grid-template-columns:repeat(4,1fr); gap:12px; margin-bottom:18px; }
+  .stat-box{ background:var(--panel); border:1px solid var(--line); border-radius:12px; padding:14px 16px; text-align:center; display:flex; flex-direction:column; align-items:center; }
+  .stat-box .stat-lbl{ font-size:10.5px; color:var(--muted); text-transform:uppercase; letter-spacing:.4px; margin-bottom:8px; order:-1; }
+  .stat-box .stat-val{ font-family:'Fraunces',serif; font-weight:700; font-size:20px; color:var(--gold-soft); }
+  .top3-list{ list-style:none; margin:0; padding:0; width:100%; }
+  .top3-list li{ font-size:12.5px; color:var(--cream); display:flex; align-items:baseline; justify-content:center; gap:6px; padding:2px 0; }
+  .top3-rank{ font-family:'Fraunces',serif; font-weight:700; color:var(--gold); font-size:12px; width:14px; flex-shrink:0; }
+  .top3-count{ color:var(--muted); font-size:11px; }
+  .top3-empty{ color:var(--muted); font-size:12.5px; }
+  @media (max-width:560px){ .stats-row{ grid-template-columns:1fr 1fr; } }
+
+  .lib-subtabs{ display:flex; align-items:center; gap:8px; margin-bottom:16px; }
+  .lib-subtab{ background:none; border:none; color:var(--muted); font-family:'Inter',sans-serif; font-size:14px; font-weight:600; padding:8px 4px; cursor:pointer; border-bottom:2px solid transparent; }
+  .lib-subtab.active{ color:var(--cream); border-bottom-color:var(--gold); }
+  .lib-subtab:hover:not(.active){ color:var(--cream); }
+
+  .wish-row{
+    background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:14px 18px; margin-bottom:10px;
+    display:flex; align-items:center; justify-content:space-between; gap:14px; cursor:pointer; transition:border-color .15s;
+  }
+  .wish-row:hover{ border-color:var(--gold); }
+  .wish-row .wr-left{ display:flex; align-items:center; gap:12px; min-width:0; }
+  .wish-row .wr-left .roaster{ font-size:11px; color:var(--muted); }
+  .wish-row .wr-left h3{ margin:2px 0 0; font-size:15px; font-weight:600; }
+  .wish-row .wr-actions{ display:flex; gap:8px; flex-shrink:0; }
+  .btn-small{ font-family:'Inter',sans-serif; font-size:12px; font-weight:600; padding:8px 12px; border-radius:8px; cursor:pointer; white-space:nowrap; }
+  .btn-small.primary{ background:var(--gold); color:var(--ink); border:none; }
+  .btn-small.ghost{ background:none; border:1px solid var(--line); color:var(--cream); }
+  .btn-small.ghost:hover{ border-color:var(--gold); }
+
+  .brew-history{ margin-top:22px; }
+  .brew-history .bh-title{ font-size:13px; font-weight:700; color:var(--gold-soft); margin-bottom:10px; }
+  .brew-log{ background:var(--panel-light); border-radius:10px; padding:12px 14px; margin-bottom:8px; font-size:12.5px; }
+  .brew-log .bl-date{ color:var(--muted); font-size:11px; margin-bottom:4px; }
+  .brew-log .bl-line{ color:var(--cream); }
+  .brew-log .bl-notes{ color:var(--muted); margin-top:4px; font-style:italic; }
+
+  .wishlist-btn{
+    background:none; border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif;
+    font-weight:600; font-size:13px; padding:12px 18px; border-radius:9px; cursor:pointer; width:100%; margin-top:10px;
+  }
+  .wishlist-btn:hover{ border-color:var(--gold); }
+  .wishlist-btn.active{ border-color:var(--gold); color:var(--gold-soft); }
+
+  .community-intro{ margin-bottom:22px; }
+  .community-intro h2{ font-size:22px; margin:0 0 8px; }
+  .community-intro p{ color:var(--muted); font-size:13.5px; margin:0; max-width:520px; line-height:1.6; }
+
+  .trend-row{
+    background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:14px 18px; margin-bottom:10px;
+    display:flex; align-items:center; gap:14px; cursor:pointer; transition:border-color .15s;
+  }
+  .trend-row:hover{ border-color:var(--gold); }
+  .trend-rank{ font-family:'Fraunces',serif; font-weight:700; font-size:22px; color:var(--gold); width:28px; flex-shrink:0; text-align:center; }
+  .trend-left{ display:flex; align-items:center; gap:12px; flex:1; min-width:0; }
+  .trend-left .roaster{ font-size:11px; color:var(--muted); }
+  .trend-left h3{ margin:2px 0 0; font-size:15px; font-weight:600; }
+  .trend-activity{ font-size:12px; color:var(--sage-soft); font-weight:600; white-space:nowrap; flex-shrink:0; }
+  .trend-rating{ font-size:12.5px; color:var(--muted); white-space:nowrap; flex-shrink:0; }
+  .trend-rating .stars-static{ color:var(--gold); letter-spacing:1px; }
+  @media (max-width:640px){
+    .trend-row{ flex-wrap:wrap; }
+    .trend-rating, .trend-activity{ margin-left:42px; }
+  }
+
+  .lib-summary{
+    background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:14px 18px; margin-bottom:10px;
+    display:flex; align-items:center; justify-content:space-between; gap:14px; transition:border-color .15s;
+  }
+  .lib-summary:hover{ border-color:var(--gold); }
+  .ls-left{ display:flex; align-items:center; gap:12px; min-width:0; cursor:pointer; }
+  .ls-chev{ cursor:pointer; }
+  .ls-left .roaster{ font-size:11px; color:var(--muted); }
+  .ls-left h3{ margin:2px 0 0; font-size:15px; font-weight:600; }
+  .ls-right{ display:flex; align-items:center; gap:10px; flex-shrink:0; }
+  .ls-stars{ color:var(--gold); font-size:14px; letter-spacing:1px; }
+  .lib-head{ display:flex; justify-content:space-between; align-items:flex-start; gap:12px; margin-bottom:14px; flex-wrap:wrap; }
+  .lib-head h3{ margin:0 0 3px; font-size:18px; }
+  .lib-head .roaster{ font-size:12px; color:var(--muted); }
+  .stars{ display:flex; gap:3px; }
+  .stars button{ background:none; border:none; cursor:pointer; font-size:20px; color:var(--panel-light); padding:0; line-height:1; }
+  .stars button.filled{ color:var(--gold); }
+  .field-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px; }
+  .field{ display:flex; flex-direction:column; gap:5px; }
+  .field label{ font-size:11px; color:var(--muted); font-weight:600; }
+  .field select, .field textarea, .field input[type=text]{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px; padding:9px 11px; border-radius:8px; outline:none; }
+  .field select:focus, .field textarea:focus, .field input:focus{ border-color:var(--gold); }
+  .field textarea{ resize:vertical; min-height:64px; font-family:'Inter',sans-serif; }
+  .field.full{ grid-column:1 / -1; }
+  .lib-foot{ display:flex; justify-content:space-between; align-items:center; margin-top:10px; }
+  .saved-tag{ font-size:11px; color:var(--sage-soft); opacity:0; transition:opacity .3s; }
+  .saved-tag.show{ opacity:1; }
+
+  footer.hint{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:40px; line-height:1.7; }
+
+  .lux-hero{
+    position:relative; overflow:hidden; border-radius:18px; min-height:520px;
+    display:flex; align-items:center; justify-content:center; margin-bottom:10px;
+    border:1px solid var(--line);
+  }
+  .lux-hero .bean-texture{ position:absolute; inset:0; width:100%; height:100%; }
+  .lux-content{ position:relative; z-index:2; text-align:center; padding:40px 24px; }
+  .lux-logo{
+    font-family:'Fraunces',serif; font-weight:600; font-size:44px; letter-spacing:2px;
+    color:var(--cream); text-transform:uppercase;
+  }
+  .lux-logo span{ color:var(--gold); }
+  .lux-rule{ width:60px; height:1px; background:var(--gold); margin:22px auto; opacity:.8; }
+  .lux-tagline{
+    font-family:'Fraunces',serif; font-style:italic; font-weight:400; font-size:19px;
+    color:var(--cream); opacity:.9; margin:0 0 36px; letter-spacing:.3px;
+  }
+  .lux-actions{ display:flex; gap:16px; justify-content:center; flex-wrap:wrap; }
+  .btn-lux-outline, .btn-lux-filled{
+    font-family:'Inter',sans-serif; font-size:13px; font-weight:600; letter-spacing:1px; text-transform:uppercase;
+    padding:14px 32px; border-radius:2px; cursor:pointer; transition:all .2s;
+  }
+  .btn-lux-outline{ background:none; border:1px solid var(--gold); color:var(--cream); }
+  .btn-lux-outline:hover{ background:rgba(201,151,62,0.1); }
+  .btn-lux-filled{ background:var(--gold); border:1px solid var(--gold); color:var(--ink); }
+  .btn-lux-filled:hover{ background:var(--gold-soft); }
+  .lux-toast{
+    position:fixed; bottom:24px; left:50%; transform:translateX(-50%) translateY(20px);
+    background:var(--panel-light); border:1px solid var(--gold); color:var(--cream);
+    padding:12px 22px; border-radius:8px; font-size:13px; opacity:0; pointer-events:none;
+    transition:opacity .25s, transform .25s; z-index:100; white-space:nowrap;
+  }
+  .lux-toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
+  @media (max-width:560px){
+    .lux-hero{ min-height:440px; }
+    .lux-logo{ font-size:32px; }
+    .lux-tagline{ font-size:16px; }
+    .lux-toast{ white-space:normal; text-align:center; max-width:85vw; }
+  }
+
+  @media (max-width:560px){
+    .field-grid{ grid-template-columns:1fr; } .meta-grid{ grid-template-columns:1fr; }
+    header.top{ flex-direction:column; align-items:flex-start; } .privacy-box{ flex-direction:column; align-items:flex-start; }
+    .retailer-row{ flex-wrap:wrap; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <span class="mark">Ori<span>gi</span>n</span>
+      <span class="tag">votre bibliothèque de cafés</span>
+    </div>
+    <nav class="tabs">
+      <button id="tab-home" class="active">Accueil</button>
+      <button id="tab-explore">Explorer</button>
+      <button id="tab-library">Ma bibliothèque</button>
+      <button id="tab-community">Communauté</button>
+    </nav>
+  </header>
+
+  <div id="view-home">
+    <div class="lux-hero">
+      <svg class="bean-texture" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <pattern id="beanPattern" x="0" y="0" width="90" height="70" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
+            <g opacity="0.5">
+              <ellipse cx="18" cy="16" rx="13" ry="8.5" fill="none" stroke="#c9d2df" stroke-width="1.1" transform="rotate(-25 18 16)"/>
+              <path d="M9 16 Q18 11 27 16" stroke="#c9d2df" stroke-width="1" fill="none" transform="rotate(-25 18 16)"/>
+            </g>
+            <g opacity="0.3">
+              <ellipse cx="62" cy="42" rx="15" ry="9.5" fill="none" stroke="#c9d2df" stroke-width="1.1" transform="rotate(35 62 42)"/>
+              <path d="M51 42 Q62 36 73 42" stroke="#c9d2df" stroke-width="1" fill="none" transform="rotate(35 62 42)"/>
+            </g>
+            <g opacity="0.4">
+              <ellipse cx="30" cy="58" rx="11" ry="7" fill="none" stroke="#c9d2df" stroke-width="1" transform="rotate(60 30 58)"/>
+              <path d="M22 58 Q30 54 38 58" stroke="#c9d2df" stroke-width="0.9" fill="none" transform="rotate(60 30 58)"/>
+            </g>
+          </pattern>
+          <radialGradient id="vignette" cx="50%" cy="35%" r="75%">
+            <stop offset="0%" stop-color="#0d1b2e" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#0d1b2e" stop-opacity="0.95"/>
+          </radialGradient>
+        </defs>
+        <rect width="100%" height="100%" fill="#13233a"/>
+        <rect width="100%" height="100%" fill="url(#beanPattern)"/>
+        <rect width="100%" height="100%" fill="url(#vignette)"/>
+      </svg>
+
+      <div class="lux-content">
+        <div class="lux-logo">Ori<span>gi</span>n</div>
+        <div class="lux-rule"></div>
+        <p class="lux-tagline">Le carnet des amateurs de café de spécialité</p>
+        <div class="lux-actions">
+          <button class="btn-lux-outline" id="btn-login">Se connecter</button>
+          <button class="btn-lux-filled" id="btn-signup">Créer un compte</button>
+        </div>
+      </div>
+    </div>
+    <div class="lux-toast" id="lux-toast">La création de compte sera disponible prochainement.</div>
+  </div>
+
+  <div id="view-explore" style="display:none;">
+    <div class="search-row">
+      <div class="search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-input" type="text" placeholder="Chercher un café, une origine, une note aromatique…">
+      </div>
+      <button id="filters-toggle" class="filters-toggle">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"/></svg>
+        <span>Filtres</span>
+        <span class="filter-badge" id="filter-badge" style="display:none;">0</span>
+        <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <select id="sort-select" class="sort-select">
+        <option value="relevance">Trier par…</option>
+        <option value="price-asc">Prix croissant</option>
+        <option value="price-desc">Prix décroissant</option>
+        <option value="score-desc">Score SCA</option>
+        <option value="rating-desc">Note communauté</option>
+        <option value="name-asc">Nom (A-Z)</option>
+      </select>
+    </div>
+    <div class="filters-panel" id="filters-panel" style="display:none;">
+      <div class="filters-header">
+        <span class="filters-title">Filtres</span>
+        <button id="reset-filters" class="danger-link">Réinitialiser</button>
+      </div>
+      <div class="filter-group"><span class="fg-label">Torréfacteur</span><div class="chips" id="filter-roaster"></div></div>
+      <div class="filter-group"><span class="fg-label">Méthode</span><div class="chips" id="filter-usage"></div></div>
+      <div class="filter-group"><span class="fg-label">Process</span><div class="chips" id="filter-process"></div></div>
+      <div class="filter-group"><span class="fg-label">Note de la communauté</span><div class="chips" id="filter-rating"></div></div>
+      <div class="filter-row-inline">
+        <div class="filter-group"><span class="fg-label">Pays</span>
+          <select id="filter-country"><option value="all">Tous les pays</option></select>
+        </div>
+        <div class="filter-group"><span class="fg-label">Prix (€, à partir de)</span>
+          <div style="display:flex; gap:8px;">
+            <input type="number" id="filter-price-min" placeholder="Min" min="0">
+            <input type="number" id="filter-price-max" placeholder="Max" min="0">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="grid" id="coffee-grid"></div>
+  </div>
+
+  <div id="view-library" style="display:none;">
+    <div class="search">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="library-search-input" type="text" placeholder="Chercher dans ma bibliothèque…">
+    </div>
+
+    <div class="stats-row" id="stats-row"></div>
+
+    <div class="lib-subtabs">
+      <button id="subtab-tasted" class="lib-subtab active">Dégustés</button>
+      <button id="subtab-wishlist" class="lib-subtab">À essayer</button>
+      <button id="export-csv" class="danger-link" style="margin-left:auto;">Exporter (CSV)</button>
+    </div>
+
+    <div id="view-library-tasted">
+      <div class="privacy-box">
+        <div class="pb-text">
+          <div class="pb-title">Rendre ma bibliothèque publique</div>
+          <div class="pb-sub">Que ce soit activé ou non, ta note compte toujours dans la moyenne de chaque café. Si tu actives cette option, ta méthode de préparation, ta recette et tes notes de dégustation deviennent visibles par les autres utilisateurs de cette démo (de façon anonyme).</div>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="privacy-toggle">
+          <span class="slider"></span>
+        </label>
+      </div>
+      <div id="library-list"></div>
+    </div>
+
+    <div id="view-library-wishlist" style="display:none;">
+      <div id="wishlist-list"></div>
+    </div>
+  </div>
+
+  <div id="view-community" style="display:none;">
+    <div class="community-intro">
+      <h2 class="serif">Tendances de la semaine</h2>
+      <p>Les cafés les plus actifs sur Origin ces 7 derniers jours — notes et avis confondus, tous utilisateurs de la démo.</p>
+    </div>
+    <div id="trending-list"></div>
+  </div>
+
+  <footer class="hint" id="data-footer">
+    Chargement des informations sur les données…
+  </footer>
+</div>
+
+<div class="overlay" id="overlay">
+  <div class="detail" id="detail-content"></div>
+</div>
+
+<script>
+const NA = 'Indisponible';
+function na(v){ return (v===NA || v===undefined || v===null || v===''); }
+
+// Chargées au démarrage depuis coffees-data.json (généré par
+// scripts/build_app_data.py à partir des scrapers) — voir loadCoffeeData().
+let ROASTERS = {};
+let COFFEES = [];
+let dataGeneratedAt = null;
+
+async function loadCoffeeData(){
+  const res = await fetch('coffees-data.json', {cache:'no-store'});
+  if(!res.ok) throw new Error('coffees-data.json introuvable ('+res.status+')');
+  const data = await res.json();
+  ROASTERS = data.roasters;
+  COFFEES = data.coffees;
+  dataGeneratedAt = data.generatedAt;
+}
+
+function updateDataFooter(){
+  const el = document.getElementById('data-footer');
+  if(!el) return;
+  const roasterCount = Object.keys(ROASTERS).length;
+  const coffeeCount = COFFEES.length;
+  const dateStr = dataGeneratedAt ? new Date(dataGeneratedAt).toLocaleDateString('fr-FR', {day:'numeric', month:'long', year:'numeric'}) : 'date inconnue';
+  el.innerHTML = `${coffeeCount} cafés référencés chez ${roasterCount} torréfacteurs. Les champs non trouvés affichent "Indisponible". Données scrapées automatiquement, dernière mise à jour le ${dateStr}.`;
+}
+
+// Méthode de préparation (Filtre/Espresso/Omni), quand le torréfacteur la
+// classe explicitement — champ par café (c.usage), plus de map par id.
+function getUsage(c){ return c.usage || NA; }
+
+// Pays d'origine — champ par café (c.originCountry), plus de map par id.
+function getCountry(c){ return c.originCountry || NA; }
+
+function parsePriceEUR(c){
+  for(const rt of c.retailers){
+    if(rt.price && rt.price.includes('€')){
+      const n = parseFloat(rt.price.replace('€','').replace(',','.').trim());
+      if(!isNaN(n)) return n;
+    }
+  }
+  return null;
+}
+
+function logoBadge(roasterId, size){
+  const r = ROASTERS[roasterId];
+  const initials = {tanat:'T', dak:'DAK', syra:'S'}[roasterId] || r.name[0];
+  const bg = {tanat:'#c1652f', dak:'#2f8f9e', syra:'#9d5a9e'}[roasterId] || 'var(--panel-light)';
+  const fontSize = initials.length > 1 ? Math.round(size*0.32) : Math.round(size*0.42);
+  return `<div title="${r.name}" style="width:${size}px; height:${size}px; border-radius:50%; background:${bg}; border:1px solid var(--line); display:flex; align-items:center; justify-content:center; flex-shrink:0; font-family:'Fraunces',serif; font-weight:700; color:var(--cream); font-size:${fontSize}px; letter-spacing:.5px;">${initials}</div>`;
+}
+
+function processCategory(process){
+  if(na(process)) return NA;
+  const p = process.toLowerCase();
+  if(p.includes('levure') || p.includes('inoculat') || p.includes('yeast')) return 'Co-fermenté';
+  if(p.includes('anaérobie') || p.includes('anaerobic')) return 'Anaérobie';
+  if(p.includes('honey')) return 'Honey';
+  if(p.includes('lavé') || p.includes('lavado') || p.includes('washed')) return 'Lavé';
+  if(p.includes('naturel') || p.includes('natural')) return 'Naturel';
+  return 'Autre';
+}
+
+
+const QUAL_PCT = {'Faible':20,'Délicat':30,'Moyenne':50,'Moyen':50,'Vive':75,'Élevée':85,'Soyeux':55,'Liquoreux':80,'Rond':70,'Intense':85,'Moyen-élevé':65,'Moyenne-élevée':70,'Moyen-léger':40};
+
+function cheapestLabel(c){
+  const prices = c.retailers.map(r=>r.price);
+  if(prices.length===1) return prices[0];
+  return prices[0] + ' – ' + prices[prices.length-1];
+}
+
+const BREW_METHODS = ['V60','Espresso','AeroPress','Hario Switch','Chemex','Cafetière à piston','Moka','Cold Brew'];
+const GRIND_MIN = 0, GRIND_MAX = 40, GRIND_DEFAULT = 24;
+const RATIO_OPTIONS = Array.from({length:20}, (_,i)=>'1:'+(i+1));
+const RATIO_DEFAULT = '1:2';
+const COFFEE_G_MIN = 1, COFFEE_G_MAX = 100, COFFEE_G_DEFAULT = 15;
+function ratioDenominator(ratio){ const n = parseInt((ratio||RATIO_DEFAULT).split(':')[1],10); return isNaN(n)?2:n; }
+function computeWater(coffeeG, ratio){ return Math.round((coffeeG||COFFEE_G_DEFAULT) * ratioDenominator(ratio)); }
+
+let libraryCache = {};
+let settings = { publicLibrary:false };
+let userId = null;
+let storageReady = false;
+let selectedRoasters = new Set();
+let selectedRatingTier = null;
+let communityAvgCache = {};
+let trendCache = {};
+let trendLoaded = false;
+let selectedUsages = new Set();
+let selectedProcesses = new Set();
+let selectedCountry = 'all';
+let priceMin = null, priceMax = null;
+
+function randomId(){ return 'u' + Math.random().toString(36).slice(2,10) + Date.now().toString(36).slice(-4); }
+
+async function initUser(){
+  try{ const res = await window.storage.get('userId', false); userId = res.value; }
+  catch(e){ userId = randomId(); try{ await window.storage.set('userId', userId, false); }catch(e2){ console.error(e2); } }
+}
+async function loadSettings(){
+  try{ const res = await window.storage.get('settings', false); settings = JSON.parse(res.value); }
+  catch(e){ settings = { publicLibrary:false }; }
+}
+async function loadLibrary(){
+  try{
+    const list = await window.storage.list('library:', false);
+    const keys = (list && list.keys) || [];
+    for(const k of keys){
+      try{ const res = await window.storage.get(k, false); if(res) libraryCache[k.replace('library:','')] = JSON.parse(res.value); }catch(e){}
+    }
+  }catch(e){ console.error(e); }
+  storageReady = true;
+}
+async function saveEntry(id, entry){
+  try{ const res = await window.storage.set('library:'+id, JSON.stringify(entry), false); return !!res; }
+  catch(e){ console.error(e); return false; }
+}
+
+let wishlist = new Set();
+async function loadWishlist(){
+  try{ const res = await window.storage.get('wishlist', false); wishlist = new Set(JSON.parse(res.value)); }
+  catch(e){ wishlist = new Set(); }
+}
+async function saveWishlist(){
+  try{ await window.storage.set('wishlist', JSON.stringify([...wishlist]), false); }catch(e){ console.error(e); }
+}
+async function toggleWishlist(id){
+  if(wishlist.has(id)) wishlist.delete(id); else wishlist.add(id);
+  await saveWishlist();
+}
+async function syncShared(id, entry){
+  try{
+    if(entry.rating && entry.rating > 0) await window.storage.set('rating:'+id+':'+userId, JSON.stringify({rating:entry.rating, updatedAt:Date.now()}), true);
+    else{ try{ await window.storage.delete('rating:'+id+':'+userId, true); }catch(e){} }
+  }catch(e){ console.error(e); }
+  try{
+    if(settings.publicLibrary){
+      await window.storage.set('public:'+id+':'+userId, JSON.stringify({ rating: entry.rating||0, brewMethod: entry.brewMethod||'', grindSize: entry.grindSize||'', ratio: entry.ratio||'', coffeeG: entry.coffeeG||0, timeH: entry.timeH||0, timeM: entry.timeM||0, timeS: entry.timeS||0, notes: entry.notes||'' }), true);
+    }else{ try{ await window.storage.delete('public:'+id+':'+userId, true); }catch(e){} }
+  }catch(e){ console.error(e); }
+}
+async function removeShared(id){
+  try{ await window.storage.delete('rating:'+id+':'+userId, true); }catch(e){}
+  try{ await window.storage.delete('public:'+id+':'+userId, true); }catch(e){}
+}
+async function togglePublicLibrary(makePublic){
+  settings.publicLibrary = makePublic;
+  try{ await window.storage.set('settings', JSON.stringify(settings), false); }catch(e){ console.error(e); }
+  const ids = Object.keys(libraryCache);
+  for(const id of ids){
+    if(makePublic){
+      await window.storage.set('public:'+id+':'+userId, JSON.stringify({ rating: libraryCache[id].rating||0, brewMethod: libraryCache[id].brewMethod||'', grindSize: libraryCache[id].grindSize||'', ratio: libraryCache[id].ratio||'', coffeeG: libraryCache[id].coffeeG||0, timeH: libraryCache[id].timeH||0, timeM: libraryCache[id].timeM||0, timeS: libraryCache[id].timeS||0, notes: libraryCache[id].notes||'' }), true);
+    }else{ try{ await window.storage.delete('public:'+id+':'+userId, true); }catch(e){} }
+  }
+}
+async function removeEntry(id){
+  try{ await window.storage.delete('library:'+id, false); }catch(e){ console.error(e); }
+  await removeShared(id);
+  delete libraryCache[id];
+  renderLibrary();
+}
+async function fetchCommunityData(id){
+  const out = { avg:null, count:0, reviews:[] };
+  try{
+    const ratingsList = await window.storage.list('rating:'+id+':', true);
+    const rkeys = (ratingsList && ratingsList.keys) || [];
+    let sum = 0, count = 0;
+    for(const k of rkeys){
+      try{ const res = await window.storage.get(k, true); const val = JSON.parse(res.value); if(val && val.rating){ sum += val.rating; count++; } }catch(e){}
+    }
+    if(count>0){ out.avg = sum/count; out.count = count; }
+  }catch(e){ console.error(e); }
+  try{
+    const pubList = await window.storage.list('public:'+id+':', true);
+    const pkeys = (pubList && pubList.keys) || [];
+    for(const k of pkeys){
+      try{ const res = await window.storage.get(k, true); const val = JSON.parse(res.value); if(val) out.reviews.push(val); }catch(e){}
+    }
+  }catch(e){ console.error(e); }
+  communityAvgCache[id] = out.avg;
+  return out;
+}
+
+async function refreshCommunityAvg(id){
+  try{
+    const ratingsList = await window.storage.list('rating:'+id+':', true);
+    const rkeys = (ratingsList && ratingsList.keys) || [];
+    let sum = 0, count = 0, weekCount = 0;
+    const weekAgo = Date.now() - 7*24*3600*1000;
+    for(const k of rkeys){
+      try{
+        const res = await window.storage.get(k, true);
+        const val = JSON.parse(res.value);
+        if(val && val.rating){ sum += val.rating; count++; if(val.updatedAt && val.updatedAt >= weekAgo) weekCount++; }
+      }catch(e){}
+    }
+    communityAvgCache[id] = count>0 ? sum/count : null;
+    trendCache[id] = weekCount;
+  }catch(e){ communityAvgCache[id] = null; trendCache[id] = 0; }
+}
+
+async function loadAllCommunityAverages(){
+  for(const c of COFFEES){ await refreshCommunityAvg(c.id); }
+  trendLoaded = true;
+  renderGrid(document.getElementById('search-input').value);
+}
+
+const RATING_TIERS = [
+  {min:4.5, label:'4,5+ Exceptionnel'},
+  {min:3.75, label:'3,75+ Très bon'},
+  {min:3.25, label:'3,25+ Bon'}
+];
+
+function toggleSetValue(set, val){ if(set.has(val)) set.delete(val); else set.add(val); }
+
+function renderFilterChips(){
+  const roasterEl = document.getElementById('filter-roaster');
+  roasterEl.innerHTML = Object.keys(ROASTERS).map(rid=>`<button class="rf-chip ${selectedRoasters.has(rid)?'active':''}" data-set="roaster" data-v="${rid}">${ROASTERS[rid].name}</button>`).join('');
+
+  const usageEl = document.getElementById('filter-usage');
+  const usages = ['Filtre','Espresso','Omni'];
+  usageEl.innerHTML = usages.map(u=>`<button class="rf-chip ${selectedUsages.has(u)?'active':''}" data-set="usage" data-v="${u}">${u}</button>`).join('');
+
+  const processEl = document.getElementById('filter-process');
+  const processes = ['Lavé','Naturel','Honey','Anaérobie','Co-fermenté'];
+  processEl.innerHTML = processes.map(p=>`<button class="rf-chip ${selectedProcesses.has(p)?'active':''}" data-set="process" data-v="${p}">${p}</button>`).join('');
+
+  const ratingEl = document.getElementById('filter-rating');
+  ratingEl.innerHTML = RATING_TIERS.map(t=>`<button class="rf-chip ${selectedRatingTier===t.min?'active':''}" data-set="rating" data-v="${t.min}">${t.label}</button>`).join('');
+
+  document.querySelectorAll('.chips .rf-chip').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      const setName = btn.dataset.set;
+      const val = btn.dataset.v;
+      if(setName==='roaster') toggleSetValue(selectedRoasters, val);
+      if(setName==='usage') toggleSetValue(selectedUsages, val);
+      if(setName==='process') toggleSetValue(selectedProcesses, val);
+      if(setName==='rating') selectedRatingTier = (selectedRatingTier===parseFloat(val)) ? null : parseFloat(val);
+      renderFilterChips();
+      renderGrid(document.getElementById('search-input').value);
+    });
+  });
+
+  const countryEl = document.getElementById('filter-country');
+  const countries = [...new Set(COFFEES.map(c=>getCountry(c)).filter(x=>!na(x)))].sort();
+  countryEl.innerHTML = '<option value="all">Tous les pays</option>' + countries.map(co=>`<option value="${co}" ${selectedCountry===co?'selected':''}>${co}</option>`).join('');
+  countryEl.value = selectedCountry;
+
+  updateFilterBadge();
+}
+
+function updateFilterBadge(){
+  const count = selectedRoasters.size + selectedUsages.size + selectedProcesses.size
+    + (selectedCountry!=='all' ? 1 : 0) + (priceMin!=null ? 1 : 0) + (priceMax!=null ? 1 : 0)
+    + (selectedRatingTier!=null ? 1 : 0);
+  const badge = document.getElementById('filter-badge');
+  if(count>0){ badge.style.display=''; badge.textContent = count; }
+  else{ badge.style.display='none'; }
+}
+
+function toggleFiltersPanel(forceOpen){
+  const panel = document.getElementById('filters-panel');
+  const btn = document.getElementById('filters-toggle');
+  const isOpen = panel.style.display !== 'none';
+  const nextOpen = forceOpen!==undefined ? forceOpen : !isOpen;
+  panel.style.display = nextOpen ? '' : 'none';
+  btn.classList.toggle('active', nextOpen);
+}
+
+function renderGrid(filter){
+  const grid = document.getElementById('coffee-grid');
+  const q = (filter||'').trim().toLowerCase();
+  const items = COFFEES.filter(c=>{
+    if(selectedRoasters.size>0 && !selectedRoasters.has(c.roasterId)) return false;
+    if(selectedUsages.size>0 && !selectedUsages.has(getUsage(c))) return false;
+    if(selectedProcesses.size>0 && !selectedProcesses.has(processCategory(c.process))) return false;
+    if(selectedCountry!=='all' && getCountry(c)!==selectedCountry) return false;
+    if(selectedRatingTier!=null){
+      const avg = communityAvgCache[c.id];
+      if(avg==null || avg < selectedRatingTier) return false;
+    }
+    if(priceMin!=null || priceMax!=null){
+      const p = parsePriceEUR(c);
+      if(p===null) return false;
+      if(priceMin!=null && p<priceMin) return false;
+      if(priceMax!=null && p>priceMax) return false;
+    }
+    if(!q) return true;
+    const hay = [c.name, c.origin, c.flavors].filter(x=>!na(x)).join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+
+  const sortBy = document.getElementById('sort-select').value;
+  if(sortBy==='price-asc' || sortBy==='price-desc'){
+    items.sort((a,b)=>{
+      const pa = parsePriceEUR(a), pb = parsePriceEUR(b);
+      if(pa===null && pb===null) return 0;
+      if(pa===null) return 1;
+      if(pb===null) return -1;
+      return sortBy==='price-asc' ? pa-pb : pb-pa;
+    });
+  } else if(sortBy==='score-desc'){
+    items.sort((a,b)=>{
+      const sa = na(a.score) ? -1 : a.score, sb = na(b.score) ? -1 : b.score;
+      return sb-sa;
+    });
+  } else if(sortBy==='rating-desc'){
+    items.sort((a,b)=>{
+      const ra = communityAvgCache[a.id]==null ? -1 : communityAvgCache[a.id];
+      const rb = communityAvgCache[b.id]==null ? -1 : communityAvgCache[b.id];
+      return rb-ra;
+    });
+  } else if(sortBy==='name-asc'){
+    items.sort((a,b)=> a.name.localeCompare(b.name));
+  }
+
+  if(items.length===0){
+    grid.innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Aucun résultat</h3><p>Essaie d'élargir tes filtres ou ta recherche.</p></div>`;
+    return;
+  }
+  grid.innerHTML = items.map(c=>{
+    const usage = getUsage(c);
+    const r = ROASTERS[c.roasterId];
+    const multi = c.retailers.length > 1;
+    const pcat = processCategory(c.process);
+    return `<div class="card" data-id="${c.id}">
+      <div class="roast-dial">
+        ${logoBadge(c.roasterId,46)}
+        <div>
+          <div class="roast-label">${na(usage)?'Méthode indisponible':usage} · ${na(pcat)?'Process indisponible':pcat}</div>
+          <div class="roast-name">${na(c.origin)?'Origine indisponible':c.origin}</div>
+        </div>
+      </div>
+      <div>
+        <div class="roaster-tag">${r.name}</div>
+        <h3>${c.name}</h3>
+        <div class="flavors">${na(c.flavors)?'Notes indisponibles':c.flavors}</div>
+      </div>
+      <div class="card-foot">
+        <span class="price">${cheapestLabel(c)}</span>
+        <span class="retailer-count ${multi?'':'single'}">${multi ? c.retailers.length+' boutiques' : '1 boutique'}</span>
+      </div>
+    </div>`;
+  }).join('');
+  grid.querySelectorAll('.card').forEach(el=>{ el.addEventListener('click', ()=> openDetail(el.dataset.id)); });
+}
+
+function starsStatic(avg){
+  if(avg===null) return '<span style="color:var(--muted);">Pas encore de note</span>';
+  const rounded = Math.round(avg);
+  let s = '';
+  for(let i=1;i<=5;i++) s += i<=rounded ? '★' : '☆';
+  return `<span class="stars-static">${s}</span> <span>${avg.toFixed(1)}/5</span>`;
+}
+
+function mergeMethodRoast(usage, roast){
+  if(na(usage) && na(roast)) return 'Indisponible';
+  if(na(usage)) return roast;
+  if(na(roast) || roast===usage) return usage;
+  return `${usage} (${roast})`;
+}
+
+function coffeeMetaGridHTML(c){
+  const usage = getUsage(c);
+  return `<div class="meta-grid">
+      <div class="meta-item"><div class="lbl">Notes aromatiques</div><div class="val ${na(c.flavors)?'unavailable':''}">${na(c.flavors)?'Indisponible':c.flavors}</div></div>
+      <div class="meta-item"><div class="lbl">Score SCA</div><div class="val ${na(c.score)?'unavailable':''}">${na(c.score)?'Indisponible':c.score}</div></div>
+      <div class="meta-item"><div class="lbl">Producteur</div><div class="val ${na(c.producer)?'unavailable':''}">${na(c.producer)?'Indisponible':c.producer}</div></div>
+      <div class="meta-item"><div class="lbl">Méthode</div><div class="val ${na(usage)&&na(c.roast)?'unavailable':''}">${mergeMethodRoast(usage, c.roast)}</div></div>
+      <div class="meta-item"><div class="lbl">Process</div><div class="val ${na(c.process)?'unavailable':''}">${na(processCategory(c.process))?'Indisponible':processCategory(c.process)}</div></div>
+      <div class="meta-item"><div class="lbl">Variété</div><div class="val ${na(c.variety)?'unavailable':''}">${na(c.variety)?'Indisponible':c.variety}</div></div>
+    </div>`;
+}
+
+async function openDetail(id){
+  const c = COFFEES.find(x=>x.id===id);
+  if(!c) return;
+  const r = ROASTERS[c.roasterId];
+  const inLib = !!libraryCache[id];
+  const usage = getUsage(c);
+  const content = document.getElementById('detail-content');
+
+  const currencies = new Set(c.retailers.map(rt => rt.price.trim().startsWith('£') ? 'GBP' : 'EUR'));
+  const sameCurrency = currencies.size===1;
+  let sortedRetailers = c.retailers;
+  let cheapestUrl = null;
+  if(sameCurrency && c.retailers.length>1){
+    const parsed = c.retailers.map(rt => ({...rt, num: parseFloat(rt.price.replace('£','').replace('€','').replace(',','.').trim())}));
+    parsed.sort((a,b)=>a.num-b.num);
+    sortedRetailers = parsed;
+    cheapestUrl = parsed[0].url;
+  }
+
+  content.innerHTML = `
+    <button class="close" id="close-detail">✕</button>
+    <div class="roaster-line" style="display:flex; align-items:center; gap:10px;">
+      ${logoBadge(c.roasterId,32)}
+      <span>${r.name}${na(r.city)?'':' · '+r.city}${c.retailers.length===1 ? ' — <a href="'+c.retailers[0].url+'" target="_blank" rel="noopener">voir la fiche produit</a>' : ''}</span>
+    </div>
+    <h2>${c.name}</h2>
+    <div class="origin">${na(c.origin)?'Origine indisponible':c.origin} · ${na(c.process)?'Process indisponible':c.process}</div>
+
+    <div class="profile-row">
+      <div class="bars">
+        <div class="bar-item"><span class="lbl">Acidité</span><div class="bar-track"><div class="bar-fill" style="width:${na(c.acidity)?0:(QUAL_PCT[c.acidity]||50)}%"></div></div><span class="bar-val">${na(c.acidity)?'Indisponible':c.acidity}</span></div>
+        <div class="bar-item"><span class="lbl">Corps</span><div class="bar-track"><div class="bar-fill" style="width:${na(c.body)?0:(QUAL_PCT[c.body]||50)}%"></div></div><span class="bar-val">${na(c.body)?'Indisponible':c.body}</span></div>
+      </div>
+    </div>
+
+    <p class="desc">${na(c.desc)?'Description indisponible pour ce café.':c.desc}</p>
+
+    ${coffeeMetaGridHTML(c)}
+
+    <div class="retailers-box">
+      <div class="rb-title">Où l'acheter</div>
+      ${sortedRetailers.map(rt => `
+        <div class="retailer-row">
+          <div class="rr-left">
+            <span class="rr-site">${rt.site}${rt.url===cheapestUrl ? ' · prix le plus bas' : ''}</span>
+            <span class="rr-note">${rt.note||''}</span>
+          </div>
+          <div style="display:flex; align-items:center; gap:12px;">
+            <span class="rr-price">${rt.price}</span>
+            <a class="rr-link" href="${rt.url}" target="_blank" rel="noopener">Voir →</a>
+          </div>
+        </div>
+      `).join('')}
+      ${!sameCurrency && c.retailers.length>1 ? '<div class="currency-note">Prix affichés dans leur devise d’origine — pas de conversion automatique.</div>' : ''}
+    </div>
+
+    <div class="community-box" id="community-box">
+      <div class="cb-head">
+        <span class="cb-title">Communauté Origin</span>
+        <div class="avg-rating" id="avg-rating">Chargement…</div>
+      </div>
+      <div id="reviews-list" style="color:var(--muted); font-size:12.5px;">Chargement des avis…</div>
+    </div>
+
+    <button class="primary" id="add-lib-btn" ${inLib?'disabled':''} style="width:100%;">${inLib?'Déjà dans ma bibliothèque':'Ajouter à ma bibliothèque'}</button>
+    <button class="wishlist-btn ${wishlist.has(id)?'active':''}" id="wishlist-btn">${wishlist.has(id)?'★ Dans ma liste à essayer':'☆ Ajouter à ma liste à essayer'}</button>
+  `;
+  document.getElementById('close-detail').onclick = closeDetail;
+  const addBtn = document.getElementById('add-lib-btn');
+  addBtn.onclick = async ()=>{
+    addBtn.disabled = true; addBtn.textContent = 'Ajout…';
+    const entry = { rating:0, brewMethod:'', grindSize:String(GRIND_DEFAULT), ratio:RATIO_DEFAULT, coffeeG:COFFEE_G_DEFAULT, timeH:0, timeM:0, timeS:0, notes:'', brews:[], dateAdded:new Date().toISOString() };
+    const ok = await saveEntry(id, entry);
+    if(ok){
+      libraryCache[id] = entry; addBtn.textContent = 'Déjà dans ma bibliothèque';
+      if(wishlist.has(id)){ wishlist.delete(id); await saveWishlist(); wishlistBtn.textContent = '☆ Ajouter à ma liste à essayer'; wishlistBtn.classList.remove('active'); }
+    }
+    else{ addBtn.disabled = false; addBtn.textContent = "Échec — réessayer"; }
+  };
+  const wishlistBtn = document.getElementById('wishlist-btn');
+  wishlistBtn.onclick = async ()=>{
+    await toggleWishlist(id);
+    wishlistBtn.textContent = wishlist.has(id) ? '★ Dans ma liste à essayer' : '☆ Ajouter à ma liste à essayer';
+    wishlistBtn.classList.toggle('active', wishlist.has(id));
+  };
+  document.getElementById('overlay').classList.add('open');
+
+  const community = await fetchCommunityData(id);
+  const avgEl = document.getElementById('avg-rating');
+  if(avgEl) avgEl.innerHTML = starsStatic(community.avg) + (community.count ? ` (${community.count} note${community.count>1?'s':''})` : '');
+  const reviewsEl = document.getElementById('reviews-list');
+  if(reviewsEl){
+    if(community.reviews.length===0){ reviewsEl.innerHTML = 'Aucun avis public pour ce café pour le moment.'; }
+    else{
+      reviewsEl.innerHTML = community.reviews.map(rv=>{
+        const stars = '★'.repeat(rv.rating||0) + '☆'.repeat(5-(rv.rating||0));
+        return `<div class="review-item">
+          <div class="rv-head"><span class="rv-stars">${stars}</span><span>${rv.brewMethod||'Méthode non précisée'}</span></div>
+          ${rv.notes ? `<div class="rv-note">${rv.notes}</div>` : ''}
+        </div>`;
+      }).join('');
+    }
+  }
+}
+
+function closeDetail(){ document.getElementById('overlay').classList.remove('open'); }
+document.getElementById('overlay').addEventListener('click', (e)=>{ if(e.target.id === 'overlay') closeDetail(); });
+
+function starsHTML(id, rating){
+  let html = '<div class="stars">';
+  for(let i=1;i<=5;i++) html += `<button data-id="${id}" data-val="${i}" class="star-btn ${i<=rating?'filled':''}">★</button>`;
+  html += '</div>';
+  return html;
+}
+function starsReadout(rating){
+  let s = ''; for(let i=1;i<=5;i++) s += i<=(rating||0) ? '★' : '☆';
+  return s;
+}
+
+function renderStats(){
+  const el = document.getElementById('stats-row');
+  const ids = Object.keys(libraryCache);
+  const total = ids.length;
+  const rated = ids.map(id=>libraryCache[id].rating).filter(r=>r>0);
+  const avgRating = rated.length ? (rated.reduce((a,b)=>a+b,0)/rated.length) : null;
+
+  const roasterCounts = {};
+  const processCounts = {};
+  let totalSpend = 0;
+  ids.forEach(id=>{
+    const c = COFFEES.find(x=>x.id===id);
+    if(!c) return;
+    roasterCounts[c.roasterId] = (roasterCounts[c.roasterId]||0) + 1;
+    const pcat = processCategory(c.process);
+    if(!na(pcat)) processCounts[pcat] = (processCounts[pcat]||0) + 1;
+    const p = parsePriceEUR(c);
+    if(p!=null) totalSpend += p;
+  });
+  const top3Roasters = Object.keys(roasterCounts).sort((a,b)=>roasterCounts[b]-roasterCounts[a]).slice(0,3);
+  const top3Processes = Object.keys(processCounts).sort((a,b)=>processCounts[b]-processCounts[a]).slice(0,3);
+
+  const top3ListHTML = (items, getLabel, counts)=>{
+    if(items.length===0) return `<div class="top3-empty">—</div>`;
+    return `<ol class="top3-list">${items.map((k,i)=>`<li><span class="top3-rank">${i+1}</span>${getLabel(k)} <span class="top3-count">(${counts[k]})</span></li>`).join('')}</ol>`;
+  };
+
+  el.innerHTML = `
+    <div class="stat-box"><div class="stat-val">${total}</div><div class="stat-lbl">Cafés dégustés</div></div>
+    <div class="stat-box"><div class="stat-val">${avgRating!=null ? avgRating.toFixed(1) : '—'}</div><div class="stat-lbl">Note moyenne donnée</div></div>
+    <div class="stat-box"><div class="stat-lbl" style="margin-bottom:6px;">Top torréfacteurs</div>${top3ListHTML(top3Roasters, id=>ROASTERS[id].name, roasterCounts)}</div>
+    <div class="stat-box"><div class="stat-lbl" style="margin-bottom:6px;">Top process</div>${top3ListHTML(top3Processes, p=>p, processCounts)}</div>
+  `;
+}
+
+function renderWishlist(){
+  const el = document.getElementById('wishlist-list');
+  const ids = [...wishlist];
+  if(ids.length===0){ el.innerHTML = `<div class="empty"><h3>Aucun café à essayer pour l'instant</h3><p>Depuis Explorer, ouvre une fiche café et clique sur "Ajouter à ma liste à essayer".</p></div>`; return; }
+  el.innerHTML = ids.map(id=>{
+    const c = COFFEES.find(x=>x.id===id);
+    if(!c) return '';
+    const r = ROASTERS[c.roasterId];
+    return `<div class="wish-row" data-id="${id}">
+      <div class="wr-left">
+        ${logoBadge(c.roasterId,36)}
+        <div><div class="roaster">${r.name}</div><h3>${c.name}</h3></div>
+      </div>
+      <div class="wr-actions">
+        <button class="btn-small ghost" data-action="remove" data-id="${id}">Retirer</button>
+        <button class="btn-small primary" data-action="taste" data-id="${id}">J'ai goûté</button>
+      </div>
+    </div>`;
+  }).join('');
+  el.querySelectorAll('.wish-row').forEach(row=>{
+    row.addEventListener('click', ()=> openDetail(row.dataset.id));
+  });
+  el.querySelectorAll('[data-action="remove"]').forEach(btn=>{
+    btn.addEventListener('click', async (ev)=>{ ev.stopPropagation(); await toggleWishlist(btn.dataset.id); renderWishlist(); });
+  });
+  el.querySelectorAll('[data-action="taste"]').forEach(btn=>{
+    btn.addEventListener('click', async (ev)=>{
+      ev.stopPropagation();
+      const id = btn.dataset.id;
+      const entry = { rating:0, brewMethod:'', grindSize:String(GRIND_DEFAULT), ratio:RATIO_DEFAULT, coffeeG:COFFEE_G_DEFAULT, timeH:0, timeM:0, timeS:0, notes:'', brews:[], dateAdded:new Date().toISOString() };
+      await saveEntry(id, entry);
+      libraryCache[id] = entry;
+      wishlist.delete(id); await saveWishlist();
+      renderWishlist(); renderStats(); renderLibrary(document.getElementById('library-search-input').value);
+      showView('library'); document.getElementById('subtab-tasted').click();
+      openLibraryDetail(id);
+    });
+  });
+}
+
+function exportLibraryCSV(){
+  const ids = Object.keys(libraryCache);
+  const headers = ['Torréfacteur','Café','Origine','Note /5','Méthode de préparation','Mouture (Comandante)','Ratio','Café (g)','Eau (ml)','Temps','Nb essais enregistrés','Notes de dégustation','Ajouté le'];
+  const rows = ids.map(id=>{
+    const c = COFFEES.find(x=>x.id===id);
+    const e = libraryCache[id];
+    if(!c) return null;
+    const r = ROASTERS[c.roasterId];
+    const time = `${e.timeH||0}h${String(e.timeM||0).padStart(2,'0')}m${String(e.timeS||0).padStart(2,'0')}s`;
+    const water = computeWater(e.coffeeG||COFFEE_G_DEFAULT, e.ratio||RATIO_DEFAULT);
+    const brewCount = (e.brews||[]).length;
+    const addedDate = e.dateAdded ? new Date(e.dateAdded).toLocaleDateString('fr-FR') : '';
+    return [r.name, c.name, c.origin||'', e.rating||0, e.brewMethod||'', e.grindSize||'', e.ratio||'', e.coffeeG||'', water, time, brewCount, e.notes||'', addedDate];
+  }).filter(Boolean);
+  const escape = (v)=> `"${String(v).replace(/"/g,'""')}"`;
+  const csv = [headers.map(escape).join(','), ...rows.map(row=>row.map(escape).join(','))].join('\n');
+  const blob = new Blob(['\uFEFF'+csv], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = 'ma-bibliotheque-origin.csv';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function renderLibrary(filter){
+  const list = document.getElementById('library-list');
+  document.getElementById('privacy-toggle').checked = !!settings.publicLibrary;
+  renderStats();
+  const q = (filter||'').trim().toLowerCase();
+  let ids = Object.keys(libraryCache);
+  if(!storageReady){ list.innerHTML = `<div class="empty"><h3>Chargement…</h3></div>`; return; }
+  if(ids.length===0){ list.innerHTML = `<div class="empty"><h3>Ta bibliothèque est vide</h3><p>Ajoute un café depuis l'onglet Explorer pour commencer à le noter.</p></div>`; return; }
+  if(q){
+    ids = ids.filter(id=>{
+      const c = COFFEES.find(x=>x.id===id);
+      if(!c) return false;
+      const r = ROASTERS[c.roasterId];
+      const hay = [c.name, r.name, c.origin].filter(x=>!na(x)).join(' ').toLowerCase();
+      return hay.includes(q);
+    });
+  }
+  if(ids.length===0){ list.innerHTML = `<div class="empty"><h3>Aucun résultat</h3><p>Essaie un autre nom de café ou de torréfacteur.</p></div>`; return; }
+  list.innerHTML = ids.map(id=>{
+    const c = COFFEES.find(x=>x.id===id);
+    if(!c) return '';
+    const r = ROASTERS[c.roasterId];
+    const e = libraryCache[id];
+    return `<div class="lib-summary" data-id="${id}">
+      <div class="ls-left">
+        ${logoBadge(c.roasterId,40)}
+        <div>
+          <div class="roaster">${r.name}</div>
+          <h3>${c.name}</h3>
+        </div>
+      </div>
+      <div class="ls-right">
+        ${starsHTML(id, e.rating||0)}
+        <svg class="ls-chev" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="opacity:.5;"><polyline points="9 18 15 12 9 6"/></svg>
+      </div>
+    </div>`;
+  }).join('');
+
+  list.querySelectorAll('.lib-summary .star-btn').forEach(btn=>{
+    btn.addEventListener('click', async (ev)=>{
+      ev.stopPropagation();
+      const id = btn.dataset.id;
+      const val = parseInt(btn.dataset.val,10);
+      libraryCache[id].rating = (libraryCache[id].rating===val) ? 0 : val;
+      await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); await refreshCommunityAvg(id);
+      renderLibrary(document.getElementById('library-search-input').value);
+    });
+  });
+  list.querySelectorAll('.lib-summary .ls-chev').forEach(chev=>{
+    chev.addEventListener('click', ()=> openLibraryDetail(chev.closest('.lib-summary').dataset.id));
+  });
+  list.querySelectorAll('.lib-summary .ls-left').forEach(left=>{
+    left.addEventListener('click', ()=> openLibraryDetail(left.closest('.lib-summary').dataset.id));
+  });
+}
+
+function openLibraryDetail(id){
+  const c = COFFEES.find(x=>x.id===id);
+  if(!c) return;
+  const r = ROASTERS[c.roasterId];
+  const e = libraryCache[id];
+  const content = document.getElementById('detail-content');
+  content.innerHTML = `
+    <button class="close" id="close-detail">✕</button>
+    <div class="roaster-line" style="display:flex; align-items:center; gap:10px;">
+      ${logoBadge(c.roasterId,32)}
+      <span>${r.name}</span>
+    </div>
+    <h2>${c.name}</h2>
+    <div style="margin-bottom:20px;">${starsHTML(id, e.rating||0)}</div>
+    <div class="field-grid">
+      <div class="field"><label>Méthode de préparation</label>
+        <select class="f-brew" data-id="${id}"><option value="">— Choisir —</option>
+          ${BREW_METHODS.map(m=>`<option value="${m}" ${e.brewMethod===m?'selected':''}>${m}</option>`).join('')}
+        </select>
+      </div>
+      <div class="field"><label>Taille de la mouture (Comandante)</label>
+        <select class="f-grind" data-id="${id}">
+          ${Array.from({length: GRIND_MAX-GRIND_MIN+1}, (_,i)=>i+GRIND_MIN).map(n=>{
+            const val = e.grindSize || String(GRIND_DEFAULT);
+            return `<option value="${n}" ${String(n)===val?'selected':''}>${n}</option>`;
+          }).join('')}
+        </select>
+      </div>
+      <div class="field full"><label>Ratio</label>
+        <select class="f-ratio" data-id="${id}">
+          ${RATIO_OPTIONS.map(rt=>`<option value="${rt}" ${(e.ratio||RATIO_DEFAULT)===rt?'selected':''}>${rt}</option>`).join('')}
+        </select>
+      </div>
+      <div class="field"><label>Café (g)</label>
+        <select class="f-coffee-g" data-id="${id}">
+          ${Array.from({length:COFFEE_G_MAX-COFFEE_G_MIN+1}, (_,i)=>i+COFFEE_G_MIN).map(n=>`<option value="${n}" ${(e.coffeeG||COFFEE_G_DEFAULT)===n?'selected':''}>${n} g</option>`).join('')}
+        </select>
+      </div>
+      <div class="field"><label>Eau (ml)</label>
+        <input type="text" class="f-water" data-id="${id}" value="${computeWater(e.coffeeG||COFFEE_G_DEFAULT, e.ratio||RATIO_DEFAULT)} ml" disabled style="opacity:.75;">
+      </div>
+      <div class="field full"><label>Temps</label>
+        <div style="display:flex; align-items:center; gap:6px;">
+          <select class="f-time-h" data-id="${id}">${Array.from({length:25},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeH||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">h</span>
+          <select class="f-time-m" data-id="${id}">${Array.from({length:60},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeM||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">min</span>
+          <select class="f-time-s" data-id="${id}">${Array.from({length:60},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeS||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">s</span>
+        </div>
+      </div>
+      <div class="field full"><label>Notes de dégustation</label>
+        <textarea class="f-notes" data-id="${id}" placeholder="Ce que tu as ressenti en tasse…" style="min-height:40px;">${e.notes||''}</textarea>
+      </div>
+    </div>
+    <button class="btn-small primary" id="log-brew-btn" style="width:100%; padding:11px;">Enregistrer cet essai dans l'historique</button>
+
+    <div class="brew-history">
+      <div class="bh-title">Historique de préparation${(e.brews&&e.brews.length)?` (${e.brews.length})`:''}</div>
+      <div id="brew-history-list">${renderBrewHistoryHTML(e)}</div>
+    </div>
+
+    <div class="fg-label" style="margin-top:20px; margin-bottom:8px;">Informations sur le café</div>
+    ${coffeeMetaGridHTML(c)}
+
+    <div class="lib-foot">
+      <button class="danger-link" id="remove-from-lib" data-id="${id}">Retirer de ma bibliothèque</button>
+      <span class="saved-tag" id="saved-tag-detail">Enregistré ✓</span>
+    </div>
+  `;
+  document.getElementById('close-detail').onclick = closeDetail;
+  wireLibraryDetailForm(id);
+  document.getElementById('log-brew-btn').addEventListener('click', async ()=>{
+    const cur = libraryCache[id];
+    if(!cur.brews) cur.brews = [];
+    cur.brews.unshift({
+      date: new Date().toISOString(), brewMethod: cur.brewMethod||'', grindSize: cur.grindSize||'',
+      ratio: cur.ratio||RATIO_DEFAULT, coffeeG: cur.coffeeG||COFFEE_G_DEFAULT,
+      timeH: cur.timeH||0, timeM: cur.timeM||0, timeS: cur.timeS||0, notes: cur.notes||''
+    });
+    await saveEntry(id, cur);
+    openLibraryDetail(id);
+  });
+  document.getElementById('remove-from-lib').addEventListener('click', async ()=>{ await removeEntry(id); closeDetail(); });
+  document.getElementById('overlay').classList.add('open');
+}
+
+function renderBrewHistoryHTML(e){
+  const brews = e.brews || [];
+  if(brews.length===0) return `<div style="color:var(--muted); font-size:12.5px;">Aucun essai enregistré pour l'instant.</div>`;
+  return brews.map(b=>{
+    const water = computeWater(b.coffeeG, b.ratio);
+    const time = `${b.timeH||0}h${String(b.timeM||0).padStart(2,'0')}m${String(b.timeS||0).padStart(2,'0')}s`;
+    const dateStr = new Date(b.date).toLocaleDateString('fr-FR', {day:'numeric', month:'short', year:'numeric', hour:'2-digit', minute:'2-digit'});
+    return `<div class="brew-log">
+      <div class="bl-date">${dateStr}</div>
+      <div class="bl-line">${b.brewMethod||'Méthode non précisée'} · Mouture ${b.grindSize||'—'} · ${b.ratio||'—'} · ${b.coffeeG||'—'} g / ${water} ml · ${time}</div>
+      ${b.notes ? `<div class="bl-notes">${b.notes}</div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+function wireLibraryDetailForm(id){
+  const content = document.getElementById('detail-content');
+  content.querySelectorAll('.star-btn').forEach(btn=>{
+    btn.addEventListener('click', async ()=>{
+      const val = parseInt(btn.dataset.val,10);
+      libraryCache[id].rating = (libraryCache[id].rating===val) ? 0 : val;
+      await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); await refreshCommunityAvg(id);
+      openLibraryDetail(id);
+      renderLibrary(document.getElementById('library-search-input').value);
+    });
+  });
+  content.querySelectorAll('.f-brew, .f-grind, .f-ratio, .f-coffee-g, .f-time-h, .f-time-m, .f-time-s').forEach(el=>{
+    el.addEventListener('change', async ()=>{
+      if(el.classList.contains('f-brew')) libraryCache[id].brewMethod = el.value;
+      if(el.classList.contains('f-grind')) libraryCache[id].grindSize = el.value;
+      if(el.classList.contains('f-ratio')) libraryCache[id].ratio = el.value;
+      if(el.classList.contains('f-coffee-g')) libraryCache[id].coffeeG = parseInt(el.value,10);
+      if(el.classList.contains('f-time-h')) libraryCache[id].timeH = parseInt(el.value,10);
+      if(el.classList.contains('f-time-m')) libraryCache[id].timeM = parseInt(el.value,10);
+      if(el.classList.contains('f-time-s')) libraryCache[id].timeS = parseInt(el.value,10);
+      if(el.classList.contains('f-ratio') || el.classList.contains('f-coffee-g')){
+        const waterInput = content.querySelector('.f-water');
+        if(waterInput) waterInput.value = computeWater(libraryCache[id].coffeeG, libraryCache[id].ratio) + ' ml';
+      }
+      await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); flashSavedDetail();
+    });
+  });
+  content.querySelectorAll('.f-notes').forEach(el=>{
+    let t;
+    el.addEventListener('input', ()=>{
+      clearTimeout(t);
+      libraryCache[id].notes = el.value;
+      t = setTimeout(async ()=>{ await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); flashSavedDetail(); }, 600);
+    });
+  });
+}
+
+function flashSavedDetail(){
+  const tag = document.getElementById('saved-tag-detail');
+  if(!tag) return;
+  tag.classList.add('show'); setTimeout(()=> tag.classList.remove('show'), 1400);
+}
+
+document.getElementById('privacy-toggle').addEventListener('change', async (e)=>{ await togglePublicLibrary(e.target.checked); });
+document.getElementById('search-input').addEventListener('input', (e)=> renderGrid(e.target.value));
+document.getElementById('filters-toggle').addEventListener('click', ()=> toggleFiltersPanel());
+document.getElementById('sort-select').addEventListener('change', ()=> renderGrid(document.getElementById('search-input').value));
+document.getElementById('filter-country').addEventListener('change', (e)=>{ selectedCountry = e.target.value; updateFilterBadge(); renderGrid(document.getElementById('search-input').value); });
+document.getElementById('filter-price-min').addEventListener('input', (e)=>{ priceMin = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); renderGrid(document.getElementById('search-input').value); });
+document.getElementById('filter-price-max').addEventListener('input', (e)=>{ priceMax = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); renderGrid(document.getElementById('search-input').value); });
+document.getElementById('reset-filters').addEventListener('click', ()=>{
+  selectedRoasters.clear(); selectedUsages.clear(); selectedProcesses.clear(); selectedCountry = 'all';
+  priceMin = null; priceMax = null; selectedRatingTier = null;
+  document.getElementById('filter-price-min').value = ''; document.getElementById('filter-price-max').value = '';
+  document.getElementById('search-input').value = '';
+  renderFilterChips(); renderGrid('');
+});
+document.getElementById('library-search-input').addEventListener('input', (e)=> renderLibrary(e.target.value));
+function showView(view){
+  const tabs = {home:'tab-home', explore:'tab-explore', library:'tab-library', community:'tab-community'};
+  const views = {home:'view-home', explore:'view-explore', library:'view-library', community:'view-community'};
+  Object.keys(tabs).forEach(k=>{
+    document.getElementById(tabs[k]).classList.toggle('active', k===view);
+    document.getElementById(views[k]).style.display = (k===view) ? '' : 'none';
+  });
+  if(view==='library') renderLibrary(document.getElementById('library-search-input').value);
+  if(view==='community') renderTrending();
+}
+document.getElementById('tab-home').addEventListener('click', ()=> showView('home'));
+document.getElementById('tab-explore').addEventListener('click', ()=> showView('explore'));
+document.getElementById('tab-library').addEventListener('click', ()=> showView('library'));
+document.getElementById('tab-community').addEventListener('click', ()=> showView('community'));
+
+async function renderTrending(){
+  const el = document.getElementById('trending-list');
+  el.innerHTML = `<div class="empty"><h3>Chargement…</h3></div>`;
+  if(!trendLoaded){
+    for(const c of COFFEES){ await refreshCommunityAvg(c.id); }
+    trendLoaded = true;
+  }
+  const ranked = COFFEES
+    .map(c=>({ c, count: trendCache[c.id]||0 }))
+    .filter(x=>x.count>0)
+    .sort((a,b)=> b.count-a.count)
+    .slice(0,10);
+  if(ranked.length===0){
+    el.innerHTML = `<div class="empty"><h3>Pas encore d'activité cette semaine</h3><p>Note ou publie un avis sur un café pour lancer les tendances.</p></div>`;
+    return;
+  }
+  el.innerHTML = ranked.map((x,i)=>{
+    const c = x.c; const r = ROASTERS[c.roasterId];
+    const avg = communityAvgCache[c.id];
+    return `<div class="trend-row" data-id="${c.id}">
+      <div class="trend-rank">${i+1}</div>
+      <div class="trend-left">
+        ${logoBadge(c.roasterId,36)}
+        <div><div class="roaster">${r.name}</div><h3>${c.name}</h3></div>
+      </div>
+      <div class="trend-rating">${starsStatic(avg)}</div>
+      <div class="trend-activity">${x.count} note${x.count>1?'s':''} cette semaine</div>
+    </div>`;
+  }).join('');
+  el.querySelectorAll('.trend-row').forEach(row=>{
+    row.addEventListener('click', ()=> openDetail(row.dataset.id));
+  });
+}
+
+let toastTimer;
+function showLuxToast(msg){
+  const t = document.getElementById('lux-toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=> t.classList.remove('show'), 2600);
+}
+document.getElementById('btn-login').addEventListener('click', ()=> showLuxToast('La connexion sera disponible prochainement.'));
+document.getElementById('btn-signup').addEventListener('click', ()=> showLuxToast('La création de compte sera disponible prochainement.'));
+
+document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Chargement des cafés…</h3></div>`;
+document.getElementById('subtab-tasted').addEventListener('click', ()=>{
+  document.getElementById('subtab-tasted').classList.add('active');
+  document.getElementById('subtab-wishlist').classList.remove('active');
+  document.getElementById('view-library-tasted').style.display = '';
+  document.getElementById('view-library-wishlist').style.display = 'none';
+});
+document.getElementById('subtab-wishlist').addEventListener('click', ()=>{
+  document.getElementById('subtab-wishlist').classList.add('active');
+  document.getElementById('subtab-tasted').classList.remove('active');
+  document.getElementById('view-library-wishlist').style.display = '';
+  document.getElementById('view-library-tasted').style.display = 'none';
+  renderWishlist();
+});
+document.getElementById('export-csv').addEventListener('click', exportLibraryCSV);
+
+(async ()=>{
+  try{
+    await loadCoffeeData();
+  }catch(e){
+    console.error(e);
+    document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Impossible de charger les cafés</h3><p>coffees-data.json n'a pas pu être chargé. Si tu ouvres ce fichier directement (file://), sers-le plutôt via un petit serveur local (ex. <code>python3 -m http.server</code> depuis le dossier app/).</p></div>`;
+    return;
+  }
+  renderFilterChips();
+  renderGrid('');
+  updateDataFooter();
+  await initUser(); await loadSettings(); await loadLibrary(); await loadWishlist(); renderLibrary(); loadAllCommunityAverages();
+})();
+</script>
+</body>
+</html>

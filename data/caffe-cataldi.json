@@ -10,7 +10,7 @@
     "platform": "prestashop",
     "notes": null
   },
-  "scrapedAt": "2026-09-03T09:53:54Z",
+  "scrapedAt": "2026-09-03T20:44:16Z",
   "products": [
     {
       "id": "caffe-cataldi-p557",
@@ -42,8 +42,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p556",
@@ -75,8 +75,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p550",
@@ -108,8 +108,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p548",
@@ -141,8 +141,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p545",
@@ -174,8 +174,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p536",
@@ -207,8 +207,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p532",
@@ -240,8 +240,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p519",
@@ -273,8 +273,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     },
     {
       "id": "caffe-cataldi-p339",
@@ -306,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T09:53:54Z",
-      "lastSeenAt": "2026-09-03T09:53:54Z"
+      "firstSeenAt": "2026-09-03T20:44:16Z",
+      "lastSeenAt": "2026-09-03T20:44:16Z"
     }
   ]
 }
