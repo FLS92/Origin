@@ -720,9 +720,9 @@
     "city": "Esclanèdes",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cafefrate.com/boutique/",
+    "domain": "cafefrate.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -731,9 +731,9 @@
     "city": "Occitanie",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.lilotcafes.fr/boutique/",
+    "domain": "lilotcafes.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -742,9 +742,9 @@
     "city": "Occitanie",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://torrea.fr/shop/",
+    "domain": "torrea.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -753,9 +753,9 @@
     "city": "Marseille",
     "region": "Provence-Alpes-Côte d'Azur",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafe-corto.fr/",
+    "domain": "cafe-corto.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -764,9 +764,9 @@
     "city": "Marseille",
     "region": "Provence-Alpes-Côte d'Azur",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.brulerie-moka.com/shop/",
+    "domain": "brulerie-moka.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -775,10 +775,10 @@
     "city": "Marseille",
     "region": "Provence-Alpes-Côte d'Azur",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://deep.coffee/",
+    "domain": "deep.coffee",
+    "platform": "shopify-unavailable",
+    "notes": "Boutique Shopify actuellement indisponible (page \"Boutique indisponible\", HTTP 402 — store gelée, probablement pour non-paiement). Rien à scraper tant que la boutique n'est pas réactivée."
   },
   {
     "id": "cafes-magali",
@@ -786,9 +786,9 @@
     "city": "Toulon",
     "region": "Provence-Alpes-Côte d'Azur",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cafesmagali.fr/boutique/",
+    "domain": "cafesmagali.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -799,8 +799,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Aucun établissement \"Colombian Barista\" identifié à Nice dans les résultats de recherche — nom à revérifier avec l'utilisateur."
   },
   {
     "id": "colors-coffee-roasters",
@@ -808,9 +808,9 @@
     "city": "Aix-en-Provence",
     "region": "Provence-Alpes-Côte d'Azur",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://colors.coffee/",
+    "domain": "colors.coffee",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -821,8 +821,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Domaine touchecafe.com ne résout pas (DNS). Présence trouvée seulement sur Facebook/annuaires, sous le nom \"La Touche Café\" à Aix-en-Provence/Saint-Victoret — à reverifier avec l'utilisateur."
   },
   {
     "id": "cime",
