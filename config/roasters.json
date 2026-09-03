@@ -500,9 +500,9 @@
     "city": "Bordeaux",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.alchimiste-cafes.com/",
+    "domain": "alchimiste-cafes.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -511,9 +511,9 @@
     "city": "Bordeaux",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.cafepiha.com/e-boutique/",
+    "domain": "cafepiha.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -522,9 +522,9 @@
     "city": "Bordeaux",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://lapellecafe.com/",
+    "domain": "lapellecafe.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -534,9 +534,9 @@
     "region": "Nouvelle-Aquitaine",
     "country": "France",
     "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "domain": "cafes-lugat.com",
+    "platform": "blocked",
+    "notes": "Toutes les requêtes HTTP simples (accueil, /products.json, /wp-json/, /wp-json/wc/...) renvoient la même page générique avec un script anti-IE — probable protection anti-bot/JS-challenge en amont. Pas de réponse exploitable en HTTP simple."
   },
   {
     "id": "yellow-peak",
@@ -544,9 +544,9 @@
     "city": "Pau",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.yellowpeak.fr/boutique/",
+    "domain": "yellowpeak.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -555,9 +555,9 @@
     "city": "Anglet",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.latorref.com/",
+    "domain": "latorref.com",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -568,8 +568,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Pas de site officiel trouvé — épicerie fine/corner Dammann Frères avec café torréfié sur place, présence sociale et annuaires seulement."
   },
   {
     "id": "la-brulerie-du-marche",
@@ -577,9 +577,9 @@
     "city": "La Rochelle",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.labruleriedumarche.fr/",
+    "domain": "labruleriedumarche.fr",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -588,9 +588,9 @@
     "city": "La Rochelle",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.loptimistcafe.com/",
+    "domain": "loptimistcafe.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -599,9 +599,9 @@
     "city": "Limoges",
     "region": "Nouvelle-Aquitaine",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://lafabriqueducafe.fr/boutique/",
+    "domain": "lafabriqueducafe.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
