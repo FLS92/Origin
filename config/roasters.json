@@ -610,9 +610,9 @@
     "city": "Toulouse",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.hayuco.coffee/",
+    "domain": "hayuco.coffee",
+    "platform": "shopify",
     "notes": null
   },
   {
@@ -621,9 +621,9 @@
     "city": "Calvisson",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://cafes-gorille.com/",
+    "domain": "cafes-gorille.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -632,9 +632,9 @@
     "city": "Montferrier-sur-Lez",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://montista.com/cafe-en-grain/",
+    "domain": "montista.com",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -643,10 +643,10 @@
     "city": "Montpellier",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://dyadecoffee.com/shop",
+    "domain": "dyadecoffee.com",
+    "platform": "custom-fragile",
+    "notes": "Site construit avec Hostinger Website Builder (page-builder statique), pas d'API produits structurée identifiée. A revisiter manuellement plutôt que de forcer un scraper HTML fragile sur les blocs du page-builder."
   },
   {
     "id": "black-flamingo",
@@ -656,8 +656,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Aucun site officiel ni boutique en ligne trouvés — présence Instagram uniquement."
   },
   {
     "id": "valini",
@@ -665,9 +665,9 @@
     "city": "Nîmes",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://valini.fr/",
+    "domain": "valini.fr",
+    "platform": "prestashop",
     "notes": null
   },
   {
@@ -676,10 +676,10 @@
     "city": "Montpellier",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
-    "notes": null
+    "url": "https://www.corbeau.coffee/",
+    "domain": "corbeau.coffee",
+    "platform": "wix",
+    "notes": "Site Wix, semble être surtout un coffee-bar (extractions sur place) sans boutique en ligne évidente pour du café en grain — a confirmer visuellement avant de développer un scraper JS."
   },
   {
     "id": "cafe-plume",
@@ -687,9 +687,9 @@
     "city": "Toulouse",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://plumedecafe.fr/",
+    "domain": "plumedecafe.fr",
+    "platform": "woocommerce",
     "notes": null
   },
   {
@@ -700,8 +700,8 @@
     "country": "France",
     "url": null,
     "domain": null,
-    "platform": null,
-    "notes": null
+    "platform": "no-website-found",
+    "notes": "Introuvable — aucun résultat de recherche ne correspond à un torréfacteur \"18grammes\" à Saint-Jean-de-Fos. A vérifier le nom exact avec l'utilisateur."
   },
   {
     "id": "la-brulerie-des-filatiers",
@@ -709,9 +709,9 @@
     "city": "Toulouse",
     "region": "Occitanie",
     "country": "France",
-    "url": null,
-    "domain": null,
-    "platform": null,
+    "url": "https://www.labruleriedesfilatiers.fr/",
+    "domain": "labruleriedesfilatiers.fr",
+    "platform": "odoo",
     "notes": null
   },
   {
