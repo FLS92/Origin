@@ -1,0 +1,181 @@
+{
+  "roaster": {
+    "id": "partisan-cafe-artisanal",
+    "name": "Partisan Café Artisanal",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "France",
+    "url": "https://parispartisancafe.com/",
+    "domain": "parispartisancafe.com",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:04:33Z",
+  "products": [
+    {
+      "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
+      "name": "KENYA AB KIANGOI 250g",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-05-20at11.17.57.png?v=1779269028",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/kenya-aa-kianyangi-250g",
+          "price": 19.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:04:33Z",
+      "lastSeenAt": "2026-09-03T09:04:33Z"
+    },
+    {
+      "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
+      "name": "PERU Agua Colorada 250g",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/ScreenShot2026-03-26at09.29.27.png?v=1774514673",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/colombie-aruzi-250g",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:04:33Z",
+      "lastSeenAt": "2026-09-03T09:04:33Z"
+    },
+    {
+      "id": "partisan-cafe-artisanal-ethiopie-biftu-250g",
+      "name": "COLOMBIE ALTO CIELO 250g",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-01-06at15.16.58.png?v=1767709058",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/ethiopie-biftu-250g",
+          "price": 17.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:04:33Z",
+      "lastSeenAt": "2026-09-03T09:04:33Z"
+    },
+    {
+      "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
+      "name": "COLOMBIE LOS DIECINUEVE DECAF 250g",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2025-10-05at10.00.39.png?v=1759651265",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/kenya-aa-inoi-kianderi-250g-copy",
+          "price": 18.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:04:33Z",
+      "lastSeenAt": "2026-09-03T09:04:33Z"
+    },
+    {
+      "id": "partisan-cafe-artisanal-italian-blend-250g-copy",
+      "name": "ITALIAN BLEND 250g",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-05-20at11.09.33.png?v=1779268446",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/italian-blend-250g-copy",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:04:33Z",
+      "lastSeenAt": "2026-09-03T09:04:33Z"
+    }
+  ]
+}

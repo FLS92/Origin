@@ -1,0 +1,148 @@
+{
+  "roaster": {
+    "id": "cafe-1802",
+    "name": "Café 1802",
+    "city": "Rennes",
+    "region": "Bretagne",
+    "country": "France",
+    "url": "https://cafe1802.fr/",
+    "domain": "cafe1802.fr",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:22Z",
+  "products": [
+    {
+      "id": "cafe-1802-bella-vista-zarza-colombie-natural",
+      "name": "Bella Vista -Zarza - Colombie - Natural / Last bags",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Bella_Vista.png?v=1782378640",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/bella-vista-zarza-colombie-natural",
+          "price": 19.5,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:22Z",
+      "lastSeenAt": "2026-09-03T09:07:22Z"
+    },
+    {
+      "id": "cafe-1802-gasharu-rwanda-washed",
+      "name": "Gasharu - Rwanda - Lavé",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/GASHARU.png?v=1781606405",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/gasharu-rwanda-washed",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:22Z",
+      "lastSeenAt": "2026-09-03T09:07:22Z"
+    },
+    {
+      "id": "cafe-1802-buhoro-rwanda-anaerobic",
+      "name": "Buhoro - Rwanda - Anaérobic",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/buhoro.png?v=1778482625",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/buhoro-rwanda-anaerobic",
+          "price": 12.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:22Z",
+      "lastSeenAt": "2026-09-03T09:07:22Z"
+    },
+    {
+      "id": "cafe-1802-zarza-colombie-honey",
+      "name": "Geisha Pinton -Zarza - Colombie - Extended fermentation",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Zarza_pinton.png?v=1775651607",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/zarza-colombie-honey",
+          "price": 17.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:22Z",
+      "lastSeenAt": "2026-09-03T09:07:22Z"
+    }
+  ]
+}

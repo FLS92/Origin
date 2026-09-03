@@ -1,0 +1,15 @@
+{
+  "roaster": {
+    "id": "signe-extrait",
+    "name": "Signé Extrait",
+    "city": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "url": "https://www.extrait.fr/",
+    "domain": "extrait.fr",
+    "platform": "prestashop",
+    "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active."
+  },
+  "scrapedAt": "2026-09-03T09:05:48Z",
+  "products": []
+}

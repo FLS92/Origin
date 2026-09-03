@@ -579,8 +579,8 @@
     "country": "France",
     "url": "https://www.labruleriedumarche.fr/",
     "domain": "labruleriedumarche.fr",
-    "platform": "shopify",
-    "notes": null
+    "platform": "site-changed",
+    "notes": "Le domaine labruleriedumarche.fr ne sert plus la boutique Shopify constatée lors de la détection initiale (2026-09-03) — il répond maintenant avec un site WordPress générique se présentant comme \"un blog passionné dédié au café, au thé et à la cuisine\" (plugin Rank Math), sans catalogue ni panier. Domaine probablement expiré/racheté. A revérifier plus tard ou à retirer de la liste."
   },
   {
     "id": "l-optimist-cafe",

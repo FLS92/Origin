@@ -1,0 +1,82 @@
+{
+  "roaster": {
+    "id": "cafe-loule",
+    "name": "Café Loulé",
+    "city": "Nantes",
+    "region": "Pays de la Loire",
+    "country": "France",
+    "url": "https://cafe-loule.fr/",
+    "domain": "cafe-loule.fr",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:13Z",
+  "products": [
+    {
+      "id": "cafe-loule-cold-brew-palermo-1",
+      "name": "Cold Brew palermo",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0915/2066/3879/files/IMG-2365.png?v=1780592483",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Loulé",
+          "url": "https://cafe-loule.fr/products/cold-brew-palermo-1",
+          "price": 4.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cafe-loule-pack-decouverte-loule",
+      "name": "Pack LouLé",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0915/2066/3879/files/Copie_de_Copie_de_Sans_titre_3.png?v=1764771369",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Loulé",
+          "url": "https://cafe-loule.fr/products/pack-decouverte-loule",
+          "price": 37.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    }
+  ]
+}

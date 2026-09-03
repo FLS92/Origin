@@ -1,0 +1,148 @@
+{
+  "roaster": {
+    "id": "la-fabrique-du-cafe",
+    "name": "La Fabrique du Café",
+    "city": "Limoges",
+    "region": "Nouvelle-Aquitaine",
+    "country": "France",
+    "url": "https://lafabriqueducafe.fr/boutique/",
+    "domain": "lafabriqueducafe.fr",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:06:32Z",
+  "products": [
+    {
+      "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
+      "name": "Bedaye Bio &#8211; Ethiopie &#8211; Nature",
+      "originCountry": "Ethiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/08/Bedaye_Site-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/bedaye-bio-ethiopie-nature/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:32Z",
+      "lastSeenAt": "2026-09-03T09:06:32Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-gedeb-bio-ethiopie-lave",
+      "name": "Gedeb Bio &#8211; Ethiopie Lavé",
+      "originCountry": "Ethiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/03/Gedeb-Bio-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/gedeb-bio-ethiopie-lave/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:32Z",
+      "lastSeenAt": "2026-09-03T09:06:32Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-coko-fto-bio-rwanda-lave",
+      "name": "Coko FTO Bio &#8211; Rwanda Lavé",
+      "originCountry": "Rwanda",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/06/Coko_site-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/coko-fto-bio-rwanda-lave/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:32Z",
+      "lastSeenAt": "2026-09-03T09:06:32Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-la-pradera-bio-honey-process-colombie-ship-by-sail",
+      "name": "La Pradera &#8211; Bio &#8211; Colombie Ship by sail",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/02/Finca-La-Pradera-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/la-pradera-bio-honey-process-colombie-ship-by-sail/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:32Z",
+      "lastSeenAt": "2026-09-03T09:06:32Z"
+    }
+  ]
+}

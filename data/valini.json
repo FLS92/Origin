@@ -1,0 +1,247 @@
+{
+  "roaster": {
+    "id": "valini",
+    "name": "Valini",
+    "city": "Nîmes",
+    "region": "Occitanie",
+    "country": "France",
+    "url": "https://valini.fr/",
+    "domain": "valini.fr",
+    "platform": "prestashop",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:06:49Z",
+  "products": [
+    {
+      "id": "valini-p2",
+      "name": "Le \"CROCO\"",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/267-full_default/cafe-croco.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/2-61-cafe-croco.html",
+          "price": 7.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    },
+    {
+      "id": "valini-p77",
+      "name": "Café décaféiné Pure Origine...",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/269-full_default/cafe-decafeine-pure-origine-perou-manzanilla.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/77-556-cafe-decafeine-pure-origine-perou-manzanilla.html",
+          "price": 9.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    },
+    {
+      "id": "valini-p91",
+      "name": "Café Pure Origine Brésil...",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/343-full_default/cafe-pure-origine-bresil-lilith.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/91-822-cafe-pure-origine-bresil-lilith.html",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    },
+    {
+      "id": "valini-p94",
+      "name": "Café Pure Origine Ethiopie...",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/369-full_default/cafe-ethiopie-nyala.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/94-867-cafe-ethiopie-nyala.html",
+          "price": 12.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    },
+    {
+      "id": "valini-p93",
+      "name": "Café Pure Origine Colombie...",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/358-full_default/cafe-guatemala-pampojila.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/93-852-cafe-guatemala-pampojila.html",
+          "price": 9.95,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    },
+    {
+      "id": "valini-p105",
+      "name": "LA SOLEDAD - PEPE JIJON",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/439-full_default/soledad-pepe-jijon.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/accueil/105-soledad-pepe-jijon.html",
+          "price": 29.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    },
+    {
+      "id": "valini-p104",
+      "name": "Café Pure Origine Rwanda BAHO",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/426-full_default/cafe-ethiopie-nyala.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/104-1017-cafe-ethiopie-nyala.html",
+          "price": 11.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:49Z",
+      "lastSeenAt": "2026-09-03T09:06:49Z"
+    }
+  ]
+}

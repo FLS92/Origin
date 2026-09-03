@@ -1,0 +1,15 @@
+{
+  "roaster": {
+    "id": "brulerie-du-leon",
+    "name": "Brûlerie du Léon",
+    "city": "Brest",
+    "region": "Bretagne",
+    "country": "France",
+    "url": "https://brulerieduleon.com/",
+    "domain": "brulerieduleon.com",
+    "platform": "woocommerce",
+    "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts."
+  },
+  "scrapedAt": "2026-09-03T09:07:32Z",
+  "products": []
+}

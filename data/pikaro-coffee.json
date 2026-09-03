@@ -1,0 +1,313 @@
+{
+  "roaster": {
+    "id": "pikaro-coffee",
+    "name": "Pikaro Coffee",
+    "city": "Valenciennes",
+    "region": "Hauts-de-France",
+    "country": "France",
+    "url": "https://www.pikaro.fr/",
+    "domain": "pikaro.fr",
+    "platform": "wizishop",
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
+  },
+  "scrapedAt": "2026-09-03T09:07:47Z",
+  "products": [
+    {
+      "id": "pikaro-coffee-box-cafes-assemblages",
+      "name": "BOX CAFES ASSEMBLAGES",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/offres/box-cafes-assemblages.html",
+          "price": 26.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-carpeaux",
+      "name": "Carpeaux",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/carpeaux.html",
+          "price": 6.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-decafeine",
+      "name": "Décaféiné",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/decafeine.html",
+          "price": 9.6,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-l-expresso-blend-cafe-de-specialite-du-salvador-importe-a-la-voile",
+      "name": "L’Expresso Blend : Café de spécialité du Salvador importé à la voile",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/l-expresso-blend-cafe-de-specialite-du-salvador-importe-a-la-voile.html",
+          "price": 10.8,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-kenya-aa",
+      "name": "Le Bahatie blue :  Café de spécialité du Kenya",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/kenya-aa.html",
+          "price": 10.4,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-le-greengo-cafe-de-specialite-du-rwanda-bio",
+      "name": "Le Greengo : Café de spécialité du Rwanda Bio",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/le-greengo-cafe-de-specialite-du-rwanda-bio.html",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-le-guarani-cafe-du-bresil",
+      "name": "Le Guarani : Café de spécialité du Brésil",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/le-guarani-cafe-du-bresil.html",
+          "price": 9.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-indes-plantation-aa",
+      "name": "Le Kanartaka : Café des Indes",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/indes-plantation-aa.html",
+          "price": 8.05,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    },
+    {
+      "id": "pikaro-coffee-le-limon-cafe-de-colombie-importe-a-la-voile",
+      "name": "Le Limon : Café de spécialité de Colombie importé à la voile",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/le-limon-cafe-de-colombie-importe-a-la-voile.html",
+          "price": 9.3,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:47Z",
+      "lastSeenAt": "2026-09-03T09:07:47Z"
+    }
+  ]
+}

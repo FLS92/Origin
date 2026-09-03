@@ -1,0 +1,148 @@
+{
+  "roaster": {
+    "id": "colors-coffee-roasters",
+    "name": "Colors Coffee & Roasters",
+    "city": "Aix-en-Provence",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "France",
+    "url": "https://colors.coffee/",
+    "domain": "colors.coffee",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:12Z",
+  "products": [
+    {
+      "id": "colors-coffee-roasters-burundi-nemba-copie",
+      "name": "BURUNDI - Butegana {Washed}",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_BUR_1d24cd31-139d-4536-a5fa-ac6b192544cb.png?v=1785426570",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/burundi-nemba-copie",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:12Z",
+      "lastSeenAt": "2026-09-03T09:07:12Z"
+    },
+    {
+      "id": "colors-coffee-roasters-ethiopie-guji",
+      "name": "ÉTHIOPIE - Guji {Anaérobie}",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_ET_b7742357-3e31-40a5-a4f9-c2046e295742.png?v=1785426477",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/ethiopie-guji",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:12Z",
+      "lastSeenAt": "2026-09-03T09:07:12Z"
+    },
+    {
+      "id": "colors-coffee-roasters-kenya-embu",
+      "name": "KENYA - Embu {Washed}",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_KE_378fe66c-1beb-467a-8928-d4918044189d.png?v=1785426539",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/kenya-embu",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:12Z",
+      "lastSeenAt": "2026-09-03T09:07:12Z"
+    },
+    {
+      "id": "colors-coffee-roasters-el-salvador-pacamara",
+      "name": "EL SALVADOR - Pacamara {Anaérobie}",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_SAL_ee9e84c5-a039-4306-930f-60978fc47844.png?v=1785426510",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/el-salvador-pacamara",
+          "price": 12.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:12Z",
+      "lastSeenAt": "2026-09-03T09:07:12Z"
+    }
+  ]
+}

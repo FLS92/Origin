@@ -1,0 +1,214 @@
+{
+  "roaster": {
+    "id": "clinton-hill",
+    "name": "Clinton Hill",
+    "city": "Clermont-Ferrand",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "url": "https://clintonhill.fr/",
+    "domain": "clintonhill.fr",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:06:09Z",
+  "products": [
+    {
+      "id": "clinton-hill-bresil-san-antonio-torrefaction-espresso",
+      "name": "Brésil &#8211; San Antonio &#8211; Torréfaction espresso",
+      "originCountry": "Brésil",
+      "originDetail": null,
+      "process": "Nature",
+      "variety": "Blend catuai",
+      "producer": null,
+      "score": "83,5+",
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/12/Bresil-San-Antonio.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Clinton Hill",
+          "url": "https://clintonhill.fr/produit/bresil-san-antonio-torrefaction-espresso/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:09Z",
+      "lastSeenAt": "2026-09-03T09:06:09Z"
+    },
+    {
+      "id": "clinton-hill-colombie-micro-lot-vino",
+      "name": "Colombie &#8211; Microlot Vino",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Fermenté au coffee mosto puis vieilli 30 jours en fût de vin",
+      "variety": "Castillo",
+      "producer": null,
+      "score": 87.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://clintonhill.fr/wp-content/uploads/2026/08/Colombie-Vino-Microlot.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Clinton Hill",
+          "url": "https://clintonhill.fr/produit/colombie-micro-lot-vino/",
+          "price": 22.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:09Z",
+      "lastSeenAt": "2026-09-03T09:06:09Z"
+    },
+    {
+      "id": "clinton-hill-colombie-el-tambo-torrefaction-espresso",
+      "name": "Colombie &#8211; El Tambo &#8211; Torréfaction espresso",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Castillo",
+      "producer": null,
+      "score": 87.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/10/products.webp",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Clinton Hill",
+          "url": "https://clintonhill.fr/produit/colombie-el-tambo-torrefaction-espresso/",
+          "price": 14.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:09Z",
+      "lastSeenAt": "2026-09-03T09:06:09Z"
+    },
+    {
+      "id": "clinton-hill-mexique-bella-vista-omniroast",
+      "name": "Mexique &#8211; Bella Vista &#8211; Omniroast (filtre et espresso)",
+      "originCountry": "Mexique",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Caturra, Catuai et Bourbon",
+      "producer": null,
+      "score": 85.0,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://clintonhill.fr/wp-content/uploads/2026/01/Clinton-Hill-cafe-mexicain-chiapas-bella-vista.jpg.webp",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Clinton Hill",
+          "url": "https://clintonhill.fr/produit/mexique-bella-vista-omniroast/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:09Z",
+      "lastSeenAt": "2026-09-03T09:06:09Z"
+    },
+    {
+      "id": "clinton-hill-colombie-el-tambo-torrefaction-filtre",
+      "name": "Colombie &#8211; El Tambo &#8211; Torréfaction filtre",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Castillo",
+      "producer": null,
+      "score": 87.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/10/products.webp",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Clinton Hill",
+          "url": "https://clintonhill.fr/produit/colombie-el-tambo-torrefaction-filtre/",
+          "price": 14.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:09Z",
+      "lastSeenAt": "2026-09-03T09:06:09Z"
+    },
+    {
+      "id": "clinton-hill-ethiopie-yirgacheffe",
+      "name": "Ethiopie &#8211; Yirgacheffe Beloya &#8211; Omniroast (filtre et espresso)",
+      "originCountry": "Ethiopie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Heirloom",
+      "producer": null,
+      "score": 87.0,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://clintonhill.fr/wp-content/uploads/2020/08/products.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Clinton Hill",
+          "url": "https://clintonhill.fr/produit/ethiopie-yirgacheffe/",
+          "price": 14.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:09Z",
+      "lastSeenAt": "2026-09-03T09:06:09Z"
+    }
+  ]
+}

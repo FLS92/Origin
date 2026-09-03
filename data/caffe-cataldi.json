@@ -1,0 +1,15 @@
+{
+  "roaster": {
+    "id": "caffe-cataldi",
+    "name": "Caffè Cataldi",
+    "city": "Louargat",
+    "region": "Bretagne",
+    "country": "France",
+    "url": "https://caffe-cataldi.fr/fr/",
+    "domain": "caffe-cataldi.fr",
+    "platform": "prestashop",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:35Z",
+  "products": []
+}

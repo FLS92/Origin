@@ -1,0 +1,567 @@
+{
+  "roaster": {
+    "id": "cime",
+    "name": "Cime",
+    "city": "Nantes",
+    "region": "Pays de la Loire",
+    "country": "France",
+    "url": "https://www.cime-cafe.fr/nos-cafes.html",
+    "domain": "cime-cafe.fr",
+    "platform": "magento",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:13Z",
+  "products": [
+    {
+      "id": "cime-p517",
+      "name": "Finca La Soledad - Pepe Jijon",
+      "originCountry": "Équateur",
+      "originDetail": null,
+      "process": null,
+      "variety": "Sidra",
+      "producer": "Finca La Soledad",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Grenade",
+        "Fruits jaunes",
+        "Miel"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/i/cime-mockupboite-microlot-ok-re_cupe_re_.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cafe_exception_finca_lasoledad_cime.html",
+          "price": 32.0,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p516",
+      "name": "Geisha Lactic",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Geisha",
+      "producer": "Aroma Nativo",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Lychee",
+        "Fruit de la Passion",
+        "Mangue"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/g/e/geisha_lactic_web.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cafe_exception_aromanativo_geisha_lactic_cime.html",
+          "price": 39.5,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p511",
+      "name": "Sudan Rume - C.G.L.E",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Sudan Rume",
+      "producer": "Finca Las Margaritas",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Cardamome",
+        "Myrtille",
+        "Abricot"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/s/u/sudan_rume_website.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cafe_exception_cgle_cafe_granja_la_esperanza_sudan_rume_cime.html",
+          "price": 33.0,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p493",
+      "name": "Elixir",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Bourbon  Orange",
+      "producer": "Finca Nogales",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Lavendre",
+        "Fruits Jaunes",
+        "Citronelle"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/e/l/elixir_web.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cafe_exception_finca_nogales_geisha_azahar_cime-1.html",
+          "price": 20.0,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p543",
+      "name": "El Vergel - Profil Filtre",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Caturra",
+      "producer": "Finca El Vergel",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Chocolat",
+        "fruits rouges",
+        "goyave"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/e/l/elvergel_filtre.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/vergel_state_colombie_specialty_coffee_cime_filtre.html",
+          "price": 16.2,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p542",
+      "name": "El Vergel - Profil Espresso",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Colombie",
+      "producer": "Finca El Vergel",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Chocolat",
+        "fruits rouges",
+        "goyave"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/e/l/el_vergel_colombie_espresso.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/vergel_state_colombie_specialty_coffee_cime.html",
+          "price": 16.2,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p541",
+      "name": "Velvet Bloom - Profil Filtre",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Ethiopie",
+      "producer": "Chelchele Washing Station",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Myrtille",
+        "Hibiscus",
+        "Cacao"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/v/e/velvet_bloom_filter_website_4.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/velvet_bloom_ethiopie_specialty_coffee_cime-1.html",
+          "price": 16.2,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p538",
+      "name": "Velvet Bloom - Profil Espresso",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Ethiopie",
+      "producer": "Chelchele Washing Station",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Myrtille",
+        "Hibiscus",
+        "Cacao"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/v/e/velvet_bloom_250g_espresso_4_1.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/velvet_bloom_ethiopie_specialty_coffee_cime.html",
+          "price": 16.2,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p508",
+      "name": "Finca Potosi - Profil Espresso",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Mélange",
+      "producer": "Finca Potosi",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Chocolat",
+        "Vanille",
+        "Nougat"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/p/o/potosi_250g.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/finca-potosi.html",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p490",
+      "name": "Norbil Perez",
+      "originCountry": "Pérou",
+      "originDetail": null,
+      "process": null,
+      "variety": "Caturra",
+      "producer": "El Campo",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Orange",
+        "Vanille",
+        "Cerise"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/n/o/norbil-online.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/norbil_perez_perou_origine_unique_cime.html",
+          "price": 17.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p340",
+      "name": "Guava Banana Cold Brew - Pack de 4 Canettes",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/o/coldbrew_2_online.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/dimtu-cold-brew-cannette-1.html",
+          "price": 22.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p267",
+      "name": "Singulier",
+      "originCountry": "Brésil, Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Assemblage",
+      "producer": "Amérique Latine, Afrique",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Orange",
+        "Vanille",
+        "Chocolat"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/s/i/singulier-online.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/assemblage_maison_singulier_arabica_cime.html",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p153",
+      "name": "Full Samba",
+      "originCountry": "Brésil",
+      "originDetail": null,
+      "process": null,
+      "variety": "Assemblage",
+      "producer": "Fazenda Rio Brilhante",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Chocolat noir",
+        "Noisette grillé",
+        "Caramel"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/f/u/full-samba-online.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/assemblage_le_blend_arabica_cime.html",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p85",
+      "name": "Finca Las Margaritas - Cascara",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Geisha",
+      "producer": "Finca Las Margaritas",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Pomme rouge",
+        "Figue",
+        "Hibiscus"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/a/cascara_packshot.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cascara_finca_las_margaritas_colombie.html",
+          "price": 12.4,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    },
+    {
+      "id": "cime-p5",
+      "name": "Planadas - Décaféiné",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Mélange",
+      "producer": "Planadas",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Sucre brun",
+        "Baies",
+        "Réglisse"
+      ],
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/p/l/planadas-de_ca-online.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/café_décaféiné_planadas_colombie.html",
+          "price": 13.2,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:13Z",
+      "lastSeenAt": "2026-09-03T09:07:13Z"
+    }
+  ]
+}

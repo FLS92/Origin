@@ -1,0 +1,313 @@
+{
+  "roaster": {
+    "id": "cafe-claudio-nelda",
+    "name": "Café Claudio Nelda",
+    "city": "Moret-Loing-et-Orvanne",
+    "region": "Île-de-France",
+    "country": "France",
+    "url": "https://claudionelda.com/",
+    "domain": "claudionelda.com",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:05:29Z",
+  "products": [
+    {
+      "id": "cafe-claudio-nelda-cafe-de-colombie-boubon-rose-notes-de-jasmin-et-citronelle",
+      "name": "Café de Colombie : Boubon Rose (Notes de jasmin et citronelle)",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/files/FINCAELVISO-BORBONJPG.jpg?v=1747574430",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/cafe-de-colombie-boubon-rose-notes-de-jasmin-et-citronelle",
+          "price": 9.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-cafe-de-colombie-caturra-lave-notes-de-cranberrie-et-panela",
+      "name": "Café de Colombie : Caturra Lavé (notes de Cranberrie et Panela)",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/files/ColombieCafeJpg.jpg?v=1747572967",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/cafe-de-colombie-caturra-lave-notes-de-cranberrie-et-panela",
+          "price": 7.1,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-cafe-du-perou",
+      "name": "Café du Perou : Cajamarca Huabal. Notes de noisettes et de Panela.",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/Cajamarcaresize.jpg?v=1639602206",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/cafe-du-perou",
+          "price": 8.55,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-cafe-de-bolivie-collasuyo",
+      "name": "Café de Bolivie : Collasuyo. Notes de citron vert, amandes.",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/25118777232_a5f605e66e_c.jpg?v=1633554411",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/cafe-de-bolivie-collasuyo",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-cafe-du-bresil",
+      "name": "Café du Bresil : Matas de Minas",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/GrainNature.jpg?v=1632597217",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/cafe-du-bresil",
+          "price": 9.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-cafe-du-honduras-marcala-bio",
+      "name": "Café du Honduras : Marcala-BIO Le Ceiba , Notes de poivre, de noix, de cacahuète",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/CatuaiRougeHondurasBio.jpg?v=1630482225",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/cafe-du-honduras-marcala-bio",
+          "price": 6.95,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-nicaragua",
+      "name": "Café du Nicaragua : Nueva Segovia, Dipilto. Notes de miel, de nougatine.",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/136341423_3737575039636748_8428455875349331109_n.jpg?v=1629751456",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/nicaragua",
+          "price": 6.8,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-quindio-les-meilleurs-cafes",
+      "name": "Café du Guatemala : Santa felisa Grand Cru de spécialité. Notes de coing, de sucre roux.",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/k-72_2.jpg?v=1628859748",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/quindio-les-meilleurs-cafes",
+          "price": 9.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    },
+    {
+      "id": "cafe-claudio-nelda-sentir-andino",
+      "name": "Café de Colombie : Guayabal de Siquima El Carmelo. Notes de raisin sec, floral",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/Isaura.jpg?v=1639260076",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Claudio Nelda",
+          "url": "https://claudionelda.com/products/sentir-andino",
+          "price": 9.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:29Z",
+      "lastSeenAt": "2026-09-03T09:05:29Z"
+    }
+  ]
+}

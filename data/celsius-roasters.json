@@ -1,0 +1,49 @@
+{
+  "roaster": {
+    "id": "celsius-roasters",
+    "name": "Celsius Roasters",
+    "city": "Lyon",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "url": "https://celsius-roasters.fr/",
+    "domain": "celsius-roasters.fr",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:05:31Z",
+  "products": [
+    {
+      "id": "celsius-roasters-cafe-en-bean-to-bar-diggers-x-celsius-geisha-perou",
+      "name": "Café en bean-to-bar | Diggers x Celsius | Geisha, Pérou",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0626/6129/6297/files/Face_avec_carres.jpg?v=1778082177",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Celsius Roasters",
+          "url": "https://celsius-roasters.fr/products/cafe-en-bean-to-bar-diggers-x-celsius-geisha-perou",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 80,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:31Z",
+      "lastSeenAt": "2026-09-03T09:05:31Z"
+    }
+  ]
+}

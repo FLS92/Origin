@@ -1,0 +1,148 @@
+{
+  "roaster": {
+    "id": "kaffa-torrefacteur",
+    "name": "Kaffa Torréfacteur",
+    "city": "Crest",
+    "region": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "url": "https://kaffa-roastery.com/",
+    "domain": "kaffa-roastery.com",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:06:07Z",
+  "products": [
+    {
+      "id": "kaffa-torrefacteur-gaia",
+      "name": "Café de la ferme Gaïa",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Honduras-cafe-de-specialite-carre.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/gaia/",
+          "price": 8.1,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:07Z",
+      "lastSeenAt": "2026-09-03T09:06:07Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-colombie",
+      "name": "Café de Jhon Muñoz",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Toutes méhodes",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Colombie-cafe-de-specialite-carre.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/colombie/",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:07Z",
+      "lastSeenAt": "2026-09-03T09:06:07Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-rwanda",
+      "name": "Café du village de Rutabo",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Toutes méthodes",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Rwanda-cafe-de-specialite-carre.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/rwanda/",
+          "price": 8.1,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:07Z",
+      "lastSeenAt": "2026-09-03T09:06:07Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-perou",
+      "name": "Café de La Lima",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Perou-cafe-de-specialite-carre.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/perou/",
+          "price": 8.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:07Z",
+      "lastSeenAt": "2026-09-03T09:06:07Z"
+    }
+  ]
+}

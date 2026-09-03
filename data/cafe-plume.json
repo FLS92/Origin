@@ -1,0 +1,313 @@
+{
+  "roaster": {
+    "id": "cafe-plume",
+    "name": "Café Plume",
+    "city": "Toulouse",
+    "region": "Occitanie",
+    "country": "France",
+    "url": "https://plumedecafe.fr/",
+    "domain": "plumedecafe.fr",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:06:53Z",
+  "products": [
+    {
+      "id": "cafe-plume-colombie-yuppie-100-arabica",
+      "name": "Colombie &#8211; Yuppie 100% Arabica",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/05/Yuppie-paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/colombie-yuppie-100-arabica/",
+          "price": 9.7,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-perou-cataratas-100-arabica-bio",
+      "name": "Pérou &#8211; Cataratas 100% Arabica BIO",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/02/Cataratas-01-paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/perou-cataratas-100-arabica-bio/",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-guatemala-panama-100-robusta",
+      "name": "Guatemala &#8211; Panama 100% Robusta",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2025/10/Panama-paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/guatemala-panama-100-robusta/",
+          "price": 8.6,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-nicaragua-jinotega-100-arabica",
+      "name": "Nicaragua &#8211; Jinotega 100% Arabica",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2025/10/Jinotega-paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/nicaragua-jinotega-100-arabica/",
+          "price": 8.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
+      "name": "Vietnam &#8211; Dak Lak ROBUSTA 100% Robusta",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2024/04/Dak-Lak-Paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/vietnam-dak-lak-robusta-100-robusta/",
+          "price": 6.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-ethiopie-moka-boji-wollega",
+      "name": "Ethiopie &#8211; Moka Boji Wollega 100% Arabica",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/12/Moka-Boji-Paquet-1-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/ethiopie-moka-boji-wollega/",
+          "price": 7.8,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-inde-bresil-le-melange-corse",
+      "name": "Le Mélange Corsé 50% Arabica / 50% Robusta",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/12/Melange-corse-04-paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/inde-bresil-le-melange-corse/",
+          "price": 6.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-bresil-espirito-santo-vanille",
+      "name": "Le VANILLE 100% Arabica",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/07/Le-Vanille-3-paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/bresil-espirito-santo-vanille/",
+          "price": 7.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    },
+    {
+      "id": "cafe-plume-ethiopie-jebena",
+      "name": "Ethiopie &#8211; Jebena 100% Arabica",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2022/09/Jebena-01-Paquet-scaled.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/ethiopie-jebena/",
+          "price": 8.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:06:53Z",
+      "lastSeenAt": "2026-09-03T09:06:53Z"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "roaster": {
+    "id": "cafe-frate",
+    "name": "Café Fraté",
+    "city": "Esclanèdes",
+    "region": "Occitanie",
+    "country": "France",
+    "url": "https://www.cafefrate.com/boutique/",
+    "domain": "cafefrate.com",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:01Z",
+  "products": [
+    {
+      "id": "cafe-frate-le-frangin",
+      "name": "Le Frangin",
+      "originCountry": "Pérou",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": "Cenfrocafé &amp; Rutas Del Inca",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Légère à Médium",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2026/03/Le-Frangin-VFS1.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Fraté",
+          "url": "https://www.cafefrate.com/p/le-frangin/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:01Z",
+      "lastSeenAt": "2026-09-03T09:07:01Z"
+    },
+    {
+      "id": "cafe-frate-la-pitchoune",
+      "name": "La Pitchoune",
+      "originCountry": "Ethiopie",
+      "originDetail": null,
+      "process": "Lavé &amp; Nature",
+      "variety": null,
+      "producer": "Shilicho &amp; Taramesa",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Légère",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2026/03/La-Pitchoune-VFS1.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Fraté",
+          "url": "https://www.cafefrate.com/p/la-pitchoune/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:01Z",
+      "lastSeenAt": "2026-09-03T09:07:01Z"
+    },
+    {
+      "id": "cafe-frate-coffret-cadeau",
+      "name": "Coffret cadeau",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-30-at-20.58-1.jpg",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Fraté",
+          "url": "https://www.cafefrate.com/p/coffret-cadeau/",
+          "price": 37.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:01Z",
+      "lastSeenAt": "2026-09-03T09:07:01Z"
+    },
+    {
+      "id": "cafe-frate-le-minot",
+      "name": "Le Minot",
+      "originCountry": "Congo",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Légère",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/Le-Minot-VFS1.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Fraté",
+          "url": "https://www.cafefrate.com/p/le-minot/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:01Z",
+      "lastSeenAt": "2026-09-03T09:07:01Z"
+    },
+    {
+      "id": "cafe-frate-le-pape",
+      "name": "Le Papé",
+      "originCountry": "Mexique",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Poussée",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/Le-pape-VFS1.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Fraté",
+          "url": "https://www.cafefrate.com/p/le-pape/",
+          "price": 7.75,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:01Z",
+      "lastSeenAt": "2026-09-03T09:07:01Z"
+    },
+    {
+      "id": "cafe-frate-la-daronne",
+      "name": "La Daronne",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": "Cosurca &amp; Fono Paez",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Moyenne",
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/La-Daronne-VFS1.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Café Fraté",
+          "url": "https://www.cafefrate.com/p/la-daronne/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:01Z",
+      "lastSeenAt": "2026-09-03T09:07:01Z"
+    }
+  ]
+}

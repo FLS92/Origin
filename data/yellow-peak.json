@@ -1,0 +1,280 @@
+{
+  "roaster": {
+    "id": "yellow-peak",
+    "name": "Yellow Peak",
+    "city": "Pau",
+    "region": "Nouvelle-Aquitaine",
+    "country": "France",
+    "url": "https://www.yellowpeak.fr/boutique/",
+    "domain": "yellowpeak.fr",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:11:30Z",
+  "products": [
+    {
+      "id": "yellow-peak-cafe-laurina",
+      "name": "Café Laurina",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Honey pulped",
+      "variety": "Laurina, Aramosa",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/06/cafe-laurina-peche-blanche-miel-citron-minas-gerais-bresil-process-honey-pulped-natural-yellow-peak-cafe-de-specialite.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-laurina/",
+          "price": 18.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-yellow-coquette",
+      "name": "Café Yellow Coquette",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Yellow honey",
+      "variety": "Caturra, Catuai",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/04/cafe-yellow-coquette-citron-praline-yellow-honey-terrazu-costa-rica-yeelow-peak-cafe-de-specialite.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-yellow-coquette/",
+          "price": 16.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-doradito",
+      "name": "Café Doradito",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Nature",
+      "variety": "Catuai rouge, Mundo novo",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/02/cafe-doradito-chocolat-noir-amande-minas-gerais-bresil-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-doradito/",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-alapi-honey-du-bresil",
+      "name": "Café Alapi",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Honey",
+      "variety": "Catuai",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/02/cafe-alapi-noix-chocolat-noir-minas-gerais-bresil-yellow-peak-cafe-de-specialite.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-alapi-honey-du-bresil/",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-coucal",
+      "name": "Café Coucal",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Nature",
+      "variety": "Jarc varieties (74110)",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/07/cafe-coucal-floral-caramel-yirgacheffe-ethiopie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-coucal/",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-monterita",
+      "name": "Café Monterita",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Caturra, Bourbon, Typica, Castillo et Catimor",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/cafe-monterita-pate-d-amande-chocolat-cajamarca-perou-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-monterita/",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-decafeine-roupillon",
+      "name": "Café décaféiné Roupillon",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Caturra, Castillo, Colombia",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/cafe-decafeine-roupillon-caramel-vanille-caldas-colombie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-decafeine-roupillon/",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    },
+    {
+      "id": "yellow-peak-cafe-papou",
+      "name": "Café Papou",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/cafe-papou-cacao-equilibre-wahgi-valley-papouasie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-papou/",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:11:30Z",
+      "lastSeenAt": "2026-09-03T09:11:30Z"
+    }
+  ]
+}

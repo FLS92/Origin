@@ -1,0 +1,15 @@
+{
+  "roaster": {
+    "id": "cafe-bretelles",
+    "name": "Café Bretelles",
+    "city": "Strasbourg",
+    "region": "Grand Est",
+    "country": "France",
+    "url": "https://cafe-bretelles.fr/",
+    "domain": "cafe-bretelles.fr",
+    "platform": "squarespace",
+    "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\"."
+  },
+  "scrapedAt": "2026-09-03T09:07:39Z",
+  "products": []
+}

@@ -1,0 +1,247 @@
+{
+  "roaster": {
+    "id": "bel-horizon-coffee-roasters",
+    "name": "Bel Horizon Coffee Roasters",
+    "city": "Paris",
+    "region": "Île-de-France",
+    "country": "France",
+    "url": "https://belhorizon.coffee/",
+    "domain": "belhorizon.coffee",
+    "platform": "shopify",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:05:16Z",
+  "products": [
+    {
+      "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
+      "name": "SINGULARITY #2027·02 · Okapa · Filter",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/okapasite.jpg?v=1787326398",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/singularity-2027-02-okapa-filter",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
+      "name": "SINGULARITY #2027·01 · Gasharu · Filter",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/gasharusite.jpg?v=1787325372",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/singularity-2027-01-gasharu-filter",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-1000-hills",
+      "name": "1000 Hills",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-1000-hills_d0b63480-fe7b-4c3d-9f80-6281abc335f1.png?v=1781468725",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/1000-hills",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 275,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-cordillera-del-fuego",
+      "name": "Cordillera Del Fuego",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-cordillera-del-fuego_be515d75-6074-4acd-af4e-aa5bc979f2e5.png?v=1781468700",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/cordillera-del-fuego",
+          "price": 25.0,
+          "currency": "EUR",
+          "unitWeightG": 275,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-el-porvenir",
+      "name": "El Porvenir",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-el-porvenir_2e1d0e69-5c12-414e-9e79-8bb3675bd49a.png?v=1781468508",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/el-porvenir",
+          "price": 30.5,
+          "currency": "EUR",
+          "unitWeightG": 275,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-finca-los-primos",
+      "name": "Finca Los Primos",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-finca-los-primos_87514cf0-0768-4ae1-bf9c-9da79347684d.png?v=1781466752",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/finca-los-primos",
+          "price": 23.0,
+          "currency": "EUR",
+          "unitWeightG": 275,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-finca-bella",
+      "name": "Finca Bella Vista",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-finca-bella-vista_f17d8197-5418-4b82-a911-8cf98639f033.png?v=1781468425",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/finca-bella",
+          "price": 9.75,
+          "currency": "EUR",
+          "unitWeightG": 275,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:05:16Z",
+      "lastSeenAt": "2026-09-03T09:05:16Z"
+    }
+  ]
+}

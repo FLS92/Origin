@@ -1,0 +1,15 @@
+{
+  "roaster": {
+    "id": "cafes-reck",
+    "name": "Cafés Reck",
+    "city": "Strasbourg",
+    "region": "Grand Est",
+    "country": "France",
+    "url": "https://www.reck.fr/",
+    "domain": "reck.fr",
+    "platform": "prestashop",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:39Z",
+  "products": []
+}

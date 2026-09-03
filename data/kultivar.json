@@ -1,0 +1,115 @@
+{
+  "roaster": {
+    "id": "kultivar",
+    "name": "Kultivar",
+    "city": "Nantes",
+    "region": "Pays de la Loire",
+    "country": "France",
+    "url": "https://www.kultivarcafe.fr/",
+    "domain": "kultivarcafe.fr",
+    "platform": "woocommerce",
+    "notes": null
+  },
+  "scrapedAt": "2026-09-03T09:07:14Z",
+  "products": [
+    {
+      "id": "kultivar-colombie-gesha-lave",
+      "name": "COLOMBIE &#8211; GESHA &#8211; LAVÉ",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/03/LUIS-HERNANDO_PHOTO1.webp",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kultivar",
+          "url": "https://www.kultivarcafe.fr/nos-cafes/colombie-gesha-lave/",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:14Z",
+      "lastSeenAt": "2026-09-03T09:07:14Z"
+    },
+    {
+      "id": "kultivar-ethiopie-guji-nature",
+      "name": "ETHIOPIE &#8211; GUJI &#8211; NATURE",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/03/OKOLUU_PHOTO2_1.webp",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kultivar",
+          "url": "https://www.kultivarcafe.fr/nos-cafes/ethiopie-guji-nature/",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:14Z",
+      "lastSeenAt": "2026-09-03T09:07:14Z"
+    },
+    {
+      "id": "kultivar-colombie-castillo-lave",
+      "name": "COLOMBIE &#8211; CASTILLO &#8211; LAVÉ",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "description": null,
+      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2025/07/BERNARDO-TORRES_PHOTO1.webp",
+      "harvestYear": null,
+      "retailers": [
+        {
+          "site": "Kultivar",
+          "url": "https://www.kultivarcafe.fr/nos-cafes/colombie-castillo-lave/",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-03T09:07:14Z",
+      "lastSeenAt": "2026-09-03T09:07:14Z"
+    }
+  ]
+}
