@@ -1351,7 +1351,7 @@ document.getElementById('export-csv').addEventListener('click', exportLibraryCSV
     await loadCoffeeData();
   }catch(e){
     console.error(e);
-    document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Impossible de charger les cafés</h3><p>coffees-data.json n'a pas pu être chargé. Si tu ouvres ce fichier directement (file://), sers-le plutôt via un petit serveur local (ex. <code>python3 -m http.server</code> depuis le dossier app/).</p></div>`;
+    document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Impossible de charger les cafés</h3><p>coffees-data.json n'a pas pu être chargé. Si tu ouvres ce fichier directement (file://), sers-le plutôt via un petit serveur local (ex. <code>python3 -m http.server</code> depuis le dossier docs/).</p></div>`;
     return;
   }
   renderFilterChips();

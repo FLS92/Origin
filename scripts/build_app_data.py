@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-"""Transform data/*.json (schema-scraping-origin.md) into app/coffees-data.json,
-the shape origin-app.html fetches at startup: {roasters: {...}, coffees: [...]}.
+"""Transform data/*.json (schema-scraping-origin.md) into docs/coffees-data.json,
+the shape index.html fetches at startup: {roasters: {...}, coffees: [...]}.
+Lives under docs/ (not app/) because GitHub Pages' "deploy from a branch" only
+offers /(root) or /docs as the source folder — no custom path.
 
 Only roasters with at least one product are included — an empty roaster entry
 would just be dead weight in the app's filters. Missing optional fields are
@@ -15,7 +17,7 @@ import os
 
 DATA_DIR = "data"
 CONFIG_PATH = "config/roasters.json"
-OUT_PATH = "app/coffees-data.json"
+OUT_PATH = "docs/coffees-data.json"
 
 
 def format_price(price, currency):

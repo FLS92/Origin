@@ -4,7 +4,7 @@
     {
       "name": "origin-app",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8420", "--directory", "app"],
+      "runtimeArgs": ["-m", "http.server", "8420", "--directory", "docs"],
       "port": 8420
     }
   ]
