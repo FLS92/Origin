@@ -1,415 +1,483 @@
 {
-  "generatedAt": "2026-09-03T20:44:33Z",
+  "generatedAt": "2026-09-04T07:04:23Z",
   "roasterCount": 68,
-  "coffeeCount": 1200,
+  "coffeeCount": 1073,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
       "city": "Melun",
       "url": "https://anbassa.fr/boutique/",
-      "domain": "anbassa.fr"
+      "domain": "anbassa.fr",
+      "logoUrl": "https://anbassa.fr/wp-content/uploads/2021/10/logo-anbassa-noir.png"
     },
     "arlo-s-coffee": {
       "name": "Arlo's Coffee",
       "city": "Rambouillet",
       "url": "https://arloscoffee.com/",
-      "domain": "arloscoffee.com"
+      "domain": "arloscoffee.com",
+      "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
     },
     "au-cur-du-cafe": {
       "name": "Au Cœur du Café",
       "city": "Troyes",
       "url": "https://www.aucoeurducafe.fr/",
-      "domain": "aucoeurducafe.fr"
+      "domain": "aucoeurducafe.fr",
+      "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
     },
     "bel-horizon-coffee-roasters": {
       "name": "Bel Horizon Coffee Roasters",
       "city": "Paris",
       "url": "https://belhorizon.coffee/",
-      "domain": "belhorizon.coffee"
+      "domain": "belhorizon.coffee",
+      "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
     },
     "belleville-brulerie": {
       "name": "Belleville Brûlerie",
       "city": "Paris",
       "url": "https://cafesbelleville.com/",
-      "domain": "cafesbelleville.com"
+      "domain": "cafesbelleville.com",
+      "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377"
     },
     "cafe-1802": {
       "name": "Café 1802",
       "city": "Rennes",
       "url": "https://cafe1802.fr/",
-      "domain": "cafe1802.fr"
+      "domain": "cafe1802.fr",
+      "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
     },
     "cafe-chulo": {
       "name": "Café Chulo",
       "city": "Fontaine",
       "url": "https://cafechulo.fr/",
-      "domain": "cafechulo.fr"
+      "domain": "cafechulo.fr",
+      "logoUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/08/Cafe-Chulo_logo_noir_80.png?fit=80%2C80&ssl=1"
     },
     "cafe-claudio-nelda": {
       "name": "Café Claudio Nelda",
       "city": "Moret-Loing-et-Orvanne",
       "url": "https://claudionelda.com/",
-      "domain": "claudionelda.com"
+      "domain": "claudionelda.com",
+      "logoUrl": "https://claudionelda.com/cdn/shop/t/6/assets/blank_1x1.gif?v=50849316544257392421624522096"
     },
     "cafe-come": {
       "name": "Café Côme",
       "city": "Grenoble",
       "url": "https://cafe-come.fr/",
-      "domain": "cafe-come.fr"
+      "domain": "cafe-come.fr",
+      "logoUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/1.png"
     },
     "cafe-corto": {
       "name": "Café Corto",
       "city": "Marseille",
       "url": "https://cafe-corto.fr/",
-      "domain": "cafe-corto.fr"
+      "domain": "cafe-corto.fr",
+      "logoUrl": "https://cafe-corto.fr/cdn/shop/files/CAFE-CORTO-Logo-rouge_2a40c653-fdfb-4935-b471-fa88a5fa82dd.png?v=1774947910&width=600"
     },
     "cafe-d-auteur": {
       "name": "Café d'Auteur",
       "city": "Paris",
       "url": "https://cafedauteur.com/",
-      "domain": "cafedauteur.com"
+      "domain": "cafedauteur.com",
+      "logoUrl": "https://cafedauteur.com/themes/bos_highlands//assets/img/logo-h2.png"
     },
     "cafe-frate": {
       "name": "Café Fraté",
       "city": "Esclanèdes",
       "url": "https://www.cafefrate.com/boutique/",
-      "domain": "cafefrate.com"
+      "domain": "cafefrate.com",
+      "logoUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/logo-cafe-frate-1.png"
     },
     "cafe-loule": {
       "name": "Café Loulé",
       "city": "Nantes",
       "url": "https://cafe-loule.fr/",
-      "domain": "cafe-loule.fr"
+      "domain": "cafe-loule.fr",
+      "logoUrl": "https://cafe-loule.fr/cdn/shop/files/Cafe_LouLe_Logo.svg?v=1756610202"
     },
     "cafe-nibi": {
       "name": "Café Nibi",
       "city": "Suresnes",
       "url": "https://www.cafenibi.com/e-boutique",
-      "domain": "cafenibi.com"
+      "domain": "cafenibi.com",
+      "logoUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fcc0a887-ec4d-4765-b916-ac2d9765be01/Logo+Nibi+fin3.png?format=1500w"
     },
     "cafe-piha": {
       "name": "Café Piha",
       "city": "Bordeaux",
       "url": "https://www.cafepiha.com/e-boutique/",
-      "domain": "cafepiha.com"
+      "domain": "cafepiha.com",
+      "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg"
     },
     "cafe-plume": {
       "name": "Café Plume",
       "city": "Toulouse",
       "url": "https://plumedecafe.fr/",
-      "domain": "plumedecafe.fr"
+      "domain": "plumedecafe.fr",
+      "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png"
     },
     "cafe-toque": {
       "name": "Café Toqué",
       "city": "Lyon",
       "url": "https://www.lecafetoque.fr/",
-      "domain": "lecafetoque.fr"
+      "domain": "lecafetoque.fr",
+      "logoUrl": "https://www.lecafetoque.fr/web/image/website/1/logo/Lecafetoque?unique=7f0a17a"
     },
     "cafes-boc": {
       "name": "Cafés BOC",
       "city": "Le Mans",
       "url": "https://www.cafesboc.fr/boutique/",
-      "domain": "cafesboc.fr"
+      "domain": "cafesboc.fr",
+      "logoUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/05/cafes-boc-logo.png"
     },
     "cafes-bozec": {
       "name": "Cafés Bozec",
       "city": "Brest",
       "url": "https://www.cafesbozec.fr/",
-      "domain": "cafesbozec.fr"
+      "domain": "cafesbozec.fr",
+      "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1"
     },
     "cafes-goneo": {
       "name": "Cafés Gonéo",
       "city": "Lyon",
       "url": "https://shop.cafes-goneo.fr/",
-      "domain": "shop.cafes-goneo.fr"
+      "domain": "shop.cafes-goneo.fr",
+      "logoUrl": "https://shop.cafes-goneo.fr/img/logo-17712465632.jpg"
     },
     "cafes-gorille": {
       "name": "Cafés Gorille",
       "city": "Calvisson",
       "url": "https://cafes-gorille.com/",
-      "domain": "cafes-gorille.com"
+      "domain": "cafes-gorille.com",
+      "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg"
     },
     "cafes-lecoeur": {
       "name": "Cafés Lecoeur",
       "city": "Épinay-sous-Sénart",
       "url": "https://www.cafeslecoeur.fr/shop",
-      "domain": "cafeslecoeur.fr"
+      "domain": "cafeslecoeur.fr",
+      "logoUrl": "https://www.cafeslecoeur.fr/web/image/website/1/logo/Caf%C3%A9s%20Lecoeur?unique=cc9073c"
     },
     "cafes-magali": {
       "name": "Cafés Magali",
       "city": "Toulon",
       "url": "https://www.cafesmagali.fr/boutique/",
-      "domain": "cafesmagali.fr"
+      "domain": "cafesmagali.fr",
+      "logoUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/06/LogoMagaliFull.svg"
     },
     "cafes-muda": {
       "name": "Cafés Muda",
       "city": "Lille",
       "url": "https://cafesmuda.fr/",
-      "domain": "cafesmuda.fr"
+      "domain": "cafesmuda.fr",
+      "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
     },
     "caffe-cataldi": {
       "name": "Caffè Cataldi",
       "city": "Louargat",
       "url": "https://caffe-cataldi.fr/fr/",
-      "domain": "caffe-cataldi.fr"
+      "domain": "caffe-cataldi.fr",
+      "logoUrl": "https://www.caffe-cataldi.fr/img/caffe-cataldi-meilleur-torrefacteur-de-france-2010-logo-1521212305.jpg"
     },
     "celsius-roasters": {
       "name": "Celsius Roasters",
       "city": "Lyon",
       "url": "https://celsius-roasters.fr/",
-      "domain": "celsius-roasters.fr"
+      "domain": "celsius-roasters.fr",
+      "logoUrl": "https://celsius-roasters.fr/cdn/shop/files/Celsius_Roasters_logo_en_couleurs.png?v=1698744069"
     },
     "cime": {
       "name": "Cime",
       "city": "Nantes",
       "url": "https://www.cime-cafe.fr/nos-cafes.html",
-      "domain": "cime-cafe.fr"
+      "domain": "cime-cafe.fr",
+      "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg"
     },
     "clinton-hill": {
       "name": "Clinton Hill",
       "city": "Clermont-Ferrand",
       "url": "https://clintonhill.fr/",
-      "domain": "clintonhill.fr"
+      "domain": "clintonhill.fr",
+      "logoUrl": "https://clintonhill.fr/wp-content/uploads/2023/05/cropped-cropped-Logo-horizontal-500-×-142-px.png"
     },
     "coffee-makers": {
       "name": "Coffee Makers",
       "city": "Lille",
       "url": "https://coffeemakers.fr/",
-      "domain": "coffeemakers.fr"
+      "domain": "coffeemakers.fr",
+      "logoUrl": "https://coffeemakers.fr/cdn/shop/files/animiertes-gif-von-online-umwandeln-de_300x300.gif?v=1625085482"
     },
     "colors-coffee-roasters": {
       "name": "Colors Coffee & Roasters",
       "city": "Aix-en-Provence",
       "url": "https://colors.coffee/",
-      "domain": "colors.coffee"
+      "domain": "colors.coffee",
+      "logoUrl": "https://colors.coffee/cdn/shop/files/LOGO_ICONS_Plan_de_travail_1_copie_3.png?crop=center&height=131&v=1751302534&width=250"
     },
     "coutume-cafe": {
       "name": "Coutume Café",
       "city": "Romainville",
       "url": "https://coutumecafe.com/",
-      "domain": "coutumecafe.com"
+      "domain": "coutumecafe.com",
+      "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400"
     },
     "dose": {
       "name": "Dose",
       "city": "Paris",
       "url": "https://dose.paris/",
-      "domain": "dose.paris"
+      "domain": "dose.paris",
+      "logoUrl": "https://dose.paris/cdn/shop/files/logo-dose.png?v=1746034301&width=200"
     },
     "early-bird": {
       "name": "Early Bird",
       "city": "Paris",
       "url": "https://earlybirdcoffee.fr/",
-      "domain": "earlybirdcoffee.fr"
+      "domain": "earlybirdcoffee.fr",
+      "logoUrl": "https://earlybirdcoffee.fr/wp-content/themes/1.6.1/images/2024-color-1.svg"
     },
     "fika-roasters": {
       "name": "Fika Roasters",
       "city": "Lyon",
       "url": "https://www.fikaroasters.fr/",
-      "domain": "fikaroasters.fr"
+      "domain": "fikaroasters.fr",
+      "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png"
     },
     "gaia-torrefacteur": {
       "name": "Gaia Torréfacteur",
       "city": "Vincennes",
       "url": "https://gaiatorrefacteur.com/",
-      "domain": "gaiatorrefacteur.com"
+      "domain": "gaiatorrefacteur.com",
+      "logoUrl": "https://gaiatorrefacteur.com/cdn/shop/files/Gaia_logo_blanc_9f9994a3-79b0-42a4-bd0e-117d1534712e.png?crop=center&height=165&v=1676034353&width=180"
     },
     "gramgram": {
       "name": "GramGram",
       "city": "Le Perreux-sur-Marne",
       "url": "https://gramgram.fr/",
-      "domain": "gramgram.fr"
+      "domain": "gramgram.fr",
+      "logoUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram_logo_site-resp.svg"
     },
     "hayuco-coffee-roasters": {
       "name": "Hayuco Coffee Roasters",
       "city": "Toulouse",
       "url": "https://www.hayuco.coffee/",
-      "domain": "hayuco.coffee"
+      "domain": "hayuco.coffee",
+      "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226"
     },
     "kaffa-torrefacteur": {
       "name": "Kaffa Torréfacteur",
       "city": "Crest",
       "url": "https://kaffa-roastery.com/",
-      "domain": "kaffa-roastery.com"
+      "domain": "kaffa-roastery.com",
+      "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
     },
     "kawaty": {
       "name": "Kawaty",
       "city": "Châteauroux",
       "url": "https://www.kawaty.fr/",
-      "domain": "kawaty.fr"
+      "domain": "kawaty.fr",
+      "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg"
     },
     "kb-coffee-roasters": {
       "name": "KB Coffee Roasters",
       "city": "Paris",
       "url": "https://kbcoffeeroasters.com/",
-      "domain": "kbcoffeeroasters.com"
+      "domain": "kbcoffeeroasters.com",
+      "logoUrl": "https://kbcoffeeroasters.com/cdn/shop/files/visuel_KB_detoure_001b708d-56a9-466b-8e7a-321f003dc93e.jpg?v=1663248887"
     },
     "kultivar": {
       "name": "Kultivar",
       "city": "Nantes",
       "url": "https://www.kultivarcafe.fr/",
-      "domain": "kultivarcafe.fr"
+      "domain": "kultivarcafe.fr",
+      "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
     },
     "l-alchimiste": {
       "name": "L'Alchimiste",
       "city": "Bordeaux",
       "url": "https://www.alchimiste-cafes.com/",
-      "domain": "alchimiste-cafes.com"
+      "domain": "alchimiste-cafes.com",
+      "logoUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/01/instagram-header.svg"
     },
     "l-arbre-a-cafe": {
       "name": "L'Arbre à Café",
       "city": "Paris",
       "url": "https://larbreacafe.com/",
-      "domain": "larbreacafe.com"
+      "domain": "larbreacafe.com",
+      "logoUrl": "https://www.larbreacafe.com/cdn/shop/files/logo-laac24-vertical_674095ea-346b-4191-af03-defc403300e3_1600x.png?v=1773997418"
     },
     "l-ilot-cafes": {
       "name": "L'Îlot Cafés",
       "city": "Occitanie",
       "url": "https://www.lilotcafes.fr/boutique/",
-      "domain": "lilotcafes.fr"
+      "domain": "lilotcafes.fr",
+      "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
     },
     "l-optimist-cafe": {
       "name": "L'Optimist Café",
       "city": "La Rochelle",
       "url": "https://www.loptimistcafe.com/",
-      "domain": "loptimistcafe.com"
+      "domain": "loptimistcafe.com",
+      "logoUrl": "https://www.loptimistcafe.com/wp-content/uploads/2026/03/Optimist_logo_primaire_1_CMJN-460x250.png"
     },
     "la-brulerie-des-filatiers": {
       "name": "La Brûlerie des Filatiers",
       "city": "Toulouse",
       "url": "https://www.labruleriedesfilatiers.fr/",
-      "domain": "labruleriedesfilatiers.fr"
+      "domain": "labruleriedesfilatiers.fr",
+      "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
     },
     "la-fabrique-du-cafe": {
       "name": "La Fabrique du Café",
       "city": "Limoges",
       "url": "https://lafabriqueducafe.fr/boutique/",
-      "domain": "lafabriqueducafe.fr"
+      "domain": "lafabriqueducafe.fr",
+      "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
     },
     "la-pelle-cafe": {
       "name": "La Pelle Café",
       "city": "Bordeaux",
       "url": "https://lapellecafe.com/",
-      "domain": "lapellecafe.com"
+      "domain": "lapellecafe.com",
+      "logoUrl": "https://lapellecafe.com/wp-content/uploads/2017/12/admin-ajax.png"
     },
     "la-torref-ico": {
       "name": "La Torref' / Icö",
       "city": "Anglet",
       "url": "https://www.latorref.com/",
-      "domain": "latorref.com"
+      "domain": "latorref.com",
+      "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
     },
     "laplaine-torrefacteur": {
       "name": "Laplaine Torréfacteur",
       "city": "Pontoise",
       "url": "https://laplaine.fr/",
-      "domain": "laplaine.fr"
+      "domain": "laplaine.fr",
+      "logoUrl": "https://laplaine.fr/cdn/shop/files/LAPLAINE2_5591cc07-0f87-4069-bcdb-9c10bffd82c3.png?v=1727858394&width=600"
     },
     "le-cafe-qui-fume": {
       "name": "Le Café qui Fume",
       "city": "Plescop",
       "url": "https://lecafequifume.com/",
-      "domain": "lecafequifume.com"
+      "domain": "lecafequifume.com",
+      "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
     },
     "lomi": {
       "name": "Lomi",
       "city": "Paris",
       "url": "https://lomi.cafe/",
-      "domain": "lomi.cafe"
+      "domain": "lomi.cafe",
+      "logoUrl": "https://lomi.cafe/icons/apple-touch-icon.png"
     },
     "loutsa": {
       "name": "Loutsa",
       "city": "Lyon",
       "url": "https://www.loutsa.fr/",
-      "domain": "loutsa.fr"
+      "domain": "loutsa.fr",
+      "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
     },
     "moka": {
       "name": "MÖKA",
       "city": "Marseille",
       "url": "https://www.brulerie-moka.com/shop/",
-      "domain": "brulerie-moka.com"
+      "domain": "brulerie-moka.com",
+      "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
     },
     "moklair": {
       "name": "Moklair",
       "city": "Reims",
       "url": "https://moklair.fr/shop/",
-      "domain": "moklair.fr"
+      "domain": "moklair.fr",
+      "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg"
     },
     "mokxa": {
       "name": "Mokxa",
       "city": "Lyon",
       "url": "https://www.cafemokxa.com/",
-      "domain": "cafemokxa.com"
+      "domain": "cafemokxa.com",
+      "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
     },
     "montista": {
       "name": "Montista",
       "city": "Montferrier-sur-Lez",
       "url": "https://montista.com/cafe-en-grain/",
-      "domain": "montista.com"
+      "domain": "montista.com",
+      "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png"
     },
     "omnino": {
       "name": "Omnino",
       "city": "Strasbourg",
       "url": "https://cafe.omnino.fr/",
-      "domain": "cafe.omnino.fr"
+      "domain": "cafe.omnino.fr",
+      "logoUrl": "https://cafe.omnino.fr/cdn/shop/files/omnino-logo_200x.png?v=1613694607"
     },
     "partisan-cafe-artisanal": {
       "name": "Partisan Café Artisanal",
       "city": "Paris",
       "url": "https://parispartisancafe.com/",
-      "domain": "parispartisancafe.com"
+      "domain": "parispartisancafe.com",
+      "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
     },
     "pikaro-coffee": {
       "name": "Pikaro Coffee",
       "city": "Valenciennes",
       "url": "https://www.pikaro.fr/",
-      "domain": "pikaro.fr"
+      "domain": "pikaro.fr",
+      "logoUrl": "https://media.cdnws.com/_i/44626/791/317/93/pikaro-torrefaction-cafe-the-cadeaux.png"
     },
     "signe-extrait": {
       "name": "Signé Extrait",
       "city": "Lyon",
       "url": "https://www.extrait.fr/",
-      "domain": "extrait.fr"
+      "domain": "extrait.fr",
+      "logoUrl": "https://www.extrait.fr/img/extraitfr-logo-1455523302.jpg"
     },
     "substance": {
       "name": "Substance",
       "city": "Paris",
       "url": "https://www.substancecafe.com/",
-      "domain": "substancecafe.com"
+      "domain": "substancecafe.com",
+      "logoUrl": "https://www.substancecafe.com/wp-content/uploads/2026/03/cropped-substance-logo-inverse-transp-scaled-1.png"
     },
     "tanat-coffee": {
       "name": "Tanat Coffee",
       "city": "Paris",
       "url": "https://tanat.coffee/",
-      "domain": "tanat.coffee"
+      "domain": "tanat.coffee",
+      "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg"
     },
     "terres-de-cafe": {
       "name": "Terres de Café",
       "city": "Paris",
       "url": "https://www.terresdecafe.com/fr/",
-      "domain": "terresdecafe.com"
+      "domain": "terresdecafe.com",
+      "logoUrl": "https://www.terresdecafe.com/img/logo.png"
     },
     "tinto": {
       "name": "TINTO",
       "city": "Nantes",
       "url": "https://www.tintonantes.fr/boutique-de-cafe-en-ligne/",
-      "domain": "tintonantes.fr"
+      "domain": "tintonantes.fr",
+      "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
     },
     "torrea": {
       "name": "Torrea",
       "city": "Occitanie",
       "url": "https://torrea.fr/shop/",
-      "domain": "torrea.fr"
+      "domain": "torrea.fr",
+      "logoUrl": "https://torrea.fr/wp-content/uploads/2026/07/Logo-torrea.png"
     },
     "valini": {
       "name": "Valini",
       "city": "Nîmes",
       "url": "https://valini.fr/",
-      "domain": "valini.fr"
+      "domain": "valini.fr",
+      "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
     },
     "yellow-peak": {
       "name": "Yellow Peak",
       "city": "Pau",
       "url": "https://www.yellowpeak.fr/boutique/",
-      "domain": "yellowpeak.fr"
+      "domain": "yellowpeak.fr",
+      "logoUrl": "https://www.yellowpeak.fr/wp-content/uploads/elementor/thumbs/Logo-Yellow-Peak-torrefacteur-cafe-de-specialite-pau-1-qyp8s8axq94t7rcp0hmd3u4fj2k1o33ijao6rmhdw0.png"
     }
   },
   "coffees": [
@@ -1683,87 +1751,6 @@
       ]
     },
     {
-      "id": "belleville-brulerie-espro-bloom-porte-filtre-en-acier",
-      "roasterId": "belleville-brulerie",
-      "name": "ESPRO - BLOOM - Porte Filtre en acier",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/7018-BS-GR_2.png?v=1642425665",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/espro-bloom-porte-filtre-en-acier",
-          "price": "39,90 €",
-          "note": "237 g"
-        }
-      ]
-    },
-    {
-      "id": "belleville-brulerie-abonnement-demande-speciale-de-cafe-frais",
-      "roasterId": "belleville-brulerie",
-      "name": "Abonnement Demande Spéciale de Café Frais ⚠️",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Captured_ecran2021-05-11a10.03.21.png?v=1620720225",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/abonnement-demande-speciale-de-cafe-frais",
-          "price": "27,80 €",
-          "note": "600 g"
-        }
-      ]
-    },
-    {
-      "id": "belleville-brulerie-abonnement-bimensuel-cafe-frais",
-      "roasterId": "belleville-brulerie",
-      "name": "Abonnement Bimensuel Café Frais",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Abonnement-Belleville_06ad8647-08eb-42a6-abf7-3d795dd8239f.jpg?v=1605789643",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/abonnement-bimensuel-cafe-frais",
-          "price": "16,90 €",
-          "note": "300 g, à partir de"
-        }
-      ]
-    },
-    {
       "id": "belleville-brulerie-kg-la-pantoufle-assemblage-1kg",
       "roasterId": "belleville-brulerie",
       "name": "Kg La Pantoufle - Assemblage - 1Kg",
@@ -2137,33 +2124,6 @@
           "site": "Café Chulo",
           "url": "https://cafechulo.fr/boutique/cafe-movil/cafe-vrac/caturra-disabel-santa-rosa-vrac/",
           "price": "40,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-chulo-tasse-mug-cafe-chulo",
-      "roasterId": "cafe-chulo",
-      "name": "Tasse Mug Café Chulo",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/11/IMG_20251107_123957620.jpg?fit=1200%2C1200&ssl=1",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Chulo",
-          "url": "https://cafechulo.fr/boutique/accessoires/cafe-chulo/tasse-mug-cafe-chulo/",
-          "price": "16,00 €",
           "note": ""
         }
       ]
@@ -2817,33 +2777,6 @@
       ]
     },
     {
-      "id": "cafe-chulo-v60-2t",
-      "roasterId": "cafe-chulo",
-      "name": "V60 2t",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": null,
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Chulo",
-          "url": "https://cafechulo.fr/boutique/cafe-movil/boissons/methodes-douces/v60-2t/",
-          "price": "6,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "cafe-chulo-extra-shot-espresso",
       "roasterId": "cafe-chulo",
       "name": "Extra shot Espresso",
@@ -3028,87 +2961,6 @@
           "site": "Café Chulo",
           "url": "https://cafechulo.fr/boutique/cafe-movil/boissons/blanc/chocolat/",
           "price": "5,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-chulo-aeropress",
-      "roasterId": "cafe-chulo",
-      "name": "Aeropress",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": null,
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Chulo",
-          "url": "https://cafechulo.fr/boutique/cafe-movil/boissons/methodes-douces/aeropress/",
-          "price": "6,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-chulo-v60-4t",
-      "roasterId": "cafe-chulo",
-      "name": "V60 4t",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": null,
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Chulo",
-          "url": "https://cafechulo.fr/boutique/cafe-movil/boissons/methodes-douces/v60-4t/",
-          "price": "8,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-chulo-chemex-6t",
-      "roasterId": "cafe-chulo",
-      "name": "Chemex / Vandola 6t",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": null,
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Chulo",
-          "url": "https://cafechulo.fr/boutique/cafe-movil/boissons/methodes-douces/chemex-6t/",
-          "price": "8,00 €",
           "note": ""
         }
       ]
@@ -4059,87 +3911,6 @@
       ]
     },
     {
-      "id": "cafe-corto-filtres-v60-1-4-tasses-hario",
-      "roasterId": "cafe-corto",
-      "name": "Filtres V60 1/4 tasses | HARIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.11.34.png?v=1743150888",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtres-v60-1-4-tasses-hario",
-          "price": "7,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-filtres-papier-n-4-moccamaster",
-      "roasterId": "cafe-corto",
-      "name": "Filtres papier N°4 Moccamaster",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-26a15.53.44.png?v=1743150915",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtres-papier-n-4-moccamaster",
-          "price": "5,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-filtre-papier-aeropress",
-      "roasterId": "cafe-corto",
-      "name": "Filtre papier Aeropress",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.27.01.png?v=1743150875",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtre-papier-aeropress",
-          "price": "9,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "cafe-corto-boite-atmos",
       "roasterId": "cafe-corto",
       "name": "Boite Atmos",
@@ -4163,60 +3934,6 @@
           "url": "https://cafe-corto.fr/products/boite-atmos",
           "price": "39,90 €",
           "note": "450 g"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-cafetiere-piston-espro",
-      "roasterId": "cafe-corto",
-      "name": "Cafetière piston - Espro",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/photosite.webp?v=1764062850",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/cafetiere-piston-espro",
-          "price": "55,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-tasse-weducer",
-      "roasterId": "cafe-corto",
-      "name": "TASSE WEDUCER 250 ML",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/KAFFEEFORM_WED250C_1__png.webp?v=1746529330",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/tasse-weducer",
-          "price": "16,90 €",
-          "note": ""
         }
       ]
     },
@@ -4248,168 +3965,6 @@
       ]
     },
     {
-      "id": "cafe-corto-grosche-cafetiere-italienne-a-induction-6-tasses",
-      "roasterId": "cafe-corto",
-      "name": "GROSCHE - Cafetière italienne  6 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/grosche_black.png?v=1764675464",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/grosche-cafetiere-italienne-a-induction-6-tasses",
-          "price": "45,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-filtres-chemex-6-8-tasses",
-      "roasterId": "cafe-corto",
-      "name": "Filtres Chemex 6/8 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.06_edited.png?v=1743150894",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtres-chemex-6-8-tasses",
-          "price": "12,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-dripper-v60-en-ceramique-blanc-1-4-tasse-hario",
-      "roasterId": "cafe-corto",
-      "name": "Dripper V60 en céramique blanc 1/4 tasse | HARIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Capture_d_ecran_2024-11-26_a_16.24.49.png?v=1743150901",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/dripper-v60-en-ceramique-blanc-1-4-tasse-hario",
-          "price": "24,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-chemex-6-tasses",
-      "roasterId": "cafe-corto",
-      "name": "Chemex 6 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a09.58_edited.png?v=1764063553",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/chemex-6-tasses",
-          "price": "55,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-carafe-v60-en-verre-1-4-tasses-hario",
-      "roasterId": "cafe-corto",
-      "name": "Carafe V60 en verre 1/4 tasses | HARIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-26a16.36.17.png?v=1743150910",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/carafe-v60-en-verre-1-4-tasses-hario",
-          "price": "29,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-cafetiere-a-piston-time-more-small",
-      "roasterId": "cafe-corto",
-      "name": "Cafetière à Piston Time More Small",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/TIMEMORE_TME_70TFP045AA001_WB_jpg.webp?v=1743150997",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/cafetiere-a-piston-time-more-small",
-          "price": "25,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "cafe-corto-bouilloire-electrique-time-more-fish-smart-800-ml",
       "roasterId": "cafe-corto",
       "name": "Bouilloire électrique Time More Fish Smart 800 ml",
@@ -4433,114 +3988,6 @@
           "url": "https://cafe-corto.fr/products/bouilloire-electrique-time-more-fish-smart-800-ml",
           "price": "149,00 €",
           "note": "1.55 kg"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-balance-time-more-black-mirror-basic-2",
-      "roasterId": "cafe-corto",
-      "name": "Balance Time More Black Mirror Basic 2",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/71vzipQVGIL.jpg?v=1743150994",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/balance-time-more-black-mirror-basic-2",
-          "price": "65,00 €",
-          "note": "514 g"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-filtre-permanent-aeropress-able-disc",
-      "roasterId": "cafe-corto",
-      "name": "Filtre permanent Aeropress | ABLE DISC",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.21.29.png?v=1743150876",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtre-permanent-aeropress-able-disc",
-          "price": "17,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-cafetiere-aeropress-clear",
-      "roasterId": "cafe-corto",
-      "name": "CAFETIÈRE AEROPRESS CLEAR",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/aeropress-clear-rouge-cafetiere-a-piston-nomade.jpg?v=1744718997",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/cafetiere-aeropress-clear",
-          "price": "55,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-aeropress-go",
-      "roasterId": "cafe-corto",
-      "name": "Aeropress GO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-26a16.32.57.png?v=1743150902",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/aeropress-go",
-          "price": "49,00 €",
-          "note": "1 g"
         }
       ]
     },
@@ -4811,60 +4258,6 @@
           "url": "https://cafe-corto.fr/products/tablette-de-chocolat-mistre",
           "price": "8,00 €",
           "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-carte-cadeau",
-      "roasterId": "cafe-corto",
-      "name": "Carte Cadeau Atelier",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Rose_et_Vert_Simple_et_Moderne_Anniversaire_Carte-2.png?v=1743150993",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/carte-cadeau",
-          "price": "70,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-carte-cadeau-cafe-1",
-      "roasterId": "cafe-corto",
-      "name": "Carte cadeau Café",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/RoseetVertSimpleetModerneAnniversaireCarte-3_4fe75ab3-b6b3-4dd7-b4f2-f66b9f198ffa.png?v=1744801946",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/carte-cadeau-cafe-1",
-          "price": "10,00 €",
-          "note": "à partir de"
         }
       ]
     },
@@ -6273,33 +5666,6 @@
       ]
     },
     {
-      "id": "cafe-nibi-cartecadeaucafe",
-      "roasterId": "cafe-nibi",
-      "name": "E-Carte Cadeau",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1681336607353-8D9YW1LS39YLN5MRT4JS/Carte+cadeau+typo+blanc+-+%282%29.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Nibi",
-          "url": "https://www.cafenibi.com/e-boutique/cartecadeaucafe",
-          "price": "25,00 €",
-          "note": "à partir de, rupture de stock"
-        }
-      ]
-    },
-    {
       "id": "cafe-piha-miss-wush",
       "roasterId": "cafe-piha",
       "name": "Miss Wush",
@@ -6512,33 +5878,6 @@
           "url": "https://www.cafepiha.com/e-boutique/petit-creme-chocolat-hasnaa/",
           "price": "10,50 €",
           "note": "56 g, rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "cafe-piha-e-carte-cadeau-piha",
-      "roasterId": "cafe-piha",
-      "name": "e-carte cadeau PIHA",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/10/e-carte-cadeau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Piha",
-          "url": "https://www.cafepiha.com/e-boutique/e-carte-cadeau-piha/",
-          "price": "25,00 €",
-          "note": ""
         }
       ]
     },
@@ -7326,33 +6665,6 @@
       ]
     },
     {
-      "id": "cafe-toque-p352",
-      "roasterId": "cafe-toque",
-      "name": "Filtres à café Moccamaster x100",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lecafetoque.fr/web/image/product.template/352/image_512/Filtres%20%C3%A0%20caf%C3%A9%20Moccamaster%20x100?unique=4c84805",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Toqué",
-          "url": "https://lecafetoque.fr/shop/filtres-a-cafe-moccamaster-x100-352",
-          "price": "4,80 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "cafe-toque-p284",
       "roasterId": "cafe-toque",
       "name": "GREEN TEA - Thé Vert  - TeaHouse Exclusive (boîte de 15 sachets)",
@@ -7542,33 +6854,6 @@
       ]
     },
     {
-      "id": "cafes-boc-el-salvador-lycaste-abonnement",
-      "roasterId": "cafes-boc",
-      "name": "El Salvador Lycaste – Abonnement",
-      "origin": "Apaneca Ilamatepec, El Salvador",
-      "originCountry": "Apaneca Ilamatepec, El Salvador",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2025/12/Salvador-e1767000290178.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés BOC",
-          "url": "https://www.cafesboc.fr/product/el-salvador-lycaste-abonnement/",
-          "price": "9,50 €",
-          "note": "1 kg, à partir de"
-        }
-      ]
-    },
-    {
       "id": "cafes-boc-el-salvador-lycaste",
       "roasterId": "cafes-boc",
       "name": "El Salvador Lycaste",
@@ -7581,7 +6866,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "2/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2025/12/Salvador-e1767000290178.png",
@@ -7591,33 +6876,6 @@
           "site": "Cafés BOC",
           "url": "https://www.cafesboc.fr/product/el-salvador-lycaste/",
           "price": "9,50 €",
-          "note": "1 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafes-boc-honduras-ceiba-honey-abonnement",
-      "roasterId": "cafes-boc",
-      "name": "Honduras Ceiba – Abonnement",
-      "origin": "Honduras, Marcala",
-      "originCountry": "Honduras, Marcala",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2025/12/Honduras-Ceiba.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés BOC",
-          "url": "https://www.cafesboc.fr/product/honduras-ceiba-honey-abonnement/",
-          "price": "9,90 €",
           "note": "1 kg, à partir de"
         }
       ]
@@ -7635,7 +6893,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "2,5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2025/12/Honduras-Ceiba.png",
@@ -7645,33 +6903,6 @@
           "site": "Cafés BOC",
           "url": "https://www.cafesboc.fr/product/honduras-ceiba-honey/",
           "price": "9,90 €",
-          "note": "1 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafes-boc-colombie-choco-abonnement",
-      "roasterId": "cafes-boc",
-      "name": "Colombie Choco – Abonnement",
-      "origin": "Mono Origine: COLOMBIE Région: CAUCA",
-      "originCountry": "Mono Origine: COLOMBIE Région: CAUCA",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-colombie-choco.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés BOC",
-          "url": "https://www.cafesboc.fr/product/colombie-choco-abonnement/",
-          "price": "9,00 €",
           "note": "1 kg, à partir de"
         }
       ]
@@ -7689,7 +6920,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "1/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-decafeine.png",
@@ -7716,7 +6947,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "4/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-moka.png",
@@ -7725,33 +6956,6 @@
         {
           "site": "Cafés BOC",
           "url": "https://www.cafesboc.fr/product/moka-jebena-bio-abonnement/",
-          "price": "8,70 €",
-          "note": "1 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafes-boc-bresil-guarani-abonnement",
-      "roasterId": "cafes-boc",
-      "name": "Brésil Mountain – Abonnement",
-      "origin": "Brésil, Mogiana, Serra dos Ciganos",
-      "originCountry": "Brésil, Mogiana, Serra dos Ciganos",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-test.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés BOC",
-          "url": "https://www.cafesboc.fr/product/bresil-guarani-abonnement/",
           "price": "8,70 €",
           "note": "1 kg, à partir de"
         }
@@ -7770,7 +6974,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "2,5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-5-cafes-le-mans.png",
@@ -7797,7 +7001,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "3,5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-boc-4.png",
@@ -7824,7 +7028,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "4/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-2.png",
@@ -7851,7 +7055,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/1-cafe-boc.png",
@@ -7878,7 +7082,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "1/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-colombie-choco.png",
@@ -7905,7 +7109,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "1/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-decafeine.png",
@@ -7932,7 +7136,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "4/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-moka.png",
@@ -7959,7 +7163,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "4/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-2.png",
@@ -7986,7 +7190,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/1-cafe-boc.png",
@@ -8013,7 +7217,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "3/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-test.png",
@@ -8040,7 +7244,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "2,5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-5-cafes-le-mans.png",
@@ -8067,7 +7271,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "3,5/5",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-boc-4.png",
@@ -8537,33 +7741,6 @@
           "url": "https://shop.cafes-goneo.fr/accueil-goneo/652-pack-blends-signature-3-x-500g.html",
           "price": "47,25 €",
           "note": "500 g"
-        }
-      ]
-    },
-    {
-      "id": "cafes-goneo-p640",
-      "roasterId": "cafes-goneo",
-      "name": "Capsules réutilisables |  CAPS ME®",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://shop.cafes-goneo.fr/3592-large_default/capsules-reutilisables-caps-me.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés Gonéo",
-          "url": "https://shop.cafes-goneo.fr/accessoires/640-capsules-reutilisables-caps-me.html",
-          "price": "19,90 €",
-          "note": ""
         }
       ]
     },
@@ -9752,33 +8929,6 @@
           "url": "https://cafesmuda.fr/products/zarza-gesha-nature-colombie",
           "price": "19,90 €",
           "note": "170 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafes-muda-abonnement-cafe-specialite",
-      "roasterId": "cafes-muda",
-      "name": "ABONNEMENT DÉCOUVERTE - MENSUEL",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Abonnement_cafe_de_specialite_-_cafes_muda.jpg?v=1740576490",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés Muda",
-          "url": "https://cafesmuda.fr/products/abonnement-cafe-specialite",
-          "price": "12,90 €",
-          "note": "300 g, à partir de"
         }
       ]
     },
@@ -11187,60 +10337,6 @@
       ]
     },
     {
-      "id": "coutume-cafe-balance-electronique-connectee-lunar-noire-2021-acaia",
-      "roasterId": "coutume-cafe",
-      "name": "Balance connectée Acaia Lunar Noire 2021",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-balance-acaia-lunar-noir-2021.png?v=1776092894",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/balance-electronique-connectee-lunar-noire-2021-acaia",
-          "price": "348,00 €",
-          "note": "1 kg, rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-balance-timemore-basic-2-noir",
-      "roasterId": "coutume-cafe",
-      "name": "Balance TIMEMORE Basic 2 Noir",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Balance_TIMEMORE_Basic_2_Noir.png?v=1779102135",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/balance-timemore-basic-2-noir",
-          "price": "69,00 €",
-          "note": "1 kg"
-        }
-      ]
-    },
-    {
       "id": "coutume-cafe-bouilloire-electrique-col-de-cygne-900ml-fish-pro-noir-timemore",
       "roasterId": "coutume-cafe",
       "name": "Bouilloire électrique Timemore Fish Pro Noir 900 ml",
@@ -11322,60 +10418,6 @@
       ]
     },
     {
-      "id": "coutume-cafe-filtres-no-4-moccamaster",
-      "roasterId": "coutume-cafe",
-      "name": "Filtres café Moccamaster n°4",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-filtre-moccamaster-4_a94ba176-e205-48c5-b968-f73b39739ad0.png?v=1776097366",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/filtres-no-4-moccamaster",
-          "price": "4,50 €",
-          "note": "250 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-moulin-a-cafe-manuel-timemore-c5-pro",
-      "roasterId": "coutume-cafe",
-      "name": "Moulin à café manuel Timemore C5 Pro",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TME_MoulinC5Pro.webp?v=1779087968",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/moulin-a-cafe-manuel-timemore-c5-pro",
-          "price": "104,90 €",
-          "note": "750 g"
-        }
-      ]
-    },
-    {
       "id": "coutume-cafe-nextlevel-pulsar-brewer",
       "roasterId": "coutume-cafe",
       "name": "NextLevel Pulsar Brewer",
@@ -11453,114 +10495,6 @@
           "url": "https://coutumecafe.com/products/pichet-a-lait-rhino-coffee-gear-60-cl-en-inox-grand-modele",
           "price": "23,40 €",
           "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-support-transparent-pour-porte-filtre-origami-origami",
-      "roasterId": "coutume-cafe",
-      "name": "Socle dripper v60 Origami transparent",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-origami-support-transparent_4c337355-4ad0-4867-8a19-5570c8744e4f.png?v=1776097341",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/support-transparent-pour-porte-filtre-origami-origami",
-          "price": "9,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-tasse-nomade-miir",
-      "roasterId": "coutume-cafe",
-      "name": "Tasse nomade Miir isotherme",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/mug-camp-cup-cuivre-miir.jpg?v=1771422627",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/tasse-nomade-miir",
-          "price": "28,90 €",
-          "note": "500 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-la-tasse-topl-la-tasse-zero-stress-gris-perle-236-ml",
-      "roasterId": "coutume-cafe",
-      "name": "Tasse Topl Gris perle 236 ml",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-tasse-topl-gris-perle-236ml.png?v=1775826286",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/la-tasse-topl-la-tasse-zero-stress-gris-perle-236-ml",
-          "price": "35,00 €",
-          "note": "500 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-torchon-absorbant-en-micro-fibre-pour-porte-filtre",
-      "roasterId": "coutume-cafe",
-      "name": "Torchon absorbant en micro-fibre pour porte-filtre",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-microfibre-torchon-porte-filtre.png?v=1775826283",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/torchon-absorbant-en-micro-fibre-pour-porte-filtre",
-          "price": "7,80 €",
-          "note": "rupture de stock"
         }
       ]
     },
@@ -12263,276 +11197,6 @@
           "url": "https://coutumecafe.com/products/cold-brew-bio-pack-de-6-canettes",
           "price": "25,90 €",
           "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-cafetiere-a-piston-timemore-small-u-french-press-blanc",
-      "roasterId": "coutume-cafe",
-      "name": "Cafetière à piston Timemore Small U French Press Blanc",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cafetiere-a-piston-timemore-small-u-french-press-blanc.jpg?v=1771422440",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/cafetiere-a-piston-timemore-small-u-french-press-blanc",
-          "price": "24,90 €",
-          "note": "1 kg"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-cafetiere-a-piston-timemore-small-u-french-press-noir",
-      "roasterId": "coutume-cafe",
-      "name": "Cafetière à piston Timemore Small U French Press Noir",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-cafetiere-timemore-small-u-noir_9a769fb1-7613-4510-8002-91d57719f014.png?v=1776098397",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/cafetiere-a-piston-timemore-small-u-french-press-noir",
-          "price": "24,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-aeropress-clear-transparent-cafetiere-a-piston-nomade",
-      "roasterId": "coutume-cafe",
-      "name": "Cafetière AeroPress Clear Transparent",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/aeropress-clear-transparent.jpg?v=1771422334",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/aeropress-clear-transparent-cafetiere-a-piston-nomade",
-          "price": "54,90 €",
-          "note": "460 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-porte-filtre-a-cafe-hario-v60-01-1-a-2-tasses",
-      "roasterId": "coutume-cafe",
-      "name": "Dripper Hario V60 01 céramique 1-2 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/porte-filtre-a-cafe-hario-v60-01-1-a-2-tasses.jpg?v=1771422411",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/porte-filtre-a-cafe-hario-v60-01-1-a-2-tasses",
-          "price": "17,50 €",
-          "note": "1 kg"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-porte-filtre-a-cafe-hario-v60-02-1-a-4-tasses",
-      "roasterId": "coutume-cafe",
-      "name": "Dripper Hario V60 02 céramique 1-4 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-filtre-hario-v60-02.png?v=1775826285",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/porte-filtre-a-cafe-hario-v60-02-1-a-4-tasses",
-          "price": "24,90 €",
-          "note": "1 kg"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-dripper-origami-m-bleu-pastel-4-tasses",
-      "roasterId": "coutume-cafe",
-      "name": "Dripper ORIGAMI M turquoise 4 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/DripperOrigamiORIGAMI-DripperMTurquoise_88d3f7ba-d44b-46c7-96a4-c734c17f1e84.png?v=1779104140",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/dripper-origami-m-bleu-pastel-4-tasses",
-          "price": "30,50 €",
-          "note": "500 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-porte-filtre-origami-dripper-s-bleu-mat",
-      "roasterId": "coutume-cafe",
-      "name": "Dripper ORIGAMI S bleu pastel 1-2 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-origami-dripper-s-bleu.png?v=1775826292",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/porte-filtre-origami-dripper-s-bleu-mat",
-          "price": "27,00 €",
-          "note": "500 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-dripper-origami-s-vert-pastel-2-tasses",
-      "roasterId": "coutume-cafe",
-      "name": "Dripper ORIGAMI S vert pastel 2 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/DripperOrigamiORIGAMI-DripperSPASTELVertMat.png?v=1779104045",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/dripper-origami-s-vert-pastel-2-tasses",
-          "price": "27,90 €",
-          "note": "500 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-filtres-aeropress",
-      "roasterId": "coutume-cafe",
-      "name": "Filtres Aeropress papier",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/filtres-pour-aeropress.png?v=1771422407",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/filtres-aeropress",
-          "price": "9,90 €",
-          "note": "100 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-filtres-chemex-boite-de-100-filtres-pour-cafetiere",
-      "roasterId": "coutume-cafe",
-      "name": "Filtres papier Chemex x100",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-filtre-chemex-papier-x100-2_15ccdabe-23f6-4d4f-a221-c22f214b0751.png?v=1776098181",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/filtres-chemex-boite-de-100-filtres-pour-cafetiere",
-          "price": "11,90 €",
-          "note": "1 kg"
         }
       ]
     },
@@ -13667,195 +12331,6 @@
           "url": "https://dose.paris/products/coffret-200-capsules",
           "price": "89,00 €",
           "note": "1.5 kg"
-        }
-      ]
-    },
-    {
-      "id": "dose-t-shirt",
-      "roasterId": "dose",
-      "name": "T-Shirt café Dose Family - Look cool avec ce t-shirt original!",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-t-shirt-6797814.jpg?v=1763550143",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/t-shirt",
-          "price": "25,00 €",
-          "note": "250 g, à partir de, rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "dose-dripper-ceramique-mi185-bleu-kalita",
-      "roasterId": "dose",
-      "name": "Dripper céramique MI185 Bleu - Kalita",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-dripper-ceramique-mi185-bleu-kalita-7944658.jpg?v=1756277794",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/dripper-ceramique-mi185-bleu-kalita",
-          "price": "39,90 €",
-          "note": "330 g"
-        }
-      ]
-    },
-    {
-      "id": "dose-aeropress-set-filtre-cuillere-sac",
-      "roasterId": "dose",
-      "name": "Aeropress set (filtre + cuillère + sac)",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-aeropress-set-filtre-cuillere-sac-5542358.png?v=1758269875",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/aeropress-set-filtre-cuillere-sac",
-          "price": "44,90 €",
-          "note": "300 g"
-        }
-      ]
-    },
-    {
-      "id": "dose-cafetiere-a-piston-bodum®-offre-limitee",
-      "roasterId": "dose",
-      "name": "Cafetière à piston BODUM® - Offre limitée",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-cafetiere-a-piston-bodum-offre-limitee-7561153.png?v=1779368477",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/cafetiere-a-piston-bodum®-offre-limitee",
-          "price": "14,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "dose-v60-dripper-blanche-1-4-tasses-vdc-02",
-      "roasterId": "dose",
-      "name": "V60 Dripper blanche",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-v60-dripper-blanche-14-tasses-vdc-02-4264680.jpg?v=1756277735",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/v60-dripper-blanche-1-4-tasses-vdc-02",
-          "price": "24,90 €",
-          "note": "480 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "dose-chemex-6-tasses-bois",
-      "roasterId": "dose",
-      "name": "Chemex 6 tasses - Bois",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-chemex-6-tasses-bois-4595292.jpg?v=1756277738",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/chemex-6-tasses-bois",
-          "price": "59,90 €",
-          "note": "630 g"
-        }
-      ]
-    },
-    {
-      "id": "dose-chemex-6-tasses-poignee-verre",
-      "roasterId": "dose",
-      "name": "Chemex 6 tasses - Poignée verre",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-dose-family-chemex-6-tasses-poignee-verre-2462099.png?v=1758269935",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/chemex-6-tasses-poignee-verre",
-          "price": "59,90 €",
-          "note": "630 g"
         }
       ]
     },
@@ -15060,7 +13535,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "25%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2026/06/sachet_cafe_Honduras_Copan.jpg",
@@ -15087,7 +13562,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "50%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2025/02/Ethiopie-Choche-1.jpg",
@@ -15141,7 +13616,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "50%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2024/07/packshot-Amazonas.jpg",
@@ -15195,7 +13670,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "75%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2023/01/etiquette-rwanda-UBUKI.jpg",
@@ -15222,7 +13697,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "75%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2022/09/Guatemala.jpg",
@@ -15264,141 +13739,6 @@
       ]
     },
     {
-      "id": "gramgram-mug-de-cafe-rouge",
-      "roasterId": "gramgram",
-      "name": "Mug de Café Rouge",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/11/2.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/mug-de-cafe-rouge/",
-          "price": "17,90 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-carte-cadeau-cafe-fete-des-peres",
-      "roasterId": "gramgram",
-      "name": "Carte Cadeau Café-Fête des Pères",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/06/carte_cadeau_fêtes_pères_carre_instagram.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cartes-cadeaux-cafe/carte-cadeau-cafe-fete-des-peres/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gramgram-carte-cadeau-cafe-fete-des-meres",
-      "roasterId": "gramgram",
-      "name": "Carte Cadeau Café-Fête des Mères",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/06/carte_cadeau_fêtes_meres_carre_instagram.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cartes-cadeaux-cafe/carte-cadeau-cafe-fete-des-meres/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gramgram-carte-cadeau-cafe",
-      "roasterId": "gramgram",
-      "name": "Carte Cadeau Café",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/02/Colombie-torréfié-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cartes-cadeaux-cafe/carte-cadeau-cafe/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gramgram-filtre-a-eau-pour-machine-a-cafe",
-      "roasterId": "gramgram",
-      "name": "Filtre à eau pour machine à café",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/entretien_machine_grain_delonghi.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/filtre-a-eau-pour-machine-a-cafe/",
-          "price": "15,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "gramgram-detartrant-machine-a-cafe",
       "roasterId": "gramgram",
       "name": "Détartrant machine à café delonghi Ecodecalk 500ml",
@@ -15422,60 +13762,6 @@
           "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/detartrant-machine-a-cafe/",
           "price": "20,00 €",
           "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gramgram-filtres-chemex-6-tasses",
-      "roasterId": "gramgram",
-      "name": "Filtres Chemex 6 Tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/filtre_chemex6_gramgram.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/filtres-chemex-6-tasses/",
-          "price": "9,90 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetiere-chemex-3-tasses",
-      "roasterId": "gramgram",
-      "name": "Cafetière Chemex 3 Tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/chemex_3tasses_gramgram.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-chemex-3-tasses/",
-          "price": "39,90 €",
-          "note": "rupture de stock"
         }
       ]
     },
@@ -15534,141 +13820,6 @@
       ]
     },
     {
-      "id": "gramgram-mug-de-cafe-design",
-      "roasterId": "gramgram",
-      "name": "Mug de Café Design",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": null,
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/mug-de-cafe-design/",
-          "price": "29,00 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetire-a-piston",
-      "roasterId": "gramgram",
-      "name": "Cafetière à Piston",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6551-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetire-a-piston/",
-          "price": "36,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetiere-italienne-bialetti-gaz-3-tasses-jaune",
-      "roasterId": "gramgram",
-      "name": "Cafetière Italienne Bialetti Gaz 3 Tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6564-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-italienne-bialetti-gaz-3-tasses-jaune/",
-          "price": "38,40 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetiere-italienne-bialetti-gaz",
-      "roasterId": "gramgram",
-      "name": "Cafetière Italienne Bialetti Gaz 6 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6561-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-italienne-bialetti-gaz/",
-          "price": "50,40 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetiere-italienne-induction",
-      "roasterId": "gramgram",
-      "name": "Cafetière Italienne Bialetti Induction 6 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6547-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-italienne-induction/",
-          "price": "57,60 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
       "id": "gramgram-cafe-ethiopie-yrga",
       "roasterId": "gramgram",
       "name": "Café ETHIOPIE – YRGA",
@@ -15681,7 +13832,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "50%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-ethiopie-yrga.jpg",
@@ -15708,7 +13859,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "75%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-el-salvador-rojos.jpg",
@@ -15762,7 +13913,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "50%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/70-Cafe-MEXIQUE-AZTECA.jpg",
@@ -15789,7 +13940,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "100%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/69-Cafe-COLOMBIE-PANELA.jpg",
@@ -15816,7 +13967,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "25%",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-bresil-guarani.jpg",
@@ -15827,141 +13978,6 @@
           "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cafes-pures-origines/cafe-bresil-guarani/",
           "price": "13,20 €",
           "note": "250 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-filtres-v60",
-      "roasterId": "gramgram",
-      "name": "FILTRES V60",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/67-FILTRES-V60.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/filtres-v60/",
-          "price": "7,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gramgram-filtres-chemex-3-tasses",
-      "roasterId": "gramgram",
-      "name": "Filtres Chemex 3 Tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/filtre_chemex3_gramgram2.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/filtres-chemex-3-tasses/",
-          "price": "9,90 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-carafe-verre-pour-v60",
-      "roasterId": "gramgram",
-      "name": "CARAFE VERRE POUR V60",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/GRAMGRAM-CARAFE-VERRE-POUR-V60.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/carafe-verre-pour-v60/",
-          "price": "28,20 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-100-capsules-a-remplir",
-      "roasterId": "gramgram",
-      "name": "100 CAPSULES A REMPLIR",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/63-100-CAPSULES-A-REMPLIR.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/100-capsules-a-remplir/",
-          "price": "11,70 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetiere-chemex-6-tasses",
-      "roasterId": "gramgram",
-      "name": "Cafetière Chemex 6 Tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/chemex_6tasses_gramgram3.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-chemex-6-tasses/",
-          "price": "42,00 €",
-          "note": "rupture de stock"
         }
       ]
     },
@@ -15988,33 +14004,6 @@
           "site": "GramGram",
           "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/coffeevac-sous-vide/",
           "price": "40,00 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gramgram-cafetiere-filtre-v60",
-      "roasterId": "gramgram",
-      "name": "CAFETIÈRE FILTRE V60 BLANCHE",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram-CAFETIERE-FILTRE-V60.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-filtre-v60/",
-          "price": "22,30 €",
           "note": "rupture de stock"
         }
       ]
@@ -16344,33 +14333,6 @@
       ]
     },
     {
-      "id": "hayuco-coffee-roasters-sinscrire-a-un-atelier-methode-douce-1",
-      "roasterId": "hayuco-coffee-roasters",
-      "name": "S'inscrire à un atelier méthode douce",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/000010-1-1202b75c70.webp?v=1786428132",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Hayuco Coffee Roasters",
-          "url": "https://hayuco.coffee/products/sinscrire-a-un-atelier-methode-douce-1",
-          "price": "45,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "hayuco-coffee-roasters-trinity-zero",
       "roasterId": "hayuco-coffee-roasters",
       "name": "Trinity Zero Press",
@@ -16394,33 +14356,6 @@
           "url": "https://hayuco.coffee/products/trinity-zero",
           "price": "38,00 €",
           "note": "200 g"
-        }
-      ]
-    },
-    {
-      "id": "hayuco-coffee-roasters-atelier-decouverte",
-      "roasterId": "hayuco-coffee-roasters",
-      "name": "S'inscrire à un atelier découverte",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/products/hayuco-coffee-roasters-specialty-coffee-toulouse-1_315237a8-25e1-40a5-b4f7-b1afca2fc30c.jpg?v=1786398818",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Hayuco Coffee Roasters",
-          "url": "https://hayuco.coffee/products/atelier-decouverte",
-          "price": "35,00 €",
-          "note": "à partir de"
         }
       ]
     },
@@ -18234,87 +16169,6 @@
       ]
     },
     {
-      "id": "l-alchimiste-carte-cadeau-50e",
-      "roasterId": "l-alchimiste",
-      "name": "Carte cadeau café 50€",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/12/dsc06084-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Alchimiste",
-          "url": "https://www.alchimiste-cafes.com/produit/carte-cadeau-50e/",
-          "price": "50,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-alchimiste-carte-cadeau-100e",
-      "roasterId": "l-alchimiste",
-      "name": "Carte cadeau café 100€",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/12/dsc06084-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Alchimiste",
-          "url": "https://www.alchimiste-cafes.com/produit/carte-cadeau-100e/",
-          "price": "100,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-alchimiste-carte-cadeau-150e",
-      "roasterId": "l-alchimiste",
-      "name": "Carte cadeau café 150€",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/12/dsc06084-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Alchimiste",
-          "url": "https://www.alchimiste-cafes.com/produit/carte-cadeau-150e/",
-          "price": "150,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "l-arbre-a-cafe-mariposa-java",
       "roasterId": "l-arbre-a-cafe",
       "name": "Mariposa Java",
@@ -19299,7 +17153,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Corsé",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2025/11/LIlot-Cafes-Colombie-bio-equitable-Premium.png",
@@ -19326,7 +17180,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Corsé",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/04/LIlot-Cafes-Perou-Pangoa-bio-equitable-cafe-de-foret.png",
@@ -19353,7 +17207,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Léger",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/04/Mexique-Veracruz-Decafeine-a-leau-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19380,7 +17234,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Léger",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/DOLA-FAMI-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19407,7 +17261,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Moyenne",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/CUILCO-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19434,7 +17288,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Moyenne",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/Nicaragua-Jinotega-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19461,7 +17315,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Moyenne",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-El-Palomar_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19488,7 +17342,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Corsé",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-Santa-Rosa_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19515,7 +17369,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Moyenne",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Mexique-Chiapas-cafe-pour-restaurateur-dans-le-Gers.png",
@@ -19542,7 +17396,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Léger",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/HONDURAS-Capucas_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19569,7 +17423,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Corsé",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Guatemala-Kitche-cafe-de-specialite-torrefie-dans-le-Gers.png",
@@ -19596,7 +17450,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "roast": null,
+      "roast": "Moyenne",
       "flavors": null,
       "desc": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/EQUATEUR-Palanda_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
@@ -19638,222 +17492,6 @@
       ]
     },
     {
-      "id": "l-optimist-cafe-bouteille-cold-brew-hario",
-      "roasterId": "l-optimist-cafe",
-      "name": "Bouteille Cold brew – Hario",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2025/06/HARIO_MCPN-14-MC_AMB-1-1.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/bouteille-cold-brew-hario/",
-          "price": "24,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-machine-a-cafe-moccamaster",
-      "roasterId": "l-optimist-cafe",
-      "name": "Machine à café – Moccamaster KBG Select",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2025/04/MOCCAMASTER_MM-SELECT-53984_AMB_1.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/machine-a-cafe-moccamaster/",
-          "price": "269,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-moulin-hario-skerton",
-      "roasterId": "l-optimist-cafe",
-      "name": "Moulin Hario Skerton +",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_MSCSN-2-B-1.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/moulin-hario-skerton/",
-          "price": "49,00 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-moulin-hario-mini-black-pro",
-      "roasterId": "l-optimist-cafe",
-      "name": "Moulin Hario mini black pro",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_CMS-B.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/moulin-hario-mini-black-pro/",
-          "price": "69,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-hario-kit-v60",
-      "roasterId": "l-optimist-cafe",
-      "name": "Hario Kit V60",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_VCDS-02-B.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/hario-kit-v60/",
-          "price": "28,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-aeropress-go-nomade",
-      "roasterId": "l-optimist-cafe",
-      "name": "Aeropress GO Nomade",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/AEROPRESS_GO_PS.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/aeropress-go-nomade/",
-          "price": "45,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-cafetiere-a-piston",
-      "roasterId": "l-optimist-cafe",
-      "name": "Cafetière à Piston Hario 600ml",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_CPU-4_V.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/cafetiere-a-piston/",
-          "price": "41,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-cafetiere-italienne",
-      "roasterId": "l-optimist-cafe",
-      "name": "Cafetière Italienne",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/GROSCHE_GR459.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/cafetiere-italienne/",
-          "price": "41,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "l-optimist-cafe-detartrant-dlsc-delonghi-ecodecalk",
       "roasterId": "l-optimist-cafe",
       "name": "Détartrant DLSC Delonghi EcoDecalk",
@@ -19876,33 +17514,6 @@
           "site": "L'Optimist Café",
           "url": "https://www.loptimistcafe.com/produit/detartrant-dlsc-delonghi-ecodecalk/",
           "price": "15,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "l-optimist-cafe-filtre-a-eau-machine-delonghi",
-      "roasterId": "l-optimist-cafe",
-      "name": "Filtre à eau – Machine Delonghi",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/Capture-decran-2024-11-25-a-10.29.14.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/filtre-a-eau-machine-delonghi/",
-          "price": "10,00 €",
           "note": ""
         }
       ]
@@ -20174,33 +17785,6 @@
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-mogiana-fazenda-alianca-910",
           "price": "10,50 €",
           "note": "250 g"
-        }
-      ]
-    },
-    {
-      "id": "la-brulerie-des-filatiers-p4",
-      "roasterId": "la-brulerie-des-filatiers",
-      "name": "Carte cadeau",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/4/image_512/Carte%20cadeau?unique=653b39f",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Brûlerie des Filatiers",
-          "url": "https://labruleriedesfilatiers.fr/shop/carte-cadeau-4",
-          "price": "50,00 €",
-          "note": ""
         }
       ]
     },
@@ -20659,114 +18243,6 @@
           "site": "La Fabrique du Café",
           "url": "https://lafabriqueducafe.fr/produit/boite-de-conservation-atmos-fellow-vide-dair-manuel/",
           "price": "42,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "la-fabrique-du-cafe-chemex-6-tasses-en-verre-collier-en-bois",
-      "roasterId": "la-fabrique-du-cafe",
-      "name": "Chemex 6 tasses en verre – collier en bois",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/02/cm-6a.webp",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/chemex-6-tasses-en-verre-collier-en-bois/",
-          "price": "54,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "la-fabrique-du-cafe-hario-filtres-v60-02-x100",
-      "roasterId": "la-fabrique-du-cafe",
-      "name": "HARIO FILTRES V60-02 x100",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2015/04/boutique-cafe_FILTRE-HARIO.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/hario-filtres-v60-02-x100/",
-          "price": "7,80 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "la-fabrique-du-cafe-hario-filtres-v60-01-x100",
-      "roasterId": "la-fabrique-du-cafe",
-      "name": "HARIO FILTRES V60-01 x100",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2015/04/boutique-cafe_FILTRE-HARIO.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/hario-filtres-v60-01-x100/",
-          "price": "6,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "la-fabrique-du-cafe-filtres-papiers-naturels-chemex-6-tasses",
-      "roasterId": "la-fabrique-du-cafe",
-      "name": "FILTRES PAPIERS NATURELS CHEMEX 6 TASSES",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2015/04/fabrique-cafe-filtre-cafetiere-chemex-6-tasses.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/filtres-papiers-naturels-chemex-6-tasses/",
-          "price": "13,90 €",
           "note": ""
         }
       ]
@@ -23013,276 +20489,6 @@
       ]
     },
     {
-      "id": "loutsa-abonnement-cafe",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-637768.jpg?v=1749048239",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/abonnement-cafe",
-          "price": "33,00 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-habtamu-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - ÉTHIOPIE BIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-ethiopie-bio-245722.jpg?v=1749048479",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/habtamu-bio-abonnement",
-          "price": "20,50 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-deca-sueno-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - DÉCA SUENO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-deca-sueno-573619.jpg?v=1749048480",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/deca-sueno-bio-abonnement",
-          "price": "20,50 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-ketiara-gayo-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - INDONESIE BIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-indonesie-bio-895703.jpg?v=1749048480",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/ketiara-gayo-bio-abonnement",
-          "price": "20,50 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-le-parisien-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - CAFÉ DE LYON",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-lyon-bio-613257.jpg?v=1749047733",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/le-parisien-bio-abonnement",
-          "price": "33,20 €",
-          "note": "1.015 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-espresso-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - ESPRESSO BIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-espresso-bio-202809.jpg?v=1749048482",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/espresso-bio-abonnement",
-          "price": "19,00 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-italian-roast-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - ITALIAN ROAST BIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-italian-roast-bio-776885.jpg?v=1749048482",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/italian-roast-bio-abonnement",
-          "price": "17,50 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-arhuaco-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - COLOMBIE BIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-colombie-bio-416444.jpg?v=1749048481",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/arhuaco-bio-abonnement",
-          "price": "20,50 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-el-palto-bio-abonnement",
-      "roasterId": "loutsa",
-      "name": "ABONNEMENT CAFÉ - PÉROU BIO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-perou-bio-792882.jpg?v=1749048485",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/el-palto-bio-abonnement",
-          "price": "20,50 €",
-          "note": "530 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "loutsa-chemex-6-tasses",
-      "roasterId": "loutsa",
-      "name": "CHEMEX 6 TASSES",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/chemex-6-tasses-897259.jpg?v=1749048496",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/chemex-6-tasses",
-          "price": "54,80 €",
-          "note": "700 g"
-        }
-      ]
-    },
-    {
       "id": "loutsa-italian-roast",
       "roasterId": "loutsa",
       "name": "CAFÉ ITALIAN ROAST RISTRETTO BIO",
@@ -24683,33 +21889,6 @@
           "url": "https://cafemokxa.com/products/los-lirios-cafe-du-nicaragua-bio-2026",
           "price": "10,00 €",
           "note": "250 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "mokxa-abonnement-decouverte",
-      "roasterId": "mokxa",
-      "name": "Abonnement découverte",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Abonnement_Cafe_Mokxa_01.jpg?v=1752574522",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Mokxa",
-          "url": "https://cafemokxa.com/products/abonnement-decouverte",
-          "price": "20,00 €",
-          "note": "500 g, à partir de"
         }
       ]
     },
@@ -28575,60 +25754,6 @@
       ]
     },
     {
-      "id": "tanat-coffee-abonnement-rarities-90",
-      "roasterId": "tanat-coffee",
-      "name": "Abonnement Rarities & 90+",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/03/PAQUETWEBMICROLOT_JANSONHACIENDALOT464.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/abonnement-rarities-90/",
-          "price": "29,90 €",
-          "note": "100 g"
-        }
-      ]
-    },
-    {
-      "id": "tanat-coffee-abonnement-gros-buveur",
-      "roasterId": "tanat-coffee",
-      "name": "Abonnement Gros buveur",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/abonnement-image-1.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/abonnement-gros-buveur/",
-          "price": "30,00 €",
-          "note": "1 kg"
-        }
-      ]
-    },
-    {
       "id": "tanat-coffee-cafe-decafeine-el-sueno-mexique",
       "roasterId": "tanat-coffee",
       "name": "Déca [El Sueño]",
@@ -28841,33 +25966,6 @@
           "url": "https://tanat.coffee/boutique/cafe-boa-esperanca-bresil/",
           "price": "9,90 €",
           "note": "200 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "tanat-coffee-abonnement-decouverte-cafe-de-specialite",
-      "roasterId": "tanat-coffee",
-      "name": "Abonnement Découverte",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/abonnement-image-1.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/abonnement-decouverte-cafe-de-specialite/",
-          "price": "13,90 €",
-          "note": "200 g"
         }
       ]
     },
@@ -32274,114 +29372,6 @@
       ]
     },
     {
-      "id": "yellow-peak-atelier-degustation-cafe-cafeologie",
-      "roasterId": "yellow-peak",
-      "name": "Atelier caféologie entre amis",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/09/atelier-decouverte-degustation-yellow-peak-torrefacteur-cafe-de-specialite.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-degustation-cafe-cafeologie/",
-          "price": "35,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-atelier-methodes-douces",
-      "roasterId": "yellow-peak",
-      "name": "Atelier méthodes douces",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/05/atelier-methodes-douces-versage-eau-v60-yellow-peak-cours-slow-coffee.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-methodes-douces/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-atelier-expresso",
-      "roasterId": "yellow-peak",
-      "name": "Atelier expresso",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/atelier-expresso-extraction-cafe-1.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-expresso/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-atelier-cupping",
-      "roasterId": "yellow-peak",
-      "name": "Atelier cupping",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/atelier-cupping-degustation-cafe-chez-yellow-peak-torrefacteur-pau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-cupping/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "yellow-peak-cafe-monterita",
       "roasterId": "yellow-peak",
       "name": "Café Monterita",
@@ -32405,195 +29395,6 @@
           "url": "https://www.yellowpeak.fr/boutique/cafe-monterita/",
           "price": "13,50 €",
           "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-atelier-latte-art-pau",
-      "roasterId": "yellow-peak",
-      "name": "Atelier latte art",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2024/10/formation-barista-latte-art-preparation-cappuccino-yellow-peak.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-latte-art-pau/",
-          "price": "0,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-kit-hario-v60-slow-coffee-en-verre",
-      "roasterId": "yellow-peak",
-      "name": "Kit Hario V60 slow coffee en verre",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2024/12/kit-filtre-v60-avec-carafe-en-verre-et-cuillere-doseuse-pour-cafe-hario-yellow-peak-torrefacteur-cafe-pau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/kit-hario-v60-slow-coffee-en-verre/",
-          "price": "36,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-cafetiere-filtre-moccamaster",
-      "roasterId": "yellow-peak",
-      "name": "Cafetière filtre Moccamaster Kbg Select – 1,25L",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2024/12/cafetiere-filtre-pro-moccamaster-blanche-yellow-peak-torrefacteur-cafe-pau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-filtre-moccamaster/",
-          "price": "255,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-filtres-a-cafe-kalita",
-      "roasterId": "yellow-peak",
-      "name": "Filtres à café Kalita",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2022/02/filtre-papier-kalita-metal.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-a-cafe-kalita/",
-          "price": "10,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-filtres-a-cafe-1-tasse",
-      "roasterId": "yellow-peak",
-      "name": "Filtres à café pour 1 tasse Hario",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2022/01/filtres-1-tasse-cafe-eau-scaled-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-a-cafe-1-tasse/",
-          "price": "7,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-moulin-manuel-hario-skerton",
-      "roasterId": "yellow-peak",
-      "name": "Moulin manuel Hario skerton+",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2022/01/moulin-manuel-hario-skerton--scaled-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/moulin-manuel-hario-skerton/",
-          "price": "47,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-cafetiere-aeropress",
-      "roasterId": "yellow-peak",
-      "name": "Cafetière Aeropress",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2021/02/cafetiere-aeropress-slow-coffee-yellow-peak-torrefacteur-cafes-de-specialite-pau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-aeropress/",
-          "price": "45,00 €",
-          "note": ""
         }
       ]
     },
@@ -32625,141 +29426,6 @@
       ]
     },
     {
-      "id": "yellow-peak-filtres-papier-origami",
-      "roasterId": "yellow-peak",
-      "name": "Filtres papier Origami x 100",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/filtresorigamicoffee.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-papier-origami/",
-          "price": "8,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-dripper-origami",
-      "roasterId": "yellow-peak",
-      "name": "Dripper Origami 2 tasses en porcelaine + support",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/InShot_20220121_175837230.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/dripper-origami/",
-          "price": "42,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-filtres-pour-chemex-6-tasses",
-      "roasterId": "yellow-peak",
-      "name": "Filtres pour Chemex 6 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/filtres-chemex-6-tasses-boite-de-100-yellow-peak-boutique-torrefacteur-cafes-de-specialite-pau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-pour-chemex-6-tasses/",
-          "price": "10,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-filtres-pour-chemex-3-tasses",
-      "roasterId": "yellow-peak",
-      "name": "Filtres pour Chemex 3 tasses",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/filtres-chemex-3-tasses-boite-de-100-yellow-peak-boutique-torrefacteur-cafes-de-specialite-pau.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-pour-chemex-3-tasses/",
-          "price": "10,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-cafetiere-piston-french-press",
-      "roasterId": "yellow-peak",
-      "name": "Cafetière piston",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/cafetiere-piston-french-press-yellow-peak-torrefacteur-cafes-de-specialite.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-piston-french-press/",
-          "price": "26,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "yellow-peak-cafe-papou",
       "roasterId": "yellow-peak",
       "name": "Café Papou",
@@ -32783,33 +29449,6 @@
           "url": "https://www.yellowpeak.fr/boutique/cafe-papou/",
           "price": "13,50 €",
           "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "yellow-peak-cafetiere-chemex",
-      "roasterId": "yellow-peak",
-      "name": "Cafetière Chemex",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/09/cafetiere-chemex-yellow-peak-torrefacteur-cafes-de-specialite-1.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-chemex/",
-          "price": "59,00 €",
-          "note": ""
         }
       ]
     }

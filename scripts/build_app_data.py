@@ -105,6 +105,7 @@ def main():
             "city": meta.get("city"),
             "url": d["roaster"]["url"],
             "domain": d["roaster"]["domain"],
+            "logoUrl": meta.get("logoUrl"),
         }
         coffees_out.extend(transform_product(p, roaster_id) for p in products)
 

@@ -8,9 +8,10 @@
     "url": "https://cafe1802.fr/",
     "domain": "cafe1802.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
-  "scrapedAt": "2026-09-03T20:44:08Z",
+  "scrapedAt": "2026-09-03T21:17:38Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Bella_Vista.png?v=1782378640",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café 1802",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:08Z",
-      "lastSeenAt": "2026-09-03T20:44:08Z"
+      "firstSeenAt": "2026-09-03T21:17:38Z",
+      "lastSeenAt": "2026-09-03T21:17:38Z"
     },
     {
       "id": "cafe-1802-gasharu-rwanda-washed",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/GASHARU.png?v=1781606405",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café 1802",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:08Z",
-      "lastSeenAt": "2026-09-03T20:44:08Z"
+      "firstSeenAt": "2026-09-03T21:17:38Z",
+      "lastSeenAt": "2026-09-03T21:17:38Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/buhoro.png?v=1778482625",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café 1802",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:08Z",
-      "lastSeenAt": "2026-09-03T20:44:08Z"
+      "firstSeenAt": "2026-09-03T21:17:38Z",
+      "lastSeenAt": "2026-09-03T21:17:38Z"
     }
   ]
 }

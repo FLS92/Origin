@@ -8,9 +8,10 @@
     "url": "https://www.kultivarcafe.fr/",
     "domain": "kultivarcafe.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
   },
-  "scrapedAt": "2026-09-03T20:44:01Z",
+  "scrapedAt": "2026-09-03T21:17:32Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/03/LUIS-HERNANDO_PHOTO1.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kultivar",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:01Z",
-      "lastSeenAt": "2026-09-03T20:44:01Z"
+      "firstSeenAt": "2026-09-03T21:17:32Z",
+      "lastSeenAt": "2026-09-03T21:17:32Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/03/OKOLUU_PHOTO2_1.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kultivar",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:01Z",
-      "lastSeenAt": "2026-09-03T20:44:01Z"
+      "firstSeenAt": "2026-09-03T21:17:32Z",
+      "lastSeenAt": "2026-09-03T21:17:32Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2025/07/26_DR_CO_BTO_CAS_LAV_01-2.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kultivar",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:01Z",
-      "lastSeenAt": "2026-09-03T20:44:01Z"
+      "firstSeenAt": "2026-09-03T21:17:32Z",
+      "lastSeenAt": "2026-09-03T21:17:32Z"
     }
   ]
 }

@@ -8,9 +8,10 @@
     "url": "https://laplaine.fr/",
     "domain": "laplaine.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://laplaine.fr/cdn/shop/files/LAPLAINE2_5591cc07-0f87-4069-bcdb-9c10bffd82c3.png?v=1727858394&width=600"
   },
-  "scrapedAt": "2026-09-03T20:42:10Z",
+  "scrapedAt": "2026-09-03T21:15:52Z",
   "products": [
     {
       "id": "laplaine-torrefacteur-boreta-ethiopie",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/BORETA-ETHIOPIE_70a5b072-6ca7-4825-ac29-5fd464860db0.jpg?v=1785339002",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Laplaine Torréfacteur",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "laplaine-torrefacteur-ruli-rwanda",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/RULI-RWANDA.jpg?v=1785339075",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Laplaine Torréfacteur",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "laplaine-torrefacteur-el-mirador-colombie",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/ELMIRADOR-COLOMBIE.jpg?v=1785339125",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Laplaine Torréfacteur",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "laplaine-torrefacteur-santa-isabel",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/SANTAISABEL-GUATEMALA.jpg?v=1785339240",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Laplaine Torréfacteur",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "laplaine-torrefacteur-city-blend",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0778/0535/5327/files/CITYBLEND-BRESIL.jpg?v=1785339300",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Laplaine Torréfacteur",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     }
   ]
 }

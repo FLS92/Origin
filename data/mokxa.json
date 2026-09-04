@@ -8,9 +8,10 @@
     "url": "https://www.cafemokxa.com/",
     "domain": "cafemokxa.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
   },
-  "scrapedAt": "2026-09-03T20:42:26Z",
+  "scrapedAt": "2026-09-03T21:16:08Z",
   "products": [
     {
       "id": "mokxa-cafe-de-poche",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/BRESIL_Cafe_de_Poche.jpg?v=1784708157",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-cafe-saudade-blend",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-bresil-saudade.png?v=1746543956",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-cafe-notorious-rob-blend",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-bresil-notorious-rob.png?v=1746544743",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-sitiodatorre",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Sitio_Da_Torre_2025.jpg?v=1766055481",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-cafe-melting-cup-blend",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-blend-melting-cup.png?v=1746544242",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-santarosa-guatemala-bio",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/GuatemalaSantaRosa03.png?v=1783931585",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-ayni-cafe-du-perou",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/PerouAyni01_4a71a25a-408e-4b80-bd95-e87308ba2363.jpg?v=1779710661",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-taba-cafe-du-rwanda",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-rwanda-taba.png?v=1750667922",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-decafeine-cafe-de-colombie",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/espresso.jpg?v=1742827976",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-coba-cafe-dethiopie",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/COBAAAA.jpg?v=1781619651",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-higueronal-cafe-de-costa-rica",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/CostaRicaHigueronal03.jpg?v=1781875008",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-cold-brew",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/ColdBrewWebsite01.jpg?v=1783935290",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     },
     {
       "id": "mokxa-los-lirios-cafe-du-nicaragua-bio-2026",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Los_Lirios_Cafe_Mokxa_03.png?v=1788187521",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Mokxa",
@@ -438,41 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
-    },
-    {
-      "id": "mokxa-abonnement-decouverte",
-      "name": "Abonnement découverte",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Abonnement_Cafe_Mokxa_01.jpg?v=1752574522",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Mokxa",
-          "url": "https://cafemokxa.com/products/abonnement-decouverte",
-          "price": 20.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:26Z",
-      "lastSeenAt": "2026-09-03T20:42:26Z"
+      "firstSeenAt": "2026-09-03T21:16:08Z",
+      "lastSeenAt": "2026-09-03T21:16:08Z"
     }
   ]
 }

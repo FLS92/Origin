@@ -50,7 +50,7 @@ def main():
     print("RÉSUMÉ DU SCRAPING")
     print("=" * 70)
     ok_count = err_count = 0
-    total_new = total_updated = total_unavailable = total_unchanged = 0
+    total_new = total_updated = total_unavailable = total_unchanged = total_excluded = 0
     for status, r, data in results:
         if status == "error":
             err_count += 1
@@ -58,21 +58,24 @@ def main():
             continue
         ok_count += 1
         warn = f" ⚠️  {data['warning']}" if data.get("warning") else ""
+        excluded_note = f", {data['excluded']} exclus (non-café)" if data.get("excluded") else ""
         print(
             f"✅ {data['roaster']}: {data['new']} nouvelles références, "
             f"{data['updated']} mises à jour, {data['newly_unavailable']} passées indisponibles, "
-            f"{data['unchanged']} inchangées (total {data['total_products']}){warn}"
+            f"{data['unchanged']} inchangées{excluded_note} (total {data['total_products']}){warn}"
         )
         total_new += data["new"]
         total_updated += data["updated"]
         total_unavailable += data["newly_unavailable"]
         total_unchanged += data["unchanged"]
+        total_excluded += data.get("excluded", 0)
 
     print("-" * 70)
     print(
         f"{ok_count} torréfacteurs scrapés avec succès, {err_count} en erreur. "
         f"Total : {total_new} nouvelles, {total_updated} mises à jour, "
-        f"{total_unavailable} passées indisponibles, {total_unchanged} inchangées."
+        f"{total_unavailable} passées indisponibles, {total_unchanged} inchangées, "
+        f"{total_excluded} exclus (non-café)."
     )
 
 

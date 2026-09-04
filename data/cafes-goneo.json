@@ -8,9 +8,10 @@
     "url": "https://shop.cafes-goneo.fr/",
     "domain": "shop.cafes-goneo.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://shop.cafes-goneo.fr/img/logo-17712465632.jpg"
   },
-  "scrapedAt": "2026-09-03T20:42:52Z",
+  "scrapedAt": "2026-09-03T21:16:32Z",
   "products": [
     {
       "id": "cafes-goneo-p693",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3962-large_default/canephora-capsules-nespresso.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p692",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3991-large_default/perou-palma-central-capsules-nespresso.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p639",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3995-large_default/coffret-complet-caps-me.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p652",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3704-large_default/pack-blends-signature-3-x-500g.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -141,41 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
-    },
-    {
-      "id": "cafes-goneo-p640",
-      "name": "Capsules réutilisables |  CAPS ME®",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://shop.cafes-goneo.fr/3592-large_default/capsules-reutilisables-caps-me.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Cafés Gonéo",
-          "url": "https://shop.cafes-goneo.fr/accessoires/640-capsules-reutilisables-caps-me.html",
-          "price": 19.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p685",
@@ -191,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3854-large_default/pack-barista.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -207,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p727",
@@ -224,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/4085-large_default/pack-deouverte-3-x-250g.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -240,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p701",
@@ -257,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3969-large_default/decafeine-capsules-nespresso.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -273,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p728",
@@ -290,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/4090-large_default/pack-capsules-nespresso-2-x-40.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -306,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p597",
@@ -323,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3496-large_default/souvenir-de-goma.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -339,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p592",
@@ -356,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3506-large_default/barista-25.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -372,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     },
     {
       "id": "cafes-goneo-p591",
@@ -389,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://shop.cafes-goneo.fr/3507-large_default/stivale-espresso.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gonéo",
@@ -405,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:52Z",
-      "lastSeenAt": "2026-09-03T20:42:52Z"
+      "firstSeenAt": "2026-09-03T21:16:32Z",
+      "lastSeenAt": "2026-09-03T21:16:32Z"
     }
   ]
 }

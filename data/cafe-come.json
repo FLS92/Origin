@@ -8,9 +8,10 @@
     "url": "https://cafe-come.fr/",
     "domain": "cafe-come.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/1.png"
   },
-  "scrapedAt": "2026-09-03T20:42:47Z",
+  "scrapedAt": "2026-09-03T21:16:27Z",
   "products": [
     {
       "id": "cafe-come-baho-rwanda",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-rwanda.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-la-alpina-salvador",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-salvador.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-malabar-inde-2",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-inde.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-ketiara-gayo-indonesie",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-3-1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-harrar-ethiopie",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-Harrar.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-come-melange-maison",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-9.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-royal-melange-maison",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-royal.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-los-hernandez-costa-rica",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-costa-rica.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-el-palomar-perou",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/CO-12-x-8-cm-17.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-supremo-colombie-2",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-24.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-minasul-bresil",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-19.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-santa-rosa-guatemala-2",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-25.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-river-valley-nouvelle-guinee-2",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-21.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-yirgacheffe-ethiopie-2",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-15.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-decafeine-mexique-2",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-decafeine.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-kivu-congo-2",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-3.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     },
     {
       "id": "cafe-come-test-variations",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/CO-12-x-8-cm-27.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Côme",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:47Z",
-      "lastSeenAt": "2026-09-03T20:42:47Z"
+      "firstSeenAt": "2026-09-03T21:16:27Z",
+      "lastSeenAt": "2026-09-03T21:16:27Z"
     }
   ]
 }

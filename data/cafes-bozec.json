@@ -8,9 +8,10 @@
     "url": "https://www.cafesbozec.fr/",
     "domain": "cafesbozec.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1"
   },
-  "scrapedAt": "2026-09-03T20:44:13Z",
+  "scrapedAt": "2026-09-03T21:17:46Z",
   "products": [
     {
       "id": "cafes-bozec-cafes-bozec-indonesie-sumatra",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2026/04/Sumatra.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-nicaragua-maragogype",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2026/04/Colombie-Huila-2.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-huila",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/06/Colombie-Huila-3-1.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-salvador-cerro-el-aguila",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/8.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/6.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-bonga-micro-lot",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/7.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-blend-bio-ethiopie-honduras-mexique",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/3.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-blend-historique-costa-rica-mexique-bresil",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/2.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-blend-signature-ethiopie-bresil-colombie",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/1.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-bresil-fazenda-jaguara",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/Nouvelle-etiquette-1.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-origine",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/4.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-kobi-gamme-terroir",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/3-1.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     },
     {
       "id": "cafes-bozec-nicaragua-mogoton",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/2-1.png?fit=1063%2C1063&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Bozec",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:13Z",
-      "lastSeenAt": "2026-09-03T20:44:13Z"
+      "firstSeenAt": "2026-09-03T21:17:46Z",
+      "lastSeenAt": "2026-09-03T21:17:46Z"
     }
   ]
 }

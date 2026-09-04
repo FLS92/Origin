@@ -8,109 +8,11 @@
     "url": "https://cafe-corto.fr/",
     "domain": "cafe-corto.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe-corto.fr/cdn/shop/files/CAFE-CORTO-Logo-rouge_2a40c653-fdfb-4935-b471-fa88a5fa82dd.png?v=1774947910&width=600"
   },
-  "scrapedAt": "2026-09-03T20:43:55Z",
+  "scrapedAt": "2026-09-03T21:17:26Z",
   "products": [
-    {
-      "id": "cafe-corto-filtres-v60-1-4-tasses-hario",
-      "name": "Filtres V60 1/4 tasses | HARIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.11.34.png?v=1743150888",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtres-v60-1-4-tasses-hario",
-          "price": 7.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-filtres-papier-n-4-moccamaster",
-      "name": "Filtres papier N°4 Moccamaster",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-26a15.53.44.png?v=1743150915",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtres-papier-n-4-moccamaster",
-          "price": 5.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-filtre-papier-aeropress",
-      "name": "Filtre papier Aeropress",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.27.01.png?v=1743150875",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtre-papier-aeropress",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
     {
       "id": "cafe-corto-boite-atmos",
       "name": "Boite Atmos",
@@ -125,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/FELLOW-ATMOS-W-16.png?v=1759323883",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -141,74 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-cafetiere-piston-espro",
-      "name": "Cafetière piston - Espro",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/photosite.webp?v=1764062850",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/cafetiere-piston-espro",
-          "price": 55.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-tasse-weducer",
-      "name": "TASSE WEDUCER 250 ML",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/KAFFEEFORM_WED250C_1__png.webp?v=1746529330",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/tasse-weducer",
-          "price": 16.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-travel-tumbler-kinto",
@@ -224,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Capture_d_ecran_2024-11-27_a_11.07.38.png?v=1764062959",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -240,206 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-grosche-cafetiere-italienne-a-induction-6-tasses",
-      "name": "GROSCHE - Cafetière italienne  6 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/grosche_black.png?v=1764675464",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/grosche-cafetiere-italienne-a-induction-6-tasses",
-          "price": 45.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-filtres-chemex-6-8-tasses",
-      "name": "Filtres Chemex 6/8 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.06_edited.png?v=1743150894",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtres-chemex-6-8-tasses",
-          "price": 12.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-dripper-v60-en-ceramique-blanc-1-4-tasse-hario",
-      "name": "Dripper V60 en céramique blanc 1/4 tasse | HARIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Capture_d_ecran_2024-11-26_a_16.24.49.png?v=1743150901",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/dripper-v60-en-ceramique-blanc-1-4-tasse-hario",
-          "price": 24.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-chemex-6-tasses",
-      "name": "Chemex 6 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a09.58_edited.png?v=1764063553",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/chemex-6-tasses",
-          "price": 55.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-carafe-v60-en-verre-1-4-tasses-hario",
-      "name": "Carafe V60 en verre 1/4 tasses | HARIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-26a16.36.17.png?v=1743150910",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/carafe-v60-en-verre-1-4-tasses-hario",
-          "price": 29.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-cafetiere-a-piston-time-more-small",
-      "name": "Cafetière à Piston Time More Small",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/TIMEMORE_TME_70TFP045AA001_WB_jpg.webp?v=1743150997",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/cafetiere-a-piston-time-more-small",
-          "price": 25.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-bouilloire-electrique-time-more-fish-smart-800-ml",
@@ -455,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/TME_70THP070AA001_png.webp?v=1743151001",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -471,140 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-balance-time-more-black-mirror-basic-2",
-      "name": "Balance Time More Black Mirror Basic 2",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/71vzipQVGIL.jpg?v=1743150994",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/balance-time-more-black-mirror-basic-2",
-          "price": 65.0,
-          "currency": "EUR",
-          "unitWeightG": 514,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-filtre-permanent-aeropress-able-disc",
-      "name": "Filtre permanent Aeropress | ABLE DISC",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-27a10.21.29.png?v=1743150876",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/filtre-permanent-aeropress-able-disc",
-          "price": 17.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-cafetiere-aeropress-clear",
-      "name": "CAFETIÈRE AEROPRESS CLEAR",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/aeropress-clear-rouge-cafetiere-a-piston-nomade.jpg?v=1744718997",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/cafetiere-aeropress-clear",
-          "price": 55.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-aeropress-go",
-      "name": "Aeropress GO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Captured_ecran2024-11-26a16.32.57.png?v=1743150902",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/aeropress-go",
-          "price": 49.0,
-          "currency": "EUR",
-          "unitWeightG": 1,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-guapo-guatemala",
@@ -620,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Guapo_site_fond_transaprent.png?v=1759323887",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -636,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-cosurca-colombie",
@@ -653,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/COSURCA_SITE_fond_transaprent.png?v=1759323849",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -669,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-bacan-perou",
@@ -686,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/BACAN_SITE_fond_transaprent.png?v=1759323851",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -702,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-tafacce-ethiopie",
@@ -719,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/TAFACE_SITE_fond_transparent.png?v=1759323837",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -735,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-sidama-ethiopie",
@@ -752,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/SIDAMA_SITE_fond_transparent.png?v=1759323841",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -768,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-cafe-a-la-voile-colombie",
@@ -785,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/fichier_corto_sachet_etquette_good_glisses_2_page-0001.jpg?v=1774343117",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -801,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-kopi-indonesie",
@@ -818,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/KOPI_site_web_fond_transparent.png?v=1759323853",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -834,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-deca-mexique",
@@ -851,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/DECA_SITE_fond_transaprent_png.png?v=1759323799",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -867,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-grains-gourmand",
@@ -884,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/IMG_4208.jpg?v=1744724311",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -900,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     },
     {
       "id": "cafe-corto-tablette-de-chocolat-mistre",
@@ -917,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Designsanstitre-23.png?v=1743150864",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Corto",
@@ -933,74 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-carte-cadeau",
-      "name": "Carte Cadeau Atelier",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Rose_et_Vert_Simple_et_Moderne_Anniversaire_Carte-2.png?v=1743150993",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/carte-cadeau",
-          "price": 70.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
-    },
-    {
-      "id": "cafe-corto-carte-cadeau-cafe-1",
-      "name": "Carte cadeau Café",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/RoseetVertSimpleetModerneAnniversaireCarte-3_4fe75ab3-b6b3-4dd7-b4f2-f66b9f198ffa.png?v=1744801946",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/carte-cadeau-cafe-1",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:55Z",
-      "lastSeenAt": "2026-09-03T20:43:55Z"
+      "firstSeenAt": "2026-09-03T21:17:26Z",
+      "lastSeenAt": "2026-09-03T21:17:26Z"
     }
   ]
 }

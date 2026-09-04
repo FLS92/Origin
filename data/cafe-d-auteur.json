@@ -8,9 +8,10 @@
     "url": "https://cafedauteur.com/",
     "domain": "cafedauteur.com",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafedauteur.com/themes/bos_highlands//assets/img/logo-h2.png"
   },
-  "scrapedAt": "2026-09-03T20:41:43Z",
+  "scrapedAt": "2026-09-03T21:15:27Z",
   "products": [
     {
       "id": "cafe-d-auteur-p97",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/404-large_default/rwanda-simbi.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p98",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/407-large_default/tanzania-tumaini.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p87",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/398-large_default/dominican-republic-finca-la-colonia.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p100",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/424-large_default/GAINSBOURG.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p101",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/427-large_default/colombia-decafeine.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p102",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/431-large_default/yemen-haraaz.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p48",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/420-large_default/gainsbourg.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p49",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/417-large_default/balzac.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p82",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/421-large_default/Nina-Simone.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p91",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/409-large_default/ethiopia-ygarcheffe.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p103",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/435-large_default/colombia-castillo-lactic.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p16",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/414-large_default/jamaica-blue-mountain.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p104",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/439-large_default/colombia-geisha.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-d-auteur-p90",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafedauteur.com/411-large_default/indonesia-kopi-luwak.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café d'Auteur",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:43Z",
-      "lastSeenAt": "2026-09-03T20:41:43Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     }
   ]
 }

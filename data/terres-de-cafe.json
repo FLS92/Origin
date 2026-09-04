@@ -8,9 +8,10 @@
     "url": "https://www.terresdecafe.com/fr/",
     "domain": "terresdecafe.com",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.terresdecafe.com/img/logo.png"
   },
-  "scrapedAt": "2026-09-03T20:41:19Z",
+  "scrapedAt": "2026-09-03T21:15:05Z",
   "products": [
     {
       "id": "terres-de-cafe-p2099",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10423-medium_default/cafe-la-josefina-sidra-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2098",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10419-medium_default/cafe-la-josefina-sidra-natural.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2095",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10409-medium_default/cafe-finca-santa-maria-castillo-caturra-late-harvest-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1445",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9680-medium_default/cafe-ksf-goma-forest-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p78",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9811-medium_default/cafe-yeti-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p588",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9630-medium_default/cafe-old-yeti-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2094",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10238-medium_default/jhoan-diego-vergara-las-flores-chiroso-thermal-shock-anaerobic-washed-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2092",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10231-medium_default/jhoan-diego-vergara-las-flores-java-hydrohoney-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1441",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10225-medium_default/cafe-ksf-echemo-lave-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2087",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10199-medium_default/cafe-granja-la-esperanza-bourbon-pointu-.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1978",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10006-medium_default/cafe-felix-project-caranavi.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p392",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9655-medium_default/cafe-bob-o-link-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1966",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10033-medium_default/cafe-altos-de-bijao-estate-project.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p394",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9658-medium_default/cafe-dipilto-viejo.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1938",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9664-medium_default/cafe-fazendas.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2004",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9872-medium_default/coffret-permanent-coffee.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1442",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10029-medium_default/cafe-el-cuto.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2010",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9877-medium_default/coffret-slow-coffee.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1790",
@@ -620,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10184-medium_default/cafe-taba-hills-nature.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1696",
@@ -653,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/8852-medium_default/cafe-finca-santa-maria-caturra-lave.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -669,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2002",
@@ -686,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9696-medium_default/cafe-los-pinos.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -702,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1396",
@@ -719,9 +720,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9697-medium_default/cafe-amazalia.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -735,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2035",
@@ -752,9 +753,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9622-medium_default/cafe-finca-la-laguna-parainema-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -768,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2008",
@@ -785,9 +786,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9874-medium_default/coffret-grands-crus-methodes-douces.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -801,8 +802,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1832",
@@ -818,9 +819,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9531-medium_default/cafe-volcan-azul-caturra.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -834,8 +835,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1937",
@@ -851,9 +852,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10190-medium_default/cafe-fazenda-ambiental-fortaleza-arara-natural.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -867,8 +868,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p923",
@@ -884,9 +885,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9832-medium_default/cafe-ksf-old-trees.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -900,8 +901,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1988",
@@ -917,9 +918,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9838-medium_default/cafe-yirgacheffe-banko-gotiti.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -933,8 +934,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2017",
@@ -950,9 +951,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9827-medium_default/cafe-buenos-aires-maracaturra-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -966,8 +967,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1961",
@@ -983,9 +984,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10209-medium_default/cafe-bourbon-santander-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -999,8 +1000,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1878",
@@ -1016,9 +1017,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9843-medium_default/cafe-tatmara-plantation-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1032,8 +1033,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2071",
@@ -1049,9 +1050,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10048-medium_default/cafe-finca-elizabeth-parainema-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1065,8 +1066,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2076",
@@ -1082,9 +1083,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10096-medium_default/cafe-volcan-azul-decafeine.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1098,8 +1099,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1697",
@@ -1115,9 +1116,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/8857-medium_default/cafe-finca-santa-maria-geisha-lave.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1131,8 +1132,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2056",
@@ -1148,9 +1149,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9767-medium_default/miguel-angel-villacencio-finca-la-pacaya-kenia-sl28-natural-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1164,8 +1165,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2029",
@@ -1181,9 +1182,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9780-medium_default/olman-valladarez-los-alpes-geisha-washed-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1197,8 +1198,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1836",
@@ -1214,9 +1215,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/8465-medium_default/pepe-jijon-la-soledad-sidra-washed-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1230,8 +1231,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1920",
@@ -1247,9 +1248,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9970-medium_default/felipe-contreras-finca-gascon-geisha-washed-del-bosque-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1263,8 +1264,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1942",
@@ -1280,9 +1281,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9880-medium_default/cafe-thomas-guzman-geisha-nature.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1296,8 +1297,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1953",
@@ -1313,9 +1314,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9065-medium_default/cafe-la-margarita-bourbon-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1329,8 +1330,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2072",
@@ -1346,9 +1347,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10070-medium_default/small-farmers-maghrib-ans-kent-carbonic-honey-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1362,8 +1363,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1996",
@@ -1379,9 +1380,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9849-medium_default/alejo-castro-volcan-azul-estate-geisha-anaerobic-natural-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1395,8 +1396,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1990",
@@ -1412,9 +1413,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9539-medium_default/cafe-altos-de-bijao-geisha.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1428,8 +1429,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2086",
@@ -1445,9 +1446,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10182-medium_default/jose-prudencio-vargas-el-mirante-geisha-honey-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1461,8 +1462,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2012",
@@ -1478,9 +1479,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9968-medium_default/coffret-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1494,8 +1495,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1959",
@@ -1511,9 +1512,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9857-medium_default/neto-ivan-solorzano-la-margarita-geisha-washed-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1527,8 +1528,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1998",
@@ -1544,9 +1545,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9863-medium_default/cafe-las-brujas-pacamara-washed.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1560,8 +1561,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2084",
@@ -1577,9 +1578,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10180-medium_default/jose-prudencio-vargas-el-mirante-geisha-washed-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1593,8 +1594,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2028",
@@ -1610,9 +1611,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9965-medium_default/ratibor-tessie-hartmann-mi-finquita-geisha-natural-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1626,8 +1627,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1960",
@@ -1643,9 +1644,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9854-medium_default/dwight-aguilar-nueva-allianza-geisha-washed-anaerobic-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1659,8 +1660,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p62",
@@ -1676,9 +1677,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9885-medium_default/cafe-blue-mountain.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1692,8 +1693,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1126",
@@ -1709,9 +1710,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9652-medium_default/cafe-classic-expresso.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1725,8 +1726,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2062",
@@ -1742,9 +1743,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9951-medium_default/cafe-organic-expresso-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1758,8 +1759,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p585",
@@ -1775,9 +1776,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9536-medium_default/cafe-the-forest-bio.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1791,8 +1792,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p405",
@@ -1808,9 +1809,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9533-medium_default/cafe-h3.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1824,8 +1825,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2006",
@@ -1841,9 +1842,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9942-medium_default/coffret-meilleur-expresso-de-france-1.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1857,8 +1858,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1073",
@@ -1874,9 +1875,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9939-medium_default/cafe-10-blend.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1890,8 +1891,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1082",
@@ -1907,9 +1908,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9936-medium_default/cafe-jaen-bio-decafeine.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1923,8 +1924,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1263",
@@ -1940,9 +1941,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9931-medium_default/coffret-discovery.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1956,8 +1957,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p843",
@@ -1973,9 +1974,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9644-medium_default/cafe-barista-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -1989,8 +1990,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p409",
@@ -2006,9 +2007,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9685-medium_default/cafe-classic-expresso-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2022,8 +2023,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1983",
@@ -2039,9 +2040,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10005-medium_default/cafe-felix-project-caranavi-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2055,8 +2056,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p408",
@@ -2072,9 +2073,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9716-medium_default/cafe-organic-expresso-bio-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2088,8 +2089,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1939",
@@ -2105,9 +2106,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/8945-medium_default/cafe-fazendas-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2121,8 +2122,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p399",
@@ -2138,9 +2139,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9721-medium_default/cafe-dipilto-viejo-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2154,8 +2155,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1984",
@@ -2171,9 +2172,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9723-medium_default/cafe-altos-de-bijao-estate-project-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2187,8 +2188,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1443",
@@ -2204,9 +2205,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10031-medium_default/cafe-el-cuto-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2220,8 +2221,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1446",
@@ -2237,9 +2238,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9729-medium_default/cafe-ksf-goma-forest-bio-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2253,8 +2254,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p791",
@@ -2270,9 +2271,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9710-medium_default/cafe-the-forest-bio-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2286,8 +2287,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1791",
@@ -2303,9 +2304,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10187-medium_default/cafe-taba-hills-nature-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2319,8 +2320,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2061",
@@ -2336,9 +2337,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9929-medium_default/cafe-h3-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2352,8 +2353,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1134",
@@ -2369,9 +2370,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10032-medium_default/cafe-yeti-bio-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2385,8 +2386,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p978",
@@ -2402,9 +2403,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9761-medium_default/cafe-10-blend-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2418,8 +2419,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p2003",
@@ -2435,9 +2436,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9708-medium_default/cafe-los-pinos-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2451,8 +2452,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p785",
@@ -2468,9 +2469,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/10034-medium_default/cafe-bob-o-link-bio-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2484,8 +2485,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1824",
@@ -2501,9 +2502,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9532-medium_default/cafe-volcan-azul-caturra-kg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2517,8 +2518,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1857",
@@ -2534,9 +2535,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9888-medium_default/capsules-organic-bio-x-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2550,8 +2551,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1856",
@@ -2567,9 +2568,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9891-medium_default/capsules-bob-o-link-bio-x-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2583,8 +2584,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1861",
@@ -2600,9 +2601,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9894-medium_default/capsules-lenca-x-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2616,8 +2617,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1852",
@@ -2633,9 +2634,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9898-medium_default/capsules-yeti-bio-x-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2649,8 +2650,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1854",
@@ -2666,9 +2667,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9901-medium_default/capsules-volcan-azul-caturra-x10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2682,8 +2683,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1851",
@@ -2699,9 +2700,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9904-medium_default/capsules-south-huila-x-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2715,8 +2716,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1855",
@@ -2732,9 +2733,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/9911-medium_default/capsules-jaen-decafeine-bio-x-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2748,8 +2749,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1227",
@@ -2765,9 +2766,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/6905-medium_default/capsules-home-compostable-yeti-village-bio-x-100.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2781,8 +2782,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1229",
@@ -2798,9 +2799,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/6751-medium_default/capsules-home-compostable-organic-expresso-bio-x-100.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2814,8 +2815,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1228",
@@ -2831,9 +2832,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/6904-medium_default/capsules-home-compostable-jaen-decafeine-bio-x-100.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2847,8 +2848,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1859",
@@ -2864,9 +2865,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/8529-medium_default/capsules-taba-hills-nature-x10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2880,8 +2881,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     },
     {
       "id": "terres-de-cafe-p1844",
@@ -2897,9 +2898,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.terresdecafe.com/8476-medium_default/cascara-finca-deborah-geisha-natural-legendes.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Terres de Café",
@@ -2913,8 +2914,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:19Z",
-      "lastSeenAt": "2026-09-03T20:41:19Z"
+      "firstSeenAt": "2026-09-03T21:15:05Z",
+      "lastSeenAt": "2026-09-03T21:15:05Z"
     }
   ]
 }

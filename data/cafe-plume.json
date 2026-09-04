@@ -8,9 +8,10 @@
     "url": "https://plumedecafe.fr/",
     "domain": "plumedecafe.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png"
   },
-  "scrapedAt": "2026-09-03T20:43:39Z",
+  "scrapedAt": "2026-09-03T21:17:16Z",
   "products": [
     {
       "id": "cafe-plume-colombie-yuppie-100-arabica",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/05/Yuppie-paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-perou-cataratas-100-arabica-bio",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/02/Cataratas-01-paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-guatemala-panama-100-robusta",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2025/10/Panama-paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-nicaragua-jinotega-100-arabica",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2025/10/Jinotega-paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2024/04/Dak-Lak-Paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-ethiopie-moka-boji-wollega",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/12/Moka-Boji-Paquet-1-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-inde-bresil-le-melange-corse",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/12/Melange-corse-04-paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-bresil-espirito-santo-vanille",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/07/Le-Vanille-3-paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     },
     {
       "id": "cafe-plume-ethiopie-jebena",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2022/09/Jebena-01-Paquet-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Plume",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:39Z",
-      "lastSeenAt": "2026-09-03T20:43:39Z"
+      "firstSeenAt": "2026-09-03T21:17:16Z",
+      "lastSeenAt": "2026-09-03T21:17:16Z"
     }
   ]
 }

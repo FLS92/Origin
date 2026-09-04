@@ -8,9 +8,10 @@
     "url": "https://www.alchimiste-cafes.com/",
     "domain": "alchimiste-cafes.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/01/instagram-header.svg"
   },
-  "scrapedAt": "2026-09-03T20:43:01Z",
+  "scrapedAt": "2026-09-03T21:16:40Z",
   "products": [
     {
       "id": "l-alchimiste-gesha",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2026/03/dsc00073-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-laleona",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/03/leona.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-taba",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2024/02/taba-600.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-githembe",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2024/09/githembeab1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-blend",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2020/11/blend2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-campestre",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2025/04/paquetcampestre.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-phoenix",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2023/01/phoenix1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-chevere-decafeine",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2023/02/cheveredeca2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-leonamicrolot",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2022/07/vignette-web-petite-taille.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-coffret-decouverte",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2022/01/dsc09382-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-how-to-make-the-best-coffee",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2022/12/thebestcoffee.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     },
     {
       "id": "l-alchimiste-le-cafe-cest-pas-sorcier",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/03/dsc04646-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Alchimiste",
@@ -405,107 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
-    },
-    {
-      "id": "l-alchimiste-carte-cadeau-50e",
-      "name": "Carte cadeau café 50€",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/12/dsc06084-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Alchimiste",
-          "url": "https://www.alchimiste-cafes.com/produit/carte-cadeau-50e/",
-          "price": 50.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
-    },
-    {
-      "id": "l-alchimiste-carte-cadeau-100e",
-      "name": "Carte cadeau café 100€",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/12/dsc06084-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Alchimiste",
-          "url": "https://www.alchimiste-cafes.com/produit/carte-cadeau-100e/",
-          "price": 100.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
-    },
-    {
-      "id": "l-alchimiste-carte-cadeau-150e",
-      "name": "Carte cadeau café 150€",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/12/dsc06084-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Alchimiste",
-          "url": "https://www.alchimiste-cafes.com/produit/carte-cadeau-150e/",
-          "price": 150.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:01Z",
-      "lastSeenAt": "2026-09-03T20:43:01Z"
+      "firstSeenAt": "2026-09-03T21:16:40Z",
+      "lastSeenAt": "2026-09-03T21:16:40Z"
     }
   ]
 }

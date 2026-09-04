@@ -8,9 +8,10 @@
     "url": "https://www.cafepiha.com/e-boutique/",
     "domain": "cafepiha.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg"
   },
-  "scrapedAt": "2026-09-03T20:43:03Z",
+  "scrapedAt": "2026-09-03T21:16:42Z",
   "products": [
     {
       "id": "cafe-piha-miss-wush",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/08/IM1-MISS-WUSH.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-jungle-halo",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/08/IM1-JUNGLE-HALO.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-villa-pastora-2",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/07/IM1-VILLA-PASTORA2.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-jos-papayo",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/06/IM1-JOSPAPAYO.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-mandela-100g",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/06/IM1-MANDELA-NATURE.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-mystic-geisha-cafe",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/03/IM1-MYSTIC-GEISHA.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-box-decouverte-piha",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/12/JDF00453.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-petit-creme-chocolat-hasnaa",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/11/petit-creme-chocolat-hasnaa01.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -273,41 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
-    },
-    {
-      "id": "cafe-piha-e-carte-cadeau-piha",
-      "name": "e-carte cadeau PIHA",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/10/e-carte-cadeau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Piha",
-          "url": "https://www.cafepiha.com/e-boutique/e-carte-cadeau-piha/",
-          "price": 25.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-los-campos",
@@ -323,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/09/IM1-LOS-CAMPOS.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -339,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-la-victoria-honey",
@@ -356,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/07/IM1-LA-VICTORIA-HONEY-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -372,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-cascara",
@@ -389,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2024/05/cascara.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -405,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-fleurs-de-cafe",
@@ -422,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2023/12/fleur-de-cafe-scaled-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -438,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-blend-bio-haka",
@@ -455,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/01/IM1-HAKA.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -471,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-cafe-bio-honduras-la-victoria-nature",
@@ -488,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/01/IM1-LA-VICTORIA.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -504,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-decafeine-la-belle-endormie",
@@ -521,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/02/IM1V2-DECA.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -537,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     },
     {
       "id": "cafe-piha-melange-cafes-grains-blend-all-blacks",
@@ -554,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/01/IM1-ALL-BLACKS.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Piha",
@@ -570,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:03Z",
-      "lastSeenAt": "2026-09-03T20:43:03Z"
+      "firstSeenAt": "2026-09-03T21:16:42Z",
+      "lastSeenAt": "2026-09-03T21:16:42Z"
     }
   ]
 }

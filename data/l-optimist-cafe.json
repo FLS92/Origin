@@ -8,9 +8,10 @@
     "url": "https://www.loptimistcafe.com/",
     "domain": "loptimistcafe.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.loptimistcafe.com/wp-content/uploads/2026/03/Optimist_logo_primaire_1_CMJN-460x250.png"
   },
-  "scrapedAt": "2026-09-03T20:43:16Z",
+  "scrapedAt": "2026-09-03T21:16:54Z",
   "products": [
     {
       "id": "l-optimist-cafe-machine-a-cafe-la-marzocco",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2025/06/linea-mini_yellow_protouch_front.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Optimist Café",
@@ -42,272 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-bouteille-cold-brew-hario",
-      "name": "Bouteille Cold brew – Hario",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2025/06/HARIO_MCPN-14-MC_AMB-1-1.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/bouteille-cold-brew-hario/",
-          "price": 24.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-machine-a-cafe-moccamaster",
-      "name": "Machine à café – Moccamaster KBG Select",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2025/04/MOCCAMASTER_MM-SELECT-53984_AMB_1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/machine-a-cafe-moccamaster/",
-          "price": 269.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-moulin-hario-skerton",
-      "name": "Moulin Hario Skerton +",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_MSCSN-2-B-1.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/moulin-hario-skerton/",
-          "price": 49.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-moulin-hario-mini-black-pro",
-      "name": "Moulin Hario mini black pro",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_CMS-B.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/moulin-hario-mini-black-pro/",
-          "price": 69.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-hario-kit-v60",
-      "name": "Hario Kit V60",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_VCDS-02-B.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/hario-kit-v60/",
-          "price": 28.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-aeropress-go-nomade",
-      "name": "Aeropress GO Nomade",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/AEROPRESS_GO_PS.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/aeropress-go-nomade/",
-          "price": 45.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-cafetiere-a-piston",
-      "name": "Cafetière à Piston Hario 600ml",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/HARIO_CPU-4_V.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/cafetiere-a-piston/",
-          "price": 41.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-cafetiere-italienne",
-      "name": "Cafetière Italienne",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/GROSCHE_GR459.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/cafetiere-italienne/",
-          "price": 41.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
+      "firstSeenAt": "2026-09-03T21:16:54Z",
+      "lastSeenAt": "2026-09-03T21:16:54Z"
     },
     {
       "id": "l-optimist-cafe-detartrant-dlsc-delonghi-ecodecalk",
@@ -323,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/Capture-decran-2024-11-25-a-10.40.32.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Optimist Café",
@@ -339,41 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
-    },
-    {
-      "id": "l-optimist-cafe-filtre-a-eau-machine-delonghi",
-      "name": "Filtre à eau – Machine Delonghi",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/Capture-decran-2024-11-25-a-10.29.14.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "L'Optimist Café",
-          "url": "https://www.loptimistcafe.com/produit/filtre-a-eau-machine-delonghi/",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
+      "firstSeenAt": "2026-09-03T21:16:54Z",
+      "lastSeenAt": "2026-09-03T21:16:54Z"
     },
     {
       "id": "l-optimist-cafe-machine-a-cafe-espresso-broyeur-delonghi-dinamica-feb3535b",
@@ -389,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/dinamica-feb-3535-b-machine-a-cafe-expresso-automatique-noire.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Optimist Café",
@@ -405,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
+      "firstSeenAt": "2026-09-03T21:16:54Z",
+      "lastSeenAt": "2026-09-03T21:16:54Z"
     },
     {
       "id": "l-optimist-cafe-machine-a-cafe-espresso-broyeur-delonghi-magnifica-2220-b",
@@ -422,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.loptimistcafe.com/wp-content/uploads/2024/11/magnifica-start-black-feb-2220b-machine-a-cafe-expresso-automatique-noire.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Optimist Café",
@@ -438,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:16Z",
-      "lastSeenAt": "2026-09-03T20:43:16Z"
+      "firstSeenAt": "2026-09-03T21:16:54Z",
+      "lastSeenAt": "2026-09-03T21:16:54Z"
     }
   ]
 }

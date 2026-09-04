@@ -8,9 +8,10 @@
     "url": "https://arloscoffee.com/",
     "domain": "arloscoffee.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
   },
-  "scrapedAt": "2026-09-03T20:42:04Z",
+  "scrapedAt": "2026-09-03T21:15:46Z",
   "products": [
     {
       "id": "arlo-s-coffee-rwanda-murambi-bio",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Rwanda_Murambi.png?v=1787921283",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-ouganda-jukia",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Ouganda_Jukia.png?v=1784664507",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-equateur-tulipe",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Equateur.png?v=1784061231",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Colombie_Comuneros.png?v=1773222937",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-arlos-coffee",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetArlo_scoffee_5c655b6d-6e6a-47b2-9695-963688728a1d.png?v=1721314409",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-colombie-tolima",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetColombie-tolima_c594b711-7bfc-49b2-a02c-f48bf56e1fae.png?v=1721314907",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-ethiopie-ali-bio",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuelsachetethiopie-Ali_aa6896b2-c1e6-4d92-b07e-69410a57fba8.png?v=1721314980",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-bresil-silvia",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetBresil-Sylvia_64368f8f-282c-42c7-b114-963135cddedb.png?v=1721314615",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-cafeespresso",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_l_espresso_click.png?v=1748099004",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-honduras-marco",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetHonduras-Marco_a5a34f5f-173c-4ad3-8d0e-8dfad612d580.png?v=1721315226",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-coffret-cafe-gamme-ephemere",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Coffret_cadeau_gamme_ephemere_Arlo_s_Coffee_Torrefacteur_Rambouillet.jpg?v=1770653816",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     },
     {
       "id": "arlo-s-coffee-colombie-deca",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetColombie-deca_0944cdb0-5d1f-420b-918c-c9e741316179.png?v=1721314795",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Arlo's Coffee",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:04Z",
-      "lastSeenAt": "2026-09-03T20:42:04Z"
+      "firstSeenAt": "2026-09-03T21:15:46Z",
+      "lastSeenAt": "2026-09-03T21:15:46Z"
     }
   ]
 }

@@ -8,9 +8,10 @@
     "url": "https://torrea.fr/shop/",
     "domain": "torrea.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://torrea.fr/wp-content/uploads/2026/07/Logo-torrea.png"
   },
-  "scrapedAt": "2026-09-03T20:43:54Z",
+  "scrapedAt": "2026-09-03T21:17:25Z",
   "products": [
     {
       "id": "torrea-cafe-san-rafael-bresil-commerce-equitable",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2026/07/54.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-blend-personnalise-torrea-tailor",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2026/04/Blend-personnalise-Torrea-Tailor-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-ethiopie-salomon-commerce-equitable",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2026/02/region_sidama.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-blend-lheritage-des-cinq-terres-commerce-equitable",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/12/Blend-LHeritage-des-Cinq-Terres-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-capucas-honduras-commerce-equitable",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/09/Honduras-Capucas-11.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-equateur-palanda-commerce-equitable",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/07/Cafe-Palanda-4.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-blend-douceur-hivernale-commerce-equitable",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/03/Blend-Douceur-Hivernale-Mexique-Perou-Cafe-Chocolat-Agrumes.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-blend-esprit-nomade-commerce-equitable",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/03/Blend-Esprit-Nomade-Mexique-Colombie-Cafe-Chocolat-Veloute.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-blend-velours-nocturne-commerce-equitable",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/03/Blend-Velours-Nocturne-Mexique-Colombie-Cafe-Chocolat-Soiree.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-blend-saveurs-tropicales-commerce-equitable",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/03/Blend-Saveurs-Tropicales-Guatemala-Perou-Cafe-Floral-Agrumes.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-blend-matins-gourmands-commerce-equitable",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/03/Blend-Matins-Gourmands-Cafe-Colombie-Honduras-chocolatees-citronnees.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-cauca-colombie-commerce-equitable",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/11/Cafe-Cauca-4.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-triunfo-mexique-commerce-equitable",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Cafe-Triunfo-4.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-el-palomar-perou-commerce-equitable",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/Cafe-El-Palomar-2.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-kitche-guatemala-commerce-equitable",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/10/v2rkxrwn.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-vert-honduras",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/08/Honduras-cafe-vert-scaled-e1725034203880.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-cafe-vert-colombie-huila",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/08/Colombie-cafe-vert-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "torrea-drip-cofffee-bag-boite-de-7-sachets",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2024/08/Drip-Coffee-Bag-Honduras-site.svg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Torrea",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:54Z",
-      "lastSeenAt": "2026-09-03T20:43:54Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     }
   ]
 }

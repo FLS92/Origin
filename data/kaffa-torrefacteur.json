@@ -8,9 +8,10 @@
     "url": "https://kaffa-roastery.com/",
     "domain": "kaffa-roastery.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
   },
-  "scrapedAt": "2026-09-03T20:42:56Z",
+  "scrapedAt": "2026-09-03T21:16:36Z",
   "products": [
     {
       "id": "kaffa-torrefacteur-gaia",
@@ -26,9 +27,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Honduras-cafe-de-specialite-carre.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kaffa Torréfacteur",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:56Z",
-      "lastSeenAt": "2026-09-03T20:42:56Z"
+      "firstSeenAt": "2026-09-03T21:16:36Z",
+      "lastSeenAt": "2026-09-03T21:16:36Z"
     },
     {
       "id": "kaffa-torrefacteur-colombie",
@@ -59,9 +60,9 @@
       "method": "Toutes méhodes",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Colombie-cafe-de-specialite-carre.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kaffa Torréfacteur",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:56Z",
-      "lastSeenAt": "2026-09-03T20:42:56Z"
+      "firstSeenAt": "2026-09-03T21:16:36Z",
+      "lastSeenAt": "2026-09-03T21:16:36Z"
     },
     {
       "id": "kaffa-torrefacteur-rwanda",
@@ -92,9 +93,9 @@
       "method": "Toutes méthodes",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Rwanda-cafe-de-specialite-carre.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kaffa Torréfacteur",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:56Z",
-      "lastSeenAt": "2026-09-03T20:42:56Z"
+      "firstSeenAt": "2026-09-03T21:16:36Z",
+      "lastSeenAt": "2026-09-03T21:16:36Z"
     },
     {
       "id": "kaffa-torrefacteur-perou",
@@ -125,9 +126,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Perou-cafe-de-specialite-carre.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kaffa Torréfacteur",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:56Z",
-      "lastSeenAt": "2026-09-03T20:42:56Z"
+      "firstSeenAt": "2026-09-03T21:16:36Z",
+      "lastSeenAt": "2026-09-03T21:16:36Z"
     }
   ]
 }

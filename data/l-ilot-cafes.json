@@ -8,9 +8,10 @@
     "url": "https://www.lilotcafes.fr/boutique/",
     "domain": "lilotcafes.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
   },
-  "scrapedAt": "2026-09-03T20:43:53Z",
+  "scrapedAt": "2026-09-03T21:17:25Z",
   "products": [
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2025/11/LIlot-Cafes-Produits_MEXIQUE-Majomut_specialite-qualite-premium.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
@@ -57,11 +58,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Corsé",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2025/11/LIlot-Cafes-Colombie-bio-equitable-Premium.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
@@ -90,11 +91,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Corsé",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/04/LIlot-Cafes-Perou-Pangoa-bio-equitable-cafe-de-foret.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
@@ -123,11 +124,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Léger",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/04/Mexique-Veracruz-Decafeine-a-leau-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafes-maison-dola-fami",
@@ -156,11 +157,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Léger",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/DOLA-FAMI-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafe-maison-cuilco",
@@ -189,11 +190,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/CUILCO-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
@@ -222,11 +223,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/Nicaragua-Jinotega-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
@@ -255,11 +256,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-El-Palomar_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-santa-rosa",
@@ -288,11 +289,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Corsé",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-Santa-Rosa_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
@@ -321,11 +322,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Mexique-Chiapas-cafe-pour-restaurateur-dans-le-Gers.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
@@ -354,11 +355,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Léger",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/HONDURAS-Capucas_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
@@ -387,11 +388,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Corsé",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Guatemala-Kitche-cafe-de-specialite-torrefie-dans-le-Gers.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
@@ -420,11 +421,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/EQUATEUR-Palanda_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:53Z",
-      "lastSeenAt": "2026-09-03T20:43:53Z"
+      "firstSeenAt": "2026-09-03T21:17:25Z",
+      "lastSeenAt": "2026-09-03T21:17:25Z"
     }
   ]
 }

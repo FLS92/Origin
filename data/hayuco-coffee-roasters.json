@@ -8,9 +8,10 @@
     "url": "https://www.hayuco.coffee/",
     "domain": "hayuco.coffee",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226"
   },
-  "scrapedAt": "2026-09-03T20:43:19Z",
+  "scrapedAt": "2026-09-03T21:16:57Z",
   "products": [
     {
       "id": "hayuco-coffee-roasters-lec-1",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/hayuco-coffee-roasters-specialty-coffee-toulouse-2_eaea0b36-7a2d-4f66-9b75-e96b452d4b86-a6083e9337.webp?v=1786428113",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-agua-de-dios",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/hayuco-coffee-roasters.myshopify.com_Cafes-2dfd7b22fa.webp?v=1786399358",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-luis-b",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/photo_2026-07-24_13-14-22.jpg?v=1787235192",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-anderson",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/hayuco-coffee-roasters-specialty-coffee-toulouse-1.webp?v=1786911198",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-durley-brouillon-copie",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/HayucoCoffeeRoasteers00009Kares_Le_Roy-ea9c7b69c2-44437b55ab.webp?v=1787235065",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-naeb-ituze-1",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/IMG_20200510_191110_bb6bd3af-d5a7-4576-861b-25263e202fde.jpg?v=1713965324",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-exclow",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/IMG_20200510_191110_f4cdf6e5-a2b9-4488-bf02-9161b9219521-dab49b72d2.webp?v=1786428085",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-opita",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/IMG_20200510_191110_69c75831-4271-4a62-8b34-7bf791133d04.jpg?v=1708430267",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-cielow",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/hayuco-coffee-roasters.myshopify.com_Cafes-59e7f973c5.webp?v=1786399371",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -306,41 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
-    },
-    {
-      "id": "hayuco-coffee-roasters-sinscrire-a-un-atelier-methode-douce-1",
-      "name": "S'inscrire à un atelier méthode douce",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/000010-1-1202b75c70.webp?v=1786428132",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Hayuco Coffee Roasters",
-          "url": "https://hayuco.coffee/products/sinscrire-a-un-atelier-methode-douce-1",
-          "price": 45.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     },
     {
       "id": "hayuco-coffee-roasters-trinity-zero",
@@ -356,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/products/hayuco-coffee-roasters-specialty-coffee-toulouse-1_21578b68-b71e-4e88-bf79-2e3fe614f077.jpg?v=1667323849",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Hayuco Coffee Roasters",
@@ -372,41 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
-    },
-    {
-      "id": "hayuco-coffee-roasters-atelier-decouverte",
-      "name": "S'inscrire à un atelier découverte",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/products/hayuco-coffee-roasters-specialty-coffee-toulouse-1_315237a8-25e1-40a5-b4f7-b1afca2fc30c.jpg?v=1786398818",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Hayuco Coffee Roasters",
-          "url": "https://hayuco.coffee/products/atelier-decouverte",
-          "price": 35.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:19Z",
-      "lastSeenAt": "2026-09-03T20:43:19Z"
+      "firstSeenAt": "2026-09-03T21:16:57Z",
+      "lastSeenAt": "2026-09-03T21:16:57Z"
     }
   ]
 }

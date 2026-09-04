@@ -21,9 +21,12 @@ ATTR_SYNONYMS = {
     "producer": {"producteur", "producteurs", "productrice", "ferme", "cooperative", "cooperatives"},
     "variety": {"variete", "varietes", "cultivar"},
     "process": {"process", "procede", "traitement"},
-    "origin_country": {"origine", "pays", "pays d origine"},
+    "originCountry": {"origine", "pays", "pays d origine"},
     "score": {"score", "score sca", "note sca"},
     "method": {"torrefaction", "methode", "extraction"},
+    "roastLevel": {"degre de torrefaction", "niveau de torrefaction", "intensite"},
+    "acidity": {"acidite"},
+    "body": {"corps", "texture en bouche"},
     "weight": {"poids", "format", "conditionnement", "contenance", "grammage"},
 }
 
@@ -184,15 +187,14 @@ def to_raw_product(p, site_name):
         "stockStatus": "instock" if available else "outofstock",
     }
     slug = p.get("slug") or p.get("permalink", "").rstrip("/").rsplit("/", 1)[-1] or f"id-{p['id']}"
-    raw = RawProduct(
+    return RawProduct(
         slug=slug,
         name=html.unescape(p["name"]),
         retailers=[retailer],
         raw_description_html=p.get("short_description") or p.get("description"),
         image_url=image_url,
+        extracted={k: v for k, v in attrs.items() if k != "weight_g"},
     )
-    raw.extracted = {k: v for k, v in attrs.items() if k != "weight_g"}
-    return raw
 
 
 def scrape(roaster_meta):
@@ -206,20 +208,5 @@ def scrape(roaster_meta):
             "aucune catégorie café reconnue — tous les produits du catalogue ont été "
             "gardés (thés/machines/accessoires possiblement inclus)"
         )
-
-    # Backfill structured fields extracted from WooCommerce attributes, for
-    # newly-created product entries only (apply_products doesn't know about
-    # this platform-specific extraction step).
-    by_slug = {rp.slug: rp for rp in raw_products}
-    for prod in data["products"]:
-        slug = prod["id"][len(roaster_meta["id"]) + 1:]
-        rp = by_slug.get(slug)
-        if not rp or not getattr(rp, "extracted", None):
-            continue
-        for field, value in rp.extracted.items():
-            key = {"origin_country": "originCountry"}.get(field, field)
-            if prod.get(key) is None:
-                prod[key] = value
-
     save(roaster_meta["id"], data)
     return summary

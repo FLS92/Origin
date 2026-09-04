@@ -8,9 +8,10 @@
     "url": "https://cafe.omnino.fr/",
     "domain": "cafe.omnino.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe.omnino.fr/cdn/shop/files/omnino-logo_200x.png?v=1613694607"
   },
-  "scrapedAt": "2026-09-03T20:44:17Z",
+  "scrapedAt": "2026-09-03T21:17:50Z",
   "products": [
     {
       "id": "omnino-cascara-150g",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/Cascara150g_1.jpg?v=1764241181",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Omnino",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "omnino-chaie-25cl",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/Fichier1_600x-Grande.jpg?v=1764239800",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Omnino",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "omnino-cafe-infuse-a-froid-concentre-25cl",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/IMG_8245.jpg?v=1764241043",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Omnino",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "omnino-cafe-infuse-a-froid-concentre-5-litres",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/IMG_8226_828a4d88-8ec9-481e-9e20-cebe3c1c9cb3.jpg?v=1764242153",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Omnino",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     }
   ]
 }

@@ -8,9 +8,10 @@
     "url": "https://www.loutsa.fr/",
     "domain": "loutsa.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
   },
-  "scrapedAt": "2026-09-03T20:42:31Z",
+  "scrapedAt": "2026-09-03T21:16:13Z",
   "products": [
     {
       "id": "loutsa-cafe-salvador-apanea",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/pack3D_APANEA_neutre_HD.jpg?v=1788450327",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-ethiopie-chelchele-6795140.jpg?v=1782485429",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cold-brew",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-cold-brew-4838567.jpg?v=1779753131",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-geisha-cafe-dexception",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/geisha-cafe-dexception-9801686.jpg?v=1777431093",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/signature-mouffetard-8549733.jpg?v=1776355749",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-signature-jules-guesde",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/signature-jules-guesde-3259243.jpg?v=1776355749",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-bresil-peaberry-8476072.jpg?v=1775608107",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-gourmand-551944.jpg?v=1749047524",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-gastronomique-211597.jpg?v=1749047518",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-coffret-artisanal",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-artisanal-115436.jpg?v=1749047516",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-espresso-duo",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-expresso-duo-intenso-966339.jpg?v=1749047525",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-fazenda-rio-637056.jpg?v=1749047729",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-paris-bio-9842080.png?v=1784888412",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-lyon-bio-1611179.png?v=1784888413",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-filtre-trio-976486.jpg?v=1749048243",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-grain-expresso-trio-143152.jpg?v=1749048246",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -537,338 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-abonnement-cafe",
-      "name": "ABONNEMENT CAFÉ",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-637768.jpg?v=1749048239",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/abonnement-cafe",
-          "price": 33.0,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-habtamu-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - ÉTHIOPIE BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-ethiopie-bio-245722.jpg?v=1749048479",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/habtamu-bio-abonnement",
-          "price": 20.5,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-deca-sueno-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - DÉCA SUENO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-deca-sueno-573619.jpg?v=1749048480",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/deca-sueno-bio-abonnement",
-          "price": 20.5,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-ketiara-gayo-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - INDONESIE BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-indonesie-bio-895703.jpg?v=1749048480",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/ketiara-gayo-bio-abonnement",
-          "price": 20.5,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-le-parisien-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - CAFÉ DE LYON",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-lyon-bio-613257.jpg?v=1749047733",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/le-parisien-bio-abonnement",
-          "price": 33.2,
-          "currency": "EUR",
-          "unitWeightG": 1015,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-espresso-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - ESPRESSO BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-espresso-bio-202809.jpg?v=1749048482",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/espresso-bio-abonnement",
-          "price": 19.0,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-italian-roast-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - ITALIAN ROAST BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-italian-roast-bio-776885.jpg?v=1749048482",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/italian-roast-bio-abonnement",
-          "price": 17.5,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-arhuaco-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - COLOMBIE BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-colombie-bio-416444.jpg?v=1749048481",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/arhuaco-bio-abonnement",
-          "price": 20.5,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-el-palto-bio-abonnement",
-      "name": "ABONNEMENT CAFÉ - PÉROU BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/abonnement-cafe-perou-bio-792882.jpg?v=1749048485",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/el-palto-bio-abonnement",
-          "price": 20.5,
-          "currency": "EUR",
-          "unitWeightG": 530,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
-    },
-    {
-      "id": "loutsa-chemex-6-tasses",
-      "name": "CHEMEX 6 TASSES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/chemex-6-tasses-897259.jpg?v=1749048496",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Loutsa",
-          "url": "https://loutsa.fr/products/chemex-6-tasses",
-          "price": 54.8,
-          "currency": "EUR",
-          "unitWeightG": 700,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -884,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/machine-a-cafe-wmf-perfection-660-737508.jpg?v=1749047530",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -900,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-espresso",
@@ -917,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-arabica-espresso-bio-6810871.png?v=1786628535",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -933,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -950,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-grain-expresso-trio-371762.jpg?v=1750065811",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -966,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -983,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-mexique-deca-sueno-bio-4884738.png?v=1786628536",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -999,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -1016,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-grain-expresso-trio-791960.jpg?v=1750065811",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -1032,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -1049,9 +720,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-grain-expresso-trio-673081.jpg?v=1749048246",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -1065,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -1082,9 +753,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/HABTAMU_vignetteWEB.jpg?v=1781017431",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Loutsa",
@@ -1098,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:31Z",
-      "lastSeenAt": "2026-09-03T20:42:31Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     }
   ]
 }

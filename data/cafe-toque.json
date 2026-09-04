@@ -8,9 +8,10 @@
     "url": "https://www.lecafetoque.fr/",
     "domain": "lecafetoque.fr",
     "platform": "odoo",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.lecafetoque.fr/web/image/website/1/logo/Lecafetoque?unique=7f0a17a"
   },
-  "scrapedAt": "2026-09-03T20:42:37Z",
+  "scrapedAt": "2026-09-03T21:16:18Z",
   "products": [
     {
       "id": "cafe-toque-p941",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/941/image_512/West%20village%20-%20Assemblage%20signature%C2%A0%20-%20l%27Expresso%20selon%20Caf%C3%A9%20Toqu%C3%A9?unique=22e1e09",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p318",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/318/image_512/Machine%20expresso%20De%20Longhi%203515B?unique=a956ff3",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p435",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/435/image_512/Vitalit%C3%A9%20-%20Assemblage%20pour%20expresso%20italien%20Caf%C3%A9%20Toqu%C3%A9?unique=fa1107d",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p407",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/407/image_512/Machine%20expresso%20De%20Longhi%203535SB?unique=a956ff3",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p406",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/406/image_512/Machine%20expresso%20De%20Longhi%203795T?unique=a956ff3",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p396",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/396/image_512/Machine%20De%20Longhi%20Rivelia?unique=a956ff3",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p309",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/309/image_512/Gamme%20Domestique%20JURA%20-%20Machine%20automatique%20ENA4?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p204",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/204/image_512/Gamme%20Semi%20Professionnelle%20JURA%20-%20Machine%20automatique%20E4?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p205",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/205/image_512/Gamme%20Semi%20Professionnelle%20JURA%20-%20Machine%20automatique%20E6?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p434",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/434/image_512/Cumbia%20-%20Colombie%20-%20Caf%C3%A9%20expresso%20Caf%C3%A9%20Toqu%C3%A9?unique=45dafac",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p319",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/319/image_512/Produit%20D%C3%A9tartrant%20DeLonghi?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p321",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/321/image_512/Gamme%20Professionnelle%20JURA%20-%20Machine%20automatique%20W4?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -405,41 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
-    },
-    {
-      "id": "cafe-toque-p352",
-      "name": "Filtres à café Moccamaster x100",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://lecafetoque.fr/web/image/product.template/352/image_512/Filtres%20%C3%A0%20caf%C3%A9%20Moccamaster%20x100?unique=4c84805",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Toqué",
-          "url": "https://lecafetoque.fr/shop/filtres-a-cafe-moccamaster-x100-352",
-          "price": 4.8,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p284",
@@ -455,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/284/image_512/GREEN%20TEA%20-%20Th%C3%A9%20Vert%20%20-%20TeaHouse%20Exclusive%20%28bo%C3%AEte%20de%2015%20sachets%29?unique=18179eb",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -471,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p260",
@@ -488,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/260/image_512/Chocolat%20en%20poudre%20One%26One?unique=6b2f9da",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -504,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p206",
@@ -521,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/206/image_512/Bo%C3%AEte%20de%20pastilles%20de%20nettoyage%20Jura?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -537,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p283",
@@ -554,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/283/image_512/EARL%20GREY%20-%20Th%C3%A9%20noir%20Earl%20Grey%20-%20TeaHouse%C2%A0%28bo%C3%AEte%20de%2015%20sachets%29?unique=8d847a4",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -570,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p263",
@@ -587,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/263/image_512/%22Herbs%20%26%20Honey%22%20-%20Infusion%20aux%20plantes%20et%20aux%20fruits%20-%20TeaHouse%20%28bo%C3%AEte%20de%2015%20sachets%29?unique=2d0f9dd",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -603,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p209",
@@ -620,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/209/image_512/Cartouche%20Jura%20Claris%20Smart%2B?unique=4c84805",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -636,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     },
     {
       "id": "cafe-toque-p264",
@@ -653,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/264/image_512/ORIENTAL%20APPLE%20-%20Infusion%20de%20Pommes%20et%20M%C3%BBres%20-%20TeaHouse%20%28bo%C3%AEte%20de%2015%20sachets%29?unique=70c8379",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Toqué",
@@ -669,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:37Z",
-      "lastSeenAt": "2026-09-03T20:42:37Z"
+      "firstSeenAt": "2026-09-03T21:16:18Z",
+      "lastSeenAt": "2026-09-03T21:16:18Z"
     }
   ]
 }

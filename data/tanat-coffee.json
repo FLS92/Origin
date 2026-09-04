@@ -8,9 +8,10 @@
     "url": "https://tanat.coffee/",
     "domain": "tanat.coffee",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg"
   },
-  "scrapedAt": "2026-09-03T20:42:17Z",
+  "scrapedAt": "2026-09-03T21:15:58Z",
   "products": [
     {
       "id": "tanat-coffee-muthuaini-aa-washed",
@@ -26,9 +27,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-MuthuaniAA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-nestor-lasso-colombie",
@@ -59,9 +60,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/03/PAQUETWEB_NestorEstateWashed.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-ngacha-estate-yellow-honey",
@@ -92,9 +93,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-ngachaestateyh.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-elida-falda-crd-gw0403",
@@ -125,9 +126,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/PAQUETWEB-Panama-–-Elida-Falda-CRD-GW0403.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-4fb",
@@ -158,9 +159,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/05/PAQUETWEB-HLE-Lino-4FB_100g-qrcode.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-chibor-gw97",
@@ -191,9 +192,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-Chibor97.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-los-lajones-bambu-gn10265",
@@ -224,9 +225,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-bambu10265.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-6hc",
@@ -257,9 +258,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/Lino6HC_BOX.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-gathaithi-aa-washed",
@@ -290,9 +291,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-GathaithiAA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-hellen-mora-caturra-natural",
@@ -323,9 +324,9 @@
       "method": "Omni",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/09/PAQUETWEB-HellenMoraAN2026.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-panama-hacienda-la-esmeralda-lino-8fc",
@@ -356,9 +357,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-lino8FC.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-janson-hacienda-gn115",
@@ -389,9 +390,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-JansonHacienda115.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-abu-gh4135",
@@ -422,9 +423,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-abu4135.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-el-destino-crimson-lot-21-geisha-washed",
@@ -455,9 +456,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-eldestino-crimson21.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-40",
@@ -488,9 +489,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/Finca-Sophia-RW4-Colibri-40GW.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-37",
@@ -521,9 +522,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/Finca-Sophia-RW2-Colibri-37GW.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-abu-gn6265",
@@ -554,9 +555,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-abu6265gnnatural.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-lerida-geisha-honey-832",
@@ -587,9 +588,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-LERIDA832.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-santa-elena-obata-washed",
@@ -620,9 +621,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-santaelenaobatawashed.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-jhon-saenz-geisha-washed",
@@ -653,9 +654,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/05/PAQUETWEB-jhonsaenzsl9washed.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -669,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-la-riviera-sudan-rume",
@@ -686,9 +687,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-bioreactorsudanrumeriviera.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -702,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-bambito-geisha-washed",
@@ -719,9 +720,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-bambitogeishawashed2026.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -735,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-elto-elora-blood-yeast",
@@ -752,9 +753,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-eltoeloreabloodyeast.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -768,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-elto-hamasho-96h",
@@ -785,9 +786,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-hamasho96helto.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -801,8 +802,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-alo-digs-project-mosto-natural-72h",
@@ -818,9 +819,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-ALOXDIGSMostoNatural72h.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -834,8 +835,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-alo-digs-project-anaerobic-honey-48h",
@@ -851,9 +852,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-aloxdigsanaerohoney48.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -867,8 +868,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-la-riviera-pink-bourbon",
@@ -884,9 +885,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-fincalariviera_PB_2026.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -900,8 +901,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-gesha-village-surma-semi-anaerobic-26-e22",
@@ -917,9 +918,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-GVSemiAnaerobic26E22.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -933,8 +934,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-arauca-geisha-washed",
@@ -950,9 +951,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-AraucaGW.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -966,8 +967,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-melao-pink-bourbon",
@@ -983,9 +984,9 @@
       "method": "Omni",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-MelaoPinkBourbonCOL.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -999,8 +1000,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-gesha-village-oma-anaerobic-natural-26-e-24",
@@ -1016,9 +1017,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-oma26e24.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1032,8 +1033,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gw2-estacion",
@@ -1049,9 +1050,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/FincaSophiaGW2Estacionbox.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1065,8 +1066,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-janson-los-alpes-gn125",
@@ -1082,9 +1083,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/JansonLos-AlpesGN12500g.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1098,8 +1099,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-elida-falda-gn0503",
@@ -1115,9 +1116,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/PAQUETWEB-Panama-–-Elida-Falda-GN-0503.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1131,8 +1132,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-eudis-orosco-geisha-washed",
@@ -1148,9 +1149,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/04/PAQUETWEB-EUDISOROSCOSL9W.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1164,8 +1165,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-janson-hacienda-gw121",
@@ -1181,9 +1182,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-JANSON121.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1197,8 +1198,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-rumudamo-washed",
@@ -1214,9 +1215,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-RumudamoNat.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1230,8 +1231,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-alobore-washed",
@@ -1247,9 +1248,9 @@
       "method": "Omni",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/Ethiopie-ALO-Bore-600x600-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1263,8 +1264,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-nestor-lasso-typica-mejorado-natural",
@@ -1280,9 +1281,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/COL-NESTORLASSO-TYPICAMEJORADO-NAT.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1296,8 +1297,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-colombia-zarza-pacamara-advanced-washed",
@@ -1313,9 +1314,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/COL-Zarza-Pacamara.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1329,8 +1330,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-lost-origin-abu-x-tanat-lot-232",
@@ -1346,9 +1347,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/ABUXTANAT232-MOCKUP.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1362,8 +1363,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-la-union-gesha-anaerobic-washed",
@@ -1379,9 +1380,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/LaUnionGWA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1395,8 +1396,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-1890-catuai-rojo-yeast-washed",
@@ -1412,9 +1413,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/USA-FINCA1890-MOCKUP.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1428,8 +1429,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gn51-geisha-natural",
@@ -1445,9 +1446,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/01/SOPHIAGN5-BOX.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1461,8 +1462,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-finca-sophia-gw93-geisha-washed",
@@ -1478,9 +1479,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/12/FincaSophiaGW93.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1494,8 +1495,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cgle-potosi-sidra-naturel",
@@ -1511,9 +1512,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/10/PAQUETWEBMICROLOT_PotosiSidra.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1527,8 +1528,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-elto-elora-anaerobic-72h",
@@ -1544,9 +1545,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/09/PAQUETWEB_Elora72H.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1560,8 +1561,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-alo-mosto-anaerobic-natural",
@@ -1577,9 +1578,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/08/PAQUETWEB-AloMosto-AnaerobicNat.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1593,8 +1594,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-alo-bombe-washed",
@@ -1610,9 +1611,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/08/PAQUETWEB-Alo-Bombe.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1626,8 +1627,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-alo-chilaka-natural",
@@ -1643,9 +1644,9 @@
       "method": "Omni",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/01/PAQUETWEB-AloChilaka.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1659,8 +1660,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-hacienda-la-papaya-typica-washed",
@@ -1676,9 +1677,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/04/PAQUETWEB_PapayaTypicaWashed.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1692,74 +1693,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
-    },
-    {
-      "id": "tanat-coffee-abonnement-rarities-90",
-      "name": "Abonnement Rarities & 90+",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/03/PAQUETWEBMICROLOT_JANSONHACIENDALOT464.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/abonnement-rarities-90/",
-          "price": 29.9,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
-    },
-    {
-      "id": "tanat-coffee-abonnement-gros-buveur",
-      "name": "Abonnement Gros buveur",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/abonnement-image-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/abonnement-gros-buveur/",
-          "price": 30.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-decafeine-el-sueno-mexique",
@@ -1775,9 +1710,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_DECA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1791,8 +1726,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-moka-lekempti-ethiopie",
@@ -1808,9 +1743,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_MOKA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1824,8 +1759,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-todosantarita-guatemala",
@@ -1841,9 +1776,9 @@
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_TODOSANTARITA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1857,8 +1792,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-blend-kawa-espresso",
@@ -1874,9 +1809,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_BLENDKAWA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1890,8 +1825,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-blend-espresso-bio",
@@ -1907,9 +1842,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_Blend-Espresso-Bio.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1923,8 +1858,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-rosa-blend-bio-espresso",
@@ -1940,9 +1875,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_ROSA_800.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1956,8 +1891,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-blend-189-bio-espresso",
@@ -1973,9 +1908,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/PAQUETWEB_Blend_189.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -1989,8 +1924,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     },
     {
       "id": "tanat-coffee-cafe-boa-esperanca-bresil",
@@ -2006,9 +1941,9 @@
       "method": "Espresso, Machine auto",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/PAQUETWEB_BOA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Tanat Coffee",
@@ -2022,41 +1957,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
-    },
-    {
-      "id": "tanat-coffee-abonnement-decouverte-cafe-de-specialite",
-      "name": "Abonnement Découverte",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/abonnement-image-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Tanat Coffee",
-          "url": "https://tanat.coffee/boutique/abonnement-decouverte-cafe-de-specialite/",
-          "price": 13.9,
-          "currency": "EUR",
-          "unitWeightG": 200,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:42:17Z",
-      "lastSeenAt": "2026-09-03T20:42:17Z"
+      "firstSeenAt": "2026-09-03T21:15:58Z",
+      "lastSeenAt": "2026-09-03T21:15:58Z"
     }
   ]
 }

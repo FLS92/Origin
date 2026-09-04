@@ -8,9 +8,10 @@
     "url": "https://anbassa.fr/boutique/",
     "domain": "anbassa.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://anbassa.fr/wp-content/uploads/2021/10/logo-anbassa-noir.png"
   },
-  "scrapedAt": "2026-09-03T20:41:54Z",
+  "scrapedAt": "2026-09-03T21:15:37Z",
   "products": [
     {
       "id": "anbassa-cafe-exception-dipilto-maragogype-nicaragua",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2025/12/Anbassa-artisan-torrefacteur-cafe-exception-dipilto-maragogype-nicaragua-min.jpg?fit=895%2C895&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Anbassa",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:54Z",
-      "lastSeenAt": "2026-09-03T20:41:54Z"
+      "firstSeenAt": "2026-09-03T21:15:37Z",
+      "lastSeenAt": "2026-09-03T21:15:37Z"
     },
     {
       "id": "anbassa-cafe-exception-sidama-bombe-anaerobique",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2022/11/Anbassa-artisan-torrefacteur-cafe-exception-sidama-bombe-anaerobique-1-min.jpg?fit=895%2C895&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Anbassa",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:54Z",
-      "lastSeenAt": "2026-09-03T20:41:54Z"
+      "firstSeenAt": "2026-09-03T21:15:37Z",
+      "lastSeenAt": "2026-09-03T21:15:37Z"
     },
     {
       "id": "anbassa-cafe-exception-huehuetepan-mexique",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2025/07/Anbassa-artisan-torrefacteur-cafe-exception-HUEHUETEPAN-mexique-center-min-min.jpg?fit=895%2C895&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Anbassa",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:54Z",
-      "lastSeenAt": "2026-09-03T20:41:54Z"
+      "firstSeenAt": "2026-09-03T21:15:37Z",
+      "lastSeenAt": "2026-09-03T21:15:37Z"
     },
     {
       "id": "anbassa-cafe-exception-namisuni-ouganda",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2025/12/Anbassa-artisan-torrefacteur-cafe-exception-namisuni-ouganda-min.jpg?fit=895%2C895&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Anbassa",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:54Z",
-      "lastSeenAt": "2026-09-03T20:41:54Z"
+      "firstSeenAt": "2026-09-03T21:15:37Z",
+      "lastSeenAt": "2026-09-03T21:15:37Z"
     },
     {
       "id": "anbassa-cafe-exception-bahati-blue-kenya",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2026/04/Anbassa-artisan-torrefacteur-cafe-exception-bahati-blue-kenya-center.jpg?fit=895%2C895&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Anbassa",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:54Z",
-      "lastSeenAt": "2026-09-03T20:41:54Z"
+      "firstSeenAt": "2026-09-03T21:15:37Z",
+      "lastSeenAt": "2026-09-03T21:15:37Z"
     },
     {
       "id": "anbassa-cafe-exception-lo-de-morales-guatemala",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2026/04/Anbassa-artisan-torrefacteur-cafe-exception-lo-de-morales.jpg?fit=895%2C895&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Anbassa",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:54Z",
-      "lastSeenAt": "2026-09-03T20:41:54Z"
+      "firstSeenAt": "2026-09-03T21:15:37Z",
+      "lastSeenAt": "2026-09-03T21:15:37Z"
     }
   ]
 }

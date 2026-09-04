@@ -8,9 +8,10 @@
     "url": "https://www.tintonantes.fr/boutique-de-cafe-en-ligne/",
     "domain": "tintonantes.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
   },
-  "scrapedAt": "2026-09-03T20:44:03Z",
+  "scrapedAt": "2026-09-03T21:17:33Z",
   "products": [
     {
       "id": "tinto-recreio-cafe-du-bresil-250g-1kg",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Recreio-02.png?fit=1536%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-paz-decafeine-250g-1-kg-2",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Divino-Nino-02.png?fit=1537%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-kebena-cafe-dethiopie-250-g-1-kg",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Kebena-02.png?fit=1536%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-lunatico-cafe-ouganda-250g-1kg-copie",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/El-lunatico-02.png?fit=1536%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-resiliencia-cafe-de-colombie-250g-1kg",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/05/Resiliencia-02.png?fit=1537%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-guarapito-cafe-de-colombie",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/12/Guarapito-WEB-02.png?fit=1537%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-bocadillo-cafe-colombie-250g-1kg",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/12/Bocadillo-WEB-02-02.png?fit=1537%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-pura-vida-mae-cafe-de-costa-rica-250g-1kg",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/11/Pura-Vida-WOO-02-02.png?fit=1536%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-komothai-cafe-du-kenya-250g-1kg",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/09/Komathai-Web-02.jpg?fit=769%2C727&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     },
     {
       "id": "tinto-quilombo-cafe-bresilien-250g-1kg",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/12/Quilombo-02.png?fit=1536%2C1454&ssl=1",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "TINTO",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:03Z",
-      "lastSeenAt": "2026-09-03T20:44:03Z"
+      "firstSeenAt": "2026-09-03T21:17:33Z",
+      "lastSeenAt": "2026-09-03T21:17:33Z"
     }
   ]
 }

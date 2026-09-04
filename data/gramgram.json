@@ -8,9 +8,10 @@
     "url": "https://gramgram.fr/",
     "domain": "gramgram.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram_logo_site-resp.svg"
   },
-  "scrapedAt": "2026-09-03T20:41:57Z",
+  "scrapedAt": "2026-09-03T21:15:40Z",
   "products": [
     {
       "id": "gramgram-cafe-honduras-copan",
@@ -24,11 +25,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "25%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2026/06/sachet_cafe_Honduras_Copan.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-ethiopie-choche",
@@ -57,11 +58,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "50%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2025/02/Ethiopie-Choche-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-perou-geisha-grain-ou-moulu",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2025/02/Geisha.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-perou-amazonas",
@@ -123,11 +124,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "50%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2024/07/packshot-Amazonas.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-nicaragua-san-jose",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2024/04/Nicaragua.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-rwanda-ubuki",
@@ -189,11 +190,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "75%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2023/01/etiquette-rwanda-UBUKI.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-guatemala-quetzalito",
@@ -222,11 +223,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "75%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2022/09/Guatemala.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-bresil-santa-caete",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2021/09/packshot-sante-caete-gravure.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -273,173 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-mug-de-cafe-rouge",
-      "name": "Mug de Café Rouge",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/11/2.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/mug-de-cafe-rouge/",
-          "price": 17.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-carte-cadeau-cafe-fete-des-peres",
-      "name": "Carte Cadeau Café-Fête des Pères",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/06/carte_cadeau_fêtes_pères_carre_instagram.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cartes-cadeaux-cafe/carte-cadeau-cafe-fete-des-peres/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-carte-cadeau-cafe-fete-des-meres",
-      "name": "Carte Cadeau Café-Fête des Mères",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/06/carte_cadeau_fêtes_meres_carre_instagram.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cartes-cadeaux-cafe/carte-cadeau-cafe-fete-des-meres/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-carte-cadeau-cafe",
-      "name": "Carte Cadeau Café",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/02/Colombie-torréfié-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/nos-cafes-en-grains/cartes-cadeaux-cafe/carte-cadeau-cafe/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-filtre-a-eau-pour-machine-a-cafe",
-      "name": "Filtre à eau pour machine à café",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/entretien_machine_grain_delonghi.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/filtre-a-eau-pour-machine-a-cafe/",
-          "price": 15.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-detartrant-machine-a-cafe",
@@ -455,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/entretien_delonghi.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -471,74 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-filtres-chemex-6-tasses",
-      "name": "Filtres Chemex 6 Tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/filtre_chemex6_gramgram.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/filtres-chemex-6-tasses/",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetiere-chemex-3-tasses",
-      "name": "Cafetière Chemex 3 Tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/chemex_3tasses_gramgram.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-chemex-3-tasses/",
-          "price": 39.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-coffeevac-sous-vide-en-acier-1-2l",
@@ -554,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/66-BOCAL-DE-CONSERVATION-AVEC-VIDE-DAIR-ACIER.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -570,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-coffeevac-sous-vide-0-7l",
@@ -587,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG-20200331-WA0005.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -603,173 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-mug-de-cafe-design",
-      "name": "Mug de Café Design",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": null,
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/mug-de-cafe-design/",
-          "price": 29.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetire-a-piston",
-      "name": "Cafetière à Piston",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6551-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetire-a-piston/",
-          "price": 36.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetiere-italienne-bialetti-gaz-3-tasses-jaune",
-      "name": "Cafetière Italienne Bialetti Gaz 3 Tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6564-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-italienne-bialetti-gaz-3-tasses-jaune/",
-          "price": 38.4,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetiere-italienne-bialetti-gaz",
-      "name": "Cafetière Italienne Bialetti Gaz 6 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6561-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-italienne-bialetti-gaz/",
-          "price": 50.4,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetiere-italienne-induction",
-      "name": "Cafetière Italienne Bialetti Induction 6 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG_6547-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-italienne-induction/",
-          "price": 57.6,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-ethiopie-yrga",
@@ -783,11 +388,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "50%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-ethiopie-yrga.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -801,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-el-salvador-rojos",
@@ -816,11 +421,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "75%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-el-salvador-rojos.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -834,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-blend-italiano",
@@ -851,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/71-Cafe-BLEND-ITALIANO.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -867,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-mexique-azteca",
@@ -882,11 +487,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "50%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/70-Cafe-MEXIQUE-AZTECA.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -900,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-grain-colombie-panela",
@@ -915,11 +520,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "100%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/69-Cafe-COLOMBIE-PANELA.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -933,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-cafe-bresil-guarani",
@@ -948,11 +553,11 @@
       "acidity": null,
       "body": null,
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "25%",
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-bresil-guarani.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -966,173 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-filtres-v60",
-      "name": "FILTRES V60",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/67-FILTRES-V60.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/filtres-v60/",
-          "price": 7.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-filtres-chemex-3-tasses",
-      "name": "Filtres Chemex 3 Tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/filtre_chemex3_gramgram2.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/filtres-chemex-3-tasses/",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-carafe-verre-pour-v60",
-      "name": "CARAFE VERRE POUR V60",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/GRAMGRAM-CARAFE-VERRE-POUR-V60.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/carafe-verre-pour-v60/",
-          "price": 28.2,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-100-capsules-a-remplir",
-      "name": "100 CAPSULES A REMPLIR",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/63-100-CAPSULES-A-REMPLIR.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/accessoires-cafe/100-capsules-a-remplir/",
-          "price": 11.7,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetiere-chemex-6-tasses",
-      "name": "Cafetière Chemex 6 Tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/chemex_6tasses_gramgram3.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-chemex-6-tasses/",
-          "price": 42.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-coffeevac-sous-vide",
@@ -1148,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/61-BOCAL-DE-CONSERVATION-AVEC-VIDE-DAIR-VERRE.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -1164,41 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
-    },
-    {
-      "id": "gramgram-cafetiere-filtre-v60",
-      "name": "CAFETIÈRE FILTRE V60 BLANCHE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram-CAFETIERE-FILTRE-V60.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "GramGram",
-          "url": "https://gramgram.fr/shop/machines-a-cafe/cafetieres-a-filtre-manuelle/cafetiere-filtre-v60/",
-          "price": 22.3,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-kit-200-capsules-3-paquets-de-250g",
@@ -1214,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/59-KIT-200-CAPSULES-3-PAQUETS-DE-250G.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -1230,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-machine-a-cafe-delonghi-avec-broyeur",
@@ -1247,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/GRAMGRAM-MACHINE-A-CAFE-DELONGHI-AVEC-BROYEUR.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -1263,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     },
     {
       "id": "gramgram-assortiment-cafe-degustation",
@@ -1280,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/57-ASSORTIMENT-DEGUSTATION.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "GramGram",
@@ -1296,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:57Z",
-      "lastSeenAt": "2026-09-03T20:41:57Z"
+      "firstSeenAt": "2026-09-03T21:15:40Z",
+      "lastSeenAt": "2026-09-03T21:15:40Z"
     }
   ]
 }

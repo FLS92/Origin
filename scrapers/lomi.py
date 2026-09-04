@@ -63,20 +63,20 @@ def to_raw_product(p, site_name):
         "inStock": p.get("stockStatus") != "out_of_stock",
         "stockStatus": "instock" if p.get("stockStatus") != "out_of_stock" else "outofstock",
     }
-    raw = RawProduct(
+    content = p.get("content") or {}
+    extracted = {
+        "process": content.get("processing"),
+        "flavors": [n.strip() for n in (content.get("aromaticNotes") or "").split("•") if n.strip()] or None,
+    }
+    extracted = {k: v for k, v in extracted.items() if v}
+    return RawProduct(
         slug=p["slug"],
         name=p.get("name") or (p.get("content") or {}).get("subtitle") or p["slug"],
         retailers=[retailer],
         raw_description_html=p.get("description"),
         image_url=image_url,
+        extracted=extracted,
     )
-    content = p.get("content") or {}
-    raw.extracted = {
-        "process": content.get("processing"),
-        "flavors": [n.strip() for n in (content.get("aromaticNotes") or "").split("•") if n.strip()] or None,
-    }
-    raw.extracted = {k: v for k, v in raw.extracted.items() if v}
-    return raw
 
 
 def scrape(roaster_meta):
@@ -92,16 +92,5 @@ def scrape(roaster_meta):
 
     raw_products = [to_raw_product(p, roaster_meta["name"]) for p in products]
     data_out, summary = apply_products(roaster_meta, raw_products)
-
-    by_slug = {rp.slug: rp for rp in raw_products}
-    for prod in data_out["products"]:
-        slug = prod["id"][len(roaster_meta["id"]) + 1:]
-        rp = by_slug.get(slug)
-        if not rp or not getattr(rp, "extracted", None):
-            continue
-        for field, value in rp.extracted.items():
-            if prod.get(field) is None:
-                prod[field] = value
-
     save(roaster_meta["id"], data_out)
     return summary

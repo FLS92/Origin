@@ -8,9 +8,10 @@
     "url": "https://www.fikaroasters.fr/",
     "domain": "fikaroasters.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png"
   },
-  "scrapedAt": "2026-09-03T20:42:30Z",
+  "scrapedAt": "2026-09-03T21:16:13Z",
   "products": [
     {
       "id": "fika-roasters-cafe-perou-perlamayo",
@@ -26,9 +27,9 @@
       "method": "Médium",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/04/Design-sans-titre.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-el-silencio",
@@ -59,9 +60,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/04/Design-sans-titre-1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-indonesie-tuang",
@@ -92,9 +93,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/04/Design-sans-titre-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-ouganda-mukuru-west",
@@ -125,9 +126,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/01/Design-sans-titre.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-attia",
@@ -158,9 +159,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/01/mokup-attia.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-nicaragua-los-papales",
@@ -191,9 +192,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/01/Design-sans-titre-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-costa-rica-las-lajas",
@@ -224,9 +225,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/10/Design-sans-titre-12.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-ethiopie-wamena",
@@ -257,9 +258,9 @@
       "method": "Claire",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2024/01/Design-sans-titre-5.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-decafeine-mexique",
@@ -290,9 +291,9 @@
       "method": "Brune",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2024/03/Design-sans-titre-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-suukala",
@@ -323,9 +324,9 @@
       "method": "Brune",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2024/02/Design-sans-titre-8.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     },
     {
       "id": "fika-roasters-cafe-bresil-san-rafael",
@@ -356,9 +357,9 @@
       "method": "Brune",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2024/03/5-scaled.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Fika Roasters",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:30Z",
-      "lastSeenAt": "2026-09-03T20:42:30Z"
+      "firstSeenAt": "2026-09-03T21:16:13Z",
+      "lastSeenAt": "2026-09-03T21:16:13Z"
     }
   ]
 }

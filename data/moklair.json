@@ -8,9 +8,10 @@
     "url": "https://moklair.fr/shop/",
     "domain": "moklair.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg"
   },
-  "scrapedAt": "2026-09-03T20:44:24Z",
+  "scrapedAt": "2026-09-03T21:17:56Z",
   "products": [
     {
       "id": "moklair-hendra-eclipse-2",
@@ -26,9 +27,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-hendraeclipse1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-lalesa-anaerobic",
@@ -59,9 +60,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-lalesaanaerobic1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-lalesa-washed-2",
@@ -92,9 +93,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-lalesawashed1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-finca-voo-cup-of-excellence",
@@ -125,9 +126,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-fincavoo2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-finca-milan-watermelon-2",
@@ -158,9 +159,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-fincamilan2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-aguila-4-banc-hacienda-la-esmeralda-2",
@@ -191,9 +192,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/10/moklair2025-mockup-Aguila2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-nirvana-finca-deborah-2",
@@ -224,9 +225,9 @@
       "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-Nirvana2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-janson-908",
@@ -257,9 +258,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-Janson1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-lerida-461-2",
@@ -290,9 +291,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-Lerida4611.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-hacienda-copey-2",
@@ -323,9 +324,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-haciendacopey1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-wubita-queen-2",
@@ -356,9 +357,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-wubitaqueen2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-mukuru-gardens-2",
@@ -389,9 +390,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-mukurugardens2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-assemblage-signature-2",
@@ -422,9 +423,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-signature1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     },
     {
       "id": "moklair-gaitania-2",
@@ -455,9 +456,9 @@
       "method": "Filtre, Omni roast (espresso light &amp; filtre)",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://moklair.fr/wp-content/uploads/2025/04/moklair2025-mockup-gaitania1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Moklair",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:24Z",
-      "lastSeenAt": "2026-09-03T20:44:24Z"
+      "firstSeenAt": "2026-09-03T21:17:56Z",
+      "lastSeenAt": "2026-09-03T21:17:56Z"
     }
   ]
 }

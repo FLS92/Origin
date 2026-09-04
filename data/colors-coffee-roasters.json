@@ -8,9 +8,10 @@
     "url": "https://colors.coffee/",
     "domain": "colors.coffee",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://colors.coffee/cdn/shop/files/LOGO_ICONS_Plan_de_travail_1_copie_3.png?crop=center&height=131&v=1751302534&width=250"
   },
-  "scrapedAt": "2026-09-03T20:43:59Z",
+  "scrapedAt": "2026-09-03T21:17:29Z",
   "products": [
     {
       "id": "colors-coffee-roasters-burundi-nemba-copie",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_BUR_1d24cd31-139d-4536-a5fa-ac6b192544cb.png?v=1785426570",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Colors Coffee & Roasters",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:59Z",
-      "lastSeenAt": "2026-09-03T20:43:59Z"
+      "firstSeenAt": "2026-09-03T21:17:29Z",
+      "lastSeenAt": "2026-09-03T21:17:29Z"
     },
     {
       "id": "colors-coffee-roasters-ethiopie-guji",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_ET_b7742357-3e31-40a5-a4f9-c2046e295742.png?v=1785426477",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Colors Coffee & Roasters",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:59Z",
-      "lastSeenAt": "2026-09-03T20:43:59Z"
+      "firstSeenAt": "2026-09-03T21:17:29Z",
+      "lastSeenAt": "2026-09-03T21:17:29Z"
     },
     {
       "id": "colors-coffee-roasters-kenya-embu",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_KE_378fe66c-1beb-467a-8928-d4918044189d.png?v=1785426539",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Colors Coffee & Roasters",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:59Z",
-      "lastSeenAt": "2026-09-03T20:43:59Z"
+      "firstSeenAt": "2026-09-03T21:17:29Z",
+      "lastSeenAt": "2026-09-03T21:17:29Z"
     },
     {
       "id": "colors-coffee-roasters-el-salvador-pacamara",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_SAL_ee9e84c5-a039-4306-930f-60978fc47844.png?v=1785426510",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Colors Coffee & Roasters",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:59Z",
-      "lastSeenAt": "2026-09-03T20:43:59Z"
+      "firstSeenAt": "2026-09-03T21:17:29Z",
+      "lastSeenAt": "2026-09-03T21:17:29Z"
     }
   ]
 }

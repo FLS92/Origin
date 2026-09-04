@@ -8,9 +8,10 @@
     "url": "https://caffe-cataldi.fr/fr/",
     "domain": "caffe-cataldi.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.caffe-cataldi.fr/img/caffe-cataldi-meilleur-torrefacteur-de-france-2010-logo-1521212305.jpg"
   },
-  "scrapedAt": "2026-09-03T20:44:16Z",
+  "scrapedAt": "2026-09-03T21:17:49Z",
   "products": [
     {
       "id": "caffe-cataldi-p557",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/734-home_default/kenya-inoi-kianderi-aa.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p556",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/735-home_default/rwanda-gitesi.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p550",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/737-home_default/honduras-caballero-bomba-de-fruta.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p548",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/728-home_default/guatemala-la-libertad-mochilita.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p545",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/720-home_default/perou-decafeine-manzanilla.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p536",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/718-home_default/colombie-geisha-hervey-et-rocio-cuellar.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p532",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/714-home_default/bresil-faf-curupira.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p519",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/703-home_default/colombie-huila-remolinos.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     },
     {
       "id": "caffe-cataldi-p339",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.caffe-cataldi.fr/432-home_default/le-cafe-c-est-pas-sorcier.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Caffè Cataldi",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:16Z",
-      "lastSeenAt": "2026-09-03T20:44:16Z"
+      "firstSeenAt": "2026-09-03T21:17:49Z",
+      "lastSeenAt": "2026-09-03T21:17:49Z"
     }
   ]
 }

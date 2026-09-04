@@ -8,9 +8,10 @@
     "url": "https://lecafequifume.com/",
     "domain": "lecafequifume.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
   },
-  "scrapedAt": "2026-09-03T20:44:17Z",
+  "scrapedAt": "2026-09-03T21:17:50Z",
   "products": [
     {
       "id": "le-cafe-qui-fume-cafe-du-salvador",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Salvador_15b8173c-aaa9-4e0d-aa46-fd29ce1c77d5.png?v=1686735707",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-bresil-daterra",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/S1_667a6e00-ac50-478e-9a4f-905051fcf41c.png?v=1686735683",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-ephemere-du-ouganda",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/products/sachetdecafed_unkilo_1f2801e8-b5d3-4714-b3d0-cfd4b7bdccfc.jpg?v=1686735984",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/VICTORIA.png?v=1686736266",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-decafeine-swisswater-du-perou",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/deca.png?v=1748595559",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-perou-ceranor",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/perou_b11c4fe3-0ed6-4857-a174-581d98e4fa7a.png?v=1686735759",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-dethiopie-koke",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Ethiopie_6710637a-de2a-4910-91cd-148e7a45fc96.png?v=1686735984",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica-hermosa-copy",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Cascara_pret_a_infuser.jpg?v=1758018767",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-panier-garni-offre-speciale",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Photo_coffret_fete_des_meres.jpg?v=1748604394",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-en-grains-du-nicaragua",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Nicaragua.png?v=1686735901",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-vert-bio",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/cafevert.png?v=1686736343",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-honduras-finca-liquidambar",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Caf_BIO_Maricella.png?v=1767109273",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Costarica_9ea0da40-4aa7-45b2-8891-2ff2b1ad0fc1.png?v=1686736199",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Le Café qui Fume",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:17Z",
-      "lastSeenAt": "2026-09-03T20:44:17Z"
+      "firstSeenAt": "2026-09-03T21:17:50Z",
+      "lastSeenAt": "2026-09-03T21:17:50Z"
     }
   ]
 }

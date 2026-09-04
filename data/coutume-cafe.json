@@ -8,9 +8,10 @@
     "url": "https://coutumecafe.com/",
     "domain": "coutumecafe.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400"
   },
-  "scrapedAt": "2026-09-03T20:41:21Z",
+  "scrapedAt": "2026-09-03T21:15:07Z",
   "products": [
     {
       "id": "coutume-cafe-coffee-lover",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Lover_abonnement.png?v=1777997994",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-coffee-addict",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Addict_abonnement.png?v=1777997993",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-coffee-geek",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Geek_abonnement.png?v=1777997995",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-3-mois-de-cafe-a-offrir",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Lover_abonnement.png?v=1777997994",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-6-mois-de-cafe-a-offrir",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Lover_abonnement.png?v=1777997994",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-1-an-de-cafe-a-offrir",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/1_an_de_cafe_a_offrir.png?v=1777998168",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-bac-a-marc-de-cafe-avec-fond-en-inox-metallurgica-motta",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-metallurgica-motta-bac-marc-inox.png?v=1775826285",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -240,74 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-balance-electronique-connectee-lunar-noire-2021-acaia",
-      "name": "Balance connectée Acaia Lunar Noire 2021",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-balance-acaia-lunar-noir-2021.png?v=1776092894",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/balance-electronique-connectee-lunar-noire-2021-acaia",
-          "price": 348.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-balance-timemore-basic-2-noir",
-      "name": "Balance TIMEMORE Basic 2 Noir",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Balance_TIMEMORE_Basic_2_Noir.png?v=1779102135",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/balance-timemore-basic-2-noir",
-          "price": 69.0,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-bouilloire-electrique-col-de-cygne-900ml-fish-pro-noir-timemore",
@@ -323,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-bouilloire-timemore-fish-pro-noir-900ml.png?v=1776092894",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -339,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-carafe-a-cafe-en-verre-300-ml-kinto",
@@ -356,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/carafe-a-cafe-en-verre-300-ml-kinto.jpg?v=1771422451",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -372,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-carafe-a-cafe-en-verre-600-ml-kinto",
@@ -389,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-kinto-carafe-verre-600ml.png?v=1776093104",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -405,74 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-filtres-no-4-moccamaster",
-      "name": "Filtres café Moccamaster n°4",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-filtre-moccamaster-4_a94ba176-e205-48c5-b968-f73b39739ad0.png?v=1776097366",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/filtres-no-4-moccamaster",
-          "price": 4.5,
-          "currency": "EUR",
-          "unitWeightG": 250,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-moulin-a-cafe-manuel-timemore-c5-pro",
-      "name": "Moulin à café manuel Timemore C5 Pro",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TME_MoulinC5Pro.webp?v=1779087968",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/moulin-a-cafe-manuel-timemore-c5-pro",
-          "price": 104.9,
-          "currency": "EUR",
-          "unitWeightG": 750,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-nextlevel-pulsar-brewer",
@@ -488,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-cafetiere-nextlevel-pulsar-brewer-3_b038c59e-c90b-4b11-8499-e71609d2ebe6.png?v=1776098016",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -504,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-pichet-a-lait-rhino-coffee-gear-36-cl-en-inox-petit-modele",
@@ -521,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-rhino-coffee-gear-pichet-lait-inox-36cl_fbe93312-36a4-4fab-b715-560d981ae5c8.png?v=1776098312",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -537,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-pichet-a-lait-rhino-coffee-gear-60-cl-en-inox-grand-modele",
@@ -554,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-rhino-coffee-gear-pichet-lait-inox-60cl_49b13ebd-8f25-4ff9-b6ba-d7bf455cbc46.png?v=1776098270",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -570,140 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-support-transparent-pour-porte-filtre-origami-origami",
-      "name": "Socle dripper v60 Origami transparent",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-origami-support-transparent_4c337355-4ad0-4867-8a19-5570c8744e4f.png?v=1776097341",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/support-transparent-pour-porte-filtre-origami-origami",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-tasse-nomade-miir",
-      "name": "Tasse nomade Miir isotherme",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/mug-camp-cup-cuivre-miir.jpg?v=1771422627",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/tasse-nomade-miir",
-          "price": 28.9,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-la-tasse-topl-la-tasse-zero-stress-gris-perle-236-ml",
-      "name": "Tasse Topl Gris perle 236 ml",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-tasse-topl-gris-perle-236ml.png?v=1775826286",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/la-tasse-topl-la-tasse-zero-stress-gris-perle-236-ml",
-          "price": 35.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-torchon-absorbant-en-micro-fibre-pour-porte-filtre",
-      "name": "Torchon absorbant en micro-fibre pour porte-filtre",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-microfibre-torchon-porte-filtre.png?v=1775826283",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/torchon-absorbant-en-micro-fibre-pour-porte-filtre",
-          "price": 7.8,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-bresil-mogiana-1kg",
@@ -719,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA1KG_927127ee-6356-4533-9016-6b2c733dbad1.png?v=1783613949",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -735,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-250g",
@@ -752,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA250G.png?v=1783614075",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -768,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-2-kg",
@@ -785,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA2KG.png?v=1783680808",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -801,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-filadelfia",
@@ -818,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/FILADELFIA1Kg_8990eeb2-2782-4a29-ac17-0dd938544889.png?v=1781510485",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -834,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-colombie-filadelfia-250g",
@@ -851,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/FILADELFIA250g.png?v=1781510053",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -867,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-colombie-filadelfia-2kg",
@@ -884,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/FILADELFIA1Kg_8990eeb2-2782-4a29-ac17-0dd938544889.png?v=1781510485",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -900,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-la-cristalina-1kg",
@@ -917,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/CRISTALINA1Kg.png?v=1783680950",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -933,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-la-cristalina-250g",
@@ -950,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/CRISTALINA250G.png?v=1783680915",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -966,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-1kg",
@@ -983,9 +720,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO1KG.png?v=1783681103",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -999,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-250g",
@@ -1016,9 +753,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO250G.png?v=1783680991",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1032,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-2kg",
@@ -1049,9 +786,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO2KG.png?v=1783681046",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1065,8 +802,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-1kg",
@@ -1082,9 +819,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE1KG.png?v=1785244488",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1098,8 +835,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-250g",
@@ -1115,9 +852,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE250G_2938df86-8975-456e-a1bb-f51b1663580f.png?v=1785244459",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1131,8 +868,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-2kg",
@@ -1148,9 +885,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE2KG.png?v=1785244517",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1164,8 +901,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-sedi-loya-bio-2kg-copie",
@@ -1181,9 +918,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SEDILOYA2KG.png?v=1787648519",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1197,8 +934,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-maranatha-150g-copie",
@@ -1214,9 +951,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Maranatha-2.png?v=1784646487",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1230,8 +967,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-guatemala-bendicion-1kg",
@@ -1247,9 +984,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION1KG.png?v=1783680871",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1263,8 +1000,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-bendicion-250g",
@@ -1280,9 +1017,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION250G.png?v=1783613794",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1296,8 +1033,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
@@ -1313,9 +1050,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION2KG.png?v=1783673358",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1329,8 +1066,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-tajumulco",
@@ -1346,9 +1083,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO1Kg.png?v=1781172439",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1362,8 +1099,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-tajumulco-250g",
@@ -1379,9 +1116,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO250g.png?v=1781172251",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1395,8 +1132,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-cubi-10-litres",
@@ -1412,9 +1149,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-cafe-noir-glace-cubi-10l.jpg?v=1775505102",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1428,8 +1165,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cubi-10l-copie",
@@ -1445,9 +1182,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-cafe-noir-glace-cubi-10l.jpg?v=1775505102",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1461,8 +1198,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-12-canettes",
@@ -1478,9 +1215,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-pack-12x25cl.png?v=1775503667",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1494,8 +1231,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-24-canettes",
@@ -1511,9 +1248,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-pack-24x25cl.png?v=1775503535",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1527,8 +1264,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-pack-de-6-canettes",
@@ -1544,9 +1281,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-pack-6x25cl.png?v=1775503475",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1560,338 +1297,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-cafetiere-a-piston-timemore-small-u-french-press-blanc",
-      "name": "Cafetière à piston Timemore Small U French Press Blanc",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cafetiere-a-piston-timemore-small-u-french-press-blanc.jpg?v=1771422440",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/cafetiere-a-piston-timemore-small-u-french-press-blanc",
-          "price": 24.9,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-cafetiere-a-piston-timemore-small-u-french-press-noir",
-      "name": "Cafetière à piston Timemore Small U French Press Noir",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-cafetiere-timemore-small-u-noir_9a769fb1-7613-4510-8002-91d57719f014.png?v=1776098397",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/cafetiere-a-piston-timemore-small-u-french-press-noir",
-          "price": 24.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-aeropress-clear-transparent-cafetiere-a-piston-nomade",
-      "name": "Cafetière AeroPress Clear Transparent",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/aeropress-clear-transparent.jpg?v=1771422334",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/aeropress-clear-transparent-cafetiere-a-piston-nomade",
-          "price": 54.9,
-          "currency": "EUR",
-          "unitWeightG": 460,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-porte-filtre-a-cafe-hario-v60-01-1-a-2-tasses",
-      "name": "Dripper Hario V60 01 céramique 1-2 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/porte-filtre-a-cafe-hario-v60-01-1-a-2-tasses.jpg?v=1771422411",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/porte-filtre-a-cafe-hario-v60-01-1-a-2-tasses",
-          "price": 17.5,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-porte-filtre-a-cafe-hario-v60-02-1-a-4-tasses",
-      "name": "Dripper Hario V60 02 céramique 1-4 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-filtre-hario-v60-02.png?v=1775826285",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/porte-filtre-a-cafe-hario-v60-02-1-a-4-tasses",
-          "price": 24.9,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-dripper-origami-m-bleu-pastel-4-tasses",
-      "name": "Dripper ORIGAMI M turquoise 4 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/DripperOrigamiORIGAMI-DripperMTurquoise_88d3f7ba-d44b-46c7-96a4-c734c17f1e84.png?v=1779104140",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/dripper-origami-m-bleu-pastel-4-tasses",
-          "price": 30.5,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-porte-filtre-origami-dripper-s-bleu-mat",
-      "name": "Dripper ORIGAMI S bleu pastel 1-2 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-origami-dripper-s-bleu.png?v=1775826292",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/porte-filtre-origami-dripper-s-bleu-mat",
-          "price": 27.0,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-dripper-origami-s-vert-pastel-2-tasses",
-      "name": "Dripper ORIGAMI S vert pastel 2 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/DripperOrigamiORIGAMI-DripperSPASTELVertMat.png?v=1779104045",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/dripper-origami-s-vert-pastel-2-tasses",
-          "price": 27.9,
-          "currency": "EUR",
-          "unitWeightG": 500,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-filtres-aeropress",
-      "name": "Filtres Aeropress papier",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/filtres-pour-aeropress.png?v=1771422407",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/filtres-aeropress",
-          "price": 9.9,
-          "currency": "EUR",
-          "unitWeightG": 100,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
-    },
-    {
-      "id": "coutume-cafe-filtres-chemex-boite-de-100-filtres-pour-cafetiere",
-      "name": "Filtres papier Chemex x100",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-filtre-chemex-papier-x100-2_15ccdabe-23f6-4d4f-a221-c22f214b0751.png?v=1776098181",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/filtres-chemex-boite-de-100-filtres-pour-cafetiere",
-          "price": 11.9,
-          "currency": "EUR",
-          "unitWeightG": 1000,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:21Z",
-      "lastSeenAt": "2026-09-03T20:41:21Z"
+      "firstSeenAt": "2026-09-03T21:15:07Z",
+      "lastSeenAt": "2026-09-03T21:15:07Z"
     }
   ]
 }

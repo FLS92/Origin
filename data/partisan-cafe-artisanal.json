@@ -8,9 +8,10 @@
     "url": "https://parispartisancafe.com/",
     "domain": "parispartisancafe.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
   },
-  "scrapedAt": "2026-09-03T20:41:31Z",
+  "scrapedAt": "2026-09-03T21:15:14Z",
   "products": [
     {
       "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-05-20at11.17.57.png?v=1779269028",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Partisan Café Artisanal",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:31Z",
-      "lastSeenAt": "2026-09-03T20:41:31Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/ScreenShot2026-03-26at09.29.27.png?v=1774514673",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Partisan Café Artisanal",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:31Z",
-      "lastSeenAt": "2026-09-03T20:41:31Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "partisan-cafe-artisanal-ethiopie-biftu-250g",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-01-06at15.16.58.png?v=1767709058",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Partisan Café Artisanal",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:31Z",
-      "lastSeenAt": "2026-09-03T20:41:31Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2025-10-05at10.00.39.png?v=1759651265",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Partisan Café Artisanal",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:31Z",
-      "lastSeenAt": "2026-09-03T20:41:31Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "partisan-cafe-artisanal-italian-blend-250g-copy",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-05-20at11.09.33.png?v=1779268446",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Partisan Café Artisanal",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:31Z",
-      "lastSeenAt": "2026-09-03T20:41:31Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     }
   ]
 }

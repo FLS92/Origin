@@ -8,9 +8,10 @@
     "url": "https://cafesmuda.fr/",
     "domain": "cafesmuda.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
   },
-  "scrapedAt": "2026-09-03T20:44:27Z",
+  "scrapedAt": "2026-09-04T07:04:13Z",
   "products": [
     {
       "id": "cafes-muda-andy-llanos-gesha-perou",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20260630-Muda-Packshot-Niveau3-AndyLlanos-Gesha.jpg?v=1784747688",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-andy-llanos-sidra-perou",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20260706-Muda-Packshot-Niveau3-AndyLlanos-Sidra.jpg?v=1784746460",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-daanissa-ethiopie",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20260717-Muda-Packshot-Omni-Daanissa.jpg?v=1784745407",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-cafe-mexique-juba",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20240422-Muda-Packshot-Espresso-Juba.jpg?v=1714477101",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-maribel-torres-cafe-perou",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20260520-Muda-Packshot-Omni-Maribel-Torres.jpg?v=1779537680",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-sitio-cordilheiras-honey",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Cafes-Muda-Packshot-Espresso-SitioCordilheiras-2.jpg?v=1777461391",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-sitio-cordilheiras-honey-filtre",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Cafes-Muda-Packshot-Filtre-Sitio-Cordilheiras-2.jpg?v=1777554881",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-cafe-arara-sitio-cordilheiras-bresil",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/sitio-cordilheiras-cafe-bresil-arara-packaging_2026.jpg?v=1776344093",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-cafe-perou-roger-chilcon",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20260203-Muda-Packshot-Espresso-Chilcon.jpg?v=1772521125",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-zarza-gesha-nature-colombie",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Gesha-Nature-Colombie-Zarza-Packshot.jpg?v=1769263263",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -339,41 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
-    },
-    {
-      "id": "cafes-muda-abonnement-cafe-specialite",
-      "name": "ABONNEMENT DÉCOUVERTE - MENSUEL",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Abonnement_cafe_de_specialite_-_cafes_muda.jpg?v=1740576490",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Cafés Muda",
-          "url": "https://cafesmuda.fr/products/abonnement-cafe-specialite",
-          "price": 12.9,
-          "currency": "EUR",
-          "unitWeightG": 300,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-cascara-pulpe-cerise-cafe-infusion",
@@ -389,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/products/MUDA-PACKSHOT-CASCARA.jpg?v=1649326298",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -405,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-coffret-filtre-decouverte",
@@ -422,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/MudaNoel-31.jpg?v=1733339871",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -438,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-coffret-filtre-classique",
@@ -455,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/MudaNoel-30.jpg?v=1733339441",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -471,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-coffret-espresso-classique",
@@ -488,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/MudaNoel-28.jpg?v=1733337133",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -504,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-coffret-espresso-decouverte",
@@ -521,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/MudaNoel-29.jpg?v=1733338949",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -537,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-mont-deca-decafeine",
@@ -554,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Muda-Packshot-Deca.jpg?v=1727369431",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -570,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-paddo-cafe",
@@ -587,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Caf__en_grain_Myanmar_Endless_Summer.jpg?v=1787838540",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -603,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-tropikawa",
@@ -620,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/tropikawa-cafe-ethiopie-packaging-avant.jpg?v=1757691424",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -636,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     },
     {
       "id": "cafes-muda-ca-passe-creme",
@@ -653,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/ca-passe-creme-cafe-bresil-packaging-avant.jpg?v=1757608270",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Muda",
@@ -669,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:27Z",
-      "lastSeenAt": "2026-09-03T20:44:27Z"
+      "firstSeenAt": "2026-09-04T07:04:13Z",
+      "lastSeenAt": "2026-09-04T07:04:13Z"
     }
   ]
 }

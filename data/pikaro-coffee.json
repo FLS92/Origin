@@ -8,9 +8,10 @@
     "url": "https://www.pikaro.fr/",
     "domain": "pikaro.fr",
     "platform": "wizishop",
-    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
+    "logoUrl": "https://media.cdnws.com/_i/44626/791/317/93/pikaro-torrefaction-cafe-the-cadeaux.png"
   },
-  "scrapedAt": "2026-09-03T20:44:26Z",
+  "scrapedAt": "2026-09-04T07:04:12Z",
   "products": [
     {
       "id": "pikaro-coffee-box-cafes-assemblages",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-carpeaux",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-decafeine",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-l-expresso-blend-cafe-de-specialite-du-salvador-importe-a-la-voile",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-kenya-aa",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-le-greengo-cafe-de-specialite-du-rwanda-bio",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-le-guarani-cafe-du-bresil",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-indes-plantation-aa",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     },
     {
       "id": "pikaro-coffee-le-limon-cafe-de-colombie-importe-a-la-voile",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Pikaro Coffee",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:26Z",
-      "lastSeenAt": "2026-09-03T20:44:26Z"
+      "firstSeenAt": "2026-09-04T07:04:12Z",
+      "lastSeenAt": "2026-09-04T07:04:12Z"
     }
   ]
 }

@@ -8,8 +8,9 @@
     "url": "https://www.reck.fr/",
     "domain": "reck.fr",
     "platform": "prestashop",
-    "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte."
+    "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte.",
+    "logoUrl": "https://www.reck.fr/img/reck-logo-1588586661.jpg"
   },
-  "scrapedAt": "2026-09-03T20:44:20Z",
+  "scrapedAt": "2026-09-03T21:17:53Z",
   "products": []
 }

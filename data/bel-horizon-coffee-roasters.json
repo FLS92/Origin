@@ -8,9 +8,10 @@
     "url": "https://belhorizon.coffee/",
     "domain": "belhorizon.coffee",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
   },
-  "scrapedAt": "2026-09-03T20:42:12Z",
+  "scrapedAt": "2026-09-03T21:15:53Z",
   "products": [
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/okapasite.jpg?v=1787326398",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/gasharusite.jpg?v=1787325372",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-1000-hills",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-1000-hills_d0b63480-fe7b-4c3d-9f80-6281abc335f1.png?v=1781468725",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-cordillera-del-fuego",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-cordillera-del-fuego_be515d75-6074-4acd-af4e-aa5bc979f2e5.png?v=1781468700",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-el-porvenir",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-el-porvenir_2e1d0e69-5c12-414e-9e79-8bb3675bd49a.png?v=1781468508",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-finca-los-primos",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-finca-los-primos_87514cf0-0768-4ae1-bf9c-9da79347684d.png?v=1781466752",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-finca-bella",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/product-finca-bella-vista_f17d8197-5418-4b82-a911-8cf98639f033.png?v=1781468425",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Bel Horizon Coffee Roasters",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:12Z",
-      "lastSeenAt": "2026-09-03T20:42:12Z"
+      "firstSeenAt": "2026-09-03T21:15:53Z",
+      "lastSeenAt": "2026-09-03T21:15:53Z"
     }
   ]
 }

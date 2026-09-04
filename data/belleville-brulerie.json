@@ -8,9 +8,10 @@
     "url": "https://cafesbelleville.com/",
     "domain": "cafesbelleville.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377"
   },
-  "scrapedAt": "2026-09-03T20:41:25Z",
+  "scrapedAt": "2026-09-03T21:15:09Z",
   "products": [
     {
       "id": "belleville-brulerie-benjamin-paz-honduras",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Pack-Shots-JPG-Belleville-2021-1000px-Benjamin-Paz.jpg?v=1627396191",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-banko-gotiti-lave-ethiopie",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": null,
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-kieni-ab-cafe-kenya",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/files/Cafes-Belleville-Kieni-AB.jpg?v=1695972186",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-kelloo-chelchele-washed",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/files/KellooChelchele-250g-2025.jpg?v=1764944407",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-le-mistral-assemblage-cafe-belleville",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Pack-Shots-Belleville-2021-1000px-5.jpg?v=1624540385",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-selection-de-decouverte-cafe-filtre",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Cafes-Belleville-selection-decouvert-filtre.jpg?v=1671090243",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-selection-de-decouverte-espresso-3-x-250g",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/belleville-Pack-Decouvert-Espresso.jpg?v=1638611151",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -240,107 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
-    },
-    {
-      "id": "belleville-brulerie-espro-bloom-porte-filtre-en-acier",
-      "name": "ESPRO - BLOOM - Porte Filtre en acier",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/7018-BS-GR_2.png?v=1642425665",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/espro-bloom-porte-filtre-en-acier",
-          "price": 39.9,
-          "currency": "EUR",
-          "unitWeightG": 237,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
-    },
-    {
-      "id": "belleville-brulerie-abonnement-demande-speciale-de-cafe-frais",
-      "name": "Abonnement Demande Spéciale de Café Frais ⚠️",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Captured_ecran2021-05-11a10.03.21.png?v=1620720225",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/abonnement-demande-speciale-de-cafe-frais",
-          "price": 27.8,
-          "currency": "EUR",
-          "unitWeightG": 600,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
-    },
-    {
-      "id": "belleville-brulerie-abonnement-bimensuel-cafe-frais",
-      "name": "Abonnement Bimensuel Café Frais",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Abonnement-Belleville_06ad8647-08eb-42a6-abf7-3d795dd8239f.jpg?v=1605789643",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/abonnement-bimensuel-cafe-frais",
-          "price": 16.9,
-          "currency": "EUR",
-          "unitWeightG": 300,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-kg-la-pantoufle-assemblage-1kg",
@@ -356,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Blog_Sachetdecafe4_1-1g_46c0fe92-fe2b-448c-9c62-28e029c0cc4c.jpg?v=1584526177",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -372,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-kg-la-fontaine-assemblage-1kg",
@@ -389,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Blog_Sachetdecafe4_1-1g.jpg?v=1584526080",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -405,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-kg-french-roast-assemblage-1kg",
@@ -422,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Blog_Sachetdecafe4_1-1g_e464843a-2886-43b2-ae54-de8a00727240.jpg?v=1584526312",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -438,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-kg-body-builder-assemblage-1kg",
@@ -455,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Blog_Sachetdecafe4_1-1g_ffd1ad3c-7424-4a27-b3cd-3cfe25b6d620.jpg?v=1585122711",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -471,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-body-builder-assemblage-cafe-belleville",
@@ -488,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Pack-Shots-Belleville-2021-1000px-6.jpg?v=1624540143",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -504,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-chateau-belleville-assemblage-cafe-belleville",
@@ -521,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Pack-Shots-Belleville-2021-1000px-4.jpg?v=1624540170",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -537,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     },
     {
       "id": "belleville-brulerie-la-pantoufle-assemblage-cafe-belleville",
@@ -554,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Pack-Shots-Belleville-2021-1000px-9.jpg?v=1624540359",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -570,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:25Z",
-      "lastSeenAt": "2026-09-03T20:41:25Z"
+      "firstSeenAt": "2026-09-03T21:15:09Z",
+      "lastSeenAt": "2026-09-03T21:15:09Z"
     }
   ]
 }

@@ -504,10 +504,16 @@ function parsePriceEUR(c){
 
 function logoBadge(roasterId, size){
   const r = ROASTERS[roasterId];
-  const initials = {tanat:'T', dak:'DAK', syra:'S'}[roasterId] || r.name[0];
-  const bg = {tanat:'#c1652f', dak:'#2f8f9e', syra:'#9d5a9e'}[roasterId] || 'var(--panel-light)';
-  const fontSize = initials.length > 1 ? Math.round(size*0.32) : Math.round(size*0.42);
-  return `<div title="${r.name}" style="width:${size}px; height:${size}px; border-radius:50%; background:${bg}; border:1px solid var(--line); display:flex; align-items:center; justify-content:center; flex-shrink:0; font-family:'Fraunces',serif; font-weight:700; color:var(--cream); font-size:${fontSize}px; letter-spacing:.5px;">${initials}</div>`;
+  if(r.logoUrl){
+    return `<img src="${r.logoUrl}" alt="${r.name}" title="${r.name}" style="width:${size}px; height:${size}px; border-radius:50%; object-fit:cover; border:1px solid var(--line); flex-shrink:0; background:var(--panel-light);" onerror="this.replaceWith(Object.assign(document.createElement('div'), {outerHTML: logoBadgeFallback('${roasterId}', ${size})}))">`;
+  }
+  return logoBadgeFallback(roasterId, size);
+}
+function logoBadgeFallback(roasterId, size){
+  const r = ROASTERS[roasterId];
+  const initials = r.name[0];
+  const fontSize = Math.round(size*0.42);
+  return `<div title="${r.name}" style="width:${size}px; height:${size}px; border-radius:50%; background:var(--panel-light); border:1px solid var(--line); display:flex; align-items:center; justify-content:center; flex-shrink:0; font-family:'Fraunces',serif; font-weight:700; color:var(--cream); font-size:${fontSize}px; letter-spacing:.5px;">${initials}</div>`;
 }
 
 function processCategory(process){

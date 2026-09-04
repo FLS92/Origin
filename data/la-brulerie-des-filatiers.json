@@ -8,9 +8,10 @@
     "url": "https://www.labruleriedesfilatiers.fr/",
     "domain": "labruleriedesfilatiers.fr",
     "platform": "odoo",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
-  "scrapedAt": "2026-09-03T20:43:49Z",
+  "scrapedAt": "2026-09-03T21:17:21Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/642/image_512/Bergamotier?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/801/image_512/Boite%20de%20capsules%20%28x10%29%20COSTA-Rica%20-%20Buho?unique=61fae6c",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/803/image_512/Boite%20de%20capsules%20%28x10%29%20HONDURAS%20-%20Al%C3%A9gria%20?unique=f295425",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/804/image_512/Boite%20de%20capsules%20%28x10%29%20MEXIQUE%20-%20D%C3%A9caf%C3%A9in%C3%A9?unique=3fa2498",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/800/image_512/Boite%20de%20capsules%20%28x10%29%20SALVADOR%20-%20Espresso%20Blend?unique=28c108b",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/645/image_512/Brown%20Sugar%20?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/906/image_512/Br%C3%A9sil%20-%20Dulces%20suenos%20-%20d%C3%A9caf%C3%A9in%C3%A9?unique=7c39199",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p910",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/910/image_512/Br%C3%A9sil%20-%20Mogiana%20-%20Fazenda%20Alian%C3%A7a?unique=7ddab15",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -273,41 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
-    },
-    {
-      "id": "la-brulerie-des-filatiers-p4",
-      "name": "Carte cadeau",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/4/image_512/Carte%20cadeau?unique=653b39f",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Brûlerie des Filatiers",
-          "url": "https://labruleriedesfilatiers.fr/shop/carte-cadeau-4",
-          "price": 50.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p752",
@@ -323,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/752/image_512/Chicor%C3%A9e%20-%20L%27originale%20-%20Nour%C3%A9e?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -339,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -356,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/648/image_512/Chunmee%20%28Bio%29?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -372,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -389,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/651/image_512/Darjeeling%20Imp%C3%A9rial%20Namring%20?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -405,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -422,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/930/image_512/ETHIOPIE%20-%20Beloya%20-%20Yirgacheffe?unique=d5a3971",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -438,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -455,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/814/image_512/ETHIOPIE%20-%20Oromia%20?unique=45e4438",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -471,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1904",
@@ -488,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1904/image_512/ETHIOPIE%20-%20Sidama%20-%20Bombe%20G1?unique=19c3081",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -504,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -521,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/653/image_512/Earl%20Grey%20Royal%20%28%20Bio%29%20?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -537,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -554,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/655/image_512/Feel%20good%20%28Bio%29%20?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -570,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1903",
@@ -587,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1903/image_512/GUATEMALA%20-%20Huehuetenango%20-%20El%20Panal?unique=f62e55e",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -603,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -620,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/614/image_512/Grand%20Yunnan%20%28Bio%29%20?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -636,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -653,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/657/image_512/Gunpowder%20%28Bio%29%20?unique=2ce1529",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -669,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:49Z",
-      "lastSeenAt": "2026-09-03T20:43:49Z"
+      "firstSeenAt": "2026-09-03T21:17:21Z",
+      "lastSeenAt": "2026-09-03T21:17:21Z"
     }
   ]
 }

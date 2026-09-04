@@ -8,9 +8,10 @@
     "url": "https://www.cime-cafe.fr/nos-cafes.html",
     "domain": "cime-cafe.fr",
     "platform": "magento",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg"
   },
-  "scrapedAt": "2026-09-03T20:44:00Z",
+  "scrapedAt": "2026-09-03T21:17:30Z",
   "products": [
     {
       "id": "cime-p517",
@@ -30,9 +31,9 @@
         "Fruits jaunes",
         "Miel"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/i/cime-mockupboite-microlot-ok-re_cupe_re_.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -46,8 +47,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p516",
@@ -67,9 +68,9 @@
         "Fruit de la Passion",
         "Mangue"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/g/e/geisha_lactic_web.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -83,8 +84,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p511",
@@ -104,9 +105,9 @@
         "Myrtille",
         "Abricot"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/s/u/sudan_rume_website.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -120,8 +121,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p493",
@@ -141,9 +142,9 @@
         "Fruits Jaunes",
         "Citronelle"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/e/l/elixir_web.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -157,8 +158,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p543",
@@ -178,9 +179,9 @@
         "fruits rouges",
         "goyave"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/e/l/elvergel_filtre.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -194,8 +195,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p542",
@@ -215,9 +216,9 @@
         "fruits rouges",
         "goyave"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/e/l/el_vergel_colombie_espresso.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -231,8 +232,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p541",
@@ -252,9 +253,9 @@
         "Hibiscus",
         "Cacao"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/v/e/velvet_bloom_filter_website_4.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -268,8 +269,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p538",
@@ -289,9 +290,9 @@
         "Hibiscus",
         "Cacao"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/v/e/velvet_bloom_250g_espresso_4_1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -305,8 +306,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p508",
@@ -326,9 +327,9 @@
         "Vanille",
         "Nougat"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/p/o/potosi_250g.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -342,8 +343,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p490",
@@ -363,9 +364,9 @@
         "Vanille",
         "Cerise"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/n/o/norbil-online.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -379,8 +380,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p340",
@@ -396,9 +397,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/o/coldbrew_2_online.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -412,8 +413,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p267",
@@ -433,9 +434,9 @@
         "Vanille",
         "Chocolat"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/s/i/singulier-online.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -449,8 +450,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p153",
@@ -470,9 +471,9 @@
         "Noisette grillé",
         "Caramel"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/f/u/full-samba-online.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -486,8 +487,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p85",
@@ -507,9 +508,9 @@
         "Figue",
         "Hibiscus"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/a/cascara_packshot.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -523,8 +524,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     },
     {
       "id": "cime-p5",
@@ -544,9 +545,9 @@
         "Baies",
         "Réglisse"
       ],
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/p/l/planadas-de_ca-online.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cime",
@@ -560,8 +561,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:00Z",
-      "lastSeenAt": "2026-09-03T20:44:00Z"
+      "firstSeenAt": "2026-09-03T21:17:30Z",
+      "lastSeenAt": "2026-09-03T21:17:30Z"
     }
   ]
 }

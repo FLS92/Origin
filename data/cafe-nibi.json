@@ -8,9 +8,10 @@
     "url": "https://www.cafenibi.com/e-boutique",
     "domain": "cafenibi.com",
     "platform": "squarespace",
-    "notes": "Commerce Squarespace, catalogue accessible via ?format=json sur la page e-boutique. Poids/conditionnement embarqué dans le libellé de la variante (ex: \"200g - 9.90 €\"), a parser."
+    "notes": "Commerce Squarespace, catalogue accessible via ?format=json sur la page e-boutique. Poids/conditionnement embarqué dans le libellé de la variante (ex: \"200g - 9.90 €\"), a parser.",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fcc0a887-ec4d-4765-b916-ac2d9765be01/Logo+Nibi+fin3.png?format=1500w"
   },
-  "scrapedAt": "2026-09-03T20:41:44Z",
+  "scrapedAt": "2026-09-03T21:15:27Z",
   "products": [
     {
       "id": "cafe-nibi-mystique-arabica-peruvien",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/e901efac-c4a1-48d5-b49a-6f2a245e82db/Design+sans+titre+%2811%29.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-meneur-arabica-bresil-specialtycoffee",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718704691806-UANSVAE1UER3TL7EO0F1/Packshot-Le-meneur-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-jovial-arabica-bresilien-grain-moulu",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718736058663-E7AZ8T0CIXU53KRA8U3T/Packshot-Le-jovial-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-arabica-gesha-cafe-de-specialite",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1721671914206-EC3DYTT35WDVD2GZXY1A/L%27Irr%C3%A9sistible+%284%29.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-arabica-indonesie-cafe-specialite-amln8",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1aad921e-3df9-423b-90f4-9c2bc9590bf6/Design+sans+titre+%286%29.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-arabica-kenya-cafe-specialite",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/e0ca9f1d-07e9-4439-b2f1-b3017ad53e1f/L%27Elegant.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-costaud-blend-arabica-robusta-cafe-grain-moulu",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718727869553-Y1ZI2HBUQX54DQAGCZGS/Packshot-Le-Costaud-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-distingue-arabica-colombien-grain-moulu",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/2d9691c5-9d95-4f73-8fcc-63ed9bfa201f/Packshot-Le-Distingu%C3%A9-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-aventurier-arabica-guatemala",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1701118242744-8BZS06434QF3FNOJ7GEX/Packshot-L-AVENTURIER-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-eclaireur-par-arabica-ethiopie-grain-",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1700682204584-NV4TI66KODNQLA20D7UT/Packshot-L-Eclaireur-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-magnifique-arabica-colombien-grain-moulu",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1700681406639-BU3A45J76PAAU2OE2T83/Packshot-Le-magnifique-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-audacieux-arabica-assemblage",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/7297f3ab-2004-46d6-9fe3-331c933dba12/Design+sans+titre+%284%29.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-deca-arabica-mexicain-mountainwater-",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1717612552643-LA9RWKMYFGC9E3XE48XV/Packshot-Le-deca-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-le-robuste",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718736110940-Z2IPZP5PQ0MJYBFGDZF6/Packshot-Le-Robuste-200g-Transp.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-coffret-cafe",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1721329132596-MS4PC3K3AFU5SQXQG3QE/PACKDEC200.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-coffret-cafe-exception",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fda05e2e-e7fe-4f29-b51d-d33ffb7953a4/Packshoot+Pack+Epatante.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-arabica-colombie",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/b07ffc78-69da-4246-9a55-8c2c669782eb/magnifique+paquet+du+caf%C3%A9+et+capsules.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-etui-de-10-capsules-eclaireur-ethiopien",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/42cfd744-492a-4e45-8c69-b95a2eff5157/Eclaireur.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-arabica-colombien",
@@ -620,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/54866ac7-c6cd-46ac-b073-dabab1dd9f07/distingue+paquet+du+caf%C3%A9+et+capsules.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-arabica-guatemala",
@@ -653,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/f286942f-af49-4e91-a549-1071115a94c8/aventurier+paquet+du+caf%C3%A9+et+capsules.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -669,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-le-costaud-blend-assemblage",
@@ -686,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/01f7d221-03de-42df-9637-a3ed5bfbcd82/costaud+paquet+du+caf%C3%A9+et+capsules.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -702,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-deca-sanssolvant-decac02",
@@ -719,9 +720,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/f8a16e6d-95e6-47b1-a190-82d76daa78cd/d%C3%A9ca+paquet+du+caf%C3%A9+et+capsules.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -735,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-coffret-cafe-capsules",
@@ -752,9 +753,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/304052c6-857b-49e3-9f67-75c0dfb5cfb4/6CAPSDEC-Fond+transparent.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -768,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-th-noir-assam-100-gr",
@@ -785,9 +786,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/9ba7ca4c-782d-4f92-b689-c885245fe076/ASSAM.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -801,8 +802,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-th-vert-genmaicha-100-gr",
@@ -818,9 +819,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/5b2ad3d6-f997-4a35-b24e-f7f166f42130/GENMAICHA.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -834,8 +835,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-the-vert-kukicha-100-gr",
@@ -851,9 +852,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/32c5a6d1-8f6d-4b9f-87ae-09e4d0013622/KUKICHA+%282%29.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -867,8 +868,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-th-noir-pu-erh",
@@ -884,9 +885,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/4ecc66e1-0df3-4a82-9a7d-abeae5150ec8/PU+ERH.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -900,8 +901,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-the-milky-oolong-100-gr",
@@ -917,9 +918,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/16966284-69b1-497e-b2a9-e7f37827206e/MILKY+OOLONG.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -933,8 +934,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-rooibos-100-gr",
@@ -950,9 +951,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/ef593538-8b67-49e2-b3ab-b2c2bbc325b2/ROOIBOS.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -966,8 +967,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     },
     {
       "id": "cafe-nibi-totebag-cafenibi",
@@ -983,9 +984,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718225914663-HWG2KRZXD7SL48KBY8CD/Design+sans+titre+%2827%29.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Nibi",
@@ -999,41 +1000,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
-    },
-    {
-      "id": "cafe-nibi-cartecadeaucafe",
-      "name": "E-Carte Cadeau",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1681336607353-8D9YW1LS39YLN5MRT4JS/Carte+cadeau+typo+blanc+-+%282%29.png",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Café Nibi",
-          "url": "https://www.cafenibi.com/e-boutique/cartecadeaucafe",
-          "price": 25.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:41:44Z",
-      "lastSeenAt": "2026-09-03T20:41:44Z"
+      "firstSeenAt": "2026-09-03T21:15:27Z",
+      "lastSeenAt": "2026-09-03T21:15:27Z"
     }
   ]
 }

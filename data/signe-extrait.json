@@ -8,9 +8,10 @@
     "url": "https://www.extrait.fr/",
     "domain": "extrait.fr",
     "platform": "prestashop",
-    "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active."
+    "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active.",
+    "logoUrl": "https://www.extrait.fr/img/extraitfr-logo-1455523302.jpg"
   },
-  "scrapedAt": "2026-09-03T20:42:48Z",
+  "scrapedAt": "2026-09-03T21:16:29Z",
   "products": [
     {
       "id": "signe-extrait-p69",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.extrait.fr/201-home_default/sunda-indonesie-cafe-grains-300g.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Signé Extrait",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:48Z",
-      "lastSeenAt": "2026-09-03T20:42:48Z"
+      "firstSeenAt": "2026-09-03T21:16:29Z",
+      "lastSeenAt": "2026-09-03T21:16:29Z"
     },
     {
       "id": "signe-extrait-p80",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.extrait.fr/212-home_default/chiapas-mexique-cafe-grains.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Signé Extrait",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:48Z",
-      "lastSeenAt": "2026-09-03T20:42:48Z"
+      "firstSeenAt": "2026-09-03T21:16:29Z",
+      "lastSeenAt": "2026-09-03T21:16:29Z"
     }
   ]
 }

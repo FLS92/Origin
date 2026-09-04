@@ -8,9 +8,10 @@
     "url": "https://kbcoffeeroasters.com/",
     "domain": "kbcoffeeroasters.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://kbcoffeeroasters.com/cdn/shop/files/visuel_KB_detoure_001b708d-56a9-466b-8e7a-321f003dc93e.jpg?v=1663248887"
   },
-  "scrapedAt": "2026-09-03T20:41:32Z",
+  "scrapedAt": "2026-09-03T21:15:14Z",
   "products": [
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-bourbon-rouge",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-NestorLasso-ElDiviso-Chiroso-NaturalAnaerobicThermalShock-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75_553868b6-49a6-442d-8094-4fb2f2fd420f.png?v=1783157130",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-yemen-queen-of-saba",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Yemen-HydraReviva-Anaerobic-Mocha-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.jpg?v=1762458875",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-peru-vituya",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Peru-Vituya-Washed-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1785245794",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-bresil-rio-brilhante-mundo-novo",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Brazil-RioBrilhante-MundoNovo-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1787675265",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-ethiopie-uraga-anaerobic",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Ethiopie-Uraga-NaturelAnaerobic-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1732642910",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-tanzanie-korongo",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Tanzanie-Korongo-Lave-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1750771157",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-indonesie-de-berman",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Indonesia-DeBerman-Naturalanaerobic-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009..png?v=1785247512",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-nicaragua-supernatural",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Nicaragua-Supernatural-Naturel-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_285fa1ac-3a63-47ce-87e5-b4e0604916ff.png?v=1788165002",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-ethiopie-uraga-oro",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Ethiopie-UragaOro-NaturelAnaerobic-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1738336906",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-chine-ximen-cimizhu-copie",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/China-Tianhao-Naturel-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1785947701",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-typica-mejorado",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-ElDiviso-TypicaMejorado-NestorLasso-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.jpg?v=1768055911",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-guatemala-el-panal",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Guatemala-ElPanal-Naturel-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009..png?v=1731506362",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-aroma-nativo-ry-1120-efm",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-AromaNativo-StripedBourbon-EFM-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.jpg?v=1775643288",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-filtre-ethiopie-uraga-carbo",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Ethopie-UragaCarbonicfermentation-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1733507959",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-chiroso-1",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-NestorLasso-ElDiviso-Chiroso-NaturalAnaerobicThermalShock-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75.jpg?v=1743866931",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-ethiopie-dimtu",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Ethiopia-Dimtu-Washed-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1768500516",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-nicaragua-los-placerez",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Nicaragua-LosPlaceres-AceticFermentation-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1778251976",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-sidra-copie",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Uganda-Mbuku-NaturelAnaerobic-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1764072173",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-monteblanco-coco",
@@ -620,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/IMG_4575.png?v=1788341104",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-candy-blast-decafeine-by-swiss-water-wow-filtre-espresso",
@@ -653,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-ElVergel-CandyBlast-swissWater-decaffeinated-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.jpg?v=1781626310",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -669,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-peru-eulogio-chipao-gesha",
@@ -686,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Peru-EulogioChipao-gesha-Geisha-Washed-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.jpg?v=1778241895",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -702,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-guatemala-san-lorenzo",
@@ -719,9 +720,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Guatemala-SanLorenzo-Washed-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_ca68e62b-2be5-4c7f-b3ed-01f80b67684f.png?v=1777292852",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -735,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-zarza-bourbon-rose",
@@ -752,9 +753,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-Zarza-BourbonAji-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_8324251e-f282-4089-8589-81cea0d42a15.png?v=1785502730",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -768,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-chapoleros",
@@ -785,9 +786,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-Chapoleros-HenryBonilla-Caturra-Colombia-NaturelAnaerobic-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75.jpg?v=1772300552",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -801,8 +802,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-lord-voldemort-wush-wush-copie",
@@ -818,9 +819,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-ElPlacer-SebastianRamirez-PinkBourbon-IPA-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_7962d52d-2496-4faf-98ae-dafb21d17a54.jpg?v=1777140470",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -834,8 +835,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-aroma-nativo-pb-1178",
@@ -851,9 +852,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-AromaNativo-PinkBourbon-experimentalProcess-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.jpg?v=1764157716",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -867,8 +868,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-burundi-kibingo-oro",
@@ -884,9 +885,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Burundi-Kibingo-NaturelOroYeast-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1713455420",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -900,8 +901,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     },
     {
       "id": "kb-coffee-roasters-kb-filter-coffee-trip",
@@ -917,9 +918,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/FilterTrip-KBFiltercrazy-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.heic?v=1773656683",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "KB Coffee Roasters",
@@ -933,8 +934,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:41:32Z",
-      "lastSeenAt": "2026-09-03T20:41:32Z"
+      "firstSeenAt": "2026-09-03T21:15:14Z",
+      "lastSeenAt": "2026-09-03T21:15:14Z"
     }
   ]
 }

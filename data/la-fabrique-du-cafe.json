@@ -8,9 +8,10 @@
     "url": "https://lafabriqueducafe.fr/boutique/",
     "domain": "lafabriqueducafe.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
   },
-  "scrapedAt": "2026-09-03T20:43:18Z",
+  "scrapedAt": "2026-09-03T21:16:56Z",
   "products": [
     {
       "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/08/Bedaye_Site-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Fabrique du Café",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
+      "firstSeenAt": "2026-09-03T21:16:56Z",
+      "lastSeenAt": "2026-09-03T21:16:56Z"
     },
     {
       "id": "la-fabrique-du-cafe-gedeb-bio-ethiopie-lave",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/03/Gedeb-Bio-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Fabrique du Café",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
+      "firstSeenAt": "2026-09-03T21:16:56Z",
+      "lastSeenAt": "2026-09-03T21:16:56Z"
     },
     {
       "id": "la-fabrique-du-cafe-coko-fto-bio-rwanda-lave",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/06/Coko_site-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Fabrique du Café",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
+      "firstSeenAt": "2026-09-03T21:16:56Z",
+      "lastSeenAt": "2026-09-03T21:16:56Z"
     },
     {
       "id": "la-fabrique-du-cafe-thermos-kinto-la-fabrique-du-cafe-35cl",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/03/IMG_0443-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Fabrique du Café",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
+      "firstSeenAt": "2026-09-03T21:16:56Z",
+      "lastSeenAt": "2026-09-03T21:16:56Z"
     },
     {
       "id": "la-fabrique-du-cafe-la-pradera-bio-honey-process-colombie-ship-by-sail",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/02/Finca-La-Pradera-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Fabrique du Café",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
+      "firstSeenAt": "2026-09-03T21:16:56Z",
+      "lastSeenAt": "2026-09-03T21:16:56Z"
     },
     {
       "id": "la-fabrique-du-cafe-boite-de-conservation-atmos-fellow-vide-dair-manuel",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/02/FELLOW-ATMOS-B-10.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Fabrique du Café",
@@ -207,140 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
-    },
-    {
-      "id": "la-fabrique-du-cafe-chemex-6-tasses-en-verre-collier-en-bois",
-      "name": "Chemex 6 tasses en verre – collier en bois",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/02/cm-6a.webp",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/chemex-6-tasses-en-verre-collier-en-bois/",
-          "price": 54.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
-    },
-    {
-      "id": "la-fabrique-du-cafe-hario-filtres-v60-02-x100",
-      "name": "HARIO FILTRES V60-02 x100",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2015/04/boutique-cafe_FILTRE-HARIO.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/hario-filtres-v60-02-x100/",
-          "price": 7.8,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
-    },
-    {
-      "id": "la-fabrique-du-cafe-hario-filtres-v60-01-x100",
-      "name": "HARIO FILTRES V60-01 x100",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2015/04/boutique-cafe_FILTRE-HARIO.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/hario-filtres-v60-01-x100/",
-          "price": 6.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
-    },
-    {
-      "id": "la-fabrique-du-cafe-filtres-papiers-naturels-chemex-6-tasses",
-      "name": "FILTRES PAPIERS NATURELS CHEMEX 6 TASSES",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2015/04/fabrique-cafe-filtre-cafetiere-chemex-6-tasses.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/filtres-papiers-naturels-chemex-6-tasses/",
-          "price": 13.9,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:18Z",
-      "lastSeenAt": "2026-09-03T20:43:18Z"
+      "firstSeenAt": "2026-09-03T21:16:56Z",
+      "lastSeenAt": "2026-09-03T21:16:56Z"
     }
   ]
 }

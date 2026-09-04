@@ -8,9 +8,10 @@
     "url": "https://www.substancecafe.com/",
     "domain": "substancecafe.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.substancecafe.com/wp-content/uploads/2026/03/cropped-substance-logo-inverse-transp-scaled-1.png"
   },
-  "scrapedAt": "2026-09-03T20:42:18Z",
+  "scrapedAt": "2026-09-03T21:15:59Z",
   "products": [
     {
       "id": "substance-panama-iris-estate-afterglow",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/08/IMG_2493_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-bambito-estate-geisha-2026",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/08/IMG_2456_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-black-moon-farm-chiroso-21-33",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/08/IMG_2311_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-costa-rica-volcan-azul-geisha-2026",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/08/IMG_2303_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-elida-estate-loma-washed-crd",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/08/IMG_2319_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-colombia-la-roca-state-2026",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_2227_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-morgan-estate-terroir",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_2206_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-deborah-umbra",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_2214_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-mi-finquita-chibor-lot-126",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_2125_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-auromar-firestone-2026",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_2135_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-auromar-catalina",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_1997_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-colombia-finca-la-betania-red-honey",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_1936_-1-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-elida-estate-falda-washed-crd",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/07/IMG_1929_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-auromar-lupao",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1869_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-banko-gotiti",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1616_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-kenya-kagumo",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1629_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-mi-finquita-chibor-lot-123",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1635_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-elida-estate-falda-natural-crd",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1551_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-elida-estate-vuelta-washed-drd",
@@ -620,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1559_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-gesha-village-lot-e-22",
@@ -653,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/06/IMG_1321_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -669,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-hacienda-la-esmeralda-fundador",
@@ -686,9 +687,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/05/IMG_1328_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -702,8 +703,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-colombia-finca-la-betania",
@@ -719,9 +720,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/05/IMG_1313_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -735,8 +736,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-gesha-village-lot-137-2026",
@@ -752,9 +753,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/05/IMG_1229_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -768,8 +769,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-gesha-village-lot-132",
@@ -785,9 +786,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/05/IMG_1215_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -801,8 +802,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-gesha-village-lot-126-2026",
@@ -818,9 +819,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/05/IMG_1235_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -834,8 +835,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-gesha-village-lot-127-2026",
@@ -851,9 +852,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/05/IMG_1242_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -867,8 +868,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-deborah-horizon-2025",
@@ -884,9 +885,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2026/02/IMG_9229_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -900,8 +901,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-sophia-lot-95",
@@ -917,9 +918,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": null,
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -933,8 +934,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-auromar-microlot",
@@ -950,9 +951,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/11/IMG_6856_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -966,8 +967,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-wachile-garse",
@@ -983,9 +984,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/11/IMG_6868_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -999,8 +1000,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-sophia-lot-120",
@@ -1016,9 +1017,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/10/IMG_5648_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1032,8 +1033,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-sophia-lot-136",
@@ -1049,9 +1050,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/10/IMG_5639_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1065,8 +1066,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-elida-estate-aguacate-2025",
@@ -1082,9 +1083,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/10/IMG_5653_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1098,8 +1099,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-ethiopia-burtukaana-goro-bedesa",
@@ -1115,9 +1116,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/09/IMG_5328_-1-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1131,8 +1132,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-sophia-lot-129",
@@ -1148,9 +1149,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/09/IMG_5337_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1164,8 +1165,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-sophia-geisha-2025-lot-122",
@@ -1181,9 +1182,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/09/IMG_5300_-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1197,8 +1198,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-iris-estate-terroir-2025",
@@ -1214,9 +1215,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/09/IMG_4906_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1230,8 +1231,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-finca-deborah-illumination-2025",
@@ -1247,9 +1248,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/08/IMG_4806_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1263,8 +1264,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-hacienda-la-esmeralda-porton-5-nb",
@@ -1280,9 +1281,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/08/IMG_4741_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1296,8 +1297,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-hacienda-la-esmeralda-buenos-aires-8-fb",
@@ -1313,9 +1314,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/08/IMG_4749_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1329,8 +1330,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-iris-estate-illumination-2",
@@ -1346,9 +1347,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/07/IMG_4653_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1362,8 +1363,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-elida-estate-vuelta",
@@ -1379,9 +1380,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/07/IMG_4537__-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1395,8 +1396,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-mi-finquita-geisha-washed",
@@ -1412,9 +1413,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/06/IMG_4368_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1428,8 +1429,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     },
     {
       "id": "substance-panama-mi-finquita-geisha-natural",
@@ -1445,9 +1446,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.substancecafe.com/wp-content/uploads/2025/06/IMG_3870_-scaled.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Substance",
@@ -1461,8 +1462,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:18Z",
-      "lastSeenAt": "2026-09-03T20:42:18Z"
+      "firstSeenAt": "2026-09-03T21:15:59Z",
+      "lastSeenAt": "2026-09-03T21:15:59Z"
     }
   ]
 }

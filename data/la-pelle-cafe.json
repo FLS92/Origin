@@ -8,9 +8,10 @@
     "url": "https://lapellecafe.com/",
     "domain": "lapellecafe.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://lapellecafe.com/wp-content/uploads/2017/12/admin-ajax.png"
   },
-  "scrapedAt": "2026-09-03T20:43:06Z",
+  "scrapedAt": "2026-09-03T21:16:44Z",
   "products": [
     {
       "id": "la-pelle-cafe-cafe-specialite-rwanda-gatare-titus",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/RWANDA-Bourbon-Lave.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Pelle Café",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:06Z",
-      "lastSeenAt": "2026-09-03T20:43:06Z"
+      "firstSeenAt": "2026-09-03T21:16:44Z",
+      "lastSeenAt": "2026-09-03T21:16:44Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-nicaragua-geisha-el-paraiso",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/NICARAGUA-Geisha-Anaerobique.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Pelle Café",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:06Z",
-      "lastSeenAt": "2026-09-03T20:43:06Z"
+      "firstSeenAt": "2026-09-03T21:16:44Z",
+      "lastSeenAt": "2026-09-03T21:16:44Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-ethiopie-guji-coba",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/Sachet-Ethiopie-Guji.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Pelle Café",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:06Z",
-      "lastSeenAt": "2026-09-03T20:43:06Z"
+      "firstSeenAt": "2026-09-03T21:16:44Z",
+      "lastSeenAt": "2026-09-03T21:16:44Z"
     },
     {
       "id": "la-pelle-cafe-cafe-de-specialite-costa-rica-honey",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/Sachet-Costa-Rica-Tres-Rios.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Pelle Café",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:06Z",
-      "lastSeenAt": "2026-09-03T20:43:06Z"
+      "firstSeenAt": "2026-09-03T21:16:44Z",
+      "lastSeenAt": "2026-09-03T21:16:44Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-bresil-caparao-santa-rita-2",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2023/06/BR_CASTANHAS.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "La Pelle Café",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:06Z",
-      "lastSeenAt": "2026-09-03T20:43:06Z"
+      "firstSeenAt": "2026-09-03T21:16:44Z",
+      "lastSeenAt": "2026-09-03T21:16:44Z"
     }
   ]
 }

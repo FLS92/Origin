@@ -8,9 +8,10 @@
     "url": "https://claudionelda.com/",
     "domain": "claudionelda.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://claudionelda.com/cdn/shop/t/6/assets/blank_1x1.gif?v=50849316544257392421624522096"
   },
-  "scrapedAt": "2026-09-03T20:42:24Z",
+  "scrapedAt": "2026-09-03T21:16:06Z",
   "products": [
     {
       "id": "cafe-claudio-nelda-cafe-de-colombie-boubon-rose-notes-de-jasmin-et-citronelle",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/files/FINCAELVISO-BORBONJPG.jpg?v=1747574430",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-cafe-de-colombie-caturra-lave-notes-de-cranberrie-et-panela",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/files/ColombieCafeJpg.jpg?v=1747572967",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-cafe-du-perou",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/Cajamarcaresize.jpg?v=1639602206",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-cafe-de-bolivie-collasuyo",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/25118777232_a5f605e66e_c.jpg?v=1633554411",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-cafe-du-bresil",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/GrainNature.jpg?v=1632597217",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-cafe-du-honduras-marcala-bio",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/CatuaiRougeHondurasBio.jpg?v=1630482225",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-nicaragua",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/136341423_3737575039636748_8428455875349331109_n.jpg?v=1629751456",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-quindio-les-meilleurs-cafes",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/k-72_2.jpg?v=1628859748",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     },
     {
       "id": "cafe-claudio-nelda-sentir-andino",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/products/Isaura.jpg?v=1639260076",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Claudio Nelda",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:24Z",
-      "lastSeenAt": "2026-09-03T20:42:24Z"
+      "firstSeenAt": "2026-09-03T21:16:06Z",
+      "lastSeenAt": "2026-09-03T21:16:06Z"
     }
   ]
 }

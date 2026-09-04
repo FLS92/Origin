@@ -8,9 +8,10 @@
     "url": "https://clintonhill.fr/",
     "domain": "clintonhill.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://clintonhill.fr/wp-content/uploads/2023/05/cropped-cropped-Logo-horizontal-500-×-142-px.png"
   },
-  "scrapedAt": "2026-09-03T20:42:59Z",
+  "scrapedAt": "2026-09-03T21:16:38Z",
   "products": [
     {
       "id": "clinton-hill-bresil-san-antonio-torrefaction-espresso",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/12/Bresil-San-Antonio.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Clinton Hill",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:59Z",
-      "lastSeenAt": "2026-09-03T20:42:59Z"
+      "firstSeenAt": "2026-09-03T21:16:38Z",
+      "lastSeenAt": "2026-09-03T21:16:38Z"
     },
     {
       "id": "clinton-hill-colombie-micro-lot-vino",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2026/08/Colombie-Vino-Microlot.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Clinton Hill",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:59Z",
-      "lastSeenAt": "2026-09-03T20:42:59Z"
+      "firstSeenAt": "2026-09-03T21:16:38Z",
+      "lastSeenAt": "2026-09-03T21:16:38Z"
     },
     {
       "id": "clinton-hill-colombie-el-tambo-torrefaction-espresso",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/10/products.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Clinton Hill",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:59Z",
-      "lastSeenAt": "2026-09-03T20:42:59Z"
+      "firstSeenAt": "2026-09-03T21:16:38Z",
+      "lastSeenAt": "2026-09-03T21:16:38Z"
     },
     {
       "id": "clinton-hill-mexique-bella-vista-omniroast",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2026/01/Clinton-Hill-cafe-mexicain-chiapas-bella-vista.jpg.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Clinton Hill",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:59Z",
-      "lastSeenAt": "2026-09-03T20:42:59Z"
+      "firstSeenAt": "2026-09-03T21:16:38Z",
+      "lastSeenAt": "2026-09-03T21:16:38Z"
     },
     {
       "id": "clinton-hill-colombie-el-tambo-torrefaction-filtre",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/10/products.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Clinton Hill",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:59Z",
-      "lastSeenAt": "2026-09-03T20:42:59Z"
+      "firstSeenAt": "2026-09-03T21:16:38Z",
+      "lastSeenAt": "2026-09-03T21:16:38Z"
     },
     {
       "id": "clinton-hill-ethiopie-yirgacheffe",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2020/08/products.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Clinton Hill",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:59Z",
-      "lastSeenAt": "2026-09-03T20:42:59Z"
+      "firstSeenAt": "2026-09-03T21:16:38Z",
+      "lastSeenAt": "2026-09-03T21:16:38Z"
     }
   ]
 }

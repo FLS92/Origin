@@ -8,9 +8,10 @@
     "url": "https://www.aucoeurducafe.fr/",
     "domain": "aucoeurducafe.fr",
     "platform": "shopify",
-    "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source."
+    "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source.",
+    "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
   },
-  "scrapedAt": "2026-09-03T20:44:33Z",
+  "scrapedAt": "2026-09-04T07:04:23Z",
   "products": [
     {
       "id": "au-cur-du-cafe-costa-rica-tarrazu",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Costa_rica_fond_colorwebp.webp?v=1729627357",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-expresso",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Espresso_fond_color.webp?v=1729630126",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-guetemala-huehuetenango",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Guatemala_fond_color.webp?v=1729630457",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-mexique-chocaman-altura",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Mexique_fond_color.webp?v=1729631207",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-nicaragua",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Nicaragua_fond_color.webp?v=1729631722",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-sumatra-gayo-highland-hathi",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Sumatra_fond_color_1.webp?v=1729711297",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-caparao-bob-o-link",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Bob_o_Link_fond_color.webp?v=1729626894",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-box-decouverte",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/box-decouverte.webp?v=1712697619",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-bahia",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Bahia_fond_color.webp?v=1729626471",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-moka-yrgacheffe",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Yrgacheffe_fond_color.webp?v=1729629675",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-kenya",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Kenya-Chania-Estate-sans-fond-WEB.jpg?v=1774106103",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-decafeine",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/DK_Ethiopie_fond_color.webp?v=1729628588",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-blue-mountain-jamaique",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Bluemountain-copiepdf.png?v=1734293145",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-skybury",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Skybury-copiepdf.png?v=1734292905",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     },
     {
       "id": "au-cur-du-cafe-coeur-du-bouchon",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/CoeurduBouchon1.png?v=1777734619",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Au Cœur du Café",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:33Z",
-      "lastSeenAt": "2026-09-03T20:44:33Z"
+      "firstSeenAt": "2026-09-04T07:04:23Z",
+      "lastSeenAt": "2026-09-04T07:04:23Z"
     }
   ]
 }

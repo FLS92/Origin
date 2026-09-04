@@ -8,7 +8,8 @@
     "url": "https://www.terresdecafe.com/fr/",
     "domain": "terresdecafe.com",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.terresdecafe.com/img/logo.png"
   },
   {
     "id": "coutume-cafe",
@@ -19,7 +20,8 @@
     "url": "https://coutumecafe.com/",
     "domain": "coutumecafe.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400"
   },
   {
     "id": "lomi",
@@ -30,7 +32,8 @@
     "url": "https://lomi.cafe/",
     "domain": "lomi.cafe",
     "platform": "custom-swell",
-    "notes": "Next.js SSR, données produits embarquées en JSON dans __NEXT_DATA__ (backend Swell/schema.io), pas de shop direct evident sur mobile mais scrapable en HTTP simple"
+    "notes": "Next.js SSR, données produits embarquées en JSON dans __NEXT_DATA__ (backend Swell/schema.io), pas de shop direct evident sur mobile mais scrapable en HTTP simple",
+    "logoUrl": "https://lomi.cafe/icons/apple-touch-icon.png"
   },
   {
     "id": "belleville-brulerie",
@@ -41,7 +44,8 @@
     "url": "https://cafesbelleville.com/",
     "domain": "cafesbelleville.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377"
   },
   {
     "id": "l-arbre-a-cafe",
@@ -52,7 +56,8 @@
     "url": "https://larbreacafe.com/",
     "domain": "larbreacafe.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.larbreacafe.com/cdn/shop/files/logo-laac24-vertical_674095ea-346b-4191-af03-defc403300e3_1600x.png?v=1773997418"
   },
   {
     "id": "kawa",
@@ -63,7 +68,8 @@
     "url": "https://tanat.coffee/",
     "domain": "tanat.coffee",
     "platform": "duplicate",
-    "notes": "kawa.coffee redirige vers tanat.coffee: Kawa a été rebrandé en Tanat Coffee (id tanat-coffee, #26 de la liste). Pas de scraper séparé, à fusionner/ignorer pour éviter un doublon."
+    "notes": "kawa.coffee redirige vers tanat.coffee: Kawa a été rebrandé en Tanat Coffee (id tanat-coffee, #26 de la liste). Pas de scraper séparé, à fusionner/ignorer pour éviter un doublon.",
+    "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg"
   },
   {
     "id": "hexagone-cafe",
@@ -74,7 +80,8 @@
     "url": "https://www.hexagone-cafe.fr/",
     "domain": "hexagone-cafe.fr",
     "platform": "prestashop-gated",
-    "notes": "Boutique PrestaShop sur shop.hexagone-cafe.fr, mais accès reserve aux comptes pro (portail B2B avec formulaire d'inscription). Pas de catalogue public accessible en HTTP simple. Le domaine principal bloque aussi curl/TLS non-navigateur (connection reset)."
+    "notes": "Boutique PrestaShop sur shop.hexagone-cafe.fr, mais accès reserve aux comptes pro (portail B2B avec formulaire d'inscription). Pas de catalogue public accessible en HTTP simple. Le domaine principal bloque aussi curl/TLS non-navigateur (connection reset).",
+    "logoUrl": "https://www.hexagone-cafe.fr/wp-content/uploads/2018/06/nouveau-logo.png"
   },
   {
     "id": "dose",
@@ -85,7 +92,8 @@
     "url": "https://dose.paris/",
     "domain": "dose.paris",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://dose.paris/cdn/shop/files/logo-dose.png?v=1746034301&width=200"
   },
   {
     "id": "partisan-cafe-artisanal",
@@ -96,7 +104,8 @@
     "url": "https://parispartisancafe.com/",
     "domain": "parispartisancafe.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
   },
   {
     "id": "kb-coffee-roasters",
@@ -107,7 +116,8 @@
     "url": "https://kbcoffeeroasters.com/",
     "domain": "kbcoffeeroasters.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://kbcoffeeroasters.com/cdn/shop/files/visuel_KB_detoure_001b708d-56a9-466b-8e7a-321f003dc93e.jpg?v=1663248887"
   },
   {
     "id": "cafe-d-auteur",
@@ -118,7 +128,8 @@
     "url": "https://cafedauteur.com/",
     "domain": "cafedauteur.com",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafedauteur.com/themes/bos_highlands//assets/img/logo-h2.png"
   },
   {
     "id": "cafe-nibi",
@@ -129,7 +140,8 @@
     "url": "https://www.cafenibi.com/e-boutique",
     "domain": "cafenibi.com",
     "platform": "squarespace",
-    "notes": "Commerce Squarespace, catalogue accessible via ?format=json sur la page e-boutique. Poids/conditionnement embarqué dans le libellé de la variante (ex: \"200g - 9.90 €\"), a parser."
+    "notes": "Commerce Squarespace, catalogue accessible via ?format=json sur la page e-boutique. Poids/conditionnement embarqué dans le libellé de la variante (ex: \"200g - 9.90 €\"), a parser.",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fcc0a887-ec4d-4765-b916-ac2d9765be01/Logo+Nibi+fin3.png?format=1500w"
   },
   {
     "id": "anbassa",
@@ -140,7 +152,8 @@
     "url": "https://anbassa.fr/boutique/",
     "domain": "anbassa.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://anbassa.fr/wp-content/uploads/2021/10/logo-anbassa-noir.png"
   },
   {
     "id": "gramgram",
@@ -151,7 +164,8 @@
     "url": "https://gramgram.fr/",
     "domain": "gramgram.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram_logo_site-resp.svg"
   },
   {
     "id": "cafes-factorerie",
@@ -173,7 +187,8 @@
     "url": "https://cafeannecaron.com/",
     "domain": "cafeannecaron.com",
     "platform": "prestashop",
-    "notes": "Le site officiel affiche la marque \"Café Anne Caron\" (Maison Caron / Brûlerie Caron à Saclay)."
+    "notes": "Le site officiel affiche la marque \"Café Anne Caron\" (Maison Caron / Brûlerie Caron à Saclay).",
+    "logoUrl": "https://cafeannecaron.com/themes/classic/assets/img/logo-blanc.svg"
   },
   {
     "id": "gaia-torrefacteur",
@@ -184,7 +199,8 @@
     "url": "https://gaiatorrefacteur.com/",
     "domain": "gaiatorrefacteur.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://gaiatorrefacteur.com/cdn/shop/files/Gaia_logo_blanc_9f9994a3-79b0-42a4-bd0e-117d1534712e.png?crop=center&height=165&v=1676034353&width=180"
   },
   {
     "id": "liperli",
@@ -206,7 +222,8 @@
     "url": "https://arloscoffee.com/",
     "domain": "arloscoffee.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
   },
   {
     "id": "mojo-coffee-club",
@@ -217,7 +234,8 @@
     "url": "https://www.mojocoffeeclub.com/",
     "domain": "mojocoffeeclub.com",
     "platform": "inaccessible",
-    "notes": "Certificat SSL expiré sur le domaine — site inaccessible en HTTPS standard actuellement. A revisiter plus tard, pas de contournement (pas de désactivation de la verification TLS)."
+    "notes": "Certificat SSL expiré sur le domaine — site inaccessible en HTTPS standard actuellement. A revisiter plus tard, pas de contournement (pas de désactivation de la verification TLS).",
+    "logoUrl": "https://static.wixstatic.com/media/2e3a27_87c5b514705b4c2cbffed7fe309e2f43~mv2.png/v1/crop/x_0,y_50,w_801,h_700/fill/w_80,h_70,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/logo_circle.png"
   },
   {
     "id": "cafes-lecoeur",
@@ -228,7 +246,8 @@
     "url": "https://www.cafeslecoeur.fr/shop",
     "domain": "cafeslecoeur.fr",
     "platform": "odoo",
-    "notes": "E-commerce Odoo (module website_sale), pas d'API JSON publique standard — a scraper via parsing HTML des pages /shop."
+    "notes": "E-commerce Odoo (module website_sale), pas d'API JSON publique standard — a scraper via parsing HTML des pages /shop.",
+    "logoUrl": "https://www.cafeslecoeur.fr/web/image/website/1/logo/Caf%C3%A9s%20Lecoeur?unique=cc9073c"
   },
   {
     "id": "laplaine-torrefacteur",
@@ -239,7 +258,8 @@
     "url": "https://laplaine.fr/",
     "domain": "laplaine.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://laplaine.fr/cdn/shop/files/LAPLAINE2_5591cc07-0f87-4069-bcdb-9c10bffd82c3.png?v=1727858394&width=600"
   },
   {
     "id": "brulerie-des-gobelins",
@@ -250,7 +270,8 @@
     "url": "https://www.comptoirsrichard.fr/content/47-brulerie-des-gobelins",
     "domain": "comptoirsrichard.fr",
     "platform": "retailer-only",
-    "notes": "bruleriedesgobelins.fr est un site vitrine Simplebo sans vente en ligne directe. Les produits sont vendus via Comptoirs Richard (comptoirsrichard.fr, semble être du PrestaShop), un revendeur tiers/multi-marques, pas la boutique propre du torréfacteur — a valider avec l'utilisateur avant de scraper une source tierce."
+    "notes": "bruleriedesgobelins.fr est un site vitrine Simplebo sans vente en ligne directe. Les produits sont vendus via Comptoirs Richard (comptoirsrichard.fr, semble être du PrestaShop), un revendeur tiers/multi-marques, pas la boutique propre du torréfacteur — a valider avec l'utilisateur avant de scraper une source tierce.",
+    "logoUrl": "https://mediawww.comptoirsrichard.fr/modules/pm_advancedtopmenu/column_icons/49-fr.jpg"
   },
   {
     "id": "bel-horizon-coffee-roasters",
@@ -261,7 +282,8 @@
     "url": "https://belhorizon.coffee/",
     "domain": "belhorizon.coffee",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
   },
   {
     "id": "cur-coffee-roasters",
@@ -283,7 +305,8 @@
     "url": "https://tanat.coffee/",
     "domain": "tanat.coffee",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg"
   },
   {
     "id": "substance",
@@ -294,7 +317,8 @@
     "url": "https://www.substancecafe.com/",
     "domain": "substancecafe.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.substancecafe.com/wp-content/uploads/2026/03/cropped-substance-logo-inverse-transp-scaled-1.png"
   },
   {
     "id": "early-bird",
@@ -305,7 +329,8 @@
     "url": "https://earlybirdcoffee.fr/",
     "domain": "earlybirdcoffee.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://earlybirdcoffee.fr/wp-content/themes/1.6.1/images/2024-color-1.svg"
   },
   {
     "id": "cafe-claudio-nelda",
@@ -316,7 +341,8 @@
     "url": "https://claudionelda.com/",
     "domain": "claudionelda.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://claudionelda.com/cdn/shop/t/6/assets/blank_1x1.gif?v=50849316544257392421624522096"
   },
   {
     "id": "espeletia-cafe",
@@ -338,7 +364,8 @@
     "url": "https://www.cafemokxa.com/",
     "domain": "cafemokxa.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
   },
   {
     "id": "celsius-roasters",
@@ -349,7 +376,8 @@
     "url": "https://celsius-roasters.fr/",
     "domain": "celsius-roasters.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://celsius-roasters.fr/cdn/shop/files/Celsius_Roasters_logo_en_couleurs.png?v=1698744069"
   },
   {
     "id": "fika-roasters",
@@ -360,7 +388,8 @@
     "url": "https://www.fikaroasters.fr/",
     "domain": "fikaroasters.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png"
   },
   {
     "id": "loutsa",
@@ -371,7 +400,8 @@
     "url": "https://www.loutsa.fr/",
     "domain": "loutsa.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
   },
   {
     "id": "cafe-toque",
@@ -382,7 +412,8 @@
     "url": "https://www.lecafetoque.fr/",
     "domain": "lecafetoque.fr",
     "platform": "odoo",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.lecafetoque.fr/web/image/website/1/logo/Lecafetoque?unique=7f0a17a"
   },
   {
     "id": "cafe-chulo",
@@ -393,7 +424,8 @@
     "url": "https://cafechulo.fr/",
     "domain": "cafechulo.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/08/Cafe-Chulo_logo_noir_80.png?fit=80%2C80&ssl=1"
   },
   {
     "id": "cafe-come",
@@ -404,7 +436,8 @@
     "url": "https://cafe-come.fr/",
     "domain": "cafe-come.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/1.png"
   },
   {
     "id": "placid-roasters",
@@ -415,7 +448,8 @@
     "url": "https://www.placidroasters.com/",
     "domain": "placidroasters.com",
     "platform": "wix",
-    "notes": "Site Wix — contenu boutique rendu en JavaScript côté client, pas d'API produits publique simple trouvée. A confirmer avec un rendu navigateur avant d'écrire un scraper (site JS-only, pas de solution HTTP simple fiable)."
+    "notes": "Site Wix — contenu boutique rendu en JavaScript côté client, pas d'API produits publique simple trouvée. A confirmer avec un rendu navigateur avant d'écrire un scraper (site JS-only, pas de solution HTTP simple fiable).",
+    "logoUrl": "https://static.wixstatic.com/media/30340b_d55c7558278445c9a94eb30ad890b4a8~mv2.png/v1/crop/x_8,y_0,w_2023,h_788/fill/w_486,h_188,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/placid%20logo.png"
   },
   {
     "id": "signe-extrait",
@@ -426,7 +460,8 @@
     "url": "https://www.extrait.fr/",
     "domain": "extrait.fr",
     "platform": "prestashop",
-    "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active."
+    "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active.",
+    "logoUrl": "https://www.extrait.fr/img/extraitfr-logo-1455523302.jpg"
   },
   {
     "id": "kaova",
@@ -437,7 +472,8 @@
     "url": "https://kaovacafe.fr/",
     "domain": "kaovacafe.fr",
     "platform": "blocked",
-    "notes": "Le domaine renvoie 403 Forbidden sur toute requête HTTP simple (probable WAF anti-bot). Semble surtout être un café/pâtisserie avec vente de café sur place, pas de boutique en ligne identifiée dans les résultats de recherche."
+    "notes": "Le domaine renvoie 403 Forbidden sur toute requête HTTP simple (probable WAF anti-bot). Semble surtout être un café/pâtisserie avec vente de café sur place, pas de boutique en ligne identifiée dans les résultats de recherche.",
+    "logoUrl": null
   },
   {
     "id": "cafes-goneo",
@@ -448,7 +484,8 @@
     "url": "https://shop.cafes-goneo.fr/",
     "domain": "shop.cafes-goneo.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://shop.cafes-goneo.fr/img/logo-17712465632.jpg"
   },
   {
     "id": "tower-coffee",
@@ -481,7 +518,8 @@
     "url": "https://kaffa-roastery.com/",
     "domain": "kaffa-roastery.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
   },
   {
     "id": "clinton-hill",
@@ -492,7 +530,8 @@
     "url": "https://clintonhill.fr/",
     "domain": "clintonhill.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://clintonhill.fr/wp-content/uploads/2023/05/cropped-cropped-Logo-horizontal-500-×-142-px.png"
   },
   {
     "id": "l-alchimiste",
@@ -503,7 +542,8 @@
     "url": "https://www.alchimiste-cafes.com/",
     "domain": "alchimiste-cafes.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/01/instagram-header.svg"
   },
   {
     "id": "cafe-piha",
@@ -514,7 +554,8 @@
     "url": "https://www.cafepiha.com/e-boutique/",
     "domain": "cafepiha.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg"
   },
   {
     "id": "la-pelle-cafe",
@@ -525,7 +566,8 @@
     "url": "https://lapellecafe.com/",
     "domain": "lapellecafe.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://lapellecafe.com/wp-content/uploads/2017/12/admin-ajax.png"
   },
   {
     "id": "cafes-lugat",
@@ -547,7 +589,8 @@
     "url": "https://www.yellowpeak.fr/boutique/",
     "domain": "yellowpeak.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.yellowpeak.fr/wp-content/uploads/elementor/thumbs/Logo-Yellow-Peak-torrefacteur-cafe-de-specialite-pau-1-qyp8s8axq94t7rcp0hmd3u4fj2k1o33ijao6rmhdw0.png"
   },
   {
     "id": "la-torref-ico",
@@ -558,7 +601,8 @@
     "url": "https://www.latorref.com/",
     "domain": "latorref.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
   },
   {
     "id": "cafes-kikeran",
@@ -580,7 +624,8 @@
     "url": "https://www.labruleriedumarche.fr/",
     "domain": "labruleriedumarche.fr",
     "platform": "site-changed",
-    "notes": "Le domaine labruleriedumarche.fr ne sert plus la boutique Shopify constatée lors de la détection initiale (2026-09-03) — il répond maintenant avec un site WordPress générique se présentant comme \"un blog passionné dédié au café, au thé et à la cuisine\" (plugin Rank Math), sans catalogue ni panier. Domaine probablement expiré/racheté. A revérifier plus tard ou à retirer de la liste."
+    "notes": "Le domaine labruleriedumarche.fr ne sert plus la boutique Shopify constatée lors de la détection initiale (2026-09-03) — il répond maintenant avec un site WordPress générique se présentant comme \"un blog passionné dédié au café, au thé et à la cuisine\" (plugin Rank Math), sans catalogue ni panier. Domaine probablement expiré/racheté. A revérifier plus tard ou à retirer de la liste.",
+    "logoUrl": "https://www.labruleriedumarche.fr/wp-content/uploads/2026/03/labruleriedumarche-fr-logo.png"
   },
   {
     "id": "l-optimist-cafe",
@@ -591,7 +636,8 @@
     "url": "https://www.loptimistcafe.com/",
     "domain": "loptimistcafe.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.loptimistcafe.com/wp-content/uploads/2026/03/Optimist_logo_primaire_1_CMJN-460x250.png"
   },
   {
     "id": "la-fabrique-du-cafe",
@@ -602,7 +648,8 @@
     "url": "https://lafabriqueducafe.fr/boutique/",
     "domain": "lafabriqueducafe.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
   },
   {
     "id": "hayuco-coffee-roasters",
@@ -613,7 +660,8 @@
     "url": "https://www.hayuco.coffee/",
     "domain": "hayuco.coffee",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226"
   },
   {
     "id": "cafes-gorille",
@@ -624,7 +672,8 @@
     "url": "https://cafes-gorille.com/",
     "domain": "cafes-gorille.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg"
   },
   {
     "id": "montista",
@@ -635,7 +684,8 @@
     "url": "https://montista.com/cafe-en-grain/",
     "domain": "montista.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png"
   },
   {
     "id": "dyade-coffee",
@@ -646,7 +696,8 @@
     "url": "https://dyadecoffee.com/shop",
     "domain": "dyadecoffee.com",
     "platform": "custom-fragile",
-    "notes": "Site construit avec Hostinger Website Builder (page-builder statique), pas d'API produits structurée identifiée. A revisiter manuellement plutôt que de forcer un scraper HTML fragile sur les blocs du page-builder."
+    "notes": "Site construit avec Hostinger Website Builder (page-builder statique), pas d'API produits structurée identifiée. A revisiter manuellement plutôt que de forcer un scraper HTML fragile sur les blocs du page-builder.",
+    "logoUrl": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/A85E9vywBGiryq0K/logo_emblem_dyade_alabaster-AwvDbNyBE6F9VyNB.png"
   },
   {
     "id": "black-flamingo",
@@ -668,7 +719,8 @@
     "url": "https://valini.fr/",
     "domain": "valini.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
   },
   {
     "id": "corbeau-specialty-coffee-roasters",
@@ -679,7 +731,8 @@
     "url": "https://www.corbeau.coffee/",
     "domain": "corbeau.coffee",
     "platform": "wix",
-    "notes": "Site Wix, semble être surtout un coffee-bar (extractions sur place) sans boutique en ligne évidente pour du café en grain — a confirmer visuellement avant de développer un scraper JS."
+    "notes": "Site Wix, semble être surtout un coffee-bar (extractions sur place) sans boutique en ligne évidente pour du café en grain — a confirmer visuellement avant de développer un scraper JS.",
+    "logoUrl": "https://static.parastorage.com/client/pfavico.ico"
   },
   {
     "id": "cafe-plume",
@@ -690,7 +743,8 @@
     "url": "https://plumedecafe.fr/",
     "domain": "plumedecafe.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png"
   },
   {
     "id": "cafe-18grammes",
@@ -712,7 +766,8 @@
     "url": "https://www.labruleriedesfilatiers.fr/",
     "domain": "labruleriedesfilatiers.fr",
     "platform": "odoo",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
   {
     "id": "cafe-frate",
@@ -723,7 +778,8 @@
     "url": "https://www.cafefrate.com/boutique/",
     "domain": "cafefrate.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/logo-cafe-frate-1.png"
   },
   {
     "id": "l-ilot-cafes",
@@ -734,7 +790,8 @@
     "url": "https://www.lilotcafes.fr/boutique/",
     "domain": "lilotcafes.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
   },
   {
     "id": "torrea",
@@ -745,7 +802,8 @@
     "url": "https://torrea.fr/shop/",
     "domain": "torrea.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://torrea.fr/wp-content/uploads/2026/07/Logo-torrea.png"
   },
   {
     "id": "cafe-corto",
@@ -756,7 +814,8 @@
     "url": "https://cafe-corto.fr/",
     "domain": "cafe-corto.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe-corto.fr/cdn/shop/files/CAFE-CORTO-Logo-rouge_2a40c653-fdfb-4935-b471-fa88a5fa82dd.png?v=1774947910&width=600"
   },
   {
     "id": "moka",
@@ -767,7 +826,8 @@
     "url": "https://www.brulerie-moka.com/shop/",
     "domain": "brulerie-moka.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
   },
   {
     "id": "deep-coffee-roasters",
@@ -778,7 +838,8 @@
     "url": "https://deep.coffee/",
     "domain": "deep.coffee",
     "platform": "shopify-unavailable",
-    "notes": "Boutique Shopify actuellement indisponible (page \"Boutique indisponible\", HTTP 402 — store gelée, probablement pour non-paiement). Rien à scraper tant que la boutique n'est pas réactivée."
+    "notes": "Boutique Shopify actuellement indisponible (page \"Boutique indisponible\", HTTP 402 — store gelée, probablement pour non-paiement). Rien à scraper tant que la boutique n'est pas réactivée.",
+    "logoUrl": null
   },
   {
     "id": "cafes-magali",
@@ -789,7 +850,8 @@
     "url": "https://www.cafesmagali.fr/boutique/",
     "domain": "cafesmagali.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/06/LogoMagaliFull.svg"
   },
   {
     "id": "colombian-barista",
@@ -811,7 +873,8 @@
     "url": "https://colors.coffee/",
     "domain": "colors.coffee",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://colors.coffee/cdn/shop/files/LOGO_ICONS_Plan_de_travail_1_copie_3.png?crop=center&height=131&v=1751302534&width=250"
   },
   {
     "id": "la-touche-cafe",
@@ -833,7 +896,8 @@
     "url": "https://www.cime-cafe.fr/nos-cafes.html",
     "domain": "cime-cafe.fr",
     "platform": "magento",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg"
   },
   {
     "id": "cafe-loule",
@@ -844,7 +908,8 @@
     "url": "https://cafe-loule.fr/",
     "domain": "cafe-loule.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe-loule.fr/cdn/shop/files/Cafe_LouLe_Logo.svg?v=1756610202"
   },
   {
     "id": "kultivar",
@@ -855,7 +920,8 @@
     "url": "https://www.kultivarcafe.fr/",
     "domain": "kultivarcafe.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
   },
   {
     "id": "tinto",
@@ -866,7 +932,8 @@
     "url": "https://www.tintonantes.fr/boutique-de-cafe-en-ligne/",
     "domain": "tintonantes.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
   },
   {
     "id": "cafes-boc",
@@ -877,7 +944,8 @@
     "url": "https://www.cafesboc.fr/boutique/",
     "domain": "cafesboc.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/05/cafes-boc-logo.png"
   },
   {
     "id": "cafe-1802",
@@ -888,7 +956,8 @@
     "url": "https://cafe1802.fr/",
     "domain": "cafe1802.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
   {
     "id": "hug",
@@ -899,7 +968,8 @@
     "url": "https://hugcoffees.com/",
     "domain": "hugcoffees.com",
     "platform": "inaccessible",
-    "notes": "Erreur TLS (\"internal error\" lors du handshake) sur toutes les requêtes HTTPS — configuration serveur cassée, site inaccessible en HTTP simple actuellement."
+    "notes": "Erreur TLS (\"internal error\" lors du handshake) sur toutes les requêtes HTTPS — configuration serveur cassée, site inaccessible en HTTP simple actuellement.",
+    "logoUrl": null
   },
   {
     "id": "brulerie-du-leon",
@@ -910,7 +980,8 @@
     "url": "https://brulerieduleon.com/",
     "domain": "brulerieduleon.com",
     "platform": "woocommerce",
-    "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts. | WooCommerce actif sur le site mais l'API Store (/wp-json/wc/store/v1/products) répond 404 \"aucune route correspondante\" — probablement une version de WooCommerce trop ancienne ou l'API désactivée. 0 produit récupéré, pas de solution générique appliquée (nécessiterait un scraper HTML dédié comme pour PrestaShop)."
+    "notes": "Marque soeur de Cafés Bozec (même famille/entreprise), sites distincts. | WooCommerce actif sur le site mais l'API Store (/wp-json/wc/store/v1/products) répond 404 \"aucune route correspondante\" — probablement une version de WooCommerce trop ancienne ou l'API désactivée. 0 produit récupéré, pas de solution générique appliquée (nécessiterait un scraper HTML dédié comme pour PrestaShop).",
+    "logoUrl": null
   },
   {
     "id": "cafes-bozec",
@@ -921,7 +992,8 @@
     "url": "https://www.cafesbozec.fr/",
     "domain": "cafesbozec.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1"
   },
   {
     "id": "caffe-cataldi",
@@ -932,7 +1004,8 @@
     "url": "https://caffe-cataldi.fr/fr/",
     "domain": "caffe-cataldi.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.caffe-cataldi.fr/img/caffe-cataldi-meilleur-torrefacteur-de-france-2010-logo-1521212305.jpg"
   },
   {
     "id": "le-cafe-qui-fume",
@@ -943,7 +1016,8 @@
     "url": "https://lecafequifume.com/",
     "domain": "lecafequifume.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
   },
   {
     "id": "omnino",
@@ -954,7 +1028,8 @@
     "url": "https://cafe.omnino.fr/",
     "domain": "cafe.omnino.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafe.omnino.fr/cdn/shop/files/omnino-logo_200x.png?v=1613694607"
   },
   {
     "id": "cafes-reck",
@@ -965,7 +1040,8 @@
     "url": "https://www.reck.fr/",
     "domain": "reck.fr",
     "platform": "prestashop",
-    "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte."
+    "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte.",
+    "logoUrl": "https://www.reck.fr/img/reck-logo-1588586661.jpg"
   },
   {
     "id": "cafe-bretelles",
@@ -976,7 +1052,8 @@
     "url": "https://cafe-bretelles.fr/",
     "domain": "cafe-bretelles.fr",
     "platform": "squarespace",
-    "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\". | La page /shop répond en JSON (Squarespace) mais sans clé \"items\" au niveau racine malgré itemCount=17 — structure de réponse différente de celle de Café Nibi, scraper actuel incompatible. A investiguer."
+    "notes": "Coffee shop qui sert le café torréfié par Mokxa (pas de torréfaction propre) — à confirmer s'il y a une vente de grains en ligne (section Shop/Cart présente) avant de traiter comme source de café \"Café Bretelles\". | La page /shop répond en JSON (Squarespace) mais sans clé \"items\" au niveau racine malgré itemCount=17 — structure de réponse différente de celle de Café Nibi, scraper actuel incompatible. A investiguer.",
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/5bfc67f285ede1c83e604dac/1549444747610-6R7OM5W3GS02NL98NGNU/favicon.ico?format=100w"
   },
   {
     "id": "moklair",
@@ -987,7 +1064,8 @@
     "url": "https://moklair.fr/shop/",
     "domain": "moklair.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg"
   },
   {
     "id": "coffee-makers",
@@ -998,7 +1076,8 @@
     "url": "https://coffeemakers.fr/",
     "domain": "coffeemakers.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://coffeemakers.fr/cdn/shop/files/animiertes-gif-von-online-umwandeln-de_300x300.gif?v=1625085482"
   },
   {
     "id": "pikaro-coffee",
@@ -1009,7 +1088,8 @@
     "url": "https://www.pikaro.fr/",
     "domain": "pikaro.fr",
     "platform": "wizishop",
-    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
+    "logoUrl": "https://media.cdnws.com/_i/44626/791/317/93/pikaro-torrefaction-cafe-the-cadeaux.png"
   },
   {
     "id": "cafes-muda",
@@ -1020,7 +1100,8 @@
     "url": "https://cafesmuda.fr/",
     "domain": "cafesmuda.fr",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
   },
   {
     "id": "kawaty",
@@ -1031,7 +1112,8 @@
     "url": "https://www.kawaty.fr/",
     "domain": "kawaty.fr",
     "platform": "wizishop",
-    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
+    "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg"
   },
   {
     "id": "au-cur-du-cafe",
@@ -1042,6 +1124,7 @@
     "url": "https://www.aucoeurducafe.fr/",
     "domain": "aucoeurducafe.fr",
     "platform": "shopify",
-    "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source."
+    "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source.",
+    "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
   }
 ]

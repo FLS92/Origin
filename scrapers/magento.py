@@ -98,27 +98,15 @@ def scrape(roaster_meta):
             "inStock": True,
             "stockStatus": "instock",
         }
-        rp = RawProduct(
+        raw_products.append(RawProduct(
             slug=f"p{item['id']}",
             name=item["name"],
             retailers=[retailer],
             raw_description_html=None,
             image_url=item["image"],
-        )
-        rp.extracted = item["extracted"]
-        raw_products.append(rp)
+            extracted=item["extracted"],
+        ))
 
     data, summary = apply_products(roaster_meta, raw_products)
-
-    by_slug = {rp.slug: rp for rp in raw_products}
-    for prod in data["products"]:
-        slug = prod["id"][len(roaster_meta["id"]) + 1:]
-        rp = by_slug.get(slug)
-        if not rp or not getattr(rp, "extracted", None):
-            continue
-        for field, value in rp.extracted.items():
-            if prod.get(field) is None:
-                prod[field] = value
-
     save(roaster_meta["id"], data)
     return summary

@@ -8,9 +8,10 @@
     "url": "https://www.brulerie-moka.com/shop/",
     "domain": "brulerie-moka.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
   },
-  "scrapedAt": "2026-09-03T20:43:57Z",
+  "scrapedAt": "2026-09-03T21:17:28Z",
   "products": [
     {
       "id": "moka-maritza-nicaragua",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/maritza-nicaragua.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-lonya-perou",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/lonya-perou-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-zocapa-mexique",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/zocapa-mexique-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-shanga-rwanda",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/shanga-rwanda.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-julio-cesar-colombie",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/julio-cesar-colombie-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-misadhi-kenya",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/misadhi-kenya-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-edilberto-colombie",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/edilberto-brulerie_moka.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-cerrado-bresil",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/cerrado-bresil-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-alma-guatemala",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/alma-guatemala-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-copanito-honduras",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/copanito-honduras-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-hadama-ethiopie",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/hadama-ethiopie-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-negele-ethiopie",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/negele-ethiopie.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-melaku-ethiopie",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/melaku-ethiopie-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-palestina-colombie",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/palestina-colombie-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-lucha-libre-mexique",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/freepik__shooting-photo-professionnel-de-packaging-de-caf-d__7035.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-rosa-colombie-bio",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/07/etiq-rosa-min.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-decaf-colombie",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/decaf-colombie-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     },
     {
       "id": "moka-nobo-nicaragua",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/10/etiq-nobo-min.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "MÖKA",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:57Z",
-      "lastSeenAt": "2026-09-03T20:43:57Z"
+      "firstSeenAt": "2026-09-03T21:17:28Z",
+      "lastSeenAt": "2026-09-03T21:17:28Z"
     }
   ]
 }

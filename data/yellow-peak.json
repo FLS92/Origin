@@ -8,9 +8,10 @@
     "url": "https://www.yellowpeak.fr/boutique/",
     "domain": "yellowpeak.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.yellowpeak.fr/wp-content/uploads/elementor/thumbs/Logo-Yellow-Peak-torrefacteur-cafe-de-specialite-pau-1-qyp8s8axq94t7rcp0hmd3u4fj2k1o33ijao6rmhdw0.png"
   },
-  "scrapedAt": "2026-09-03T20:43:09Z",
+  "scrapedAt": "2026-09-03T21:16:47Z",
   "products": [
     {
       "id": "yellow-peak-cafe-doradito",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/02/cafe-doradito-chocolat-noir-amande-minas-gerais-bresil-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Yellow Peak",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
+      "firstSeenAt": "2026-09-03T21:16:47Z",
+      "lastSeenAt": "2026-09-03T21:16:47Z"
     },
     {
       "id": "yellow-peak-cafe-alapi-honey-du-bresil",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/02/cafe-alapi-noix-chocolat-noir-minas-gerais-bresil-yellow-peak-cafe-de-specialite.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Yellow Peak",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
+      "firstSeenAt": "2026-09-03T21:16:47Z",
+      "lastSeenAt": "2026-09-03T21:16:47Z"
     },
     {
       "id": "yellow-peak-cafe-coucal",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/07/cafe-coucal-floral-caramel-yirgacheffe-ethiopie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Yellow Peak",
@@ -108,140 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-atelier-degustation-cafe-cafeologie",
-      "name": "Atelier caféologie entre amis",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/09/atelier-decouverte-degustation-yellow-peak-torrefacteur-cafe-de-specialite.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-degustation-cafe-cafeologie/",
-          "price": 35.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-atelier-methodes-douces",
-      "name": "Atelier méthodes douces",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/05/atelier-methodes-douces-versage-eau-v60-yellow-peak-cours-slow-coffee.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-methodes-douces/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-atelier-expresso",
-      "name": "Atelier expresso",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/atelier-expresso-extraction-cafe-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-expresso/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-atelier-cupping",
-      "name": "Atelier cupping",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/atelier-cupping-degustation-cafe-chez-yellow-peak-torrefacteur-pau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-cupping/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
+      "firstSeenAt": "2026-09-03T21:16:47Z",
+      "lastSeenAt": "2026-09-03T21:16:47Z"
     },
     {
       "id": "yellow-peak-cafe-monterita",
@@ -257,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/cafe-monterita-pate-d-amande-chocolat-cajamarca-perou-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Yellow Peak",
@@ -273,239 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-atelier-latte-art-pau",
-      "name": "Atelier latte art",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2024/10/formation-barista-latte-art-preparation-cappuccino-yellow-peak.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/atelier-latte-art-pau/",
-          "price": 0.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-kit-hario-v60-slow-coffee-en-verre",
-      "name": "Kit Hario V60 slow coffee en verre",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2024/12/kit-filtre-v60-avec-carafe-en-verre-et-cuillere-doseuse-pour-cafe-hario-yellow-peak-torrefacteur-cafe-pau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/kit-hario-v60-slow-coffee-en-verre/",
-          "price": 36.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-cafetiere-filtre-moccamaster",
-      "name": "Cafetière filtre Moccamaster Kbg Select – 1,25L",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2024/12/cafetiere-filtre-pro-moccamaster-blanche-yellow-peak-torrefacteur-cafe-pau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-filtre-moccamaster/",
-          "price": 255.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-filtres-a-cafe-kalita",
-      "name": "Filtres à café Kalita",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2022/02/filtre-papier-kalita-metal.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-a-cafe-kalita/",
-          "price": 10.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-filtres-a-cafe-1-tasse",
-      "name": "Filtres à café pour 1 tasse Hario",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2022/01/filtres-1-tasse-cafe-eau-scaled-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-a-cafe-1-tasse/",
-          "price": 7.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-moulin-manuel-hario-skerton",
-      "name": "Moulin manuel Hario skerton+",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2022/01/moulin-manuel-hario-skerton--scaled-scaled.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/moulin-manuel-hario-skerton/",
-          "price": 47.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-cafetiere-aeropress",
-      "name": "Cafetière Aeropress",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2021/02/cafetiere-aeropress-slow-coffee-yellow-peak-torrefacteur-cafes-de-specialite-pau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-aeropress/",
-          "price": 45.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
+      "firstSeenAt": "2026-09-03T21:16:47Z",
+      "lastSeenAt": "2026-09-03T21:16:47Z"
     },
     {
       "id": "yellow-peak-cafe-decafeine-roupillon",
@@ -521,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/cafe-decafeine-roupillon-caramel-vanille-caldas-colombie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Yellow Peak",
@@ -537,173 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-filtres-papier-origami",
-      "name": "Filtres papier Origami x 100",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/filtresorigamicoffee.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-papier-origami/",
-          "price": 8.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-dripper-origami",
-      "name": "Dripper Origami 2 tasses en porcelaine + support",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/InShot_20220121_175837230.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/dripper-origami/",
-          "price": 42.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-filtres-pour-chemex-6-tasses",
-      "name": "Filtres pour Chemex 6 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/filtres-chemex-6-tasses-boite-de-100-yellow-peak-boutique-torrefacteur-cafes-de-specialite-pau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-pour-chemex-6-tasses/",
-          "price": 10.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-filtres-pour-chemex-3-tasses",
-      "name": "Filtres pour Chemex 3 tasses",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/filtres-chemex-3-tasses-boite-de-100-yellow-peak-boutique-torrefacteur-cafes-de-specialite-pau.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/filtres-pour-chemex-3-tasses/",
-          "price": 10.5,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-cafetiere-piston-french-press",
-      "name": "Cafetière piston",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/cafetiere-piston-french-press-yellow-peak-torrefacteur-cafes-de-specialite.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-piston-french-press/",
-          "price": 26.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
+      "firstSeenAt": "2026-09-03T21:16:47Z",
+      "lastSeenAt": "2026-09-03T21:16:47Z"
     },
     {
       "id": "yellow-peak-cafe-papou",
@@ -719,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/cafe-papou-cacao-equilibre-wahgi-valley-papouasie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Yellow Peak",
@@ -735,41 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
-    },
-    {
-      "id": "yellow-peak-cafetiere-chemex",
-      "name": "Cafetière Chemex",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
-      "description": null,
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/09/cafetiere-chemex-yellow-peak-torrefacteur-cafes-de-specialite-1.jpg",
-      "harvestYear": null,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafetiere-chemex/",
-          "price": 59.0,
-          "currency": "EUR",
-          "unitWeightG": null,
-          "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
-        }
-      ],
-      "available": true,
-      "firstSeenAt": "2026-09-03T20:43:09Z",
-      "lastSeenAt": "2026-09-03T20:43:09Z"
+      "firstSeenAt": "2026-09-03T21:16:47Z",
+      "lastSeenAt": "2026-09-03T21:16:47Z"
     }
   ]
 }

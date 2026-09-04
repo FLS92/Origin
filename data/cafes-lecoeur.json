@@ -8,9 +8,10 @@
     "url": "https://www.cafeslecoeur.fr/shop",
     "domain": "cafeslecoeur.fr",
     "platform": "odoo",
-    "notes": "E-commerce Odoo (module website_sale), pas d'API JSON publique standard — a scraper via parsing HTML des pages /shop."
+    "notes": "E-commerce Odoo (module website_sale), pas d'API JSON publique standard — a scraper via parsing HTML des pages /shop.",
+    "logoUrl": "https://www.cafeslecoeur.fr/web/image/website/1/logo/Caf%C3%A9s%20Lecoeur?unique=cc9073c"
   },
-  "scrapedAt": "2026-09-03T20:42:10Z",
+  "scrapedAt": "2026-09-03T21:15:52Z",
   "products": [
     {
       "id": "cafes-lecoeur-p174",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/368/image_1024/Le%20m%C3%A9lange%20Espresso%20-%C2%A0Caf%C3%A9%20en%20grain%20pour%20Espresso%20%28Grain%29?unique=473f470",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "cafes-lecoeur-p175",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/354/image_1024/The%20Click%20-%20Caf%C3%A9%20en%20grain%20du%20Br%C3%A9sil%2C%20gourmand%20et%20%C3%A9quilibr%C3%A9%20%28Grain%29?unique=6bbc059",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "cafes-lecoeur-p177",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/322/image_1024/Huanuco%20-%C2%A0Caf%C3%A9%20en%20grain%20du%20P%C3%A9rou%2C%20fin%20et%20aromatique%20%28Grain%29?unique=34f6a3c",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "cafes-lecoeur-p176",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/327/image_1024/%C3%89thiopie%20D%C3%A9caf%C3%A9in%C3%A9%20-%C2%A0Caf%C3%A9%20en%20grain%20d%C3%A9caf%C3%A9in%C3%A9%2C%20floral%20et%20%C3%A9l%C3%A9gant%20%28Grain%29?unique=c88f31f",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "cafes-lecoeur-p179",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/332/image_1024/Sidamo%20Bombe%20bona%20-%C2%A0Caf%C3%A9%20en%20grain%20d%E2%80%99%C3%89thiopie%2C%20floral%20et%20fruit%C3%A9%20%28Grain%29?unique=260c329",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "cafes-lecoeur-p178",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/363/image_1024/Linarco%20-%C2%A0Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20ferment%C3%A9%20et%20complexe%20%28Grain%29?unique=f0f016a",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     },
     {
       "id": "cafes-lecoeur-p181",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/347/image_1024/El%20Diviso%20-%C2%A0Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20fermentation%20ma%C3%AEtris%C3%A9e%20%28Grain%29?unique=53b6f81",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Lecoeur",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:10Z",
-      "lastSeenAt": "2026-09-03T20:42:10Z"
+      "firstSeenAt": "2026-09-03T21:15:52Z",
+      "lastSeenAt": "2026-09-03T21:15:52Z"
     }
   ]
 }

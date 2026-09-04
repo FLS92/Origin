@@ -12,7 +12,8 @@ import re
 import unicodedata
 from datetime import datetime, timezone
 
-from .paraphrase import paraphrase
+from .coffee_filter import excluded_reason
+from .paraphrase import analyze_product
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data")
 
@@ -44,37 +45,48 @@ def save(roaster_id, data):
 
 
 class RawProduct:
-    """What a platform scraper produces for one product, before merge."""
+    """What a platform scraper produces for one product, before merge.
+
+    `extracted` carries fields the platform itself gave us with confidence
+    (e.g. a WooCommerce "Producteur" attribute, Magento's hover-panel) — see
+    the per-schema-field mapping in _new_product_dict. Anything extracted
+    is trusted over anything the LLM later infers from free-text prose.
+    """
 
     def __init__(self, slug, name, retailers, raw_description_html=None,
-                 image_url=None, unit_weight_g=None):
+                 image_url=None, unit_weight_g=None, extracted=None):
         self.slug = slug
         self.name = name
         self.retailers = retailers  # list of dicts matching the schema's retailer shape
         self.raw_description_html = raw_description_html
         self.image_url = image_url
+        self.extracted = extracted or {}
+
+
+SCHEMA_FIELDS = [
+    "originCountry", "originDetail", "process", "variety", "producer",
+    "score", "acidity", "body", "method", "roastLevel", "flavors",
+    "harvestYear",
+]
 
 
 def _new_product_dict(roaster_id, raw, ts):
     pid = f"{roaster_id}-{raw.slug}"
-    description = paraphrase(raw.name, raw.raw_description_html)
+    analysis = analyze_product(raw.name, raw.raw_description_html)
+
+    fields = {f: None for f in SCHEMA_FIELDS}
+    for f in SCHEMA_FIELDS:
+        if raw.extracted.get(f) is not None:
+            fields[f] = raw.extracted[f]
+        elif analysis.get(f) is not None:
+            fields[f] = analysis[f]
+
     return {
         "id": pid,
         "name": raw.name,
-        "originCountry": None,
-        "originDetail": None,
-        "process": None,
-        "variety": None,
-        "producer": None,
-        "score": None,
-        "acidity": None,
-        "body": None,
-        "method": None,
-        "roastLevel": None,
-        "flavors": None,
-        "description": description,
+        **fields,
+        "description": analysis.get("description"),
         "imageUrl": raw.image_url,
-        "harvestYear": None,
         "retailers": raw.retailers,
         "available": True,
         "firstSeenAt": ts,
@@ -94,6 +106,18 @@ def apply_products(roaster_meta, raw_products):
         existing = {"roaster": roaster_meta, "scrapedAt": ts, "products": []}
     else:
         existing["roaster"] = roaster_meta
+
+    total_seen = len(raw_products)
+    excluded_reasons = {}
+    kept = []
+    for raw in raw_products:
+        reason = excluded_reason(raw.name)
+        if reason:
+            excluded_reasons[reason] = excluded_reasons.get(reason, 0) + 1
+        else:
+            kept.append(raw)
+    raw_products = kept
+    excluded_n = total_seen - len(raw_products)
 
     by_id = {p["id"]: p for p in existing["products"]}
     seen = set()
@@ -139,5 +163,17 @@ def apply_products(roaster_meta, raw_products):
         "unchanged": unchanged_n,
         "newly_unavailable": newly_unavailable,
         "total_products": len(by_id),
+        "excluded": excluded_n,
     }
+    # A handful of gift cards/workshops slipping through is normal; a large
+    # share of the catalog being excluded means the platform's own category
+    # filter probably isn't matching this site at all, and everything is
+    # falling through to the keyword net instead — worth a human look.
+    if total_seen >= 5 and excluded_n / total_seen > 0.3:
+        top_reason = max(excluded_reasons, key=excluded_reasons.get)
+        summary["warning"] = (
+            f"{excluded_n}/{total_seen} produits exclus par mot-clé (ex: \"{top_reason}\" "
+            f"x{excluded_reasons[top_reason]}) — le filtre catégorie de la plateforme ne "
+            f"semble pas fonctionner pour ce site, à vérifier"
+        )
     return existing, summary

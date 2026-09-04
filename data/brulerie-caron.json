@@ -8,8 +8,9 @@
     "url": "https://cafeannecaron.com/",
     "domain": "cafeannecaron.com",
     "platform": "prestashop",
-    "notes": "Le site officiel affiche la marque \"Café Anne Caron\" (Maison Caron / Brûlerie Caron à Saclay)."
+    "notes": "Le site officiel affiche la marque \"Café Anne Caron\" (Maison Caron / Brûlerie Caron à Saclay).",
+    "logoUrl": "https://cafeannecaron.com/themes/classic/assets/img/logo-blanc.svg"
   },
-  "scrapedAt": "2026-09-03T20:41:59Z",
+  "scrapedAt": "2026-09-03T21:15:42Z",
   "products": []
 }

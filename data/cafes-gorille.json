@@ -8,9 +8,10 @@
     "url": "https://cafes-gorille.com/",
     "domain": "cafes-gorille.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg"
   },
-  "scrapedAt": "2026-09-03T20:43:22Z",
+  "scrapedAt": "2026-09-03T21:17:00Z",
   "products": [
     {
       "id": "cafes-gorille-cafe-de-colombie-neiva",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/06/Pochette-Colombie-Neiva-e1780675692658.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-pays-nom-fiche-type-a-dupliquer-biologique",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/04/Cafes-gorille-nouveautes-indonesie.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-macucane",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/06/Pochette-Nicaragua-Macucane-e1780676732209.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-moyobamba-biologique",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/06/Pochette-Perou-Moyobamba-e1780676764875.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-dindonesie-ijenhighlands",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/06/Pochette-Indonesie-Ijen-Highlands-e1780676696761.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-rugamba",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/06/Pochette-Rwanda-Rutsiro.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-saqulew-biologique",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/01/Cafes-gorille-Guatemala-Saquelw.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-dethiopie-moka-abyssinia",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/01/Cafes-gorille-Ethiopie-Moka-Abyssinia.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-xarisma",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/02/Cafes-gorille-Indonesie-Coffcak-2.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-honduras-copanti-biologique",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Honduras-Copanti.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-muka-kivu",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Rwanda-Muka-Kivu.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-de-colombie-golden-huila",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Colombie-Golden-Huila.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-tata-nahual",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Cafes-gorille-Guatemala-Tata-Nahual.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-matunda",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Kenya-Matunda.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-kiambu",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Kenya-Kiambu.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-pozuzo",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Perou-Pozuzo.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-mexique-custepec-rainforest-alliance",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/02/Cafes-gorille-Mexique-Custepec-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/11/Cafes-gorille-Rwanda-Ingoma.webp",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     },
     {
       "id": "cafes-gorille-cafe-du-bresil",
@@ -620,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2024/02/Cafes-gorille-Bresil-Pearl.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:22Z",
-      "lastSeenAt": "2026-09-03T20:43:22Z"
+      "firstSeenAt": "2026-09-03T21:17:00Z",
+      "lastSeenAt": "2026-09-03T21:17:00Z"
     }
   ]
 }

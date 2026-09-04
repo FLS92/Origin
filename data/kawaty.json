@@ -8,9 +8,10 @@
     "url": "https://www.kawaty.fr/",
     "domain": "kawaty.fr",
     "platform": "wizishop",
-    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur)."
+    "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
+    "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg"
   },
-  "scrapedAt": "2026-09-03T20:44:31Z",
+  "scrapedAt": "2026-09-04T07:04:21Z",
   "products": [
     {
       "id": "kawaty-1982",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/766/3575/68/essentiels-paquets-55x140mm-3.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-alta-mogiana",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/767/1848/69/microlots-paquets-90x140mm-noir.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-bresil-mogiana",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/759/3757/61/origines-paquets-55x140mm-5.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-bridazul-nicaragua",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/770/1654/72/micro-lots-bridazul-super-natural.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-cafe-aromatise-caramel",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/663/3800/64/img-4535.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-cafe-aromatise-noisette",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/661/3394/62/img-4536.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-cafe-aromatise-vanille",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/662/1207/63/img-4537.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-colombie-sofia",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/754/354/56/origines-paquets-55x140mm-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-guatemala-los-volcanes",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/758/1221/60/origines-paquets-55x140mm-4.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-honduras-lenca",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/757/3345/59/origines-paquets-55x140mm-3.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-kawaty-blend",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/763/305/65/essentiels-paquets-55x140mm.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-melange-italien",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/765/3220/67/essentiels-paquets-55x140mm-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-mexique-chocaman",
@@ -422,9 +423,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/756/1903/58/origines-paquets-55x140mm-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -438,8 +439,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-perou-sueno-decafeine",
@@ -455,9 +456,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/764/1731/66/origines-paquets-55x140mm-9.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -471,8 +472,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-mokaharrar",
@@ -488,9 +489,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/760/931/62/origines-paquets-55x140mm-6.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -504,8 +505,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-sidamo-moka",
@@ -521,9 +522,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/762/2104/64/origines-paquets-55x140mm-8.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -537,8 +538,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-nicaragua",
@@ -554,9 +555,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/761/2698/63/origines-paquets-55x140mm-7.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -570,8 +571,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-perou-palomar",
@@ -587,9 +588,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/755/3823/57/origines-paquets-55x140mm-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -603,8 +604,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-costarica-san-rafael-tarrazu",
@@ -620,9 +621,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/769/3964/71/origines-paquets-55x140mm-10.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -636,8 +637,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     },
     {
       "id": "kawaty-ethiopie-chancho-sidama",
@@ -653,9 +654,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/768/1207/70/microlots-paquets-90x140mm-noir-2.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Kawaty",
@@ -669,8 +670,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:44:31Z",
-      "lastSeenAt": "2026-09-03T20:44:31Z"
+      "firstSeenAt": "2026-09-04T07:04:21Z",
+      "lastSeenAt": "2026-09-04T07:04:21Z"
     }
   ]
 }

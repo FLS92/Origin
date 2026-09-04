@@ -8,9 +8,10 @@
     "url": "https://www.cafefrate.com/boutique/",
     "domain": "cafefrate.com",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/logo-cafe-frate-1.png"
   },
-  "scrapedAt": "2026-09-03T20:43:51Z",
+  "scrapedAt": "2026-09-03T21:17:23Z",
   "products": [
     {
       "id": "cafe-frate-le-frangin",
@@ -26,9 +27,9 @@
       "method": "Légère à Médium",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2026/03/Le-Frangin-VFS1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Fraté",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:51Z",
-      "lastSeenAt": "2026-09-03T20:43:51Z"
+      "firstSeenAt": "2026-09-03T21:17:23Z",
+      "lastSeenAt": "2026-09-03T21:17:23Z"
     },
     {
       "id": "cafe-frate-la-pitchoune",
@@ -59,9 +60,9 @@
       "method": "Légère",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2026/03/La-Pitchoune-VFS1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Fraté",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:51Z",
-      "lastSeenAt": "2026-09-03T20:43:51Z"
+      "firstSeenAt": "2026-09-03T21:17:23Z",
+      "lastSeenAt": "2026-09-03T21:17:23Z"
     },
     {
       "id": "cafe-frate-coffret-cadeau",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-30-at-20.58-1.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Fraté",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:51Z",
-      "lastSeenAt": "2026-09-03T20:43:51Z"
+      "firstSeenAt": "2026-09-03T21:17:23Z",
+      "lastSeenAt": "2026-09-03T21:17:23Z"
     },
     {
       "id": "cafe-frate-le-minot",
@@ -125,9 +126,9 @@
       "method": "Légère",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/Le-Minot-VFS1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Fraté",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:51Z",
-      "lastSeenAt": "2026-09-03T20:43:51Z"
+      "firstSeenAt": "2026-09-03T21:17:23Z",
+      "lastSeenAt": "2026-09-03T21:17:23Z"
     },
     {
       "id": "cafe-frate-le-pape",
@@ -158,9 +159,9 @@
       "method": "Poussée",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/Le-pape-VFS1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Fraté",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:51Z",
-      "lastSeenAt": "2026-09-03T20:43:51Z"
+      "firstSeenAt": "2026-09-03T21:17:23Z",
+      "lastSeenAt": "2026-09-03T21:17:23Z"
     },
     {
       "id": "cafe-frate-la-daronne",
@@ -191,9 +192,9 @@
       "method": "Moyenne",
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/La-Daronne-VFS1.png",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Café Fraté",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:51Z",
-      "lastSeenAt": "2026-09-03T20:43:51Z"
+      "firstSeenAt": "2026-09-03T21:17:23Z",
+      "lastSeenAt": "2026-09-03T21:17:23Z"
     }
   ]
 }

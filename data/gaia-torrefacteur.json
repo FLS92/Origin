@@ -8,9 +8,10 @@
     "url": "https://gaiatorrefacteur.com/",
     "domain": "gaiatorrefacteur.com",
     "platform": "shopify",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://gaiatorrefacteur.com/cdn/shop/files/Gaia_logo_blanc_9f9994a3-79b0-42a4-bd0e-117d1534712e.png?crop=center&height=165&v=1676034353&width=180"
   },
-  "scrapedAt": "2026-09-03T20:42:02Z",
+  "scrapedAt": "2026-09-03T21:15:44Z",
   "products": [
     {
       "id": "gaia-torrefacteur-stardust-bresil",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/STARDUST.jpg?v=1697114683",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-full-bloom",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Full_Bloom.jpg?v=1759776421",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-buena-vista-nicaragua",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/BuenaVista_0c5c0b7a-6af4-4111-bf65-659d249f489c.jpg?v=1703627870",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-santa-rita-guatemala",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Santa_Rita_cafe.png?v=1738250265",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-kuzco",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Kuzco_cafe.png?v=1738247221",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-rio-coco-nicaragua",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/RioCoco_49b26230-83d9-4b1e-a616-5164abe466c0.jpg?v=1703628411",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-rivelia-feb4455-w-machine-a-cafe-expresso-automatique",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/RiveliaFEB4455.BG.avif?v=1751539651",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-la-specialista-prestigio",
@@ -257,9 +258,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/LaSpecialistaPrestigio.png?v=1751539218",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -273,8 +274,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-dinamica-feb-3535",
@@ -290,9 +291,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Dinamicagrisfeb3535.png?v=1751538508",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -306,8 +307,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-machine-a-espresso-delonghi-dedica-arte",
@@ -323,9 +324,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/MachineespressoDeLonghifullmetal.png?v=1703766496",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -339,8 +340,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-guayacana",
@@ -356,9 +357,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Guayacana-Colombie.png?v=1769089054",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -372,8 +373,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     },
     {
       "id": "gaia-torrefacteur-decaf",
@@ -389,9 +390,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Cafe_deca.jpg?v=1759778096",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Gaia Torréfacteur",
@@ -405,8 +406,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:42:02Z",
-      "lastSeenAt": "2026-09-03T20:42:02Z"
+      "firstSeenAt": "2026-09-03T21:15:44Z",
+      "lastSeenAt": "2026-09-03T21:15:44Z"
     }
   ]
 }

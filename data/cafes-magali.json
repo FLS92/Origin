@@ -8,9 +8,10 @@
     "url": "https://www.cafesmagali.fr/boutique/",
     "domain": "cafesmagali.fr",
     "platform": "woocommerce",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/06/LogoMagaliFull.svg"
   },
-  "scrapedAt": "2026-09-03T20:43:59Z",
+  "scrapedAt": "2026-09-03T21:17:29Z",
   "products": [
     {
       "id": "cafes-magali-magali",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/10/MAGALI-scaled.jpeg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Cafés Magali",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:59Z",
-      "lastSeenAt": "2026-09-03T20:43:59Z"
+      "firstSeenAt": "2026-09-03T21:17:29Z",
+      "lastSeenAt": "2026-09-03T21:17:29Z"
     }
   ]
 }

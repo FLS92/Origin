@@ -8,9 +8,10 @@
     "url": "https://valini.fr/",
     "domain": "valini.fr",
     "platform": "prestashop",
-    "notes": null
+    "notes": null,
+    "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
   },
-  "scrapedAt": "2026-09-03T20:43:36Z",
+  "scrapedAt": "2026-09-03T21:17:12Z",
   "products": [
     {
       "id": "valini-p2",
@@ -26,9 +27,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/267-full_default/cafe-croco.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -42,8 +43,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     },
     {
       "id": "valini-p77",
@@ -59,9 +60,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/269-full_default/cafe-decafeine-pure-origine-perou-manzanilla.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -75,8 +76,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     },
     {
       "id": "valini-p91",
@@ -92,9 +93,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/343-full_default/cafe-pure-origine-bresil-lilith.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -108,8 +109,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     },
     {
       "id": "valini-p94",
@@ -125,9 +126,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/369-full_default/cafe-ethiopie-nyala.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -141,8 +142,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     },
     {
       "id": "valini-p93",
@@ -158,9 +159,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/358-full_default/cafe-guatemala-pampojila.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -174,8 +175,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     },
     {
       "id": "valini-p105",
@@ -191,9 +192,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/439-full_default/soledad-pepe-jijon.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -207,8 +208,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     },
     {
       "id": "valini-p104",
@@ -224,9 +225,9 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
+      "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/426-full_default/cafe-ethiopie-nyala.jpg",
-      "harvestYear": null,
       "retailers": [
         {
           "site": "Valini",
@@ -240,8 +241,8 @@
         }
       ],
       "available": true,
-      "firstSeenAt": "2026-09-03T20:43:36Z",
-      "lastSeenAt": "2026-09-03T20:43:36Z"
+      "firstSeenAt": "2026-09-03T21:17:12Z",
+      "lastSeenAt": "2026-09-03T21:17:12Z"
     }
   ]
 }
