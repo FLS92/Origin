@@ -11,16 +11,16 @@
     "notes": null,
     "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
   },
-  "scrapedAt": "2026-09-04T10:45:38Z",
+  "scrapedAt": "2026-09-04T13:14:49Z",
   "products": [
     {
       "id": "kaffa-torrefacteur-gaia",
       "name": "Café de la ferme Gaïa",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Honey",
+      "variety": "Bourbons, catuai",
+      "producer": "Gaïa",
       "score": null,
       "acidity": null,
       "body": null,
@@ -44,16 +44,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-04T10:45:38Z"
+      "lastSeenAt": "2026-09-04T13:14:49Z"
     },
     {
       "id": "kaffa-torrefacteur-colombie",
       "name": "Café de Jhon Muñoz",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Lavé (fermentation alcoolique)",
+      "variety": "Caturra, castillo",
+      "producer": "Jhon Muñoz",
       "score": null,
       "acidity": null,
       "body": null,
@@ -77,16 +77,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-04T10:45:38Z"
+      "lastSeenAt": "2026-09-04T13:14:49Z"
     },
     {
       "id": "kaffa-torrefacteur-rwanda",
       "name": "Café du village de Rutabo",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Naturel",
+      "variety": "Bourbons",
+      "producer": "Village de Rutabo",
       "score": null,
       "acidity": null,
       "body": null,
@@ -110,16 +110,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-04T10:45:38Z"
+      "lastSeenAt": "2026-09-04T13:14:49Z"
     },
     {
       "id": "kaffa-torrefacteur-perou",
       "name": "Café de La Lima",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Lavé",
+      "variety": "Typica, Caturra et Pache",
+      "producer": "La Lima",
       "score": null,
       "acidity": null,
       "body": null,
@@ -143,7 +143,106 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-04T10:45:38Z"
+      "lastSeenAt": "2026-09-04T13:14:49Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-mitiku-kebede",
+      "name": "Café de Mitiku Kebede",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Jarc 74110, 74148",
+      "producer": "Mitiku Kebede",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Ethiopie-cafe-de-specialite-carre.jpg",
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/mitiku-kebede/",
+          "price": 8.7,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-04T13:14:49Z",
+      "lastSeenAt": "2026-09-04T13:14:49Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-cafe-amkeni",
+      "name": "Café de Amkeni",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Bourbons",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Tanzanie-cafe-de-specialite-carre.jpg",
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/cafe-amkeni/",
+          "price": 8.8,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-04T13:14:49Z",
+      "lastSeenAt": "2026-09-04T13:14:49Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-kenya",
+      "name": "Café de Gloria Gummerus",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "SL28",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Kenya-cafe-de-specialite-carre.jpg",
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/kenya/",
+          "price": 9.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-04T13:14:49Z",
+      "lastSeenAt": "2026-09-04T13:14:49Z"
     }
   ]
 }

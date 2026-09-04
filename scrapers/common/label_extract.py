@@ -26,7 +26,8 @@ import unicodedata
 FIELD_LABELS = {
     "process": [
         "process de sechage", "processus de traitement", "traitement apres recolte",
-        "type de process", "traitement", "procede", "process", "sechage",
+        "process post recolte", "type de process", "traitement", "procede",
+        "process", "sechage",
     ],
     "variety": [
         "variete botanique", "varietes", "variete", "cultivar", "espece",
@@ -41,8 +42,8 @@ FIELD_LABELS = {
         # "profil a la tasse" deliberately excluded: sometimes a discrete
         # note list, sometimes a flowing descriptive sentence ("Un café
         # d'une grande clarté...") -- too inconsistent to trust as a list.
-        "notes de degustation", "notes aromatiques", "notes gustatives",
-        "saveurs", "notes", "note", "nez",
+        "notes de degustation", "note de degustation", "notes aromatiques",
+        "notes gustatives", "profil aromatique", "saveurs", "notes", "note", "nez",
     ],
     "body": ["corps"],
     "acidity": ["acidite"],
@@ -60,6 +61,21 @@ _SENTENCE_MARKERS = (
     "offrez", "essayez", "laissez", "preparez",
 )
 
+# Some sites' description text carries a UI slider's label with no value of
+# its own next to it ("Niveau de torréfaction", then nothing — the actual
+# level was a visual bar, not text). No colon follows, so it can't be a
+# _LABEL_RE boundary, and it silently glues onto whatever field came before
+# it. Truncate a captured value at the first one of these found, same as a
+# real boundary would.
+_HEADLESS_MARKERS_RE = re.compile(
+    r"\b(?:niveau de torrefaction|richesse aromatique|intensite du cafe|intensite)\b"
+)
+
+
+def _truncate_at_headless_marker(value):
+    m = _HEADLESS_MARKERS_RE.search(_norm(value))
+    return value[:m.start()].strip() if m else value
+
 # Generic "<1-4 capitalized/lowercase words> :" — matches ANY label-shaped
 # run, known or not, so an unrecognized label still acts as a boundary
 # instead of leaking into the previous field's value. À-Þ / ß-ÿ
@@ -71,6 +87,7 @@ _LABEL_RE = re.compile(
 
 def _norm(text):
     n = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode().lower()
+    n = re.sub(r"[^a-z0-9 ]", " ", n)
     return re.sub(r"\s+", " ", n).strip()
 
 
@@ -106,6 +123,7 @@ def extract_labeled_fields(text):
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         value = text[start:end].strip(" .,;:–-")
+        value = _truncate_at_headless_marker(value).strip(" .,;:–-")
         if not value:
             continue
 
@@ -134,7 +152,11 @@ def extract_labeled_fields(text):
             ]
             items = [v for v in items if v]
             if items:
-                out.setdefault("flavors", items)
+                # Several labels map here (Notes/Saveurs/Profil aromatique) —
+                # merge rather than let the first one found win, since a
+                # product often states them in more than one place.
+                existing = out.setdefault("flavors", [])
+                existing.extend(v for v in items if v not in existing)
         elif field == "_method":
             method = _normalize_method(value)
             if method:

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377"
   },
-  "scrapedAt": "2026-09-04T10:44:01Z",
+  "scrapedAt": "2026-09-04T13:12:01Z",
   "products": [
     {
       "id": "belleville-brulerie-benjamin-paz-honduras",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-banko-gotiti-lave-ethiopie",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-kieni-ab-cafe-kenya",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-kelloo-chelchele-washed",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-le-mistral-assemblage-cafe-belleville",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-selection-de-decouverte-cafe-filtre",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-selection-de-decouverte-espresso-3-x-250g",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-kg-la-pantoufle-assemblage-1kg",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-kg-la-fontaine-assemblage-1kg",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-kg-french-roast-assemblage-1kg",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-kg-body-builder-assemblage-1kg",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-body-builder-assemblage-cafe-belleville",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-chateau-belleville-assemblage-cafe-belleville",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     },
     {
       "id": "belleville-brulerie-la-pantoufle-assemblage-cafe-belleville",
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-04T10:44:01Z"
+      "lastSeenAt": "2026-09-04T13:12:01Z"
     }
   ]
 }

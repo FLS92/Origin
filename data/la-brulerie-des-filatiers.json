@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
-  "scrapedAt": "2026-09-04T10:46:31Z",
+  "scrapedAt": "2026-09-04T13:16:54Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -34,7 +34,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bergamotier-642",
-          "price": 16.02,
+          "price": 16.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -67,7 +67,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-costa-rica-buho-801",
-          "price": 5.21,
+          "price": 5.5,
           "currency": "EUR",
           "unitWeightG": null,
           "priceNote": null,
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -100,7 +100,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-honduras-alegria-803",
-          "price": 5.21,
+          "price": 5.5,
           "currency": "EUR",
           "unitWeightG": null,
           "priceNote": null,
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -133,7 +133,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-mexique-decafeine-804",
-          "price": 5.21,
+          "price": 5.5,
           "currency": "EUR",
           "unitWeightG": null,
           "priceNote": null,
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -166,7 +166,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-salvador-espresso-blend-800",
-          "price": 5.21,
+          "price": 5.5,
           "currency": "EUR",
           "unitWeightG": null,
           "priceNote": null,
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -199,7 +199,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/brown-sugar-645",
-          "price": 10.33,
+          "price": 10.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -232,7 +232,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-dulces-suenos-decafeine-906",
-          "price": 12.23,
+          "price": 12.9,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p910",
@@ -265,7 +265,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-mogiana-fazenda-alianca-910",
-          "price": 9.95,
+          "price": 10.5,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p752",
@@ -298,7 +298,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chicoree-l-originale-nouree-752",
-          "price": 10.33,
+          "price": 10.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -331,7 +331,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chunmee-bio-648",
-          "price": 9.38,
+          "price": 9.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -364,7 +364,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/darjeeling-imperial-namring-651",
-          "price": 11.28,
+          "price": 11.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -397,7 +397,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-beloya-yirgacheffe-930",
-          "price": 12.32,
+          "price": 13.0,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -430,7 +430,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-oromia-814",
-          "price": 9.43,
+          "price": 9.95,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1904",
@@ -463,7 +463,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-sidama-bombe-g1-1904",
-          "price": 9.0,
+          "price": 9.5,
           "currency": "EUR",
           "unitWeightG": 125,
           "priceNote": null,
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -496,7 +496,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/earl-grey-royal-bio-653",
-          "price": 11.28,
+          "price": 11.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -529,7 +529,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/feel-good-bio-655",
-          "price": 10.33,
+          "price": 10.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1903",
@@ -562,7 +562,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/guatemala-huehuetenango-el-panal-1903",
-          "price": 14.12,
+          "price": 14.9,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -572,7 +572,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -595,7 +595,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/grand-yunnan-bio-614",
-          "price": 12.23,
+          "price": 12.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -605,7 +605,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -628,7 +628,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/gunpowder-bio-657",
-          "price": 9.38,
+          "price": 9.9,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-04T10:46:31Z"
+      "lastSeenAt": "2026-09-04T13:16:54Z"
     }
   ]
 }

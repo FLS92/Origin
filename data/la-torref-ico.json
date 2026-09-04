@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
   },
-  "scrapedAt": "2026-09-04T10:45:52Z",
+  "scrapedAt": "2026-09-04T13:16:14Z",
   "products": [
     {
       "id": "la-torref-ico-gerba-dogo-ethiopie-ico-torrefaction",
@@ -26,7 +26,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Thé noir",
+        "Bergamote",
+        "Abricot",
+        "Chocolat noir",
+        "Canne à sucre"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/Gerbadogoomni250g.png?v=1788445363",
@@ -44,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-espresso-chr-bio-cafe-en-grain-pro",
@@ -59,7 +65,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "fruits secs"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/EB1KG.png?v=1773241975",
@@ -77,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-summer-blend-colombie-perou-ico-torrefaction",
@@ -92,7 +101,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Fruits rouges confits"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0007-6382109101746055815.png?v=1783159731",
@@ -110,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-spring-blend-colombie-perou-ico-torrefaction",
@@ -125,7 +137,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Myrtille",
+        "Pamplemousse"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/Spring26250g_1.png?v=1777757341",
@@ -143,7 +159,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-ruronzi-rwanda-ico-torrefaction",
@@ -158,7 +174,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fleur d’oranger",
+        "Mûre",
+        "Ananas"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0015-5610867154303701029.png?v=1782730000",
@@ -176,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-jaguarundi-colombie-ico-torrefaction",
@@ -191,7 +211,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pamplemousse",
+        "Ananas",
+        "Épices"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0021-732341003351847629.png?v=1781179154",
@@ -203,13 +227,13 @@
           "currency": "EUR",
           "unitWeightG": 264,
           "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-cih-emar-rwanda-ico-torrefaction",
@@ -224,7 +248,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cerise rouge",
+        "Fruit de la passion",
+        "Ananas",
+        "Rose sombre"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/CIHEMAR250g.png?v=1777382507",
@@ -242,7 +271,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-cafe-colombie-la-cocha-ico-torrefaction",
@@ -257,7 +286,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Peche",
+        "Mandarine",
+        "Raisin sec"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/LACOCHA250g.png?v=1773225584",
@@ -275,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-the-dark-sip-perou-ico-torrefaction",
@@ -290,7 +323,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "fruits à coque"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0010-6382109101746055815.png?v=1783159729",
@@ -308,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-house-blend-medium-dark-roast",
@@ -323,7 +359,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Cerise noire"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/HB_1KG.png?v=1773179334",
@@ -341,7 +380,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     },
     {
       "id": "la-torref-ico-manzanilla-perou-cafe-bio-decafeine",
@@ -374,7 +413,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T10:45:52Z"
+      "lastSeenAt": "2026-09-04T13:16:14Z"
     }
   ]
 }

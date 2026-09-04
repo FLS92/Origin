@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
   },
-  "scrapedAt": "2026-09-04T10:44:06Z",
+  "scrapedAt": "2026-09-04T13:12:09Z",
   "products": [
     {
       "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T10:44:06Z"
+      "lastSeenAt": "2026-09-04T13:12:09Z"
     },
     {
       "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T10:44:06Z"
+      "lastSeenAt": "2026-09-04T13:12:09Z"
     },
     {
       "id": "partisan-cafe-artisanal-ethiopie-biftu-250g",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T10:44:06Z"
+      "lastSeenAt": "2026-09-04T13:12:09Z"
     },
     {
       "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T10:44:06Z"
+      "lastSeenAt": "2026-09-04T13:12:09Z"
     },
     {
       "id": "partisan-cafe-artisanal-italian-blend-250g-copy",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T10:44:06Z"
+      "lastSeenAt": "2026-09-04T13:12:09Z"
     }
   ]
 }

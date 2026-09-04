@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
   },
-  "scrapedAt": "2026-09-04T10:44:38Z",
+  "scrapedAt": "2026-09-04T13:12:41Z",
   "products": [
     {
       "id": "arlo-s-coffee-rwanda-murambi-bio",
@@ -34,7 +34,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/rwanda-murambi-bio",
-          "price": 5.0,
+          "price": 4.0,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-ouganda-jukia",
@@ -67,7 +67,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ouganda-jukia",
-          "price": 5.0,
+          "price": 4.0,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-equateur-tulipe",
@@ -100,7 +100,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/equateur-tulipe",
-          "price": 6.0,
+          "price": 4.5,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
@@ -133,7 +133,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
-          "price": 6.0,
+          "price": 5.0,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-arlos-coffee",
@@ -166,7 +166,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/arlos-coffee",
-          "price": 5.0,
+          "price": 3.5,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-colombie-tolima",
@@ -199,7 +199,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-tolima",
-          "price": 5.0,
+          "price": 3.5,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-ethiopie-ali-bio",
@@ -232,7 +232,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ethiopie-ali-bio",
-          "price": 5.0,
+          "price": 4.0,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-bresil-silvia",
@@ -265,7 +265,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/bresil-silvia",
-          "price": 5.0,
+          "price": 3.5,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-cafeespresso",
@@ -298,7 +298,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/cafeespresso",
-          "price": 4.0,
+          "price": 3.0,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-honduras-marco",
@@ -331,7 +331,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/honduras-marco",
-          "price": 5.0,
+          "price": 3.5,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-coffret-cafe-gamme-ephemere",
@@ -364,7 +364,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/coffret-cafe-gamme-ephemere",
-          "price": 22.0,
+          "price": 18.0,
           "currency": "EUR",
           "unitWeightG": 650,
           "priceNote": "à partir de",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     },
     {
       "id": "arlo-s-coffee-colombie-deca",
@@ -397,7 +397,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-deca",
-          "price": 5.0,
+          "price": 3.5,
           "currency": "EUR",
           "unitWeightG": 110,
           "priceNote": "à partir de",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-04T10:44:38Z"
+      "lastSeenAt": "2026-09-04T13:12:41Z"
     }
   ]
 }

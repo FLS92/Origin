@@ -19,6 +19,45 @@ from .common.schema import RawProduct, apply_products, save
 COFFEE_LINK_WORDS = {"cafe", "cafes", "coffee"}
 EXCLUDE_LINK_WORDS = {"machine", "machines", "accessoire", "accessoires", "the", "thes", "entreprise", "entreprises"}
 
+# PrestaShop's standard "data sheet" (fiche technique) block — a <dl> of
+# dt.name/dd.value pairs configured per-shop as custom product "features".
+# Label wording varies by site ("Origine" vs "Pays", "Producteur" vs "Nom de
+# la ferme et producteur"), so this maps synonyms same as WooCommerce's
+# custom attributes. Ambiguous/non-schema labels (Altitude, Prix,
+# Torréfaction, Conditionnement...) are deliberately left unmapped.
+DATA_SHEET_SYNONYMS = {
+    "variety": {"variete", "varietes", "variete botanique", "cultivar"},
+    "process": {"process", "procede", "traitement"},
+    "producer": {"producteur", "producteurs", "nom de la ferme et producteur", "ferme et producteur"},
+    "originCountry": {"origine", "pays"},
+    "originDetail": {"region ferme", "region"},
+}
+
+
+def extract_data_sheet(soup):
+    out = {}
+    sheet = soup.select_one("dl.data-sheet")
+    if not sheet:
+        return out
+    names = sheet.select("dt.name")
+    values = sheet.select("dd.value")
+    for dt, dd in zip(names, values):
+        label = norm(dt.get_text())
+        value = dd.get_text(strip=True)
+        if not value:
+            continue
+        if label == "gamme":
+            m = re.search(r"\d+(?:[.,]\d+)?", value)
+            if m:
+                n = float(m.group(0).replace(",", "."))
+                out.setdefault("score", int(n) if n.is_integer() else n)
+            continue
+        for field, synonyms in DATA_SHEET_SYNONYMS.items():
+            if label in synonyms:
+                out.setdefault(field, value)
+                break
+    return out
+
 
 def find_coffee_category_url(soup, base_url):
     candidates = []
@@ -102,7 +141,11 @@ def scrape_product_detail(s, url):
     weight = parse_grams(text)
     desc_el = soup.select_one('[itemprop="description"], .product-description')
     description_html = str(desc_el) if desc_el else None
-    return {"price": price, "weight_g": weight, "description_html": description_html}
+    extracted = extract_data_sheet(soup)
+    return {
+        "price": price, "weight_g": weight, "description_html": description_html,
+        "extracted": extracted,
+    }
 
 
 def scrape(roaster_meta):
@@ -150,6 +193,7 @@ def scrape(roaster_meta):
             retailers=[retailer],
             raw_description_html=detail.get("description_html") or item.get("listing_description_html"),
             image_url=item["image"],
+            extracted=detail.get("extracted"),
         ))
 
     data, summary = apply_products(roaster_meta, raw_products)

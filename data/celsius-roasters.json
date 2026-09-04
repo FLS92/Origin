@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://celsius-roasters.fr/cdn/shop/files/Celsius_Roasters_logo_en_couleurs.png?v=1698744069"
   },
-  "scrapedAt": "2026-09-04T10:45:01Z",
+  "scrapedAt": "2026-09-04T13:13:08Z",
   "products": [
     {
       "id": "celsius-roasters-cafe-en-bean-to-bar-diggers-x-celsius-geisha-perou",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:09Z",
-      "lastSeenAt": "2026-09-04T10:45:01Z"
+      "lastSeenAt": "2026-09-04T13:13:08Z"
     }
   ]
 }

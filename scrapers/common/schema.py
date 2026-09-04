@@ -147,6 +147,23 @@ def apply_products(roaster_meta, raw_products):
             p["imageUrl"] = raw.image_url
             p["available"] = True
             p["lastSeenAt"] = ts
+
+            # Backfill only — never overwrite a field that already has a
+            # value. Without this, a scraper improvement (a new attribute
+            # mapping, a fixed selector) would only ever benefit products
+            # first seen after the fix; every existing one stays stuck with
+            # whatever was extracted the day it was first scraped.
+            labeled = extract_labeled_fields(strip_html(raw.raw_description_html))
+            for f in SCHEMA_FIELDS:
+                if p.get(f) is not None:
+                    continue
+                if raw.extracted.get(f) is not None:
+                    p[f] = raw.extracted[f]
+                    changed = True
+                elif labeled.get(f) is not None:
+                    p[f] = labeled[f]
+                    changed = True
+
             if changed:
                 updated_n += 1
             else:

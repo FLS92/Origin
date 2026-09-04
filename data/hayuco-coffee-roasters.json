@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226"
   },
-  "scrapedAt": "2026-09-04T10:46:05Z",
+  "scrapedAt": "2026-09-04T13:16:25Z",
   "products": [
     {
       "id": "hayuco-coffee-roasters-lec-1",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-agua-de-dios",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-luis-b",
@@ -113,7 +113,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-anderson",
@@ -146,7 +146,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-durley-brouillon-copie",
@@ -179,7 +179,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-naeb-ituze-1",
@@ -212,7 +212,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-exclow",
@@ -245,7 +245,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-opita",
@@ -280,7 +280,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-cielow",
@@ -315,7 +315,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     },
     {
       "id": "hayuco-coffee-roasters-trinity-zero",
@@ -348,7 +348,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-04T10:46:05Z"
+      "lastSeenAt": "2026-09-04T13:16:25Z"
     }
   ]
 }

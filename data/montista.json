@@ -11,15 +11,15 @@
     "notes": null,
     "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png"
   },
-  "scrapedAt": "2026-09-04T10:46:16Z",
+  "scrapedAt": "2026-09-04T13:16:39Z",
   "products": [
     {
       "id": "montista-san-antonio-el-salvador",
       "name": "San Antonio | El Salvador",
       "originCountry": "El Salvador",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel anaerobic basse température 🍃",
+      "variety": "Geisha ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -44,15 +44,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-papa-blend",
       "name": "Papa Blend",
       "originCountry": "Papouasie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé ☕️",
+      "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -77,15 +77,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-guariroba-bresil",
       "name": "Guariroba | Brésil",
       "originCountry": "Brésil",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel 🍃",
+      "variety": "Catucai Jaune ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -110,14 +110,14 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-cundinamarca-colombie",
       "name": "Cundinamarca | Colombie",
       "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé 🍃",
       "variety": null,
       "producer": null,
       "score": null,
@@ -143,15 +143,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-kamunyaka-kenya-nyeri",
       "name": "Kamunyaka | Kenya",
       "originCountry": "Kenya",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "Ruiru 11, SL-34, SL-28, Batian ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -176,15 +176,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-dcaf5",
       "name": "D-CAF #5",
       "originCountry": "Pérou",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé, Swiss Water 🍃",
+      "variety": "Caturra, Catuai, Bourbon ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -209,15 +209,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-kinini-rwanda",
       "name": "Kinini | Rwanda",
       "originCountry": "Rwanda",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "BM71, Jackson ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -242,15 +242,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-ayla-bombe-ethiopie",
       "name": "Ayla Bombe | Ethiopie",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel 🍃",
+      "variety": "Heirloom ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -275,15 +275,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-mexique-huehuetepan",
       "name": "Huehuetepan | Mexique",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Macération Carbonique 🍃",
+      "variety": "Typica ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -308,16 +308,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-mbili-tanzanie",
       "name": "Mbili | Tanzanie",
       "originCountry": "Tanzanie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Lavé 🍃",
+      "variety": "Bourbon (N39), Kent ☀️",
+      "producer": "Ladslaus Alfred & Makiidi RCS ⛰️",
       "score": null,
       "acidity": null,
       "body": null,
@@ -341,15 +341,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-clark-lave-ouganda",
       "name": "Clark Lavé | Ouganda",
       "originCountry": "Honduras",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "Drugar (Arabica) ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -374,15 +374,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-simbu-cafe-papouasie-nouvelle-guinee",
       "name": "Simbu | Papouasie Nouvelle Guinée",
       "originCountry": "Papouasie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -407,15 +407,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-finca-union-cafe-mexique",
       "name": "Finca Union | Mexique",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "Bourbon, Sarchimor ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -440,15 +440,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-baragwi-cafe-kenya",
       "name": "Baragwi | Kenya",
       "originCountry": "Kenya",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "SL34, SL28, Ruiru 11, Batian ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -473,15 +473,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-don-claudio-costa-rica",
       "name": "Don Claudio | Costa Rica",
       "originCountry": "Costa Rica",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel 🍃",
+      "variety": "Caturra, Catuai ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-amankaya-guatemala",
@@ -539,15 +539,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-don-victor-nicaragua",
       "name": "Don Victor | Nicaragua",
       "originCountry": "Nicaragua",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Penas Blancas, Jinotega 📍Finca : Monte Cristo ⛰️",
+      "process": "Lavé 🍃",
+      "variety": "Java ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -572,15 +572,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-blend5",
       "name": "Blend#5  | Inde & Ouganda",
       "originCountry": "Inde, Ouganda",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé & Naturel",
+      "variety": "Bourbon & Drugar ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -605,15 +605,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-el-puente",
       "name": "El Puente | Honduras",
       "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Marcala & Masaguara 📍",
+      "process": "Extended Natural 🍃",
+      "variety": "Catuai rouge ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -638,15 +638,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-thageini",
       "name": "Thageini  | Kenya",
       "originCountry": "Kenya",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé 🍃",
+      "variety": "SL-34, Ruiru11, Batian, SL-28 ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -671,15 +671,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-c-hamburgo",
       "name": "Hamburgo | Mexique",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel 🍃",
+      "variety": "Tupi ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -704,7 +704,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-la-esperanza",
@@ -737,7 +737,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-c-huehuetepan-lave",
@@ -745,7 +745,7 @@
       "originCountry": null,
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Typica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -770,7 +770,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-huehuetepan",
@@ -778,7 +778,7 @@
       "originCountry": null,
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Typica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -803,7 +803,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-c-sunheri",
@@ -836,7 +836,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-c-suke-afursa",
@@ -869,7 +869,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-c-dcaf1",
@@ -902,7 +902,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     },
     {
       "id": "montista-c-blend3",
@@ -935,7 +935,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T10:46:16Z"
+      "lastSeenAt": "2026-09-04T13:16:39Z"
     }
   ]
 }

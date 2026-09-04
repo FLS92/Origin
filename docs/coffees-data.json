@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T11:34:19Z",
+  "generatedAt": "2026-09-04T13:20:45Z",
   "roasterCount": 68,
-  "coffeeCount": 1064,
+  "coffeeCount": 1073,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -665,7 +665,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/rwanda-murambi-bio",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -692,7 +692,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ouganda-jukia",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "110 g, à partir de, rupture de stock"
         }
       ]
@@ -719,7 +719,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/equateur-tulipe",
-          "price": "6,00 €",
+          "price": "4,50 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -746,7 +746,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
-          "price": "6,00 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -773,7 +773,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/arlos-coffee",
-          "price": "5,00 €",
+          "price": "3,50 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -800,7 +800,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-tolima",
-          "price": "5,00 €",
+          "price": "3,50 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -827,7 +827,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ethiopie-ali-bio",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -854,7 +854,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/bresil-silvia",
-          "price": "5,00 €",
+          "price": "3,50 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -881,7 +881,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/cafeespresso",
-          "price": "4,00 €",
+          "price": "3,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -908,7 +908,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/honduras-marco",
-          "price": "5,00 €",
+          "price": "3,50 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -935,7 +935,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/coffret-cafe-gamme-ephemere",
-          "price": "22,00 €",
+          "price": "18,00 €",
           "note": "650 g, à partir de"
         }
       ]
@@ -962,7 +962,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-deca",
-          "price": "5,00 €",
+          "price": "3,50 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -1008,7 +1008,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Equilibré",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Espresso_fond_color.webp?v=1729630126",
       "available": true,
@@ -1394,7 +1394,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-02-okapa-filter",
-          "price": "12,00 €",
+          "price": "9,50 €",
           "note": "à partir de, rupture de stock"
         }
       ]
@@ -1421,7 +1421,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-01-gasharu-filter",
-          "price": "12,00 €",
+          "price": "9,50 €",
           "note": "à partir de, rupture de stock"
         }
       ]
@@ -1448,7 +1448,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/1000-hills",
-          "price": "18,00 €",
+          "price": "15,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1475,7 +1475,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/cordillera-del-fuego",
-          "price": "30,00 €",
+          "price": "25,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1502,7 +1502,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/el-porvenir",
-          "price": "37,00 €",
+          "price": "30,50 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1529,7 +1529,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-los-primos",
-          "price": "28,00 €",
+          "price": "23,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1556,7 +1556,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-bella",
-          "price": "12,00 €",
+          "price": "9,75 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1953,7 +1953,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "hibiscus, fruits exotiques",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Bella_Vista.png?v=1782378640",
       "available": true,
@@ -1961,7 +1961,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/bella-vista-zarza-colombie-natural",
-          "price": "16,25 €",
+          "price": "19,50 €",
           "note": "200 g, à partir de"
         }
       ]
@@ -1980,7 +1980,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Cassis, caramel",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/GASHARU.png?v=1781606405",
       "available": true,
@@ -1988,7 +1988,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/gasharu-rwanda-washed",
-          "price": "8,75 €",
+          "price": "10,50 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -2007,7 +2007,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "pomme verte, cacao",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/buhoro.png?v=1778482625",
       "available": true,
@@ -2015,7 +2015,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/buhoro-rwanda-anaerobic",
-          "price": "10,42 €",
+          "price": "12,50 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -6335,7 +6335,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/west-village-assemblage-signature-l-expresso-selon-cafe-toque-941",
-          "price": "7,11 €",
+          "price": "7,50 €",
           "note": "1 kg"
         }
       ]
@@ -6362,7 +6362,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3515b-318",
-          "price": "415,83 €",
+          "price": "499,00 €",
           "note": ""
         }
       ]
@@ -6389,7 +6389,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/vitalite-assemblage-pour-expresso-italien-cafe-toque-435",
-          "price": "7,11 €",
+          "price": "7,50 €",
           "note": "1 kg"
         }
       ]
@@ -6416,7 +6416,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3535sb-407",
-          "price": "499,17 €",
+          "price": "599,00 €",
           "note": ""
         }
       ]
@@ -6443,7 +6443,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3795t-406",
-          "price": "832,50 €",
+          "price": "999,00 €",
           "note": "300 g"
         }
       ]
@@ -6470,7 +6470,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-de-longhi-rivelia-396",
-          "price": "665,83 €",
+          "price": "799,00 €",
           "note": "250 g"
         }
       ]
@@ -6497,7 +6497,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-domestique-jura-machine-automatique-ena4-309",
-          "price": "557,14 €",
+          "price": "668,57 €",
           "note": "500 g"
         }
       ]
@@ -6524,7 +6524,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-semi-professionnelle-jura-machine-automatique-e4-204",
-          "price": "690,00 €",
+          "price": "828,00 €",
           "note": "500 g"
         }
       ]
@@ -6551,7 +6551,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-semi-professionnelle-jura-machine-automatique-e6-205",
-          "price": "766,67 €",
+          "price": "920,00 €",
           "note": ""
         }
       ]
@@ -6578,7 +6578,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/cumbia-colombie-cafe-expresso-cafe-toque-434",
-          "price": "7,49 €",
+          "price": "7,90 €",
           "note": "1 kg"
         }
       ]
@@ -6605,7 +6605,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/produit-detartrant-delonghi-319",
-          "price": "11,67 €",
+          "price": "14,00 €",
           "note": ""
         }
       ]
@@ -6659,7 +6659,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/green-tea-the-vert-teahouse-exclusive-boite-de-15-sachets-284",
-          "price": "5,21 €",
+          "price": "5,50 €",
           "note": "4 g"
         }
       ]
@@ -6686,7 +6686,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/chocolat-en-poudre-one-one-260",
-          "price": "14,00 €",
+          "price": "14,77 €",
           "note": ""
         }
       ]
@@ -6713,7 +6713,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/boite-de-pastilles-de-nettoyage-jura-206",
-          "price": "38,00 €",
+          "price": "45,60 €",
           "note": ""
         }
       ]
@@ -6740,7 +6740,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/earl-grey-the-noir-earl-grey-teahouse-boite-de-15-sachets-283",
-          "price": "5,59 €",
+          "price": "5,90 €",
           "note": ""
         }
       ]
@@ -6767,7 +6767,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/herbs-honey-infusion-aux-plantes-et-aux-fruits-teahouse-boite-de-15-sachets-263",
-          "price": "5,59 €",
+          "price": "5,90 €",
           "note": "4 g"
         }
       ]
@@ -6794,7 +6794,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/cartouche-jura-claris-smart-209",
-          "price": "16,00 €",
+          "price": "19,20 €",
           "note": ""
         }
       ]
@@ -6821,7 +6821,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/oriental-apple-infusion-de-pommes-et-mures-teahouse-boite-de-15-sachets-264",
-          "price": "5,59 €",
+          "price": "5,90 €",
           "note": ""
         }
       ]
@@ -8433,7 +8433,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Boisé, cacahuète",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/368/image_1024/Le%20m%C3%A9lange%20Espresso%20-%C2%A0Caf%C3%A9%20en%20grain%20pour%20Espresso%20%28Grain%29?unique=473f470",
       "available": true,
@@ -8460,7 +8460,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Boisé",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/354/image_1024/The%20Click%20-%20Caf%C3%A9%20en%20grain%20du%20Br%C3%A9sil%2C%20gourmand%20et%20%C3%A9quilibr%C3%A9%20%28Grain%29?unique=6bbc059",
       "available": true,
@@ -8477,8 +8477,8 @@
       "id": "cafes-lecoeur-p177",
       "roasterId": "cafes-lecoeur",
       "name": "Huanuco - Café en grain du Pérou, fin et aromatique",
-      "origin": null,
-      "originCountry": null,
+      "origin": "Pérou",
+      "originCountry": "Pérou",
       "process": null,
       "usage": null,
       "variety": null,
@@ -8487,7 +8487,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Végétal, Légère acidité, chocolaté",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/322/image_1024/Huanuco%20-%C2%A0Caf%C3%A9%20en%20grain%20du%20P%C3%A9rou%2C%20fin%20et%20aromatique%20%28Grain%29?unique=34f6a3c",
       "available": true,
@@ -8514,7 +8514,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Floral, jasmin",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/327/image_1024/%C3%89thiopie%20D%C3%A9caf%C3%A9in%C3%A9%20-%C2%A0Caf%C3%A9%20en%20grain%20d%C3%A9caf%C3%A9in%C3%A9%2C%20floral%20et%20%C3%A9l%C3%A9gant%20%28Grain%29?unique=c88f31f",
       "available": true,
@@ -8541,7 +8541,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Floral, Jasmin, chocolat",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/332/image_1024/Sidamo%20Bombe%20bona%20-%C2%A0Caf%C3%A9%20en%20grain%20d%E2%80%99%C3%89thiopie%2C%20floral%20et%20fruit%C3%A9%20%28Grain%29?unique=260c329",
       "available": true,
@@ -8568,7 +8568,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Fruité, Fruits mûres, fraise, Colombia",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/363/image_1024/Linarco%20-%C2%A0Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20ferment%C3%A9%20et%20complexe%20%28Grain%29?unique=f0f016a",
       "available": true,
@@ -8595,7 +8595,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Floral, Rose, amande, litchi",
       "desc": null,
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/347/image_1024/El%20Diviso%20-%C2%A0Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20fermentation%20ma%C3%AEtris%C3%A9e%20%28Grain%29?unique=53b6f81",
       "available": true,
@@ -8622,7 +8622,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Chocolat, noix, caramel",
       "desc": null,
       "imageUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/10/MAGALI-scaled.jpeg",
       "available": true,
@@ -14176,10 +14176,10 @@
       "name": "Café de la ferme Gaïa",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Honey",
       "usage": "Espresso",
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbons, catuai",
+      "producer": "Gaïa",
       "score": null,
       "acidity": null,
       "body": null,
@@ -14203,10 +14203,10 @@
       "name": "Café de Jhon Muñoz",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Lavé (fermentation alcoolique)",
       "usage": "Toutes méhodes",
-      "variety": null,
-      "producer": null,
+      "variety": "Caturra, castillo",
+      "producer": "Jhon Muñoz",
       "score": null,
       "acidity": null,
       "body": null,
@@ -14230,10 +14230,10 @@
       "name": "Café du village de Rutabo",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Naturel",
       "usage": "Toutes méthodes",
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbons",
+      "producer": "Village de Rutabo",
       "score": null,
       "acidity": null,
       "body": null,
@@ -14257,10 +14257,10 @@
       "name": "Café de La Lima",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Lavé",
       "usage": "Espresso",
-      "variety": null,
-      "producer": null,
+      "variety": "Typica, Caturra et Pache",
+      "producer": "La Lima",
       "score": null,
       "acidity": null,
       "body": null,
@@ -14274,6 +14274,87 @@
           "site": "Kaffa Torréfacteur",
           "url": "https://kaffa-roastery.com/produit/perou/",
           "price": "8,00 €",
+          "note": "1 kg, à partir de"
+        }
+      ]
+    },
+    {
+      "id": "kaffa-torrefacteur-mitiku-kebede",
+      "roasterId": "kaffa-torrefacteur",
+      "name": "Café de Mitiku Kebede",
+      "origin": null,
+      "originCountry": null,
+      "process": "Naturel",
+      "usage": "Espresso, Filtre",
+      "variety": "Jarc 74110, 74148",
+      "producer": "Mitiku Kebede",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Ethiopie-cafe-de-specialite-carre.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/mitiku-kebede/",
+          "price": "8,70 €",
+          "note": "1 kg, à partir de"
+        }
+      ]
+    },
+    {
+      "id": "kaffa-torrefacteur-cafe-amkeni",
+      "roasterId": "kaffa-torrefacteur",
+      "name": "Café de Amkeni",
+      "origin": null,
+      "originCountry": null,
+      "process": "Lavé",
+      "usage": "Espresso, Filtre",
+      "variety": "Bourbons",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Tanzanie-cafe-de-specialite-carre.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/cafe-amkeni/",
+          "price": "8,80 €",
+          "note": "1 kg, à partir de"
+        }
+      ]
+    },
+    {
+      "id": "kaffa-torrefacteur-kenya",
+      "roasterId": "kaffa-torrefacteur",
+      "name": "Café de Gloria Gummerus",
+      "origin": null,
+      "originCountry": null,
+      "process": "Lavé",
+      "usage": "Espresso, Filtre",
+      "variety": "SL28",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Kenya-cafe-de-specialite-carre.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/kenya/",
+          "price": "9,00 €",
           "note": "1 kg, à partir de"
         }
       ]
@@ -15575,6 +15656,33 @@
       ]
     },
     {
+      "id": "kb-coffee-roasters-kb-filter-coffee-de-fou",
+      "roasterId": "kb-coffee-roasters",
+      "name": "Coffee Filter Trip de FOU !!",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/FilterTripdefou-KBFiltercrazy-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.heic?v=1788520075",
+      "available": true,
+      "retailers": [
+        {
+          "site": "KB Coffee Roasters",
+          "url": "https://kbcoffeeroasters.com/products/kb-filter-coffee-de-fou",
+          "price": "39,00 €",
+          "note": "650 g, à partir de"
+        }
+      ]
+    },
+    {
       "id": "kultivar-colombie-gesha-lave",
       "roasterId": "kultivar",
       "name": "COLOMBIE – GESHA – LAVÉ",
@@ -16001,7 +16109,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-java",
-          "price": "24,76 €",
+          "price": "20,90 €",
           "note": "100 g"
         }
       ]
@@ -16028,7 +16136,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gedeo-naturel",
-          "price": "22,39 €",
+          "price": "18,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16055,7 +16163,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-cristal-coffee-globe",
-          "price": "35,42 €",
+          "price": "29,90 €",
           "note": "100 g"
         }
       ]
@@ -16082,7 +16190,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/lajones-bambu",
-          "price": "43,71 €",
+          "price": "36,90 €",
           "note": "100 g"
         }
       ]
@@ -16109,7 +16217,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chichogallo",
-          "price": "29,49 €",
+          "price": "24,90 €",
           "note": "100 g"
         }
       ]
@@ -16136,7 +16244,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-grands-crus-chocolates",
-          "price": "60,41 €",
+          "price": "51,00 €",
           "note": "750 g"
         }
       ]
@@ -16163,7 +16271,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/zelaya",
-          "price": "20,61 €",
+          "price": "17,40 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16190,7 +16298,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/fhlor-1",
-          "price": "20,02 €",
+          "price": "16,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16217,7 +16325,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-isabelina",
-          "price": "23,57 €",
+          "price": "19,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16244,7 +16352,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/autour-du-volcan-1",
-          "price": "41,34 €",
+          "price": "34,90 €",
           "note": "100 g"
         }
       ]
@@ -16271,7 +16379,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-atlas-coffee-globe",
-          "price": "30,68 €",
+          "price": "25,90 €",
           "note": "100 g"
         }
       ]
@@ -16298,7 +16406,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chakra-do-dago",
-          "price": "21,20 €",
+          "price": "17,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16325,7 +16433,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-degustation-decouverte",
-          "price": "115,23 €",
+          "price": "97,28 €",
           "note": "1.5 kg"
         }
       ]
@@ -16352,7 +16460,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/kit-decouverte-offre-de-lancement-reniala",
-          "price": "121,06 €",
+          "price": "102,20 €",
           "note": "963 g"
         }
       ]
@@ -16379,7 +16487,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/flhor-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "13,50 €",
+          "price": "11,40 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16406,7 +16514,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/amarillo-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "22,74 €",
+          "price": "19,20 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16433,7 +16541,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gera-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "13,50 €",
+          "price": "11,40 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16460,7 +16568,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "12,08 €",
+          "price": "10,20 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16487,7 +16595,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "14,21 €",
+          "price": "12,00 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16514,7 +16622,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/bourbon-pointu-grand-cru",
-          "price": "69,77 €",
+          "price": "58,90 €",
           "note": "100 g, rupture de stock"
         }
       ]
@@ -16541,7 +16649,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/canopee-en-capsule",
-          "price": "21,20 €",
+          "price": "17,90 €",
           "note": "131 g, à partir de"
         }
       ]
@@ -16568,7 +16676,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-capsule",
-          "price": "21,20 €",
+          "price": "17,90 €",
           "note": "131 g, à partir de"
         }
       ]
@@ -16595,7 +16703,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saqulew",
-          "price": "21,20 €",
+          "price": "17,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16622,7 +16730,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/blue-mariposa-1",
-          "price": "22,39 €",
+          "price": "18,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16649,7 +16757,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/timana",
-          "price": "22,39 €",
+          "price": "18,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16676,7 +16784,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-illumination",
-          "price": "159,91 €",
+          "price": "135,00 €",
           "note": "400 g"
         }
       ]
@@ -16703,7 +16811,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-metamorphose",
-          "price": "100,68 €",
+          "price": "85,00 €",
           "note": "300 g"
         }
       ]
@@ -16730,7 +16838,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/au-coeur-de-la-foret-1",
-          "price": "29,49 €",
+          "price": "24,90 €",
           "note": "100 g"
         }
       ]
@@ -16757,7 +16865,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/source",
-          "price": "18,83 €",
+          "price": "15,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16784,7 +16892,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-canopee",
-          "price": "17,65 €",
+          "price": "14,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16811,7 +16919,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saio",
-          "price": "22,39 €",
+          "price": "18,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16838,7 +16946,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-initiation",
-          "price": "51,41 €",
+          "price": "43,40 €",
           "note": "750 g"
         }
       ]
@@ -16865,7 +16973,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine-en-capsule",
-          "price": "23,57 €",
+          "price": "19,90 €",
           "note": "131 g, à partir de"
         }
       ]
@@ -16892,7 +17000,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-origine",
-          "price": "17,65 €",
+          "price": "14,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16919,7 +17027,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine",
-          "price": "20,02 €",
+          "price": "16,90 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -17405,7 +17513,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bergamotier-642",
-          "price": "16,02 €",
+          "price": "16,90 €",
           "note": "100 g"
         }
       ]
@@ -17432,7 +17540,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-costa-rica-buho-801",
-          "price": "5,21 €",
+          "price": "5,50 €",
           "note": ""
         }
       ]
@@ -17459,7 +17567,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-honduras-alegria-803",
-          "price": "5,21 €",
+          "price": "5,50 €",
           "note": ""
         }
       ]
@@ -17486,7 +17594,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-mexique-decafeine-804",
-          "price": "5,21 €",
+          "price": "5,50 €",
           "note": ""
         }
       ]
@@ -17513,7 +17621,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-salvador-espresso-blend-800",
-          "price": "5,21 €",
+          "price": "5,50 €",
           "note": ""
         }
       ]
@@ -17540,7 +17648,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/brown-sugar-645",
-          "price": "10,33 €",
+          "price": "10,90 €",
           "note": "100 g"
         }
       ]
@@ -17567,7 +17675,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-dulces-suenos-decafeine-906",
-          "price": "12,23 €",
+          "price": "12,90 €",
           "note": "250 g"
         }
       ]
@@ -17594,7 +17702,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-mogiana-fazenda-alianca-910",
-          "price": "9,95 €",
+          "price": "10,50 €",
           "note": "250 g"
         }
       ]
@@ -17621,7 +17729,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chicoree-l-originale-nouree-752",
-          "price": "10,33 €",
+          "price": "10,90 €",
           "note": "100 g"
         }
       ]
@@ -17648,7 +17756,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chunmee-bio-648",
-          "price": "9,38 €",
+          "price": "9,90 €",
           "note": "100 g"
         }
       ]
@@ -17675,7 +17783,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/darjeeling-imperial-namring-651",
-          "price": "11,28 €",
+          "price": "11,90 €",
           "note": "100 g"
         }
       ]
@@ -17702,7 +17810,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-beloya-yirgacheffe-930",
-          "price": "12,32 €",
+          "price": "13,00 €",
           "note": "250 g"
         }
       ]
@@ -17729,7 +17837,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-oromia-814",
-          "price": "9,43 €",
+          "price": "9,95 €",
           "note": "250 g"
         }
       ]
@@ -17756,7 +17864,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-sidama-bombe-g1-1904",
-          "price": "9,00 €",
+          "price": "9,50 €",
           "note": "125 g"
         }
       ]
@@ -17783,7 +17891,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/earl-grey-royal-bio-653",
-          "price": "11,28 €",
+          "price": "11,90 €",
           "note": "100 g"
         }
       ]
@@ -17810,7 +17918,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/feel-good-bio-655",
-          "price": "10,33 €",
+          "price": "10,90 €",
           "note": "100 g"
         }
       ]
@@ -17837,7 +17945,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/guatemala-huehuetenango-el-panal-1903",
-          "price": "14,12 €",
+          "price": "14,90 €",
           "note": "250 g"
         }
       ]
@@ -17864,7 +17972,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/grand-yunnan-bio-614",
-          "price": "12,23 €",
+          "price": "12,90 €",
           "note": "100 g"
         }
       ]
@@ -17891,7 +17999,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/gunpowder-bio-657",
-          "price": "9,38 €",
+          "price": "9,90 €",
           "note": "100 g"
         }
       ]
@@ -18153,7 +18261,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Thé noir, Bergamote, Abricot, Chocolat noir, Canne à sucre",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/Gerbadogoomni250g.png?v=1788445363",
       "available": true,
@@ -18180,7 +18288,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Chocolat noir, fruits secs",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/EB1KG.png?v=1773241975",
       "available": true,
@@ -18207,7 +18315,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Cacao, Fruits rouges confits",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0007-6382109101746055815.png?v=1783159731",
       "available": true,
@@ -18234,7 +18342,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Cacao, Myrtille, Pamplemousse",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/Spring26250g_1.png?v=1777757341",
       "available": true,
@@ -18261,7 +18369,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Fleur d’oranger, Mûre, Ananas",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0015-5610867154303701029.png?v=1782730000",
       "available": true,
@@ -18288,7 +18396,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Pamplemousse, Ananas, Épices",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0021-732341003351847629.png?v=1781179154",
       "available": true,
@@ -18297,7 +18405,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/jaguarundi-colombie-ico-torrefaction",
           "price": "16,90 €",
-          "note": "264 g"
+          "note": "264 g, rupture de stock"
         }
       ]
     },
@@ -18315,7 +18423,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Cerise rouge, Fruit de la passion, Ananas, Rose sombre",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/CIHEMAR250g.png?v=1777382507",
       "available": true,
@@ -18342,7 +18450,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Peche, Mandarine, Raisin sec",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/LACOCHA250g.png?v=1773225584",
       "available": true,
@@ -18369,7 +18477,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Cacao, fruits à coque",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0010-6382109101746055815.png?v=1783159729",
       "available": true,
@@ -18396,7 +18504,7 @@
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Chocolat au lait, Cerise noire",
       "desc": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/HB_1KG.png?v=1773179334",
       "available": true,
@@ -21644,7 +21752,7 @@
         {
           "site": "Mokxa",
           "url": "https://cafemokxa.com/products/don-lino-cafe-de-colombie",
-          "price": "16,00 €",
+          "price": "15,00 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -21655,9 +21763,9 @@
       "name": "San Antonio | El Salvador",
       "origin": "El Salvador",
       "originCountry": "El Salvador",
-      "process": null,
+      "process": "Naturel anaerobic basse température 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Geisha ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21682,9 +21790,9 @@
       "name": "Papa Blend",
       "origin": "Papouasie",
       "originCountry": "Papouasie",
-      "process": null,
+      "process": "Lavé ☕️",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21709,9 +21817,9 @@
       "name": "Guariroba | Brésil",
       "origin": "Brésil",
       "originCountry": "Brésil",
-      "process": null,
+      "process": "Naturel 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Catucai Jaune ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21736,7 +21844,7 @@
       "name": "Cundinamarca | Colombie",
       "origin": "Colombie",
       "originCountry": "Colombie",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "variety": null,
       "producer": null,
@@ -21763,9 +21871,9 @@
       "name": "Kamunyaka | Kenya",
       "origin": "Kenya",
       "originCountry": "Kenya",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Ruiru 11, SL-34, SL-28, Batian ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21790,9 +21898,9 @@
       "name": "D-CAF #5",
       "origin": "Pérou",
       "originCountry": "Pérou",
-      "process": null,
+      "process": "Lavé, Swiss Water 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Caturra, Catuai, Bourbon ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21817,9 +21925,9 @@
       "name": "Kinini | Rwanda",
       "origin": "Rwanda",
       "originCountry": "Rwanda",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "BM71, Jackson ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21844,9 +21952,9 @@
       "name": "Ayla Bombe | Ethiopie",
       "origin": "Mexique",
       "originCountry": "Mexique",
-      "process": null,
+      "process": "Naturel 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Heirloom ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21871,9 +21979,9 @@
       "name": "Huehuetepan | Mexique",
       "origin": "Mexique",
       "originCountry": "Mexique",
-      "process": null,
+      "process": "Macération Carbonique 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Typica ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21898,10 +22006,10 @@
       "name": "Mbili | Tanzanie",
       "origin": "Tanzanie",
       "originCountry": "Tanzanie",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbon (N39), Kent ☀️",
+      "producer": "Ladslaus Alfred & Makiidi RCS ⛰️",
       "score": null,
       "acidity": null,
       "body": null,
@@ -21925,9 +22033,9 @@
       "name": "Clark Lavé | Ouganda",
       "origin": "Honduras",
       "originCountry": "Honduras",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Drugar (Arabica) ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21952,9 +22060,9 @@
       "name": "Simbu | Papouasie Nouvelle Guinée",
       "origin": "Papouasie",
       "originCountry": "Papouasie",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -21979,9 +22087,9 @@
       "name": "Finca Union | Mexique",
       "origin": "Mexique",
       "originCountry": "Mexique",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Filtres et Méthodes Douces",
-      "variety": null,
+      "variety": "Bourbon, Sarchimor ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22006,9 +22114,9 @@
       "name": "Baragwi | Kenya",
       "origin": "Kenya",
       "originCountry": "Kenya",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "SL34, SL28, Ruiru 11, Batian ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22033,9 +22141,9 @@
       "name": "Don Claudio | Costa Rica",
       "origin": "Costa Rica",
       "originCountry": "Costa Rica",
-      "process": null,
+      "process": "Naturel 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Caturra, Catuai ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22085,11 +22193,11 @@
       "id": "montista-don-victor-nicaragua",
       "roasterId": "montista",
       "name": "Don Victor | Nicaragua",
-      "origin": "Nicaragua",
+      "origin": "Nicaragua · Penas Blancas, Jinotega 📍Finca : Monte Cristo ⛰️",
       "originCountry": "Nicaragua",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Java ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22114,9 +22222,9 @@
       "name": "Blend#5  | Inde & Ouganda",
       "origin": "Inde, Ouganda",
       "originCountry": "Inde, Ouganda",
-      "process": null,
+      "process": "Lavé & Naturel",
       "usage": "Espresso",
-      "variety": null,
+      "variety": "Bourbon & Drugar ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22139,11 +22247,11 @@
       "id": "montista-el-puente",
       "roasterId": "montista",
       "name": "El Puente | Honduras",
-      "origin": null,
+      "origin": "Marcala & Masaguara 📍",
       "originCountry": null,
-      "process": null,
+      "process": "Extended Natural 🍃",
       "usage": null,
-      "variety": null,
+      "variety": "Catuai rouge ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22168,9 +22276,9 @@
       "name": "Thageini  | Kenya",
       "origin": "Kenya",
       "originCountry": "Kenya",
-      "process": null,
+      "process": "Lavé 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "SL-34, Ruiru11, Batian, SL-28 ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22195,9 +22303,9 @@
       "name": "Hamburgo | Mexique",
       "origin": "Mexique",
       "originCountry": "Mexique",
-      "process": null,
+      "process": "Naturel 🍃",
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
-      "variety": null,
+      "variety": "Tupi ☀️",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22251,7 +22359,7 @@
       "originCountry": null,
       "process": null,
       "usage": null,
-      "variety": null,
+      "variety": "Typica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22278,7 +22386,7 @@
       "originCountry": null,
       "process": null,
       "usage": null,
-      "variety": null,
+      "variety": "Typica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22510,6 +22618,33 @@
           "url": "https://cafe.omnino.fr/products/cafe-infuse-a-froid-concentre-5-litres",
           "price": "79,00 €",
           "note": "6.5 kg"
+        }
+      ]
+    },
+    {
+      "id": "omnino-haru-cafe-infuse-a-froid-dethiopie-cold-brew",
+      "roasterId": "omnino",
+      "name": "Café infusé à froid prêt-à-boire (3 litres)",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/IMG_8240_e5c6e186-8929-4208-9b5c-23309bbb7256.jpg?v=1764242029",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Omnino",
+          "url": "https://cafe.omnino.fr/products/haru-cafe-infuse-a-froid-dethiopie-cold-brew",
+          "price": "36,00 €",
+          "note": "3.8 kg"
         }
       ]
     },
@@ -25727,16 +25862,124 @@
       ]
     },
     {
+      "id": "tanat-coffee-santa-elena-geisha-aura",
+      "roasterId": "tanat-coffee",
+      "name": "Santa Elena [Geisha Aura]",
+      "origin": null,
+      "originCountry": null,
+      "process": "Naturel - Fermentation Basse",
+      "usage": "Filtre",
+      "variety": "Geisha",
+      "producer": "Cafelino - Santa Elena Estate",
+      "score": 91,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-santaelena-geishaaura.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://tanat.coffee/boutique/santa-elena-geisha-aura/",
+          "price": "32,90 €",
+          "note": "100 g"
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-jamison-savage-caturra-washed",
+      "roasterId": "tanat-coffee",
+      "name": "Jamison Savage [Caturra Washed]",
+      "origin": null,
+      "originCountry": null,
+      "process": "Lavé",
+      "usage": "Espresso",
+      "variety": "Caturra",
+      "producer": "Jamison Savage",
+      "score": 88,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-jamisonsavage-caturrawashed-esp.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://tanat.coffee/boutique/jamison-savage-caturra-washed/",
+          "price": "24,90 €",
+          "note": "200 g, à partir de"
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-lost-origin-santa-teresa-gw-289",
+      "roasterId": "tanat-coffee",
+      "name": "Lost Origin [Santa Teresa GW #289]",
+      "origin": null,
+      "originCountry": null,
+      "process": "Yeast Inoculation",
+      "usage": "Filtre",
+      "variety": "Geisha",
+      "producer": "Ezequiel Batista",
+      "score": 90,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-lostorigin-santateresa-289.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://tanat.coffee/boutique/lost-origin-santa-teresa-gw-289/",
+          "price": "58,90 €",
+          "note": "100 g"
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-los-lajones-geisha-peaberry-natural-23109",
+      "roasterId": "tanat-coffee",
+      "name": "Los Lajones [Geisha Peaberry Natural #23109]",
+      "origin": null,
+      "originCountry": null,
+      "process": "Naturel",
+      "usage": "Filtre",
+      "variety": "Geisha",
+      "producer": "Graciano Cruz",
+      "score": 91,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-loslajonespeaberry-23109.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://tanat.coffee/boutique/los-lajones-geisha-peaberry-natural-23109/",
+          "price": "55,90 €",
+          "note": "100 g"
+        }
+      ]
+    },
+    {
       "id": "terres-de-cafe-p2099",
       "roasterId": "terres-de-cafe",
       "name": "Café La Josefina Sidra Washed",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Equateur · Haute Amazonie, Cascabel / Finca La Josefina",
+      "originCountry": "Equateur",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Sidra",
+      "producer": "Leopoldo Andrade",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25757,13 +26000,13 @@
       "id": "terres-de-cafe-p2098",
       "roasterId": "terres-de-cafe",
       "name": "Café La Josefina Sidra Natural",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Equateur · Haute Amazonie, Cascabel / Finca La Josefina",
+      "originCountry": "Equateur",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Sidra",
+      "producer": "Leopoldo Andrade",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25784,13 +26027,13 @@
       "id": "terres-de-cafe-p2095",
       "roasterId": "terres-de-cafe",
       "name": "Café Finca Santa Maria -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Narino, Buesaco / Finca Santa Maria",
+      "originCountry": "Colombie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "CastilloCaturraLate Harvest",
+      "producer": "Armando Benavides",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25811,13 +26054,13 @@
       "id": "terres-de-cafe-p1445",
       "roasterId": "terres-de-cafe",
       "name": "Café KSF Goma Forest Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Heirloom",
+      "producer": "Khalid Shifa",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25838,13 +26081,13 @@
       "id": "terres-de-cafe-p78",
       "roasterId": "terres-de-cafe",
       "name": "Café Yeti Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Moka Heirloom",
+      "producer": "Plusieurs petits producteurs",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25865,13 +26108,13 @@
       "id": "terres-de-cafe-p588",
       "roasterId": "terres-de-cafe",
       "name": "Café Old Yéti Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Konki Yeti",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Heirloom",
+      "producer": "Plusieurs petits producteurs",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25892,13 +26135,13 @@
       "id": "terres-de-cafe-p2094",
       "roasterId": "terres-de-cafe",
       "name": "Jhoan & Diego Vergara - Las...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Thermal Shock Anaerobic Washed",
       "usage": null,
-      "variety": null,
+      "variety": "Chiroso",
       "producer": null,
-      "score": null,
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25919,13 +26162,13 @@
       "id": "terres-de-cafe-p2092",
       "roasterId": "terres-de-cafe",
       "name": "Jhoan & Diego Vergara - Las...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Nature Anaérobique",
       "usage": null,
-      "variety": null,
+      "variety": "Java",
       "producer": null,
-      "score": null,
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25946,13 +26189,13 @@
       "id": "terres-de-cafe-p1441",
       "roasterId": "terres-de-cafe",
       "name": "Café KSF Echemo Lavé Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie",
+      "originCountry": "Ethiopie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
+      "variety": "Heirloom",
       "producer": null,
-      "score": null,
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25973,13 +26216,13 @@
       "id": "terres-de-cafe-p2087",
       "roasterId": "terres-de-cafe",
       "name": "Café Granja La Esperanza -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Valle Del Cauca / Granja la Esperanza",
+      "originCountry": "Colombie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Bourbon Pointu",
+      "producer": "Rigoberto & Luis Herrera",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26000,13 +26243,13 @@
       "id": "terres-de-cafe-p1978",
       "roasterId": "terres-de-cafe",
       "name": "Café Felix Project Caranavi",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Bolivie · Caranavi, La Paz",
+      "originCountry": "Bolivie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "CatuaiTypica",
+      "producer": "Felix Chambi",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26027,13 +26270,13 @@
       "id": "terres-de-cafe-p392",
       "roasterId": "terres-de-cafe",
       "name": "Café Bob-O-Link Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Brésil",
+      "originCountry": "Brésil",
+      "process": "Nature",
       "usage": null,
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26054,13 +26297,13 @@
       "id": "terres-de-cafe-p1966",
       "roasterId": "terres-de-cafe",
       "name": "Café Altos de Bijao Estate...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Santander / Altos Del Bijao Estate",
+      "originCountry": "Colombie",
+      "process": "Semi washed Anaerobic 20 heures",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Multi variétés",
+      "producer": "Oscar Daza",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26081,13 +26324,13 @@
       "id": "terres-de-cafe-p394",
       "roasterId": "terres-de-cafe",
       "name": "Café Dipilto Viejo",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Ultra lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Blend",
+      "producer": "Olman Valladerez",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26108,13 +26351,13 @@
       "id": "terres-de-cafe-p1938",
       "roasterId": "terres-de-cafe",
       "name": "Café Fazendas",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Brésil",
+      "originCountry": "Brésil",
+      "process": "Nature",
       "usage": null,
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26135,13 +26378,13 @@
       "id": "terres-de-cafe-p2004",
       "roasterId": "terres-de-cafe",
       "name": "Coffret Permanent Coffee",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie, Éthiopie",
+      "originCountry": "Colombie, Éthiopie",
+      "process": "Honey ProcessSemi washed Anaerobic 20 heures",
       "usage": null,
-      "variety": null,
+      "variety": "HeirloomMulti variétés",
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26162,13 +26405,13 @@
       "id": "terres-de-cafe-p1442",
       "roasterId": "terres-de-cafe",
       "name": "Café El Cuto",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Salvador",
+      "originCountry": "Salvador",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Bourbon rougePacas",
+      "producer": "Plusieurs petits producteurs",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26189,13 +26432,13 @@
       "id": "terres-de-cafe-p2010",
       "roasterId": "terres-de-cafe",
       "name": "Coffret Slow Coffee",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Éthiopie, Costa Rica",
+      "originCountry": "Éthiopie, Costa Rica",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
+      "variety": "CaturraHeirloom",
       "producer": null,
-      "score": null,
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26216,13 +26459,13 @@
       "id": "terres-de-cafe-p1790",
       "roasterId": "terres-de-cafe",
       "name": "Café Taba Hills - Nature",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Rwanda · Taba Hills",
+      "originCountry": "Rwanda",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
+      "variety": "Bourbon",
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26243,13 +26486,13 @@
       "id": "terres-de-cafe-p1696",
       "roasterId": "terres-de-cafe",
       "name": "Café Finca Santa Maria -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "CastilloCaturra",
+      "producer": "Armando Benavides",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26270,13 +26513,13 @@
       "id": "terres-de-cafe-p2002",
       "roasterId": "terres-de-cafe",
       "name": "Café Los Pinos",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua · Nueva Segovia / Dipilto",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Blend",
+      "producer": "Olman Valladerez",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26299,11 +26542,11 @@
       "name": "Café Amazalia",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Blend",
+      "producer": "Plusieurs petits producteurs",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26324,13 +26567,13 @@
       "id": "terres-de-cafe-p2035",
       "roasterId": "terres-de-cafe",
       "name": "Café Finca la Laguna -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua · Nueva Segovia, Dipilto / Finca La Laguna",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Parainema",
+      "producer": "Olman Valladerez",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26351,13 +26594,13 @@
       "id": "terres-de-cafe-p2008",
       "roasterId": "terres-de-cafe",
       "name": "Coffret Grands Crus...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Éthiopie, Nicaragua",
+      "originCountry": "Éthiopie, Nicaragua",
+      "process": "LavéUltra lavé",
       "usage": null,
-      "variety": null,
+      "variety": "HeirloomMaracaturra",
       "producer": null,
-      "score": null,
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26378,13 +26621,13 @@
       "id": "terres-de-cafe-p1832",
       "roasterId": "terres-de-cafe",
       "name": "Café Volcan Azul - Caturra",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Costa Rica · Vallée centrale / Finca Volcan Azul",
+      "originCountry": "Costa Rica",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Caturra",
+      "producer": "Alejo Castro",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26411,7 +26654,7 @@
       "usage": null,
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26432,13 +26675,13 @@
       "id": "terres-de-cafe-p923",
       "roasterId": "terres-de-cafe",
       "name": "Café KSF Old Trees",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Limmu / Khalid Shifa Farm",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Heirloom",
+      "producer": "Khalid Shifa",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26459,13 +26702,13 @@
       "id": "terres-de-cafe-p1988",
       "roasterId": "terres-de-cafe",
       "name": "Café Yirgacheffe Banko Gotiti",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Gedeb / Yirgacheffe",
+      "originCountry": "Ethiopie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Variété endémique",
+      "producer": "Plusieurs petits producteurs",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26486,13 +26729,13 @@
       "id": "terres-de-cafe-p2017",
       "roasterId": "terres-de-cafe",
       "name": "Café Buenos Aires -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua · Finca Buenos Aires",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Maracaturra",
+      "producer": "Olman Valladerez",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26513,13 +26756,13 @@
       "id": "terres-de-cafe-p1961",
       "roasterId": "terres-de-cafe",
       "name": "Café Bourbon Santander Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Santander / Altos Del Bijao Estate",
+      "originCountry": "Colombie",
+      "process": "Nature Anaérobique",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Bourbon Rose",
+      "producer": "Oscar Daza",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26540,13 +26783,13 @@
       "id": "terres-de-cafe-p1878",
       "roasterId": "terres-de-cafe",
       "name": "Café Tatmara Plantation -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Kaffa / Tatmara Plantation",
+      "originCountry": "Ethiopie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Variété endémique",
+      "producer": "Negussie Tadesse",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26567,13 +26810,13 @@
       "id": "terres-de-cafe-p2071",
       "roasterId": "terres-de-cafe",
       "name": "Café Finca Elizabeth...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Honduras · Copan - La Zeta / Finca Elizabeth",
+      "originCountry": "Honduras",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Parainema",
+      "producer": "Elizabeth & Rosalio Ventura",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26594,12 +26837,12 @@
       "id": "terres-de-cafe-p2076",
       "roasterId": "terres-de-cafe",
       "name": "Café Volcan Azul Décaféiné",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Costa Rica · Volcan Poas / Finca Volcan Azul",
+      "originCountry": "Costa Rica",
+      "process": "Honey Process",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Caturra",
+      "producer": "Alejo Castro",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26621,13 +26864,13 @@
       "id": "terres-de-cafe-p1697",
       "roasterId": "terres-de-cafe",
       "name": "Café Finca Santa Maria -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Narino, Buesaco / Finca Santa Maria",
+      "originCountry": "Colombie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Geisha",
+      "producer": "Armando Benavides",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26648,12 +26891,12 @@
       "id": "terres-de-cafe-p2056",
       "roasterId": "terres-de-cafe",
       "name": "Miguel Angel Villacencio -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Salvador",
+      "originCountry": "Salvador",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "KeniaSL28",
+      "producer": "Miguel Angel Villacencio",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26675,12 +26918,12 @@
       "id": "terres-de-cafe-p2029",
       "roasterId": "terres-de-cafe",
       "name": "Olman Valladarez - Los...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua · Nueva Segovia / Dipilto",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Olman Valladerez",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26702,12 +26945,12 @@
       "id": "terres-de-cafe-p1836",
       "roasterId": "terres-de-cafe",
       "name": "Pepe Jijón - La Soledad -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Equateur · Intag Valley / Finca La Soledad",
+      "originCountry": "Equateur",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Sidra",
+      "producer": "Pepe Jijon",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26729,12 +26972,12 @@
       "id": "terres-de-cafe-p1920",
       "roasterId": "terres-de-cafe",
       "name": "Felipe Contreras - Finca...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Guatemala · San Juan Gascón, Antigua / Gascón",
+      "originCountry": "Guatemala",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Felipe Contreras",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26756,13 +26999,13 @@
       "id": "terres-de-cafe-p1942",
       "roasterId": "terres-de-cafe",
       "name": "Café Thomas Guzmán Geisha...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Mexique · La Concardia, Chiapas",
+      "originCountry": "Mexique",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "CaturraGeisha",
+      "producer": "Thomas Guzmán",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26783,13 +27026,13 @@
       "id": "terres-de-cafe-p1953",
       "roasterId": "terres-de-cafe",
       "name": "Café La Margarita - Bourbon...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou · Ocobamba - Cuzco / La Margarita",
+      "originCountry": "Pérou",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Bourbon",
+      "producer": "Famille Solórzano",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26810,12 +27053,12 @@
       "id": "terres-de-cafe-p2072",
       "roasterId": "terres-de-cafe",
       "name": "Small Farmers - Maghrib Ans...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Yemen · Maghrib Ans",
+      "originCountry": "Yemen",
+      "process": "Honey Carbonic",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Kent",
+      "producer": "Plusieurs petits producteurs",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26837,12 +27080,12 @@
       "id": "terres-de-cafe-p1996",
       "roasterId": "terres-de-cafe",
       "name": "Alejo Castro - Volcan Azul...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Costa Rica · Volcan Poas / Finca Volcan Azul",
+      "originCountry": "Costa Rica",
+      "process": "Nature Anaérobique",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Alejo Castro",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26864,13 +27107,13 @@
       "id": "terres-de-cafe-p1990",
       "roasterId": "terres-de-cafe",
       "name": "Café Altos de Bijao Geisha",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Santander / Altos Del Bijao Estate",
+      "originCountry": "Colombie",
+      "process": "Honey process anaerobic 36 heures",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Geisha",
+      "producer": "Oscar Daza",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26891,12 +27134,12 @@
       "id": "terres-de-cafe-p2086",
       "roasterId": "terres-de-cafe",
       "name": "José Prudencio Vargas - El...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou · El Mirante",
+      "originCountry": "Pérou",
+      "process": "Honey Process",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "José Prudencio Vargas",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26918,13 +27161,13 @@
       "id": "terres-de-cafe-p2012",
       "roasterId": "terres-de-cafe",
       "name": "Coffret Légendes",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Costa Rica, Pérou",
+      "originCountry": "Costa Rica, Pérou",
+      "process": "Anaérobique lavéWarm Anaerobic",
       "usage": null,
-      "variety": null,
+      "variety": "GeishaGeisha Natural",
       "producer": null,
-      "score": null,
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26945,12 +27188,12 @@
       "id": "terres-de-cafe-p1959",
       "roasterId": "terres-de-cafe",
       "name": "Neto & Ivan Sólorzano - La...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou · Ocobamba - Cuzco / La Margarita",
+      "originCountry": "Pérou",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Famille Solórzano",
       "score": null,
       "acidity": null,
       "body": null,
@@ -26972,13 +27215,13 @@
       "id": "terres-de-cafe-p1998",
       "roasterId": "terres-de-cafe",
       "name": "Café Las Brujas Pacamara...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Panama · Volcan Baru - Potrejillos / Las Brujas - Hacienda Barbara",
+      "originCountry": "Panama",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Pacamara",
+      "producer": "Hunter Tedman",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -26999,12 +27242,12 @@
       "id": "terres-de-cafe-p2084",
       "roasterId": "terres-de-cafe",
       "name": "José Prudencio Vargas - El...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou · El Mirante",
+      "originCountry": "Pérou",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "José Prudencio Vargas",
       "score": null,
       "acidity": null,
       "body": null,
@@ -27026,12 +27269,12 @@
       "id": "terres-de-cafe-p2028",
       "roasterId": "terres-de-cafe",
       "name": "Ratibor & Tessie Hartmann -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Panama · Mi Finquita",
+      "originCountry": "Panama",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Ratibor & Tessie Hartmann",
       "score": null,
       "acidity": null,
       "body": null,
@@ -27053,12 +27296,12 @@
       "id": "terres-de-cafe-p1960",
       "roasterId": "terres-de-cafe",
       "name": "Dwight Aguilar - Nueva...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou · Nueva Allianza",
+      "originCountry": "Pérou",
+      "process": "Anaérobique lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Dwight Aguilar",
       "score": null,
       "acidity": null,
       "body": null,
@@ -27080,13 +27323,13 @@
       "id": "terres-de-cafe-p62",
       "roasterId": "terres-de-cafe",
       "name": "Café Blue Mountain",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Jamaique · Blue Mountain, St Cloud",
+      "originCountry": "Jamaique",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Typica",
+      "producer": "Plusieurs petits producteurs",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27107,11 +27350,11 @@
       "id": "terres-de-cafe-p1126",
       "roasterId": "terres-de-cafe",
       "name": "Café Classic Expresso",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Brésil, Nicaragua, Salvador",
+      "originCountry": "Brésil, Nicaragua, Salvador",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27134,11 +27377,11 @@
       "id": "terres-de-cafe-p2062",
       "roasterId": "terres-de-cafe",
       "name": "Café Organic Expresso Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie, Honduras, Brésil",
+      "originCountry": "Ethiopie, Honduras, Brésil",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27161,11 +27404,11 @@
       "id": "terres-de-cafe-p585",
       "roasterId": "terres-de-cafe",
       "name": "Café The Forest Bio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie, Colombie",
+      "originCountry": "Ethiopie, Colombie",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27188,11 +27431,11 @@
       "id": "terres-de-cafe-p405",
       "roasterId": "terres-de-cafe",
       "name": "Café H3",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie",
+      "originCountry": "Ethiopie",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Heirloom",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27242,11 +27485,11 @@
       "id": "terres-de-cafe-p1073",
       "roasterId": "terres-de-cafe",
       "name": "Café 10 Blend",
-      "origin": null,
-      "originCountry": null,
+      "origin": "Ethiopie, Costa Rica, Kenya",
+      "originCountry": "Ethiopie, Costa Rica, Kenya",
       "process": null,
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27269,8 +27512,8 @@
       "id": "terres-de-cafe-p1082",
       "roasterId": "terres-de-cafe",
       "name": "Café Jaen Bio décaféiné",
-      "origin": null,
-      "originCountry": null,
+      "origin": "Pérou",
+      "originCountry": "Pérou",
       "process": null,
       "usage": null,
       "variety": null,
@@ -27327,7 +27570,7 @@
       "originCountry": null,
       "process": null,
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27350,11 +27593,11 @@
       "id": "terres-de-cafe-p409",
       "roasterId": "terres-de-cafe",
       "name": "Café Classic Expresso - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Brésil, Nicaragua, SalvadorPérou",
+      "originCountry": "Brésil, Nicaragua, SalvadorPérou",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27377,13 +27620,13 @@
       "id": "terres-de-cafe-p1983",
       "roasterId": "terres-de-cafe",
       "name": "Café Felix Project Caranavi...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Bolivie · Caranavi, La Paz",
+      "originCountry": "Bolivie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "CatuaiTypica",
+      "producer": "Felix Chambi",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27406,9 +27649,9 @@
       "name": "Café Organic Expresso Bio - KG",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27431,13 +27674,13 @@
       "id": "terres-de-cafe-p1939",
       "roasterId": "terres-de-cafe",
       "name": "Café Fazendas - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Brésil · Sul de Minas, Mogiana",
+      "originCountry": "Brésil",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Mundo Novo",
+      "producer": "Communautés Campestre et Agua Limpa",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27458,13 +27701,13 @@
       "id": "terres-de-cafe-p399",
       "roasterId": "terres-de-cafe",
       "name": "Café Dipilto Viejo - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Ultra lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Blend",
+      "producer": "Olman Valladerez",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27485,13 +27728,13 @@
       "id": "terres-de-cafe-p1984",
       "roasterId": "terres-de-cafe",
       "name": "Café Altos de Bijao Estate...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Santander / Altos Del Bijao Estate",
+      "originCountry": "Colombie",
+      "process": "Semi washed Anaerobic 20 heures",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Multi variétés",
+      "producer": "Oscar Daza",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27512,13 +27755,13 @@
       "id": "terres-de-cafe-p1443",
       "roasterId": "terres-de-cafe",
       "name": "Café El Cuto - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Salvador · Volcan Chingo / Alta Mira, San Isidro, Suncita, Miramundo",
+      "originCountry": "Salvador",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Bourbon rougePacas",
+      "producer": "Plusieurs petits producteurs",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27539,13 +27782,13 @@
       "id": "terres-de-cafe-p1446",
       "roasterId": "terres-de-cafe",
       "name": "Café KSF Goma Forest Bio - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Limmu / Khalid Shifa Farm",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Heirloom",
+      "producer": "Khalid Shifa",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27566,11 +27809,11 @@
       "id": "terres-de-cafe-p791",
       "roasterId": "terres-de-cafe",
       "name": "Café The Forest Bio - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "EthiopieEthiopie, Colombie",
+      "originCountry": "EthiopieEthiopie, Colombie",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27593,13 +27836,13 @@
       "id": "terres-de-cafe-p1791",
       "roasterId": "terres-de-cafe",
       "name": "Café Taba Hills - Nature - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Rwanda · Taba Hills",
+      "originCountry": "Rwanda",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
+      "variety": "Bourbon",
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27620,11 +27863,11 @@
       "id": "terres-de-cafe-p2061",
       "roasterId": "terres-de-cafe",
       "name": "Café H3 - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie",
+      "originCountry": "Ethiopie",
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Moka Heirloom",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27647,13 +27890,13 @@
       "id": "terres-de-cafe-p1134",
       "roasterId": "terres-de-cafe",
       "name": "Café Yeti Bio - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Wallaga / Yeti",
+      "originCountry": "Ethiopie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Moka Heirloom",
+      "producer": "Plusieurs petits producteurs",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27674,11 +27917,11 @@
       "id": "terres-de-cafe-p978",
       "roasterId": "terres-de-cafe",
       "name": "Café \"10\" Blend - KG",
-      "origin": null,
-      "originCountry": null,
+      "origin": "Ethiopie, Costa Rica, Kenya",
+      "originCountry": "Ethiopie, Costa Rica, Kenya",
       "process": null,
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27701,13 +27944,13 @@
       "id": "terres-de-cafe-p2003",
       "roasterId": "terres-de-cafe",
       "name": "Café Los Pinos - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Nicaragua · Nueva Segovia / Dipilto",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Blend",
+      "producer": "Olman Valladerez",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27728,13 +27971,13 @@
       "id": "terres-de-cafe-p785",
       "roasterId": "terres-de-cafe",
       "name": "Café Bob-O-Link Bio - KG",
-      "origin": null,
-      "originCountry": null,
+      "origin": "Brésil · Mococa / Fazenda Ambiental Fortaleza",
+      "originCountry": "Brésil",
       "process": null,
       "usage": null,
       "variety": null,
-      "producer": null,
-      "score": null,
+      "producer": "Felipe Croce",
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27755,13 +27998,13 @@
       "id": "terres-de-cafe-p1824",
       "roasterId": "terres-de-cafe",
       "name": "Café Volcan Azul Caturra - KG",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Costa Rica · Vallée centrale / Finca Volcan Azul",
+      "originCountry": "Costa Rica",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Caturra",
+      "producer": "Alejo Castro",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27784,9 +28027,9 @@
       "name": "Capsules Organic Bio x 10",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -27809,12 +28052,12 @@
       "id": "terres-de-cafe-p1856",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Bob-o-Link Bio x 10",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Brésil · Mococa / Fazenda Ambiental Fortaleza",
+      "originCountry": "Brésil",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbon Jaune",
+      "producer": "Felipe Croce",
       "score": null,
       "acidity": null,
       "body": null,
@@ -27836,12 +28079,12 @@
       "id": "terres-de-cafe-p1861",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Lenca x 10",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": "Lavé",
       "usage": null,
       "variety": null,
-      "producer": null,
+      "producer": "Plusieurs petits producteurs",
       "score": null,
       "acidity": null,
       "body": null,
@@ -27863,13 +28106,13 @@
       "id": "terres-de-cafe-p1852",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Yeti bio x 10",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Konki Yeti",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Moka Heirloom",
+      "producer": "Plusieurs petits producteurs",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27890,13 +28133,13 @@
       "id": "terres-de-cafe-p1854",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Volcan Azul...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Costa Rica · Vallée centrale / Finca Volcan Azul",
+      "originCountry": "Costa Rica",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Caturra",
+      "producer": "Alejo Castro",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27917,13 +28160,13 @@
       "id": "terres-de-cafe-p1851",
       "roasterId": "terres-de-cafe",
       "name": "Capsules South Huila x 10",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie · Bourbon ProjectBourbon Project",
+      "originCountry": "Colombie",
+      "process": "AnaérobiqueLavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Bourbon Rose",
+      "producer": "Gabriel Castano",
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -27944,12 +28187,12 @@
       "id": "terres-de-cafe-p1855",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Jaen décaféiné Bio...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou",
+      "originCountry": "Pérou",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbon rougeCaturra rouge",
+      "producer": "Plusieurs petits producteurs",
       "score": null,
       "acidity": null,
       "body": null,
@@ -27971,13 +28214,13 @@
       "id": "terres-de-cafe-p1227",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Home-Compostable...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie · Konki Yéti",
+      "originCountry": "Ethiopie",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "variety": "Moka Heirloom",
+      "producer": "Plusieurs petits producteurs",
+      "score": 85,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -28000,9 +28243,9 @@
       "name": "Capsules Home-Compostable...",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "LavéNature",
       "usage": null,
-      "variety": null,
+      "variety": "Blend",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -28025,12 +28268,12 @@
       "id": "terres-de-cafe-p1228",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Home-Compostable...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Pérou",
+      "originCountry": "Pérou",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbon rougeCaturra rouge",
+      "producer": "Plusieurs petits producteurs",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28052,13 +28295,13 @@
       "id": "terres-de-cafe-p1859",
       "roasterId": "terres-de-cafe",
       "name": "Capsules Taba Hills -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Rwanda · Taba Hills",
+      "originCountry": "Rwanda",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
+      "variety": "Bourbon",
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -28079,12 +28322,12 @@
       "id": "terres-de-cafe-p1844",
       "roasterId": "terres-de-cafe",
       "name": "Cascara - Finca Deborah -...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Panama · Volcan / Finca Deborah - PPP",
+      "originCountry": "Panama",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Jamison Savage",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28862,11 +29105,11 @@
       "id": "valini-p2",
       "roasterId": "valini",
       "name": "Le \"CROCO\"",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie/Brésil",
+      "originCountry": "Ethiopie/Brésil",
+      "process": "Nature",
       "usage": null,
-      "variety": null,
+      "variety": "Heirloom / Mundo Novo / Catuai",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -28891,10 +29134,10 @@
       "name": "Café décaféiné Pure Origine...",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Mountain Water",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Blend",
+      "producer": "Santa Fé",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28918,10 +29161,10 @@
       "name": "Café Pure Origine Brésil...",
       "origin": null,
       "originCountry": null,
-      "process": null,
+      "process": "Nature",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Blend",
+      "producer": "BACANA",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28943,12 +29186,12 @@
       "id": "valini-p94",
       "roasterId": "valini",
       "name": "Café Pure Origine Ethiopie...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Ethiopie",
+      "originCountry": "Ethiopie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "HEIRLOOM",
+      "producer": "Bombe",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28970,12 +29213,12 @@
       "id": "valini-p93",
       "roasterId": "valini",
       "name": "Café Pure Origine Colombie...",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
       "usage": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Blend",
+      "producer": "Huitaca",
       "score": null,
       "acidity": null,
       "body": null,
@@ -29029,12 +29272,12 @@
       "process": "Anaérobie",
       "usage": null,
       "variety": "Bourbon",
-      "producer": null,
+      "producer": "Baho",
       "score": null,
       "acidity": null,
       "body": null,
       "roast": null,
-      "flavors": null,
+      "flavors": "Melon, Thé vert, Raisin Un café délicat, moderne, à la fois fruité, raffiné",
       "desc": null,
       "imageUrl": "https://valini.fr/426-full_default/cafe-ethiopie-nyala.jpg",
       "available": true,

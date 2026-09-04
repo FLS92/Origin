@@ -11,7 +11,7 @@
     "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source.",
     "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
   },
-  "scrapedAt": "2026-09-04T10:47:23Z",
+  "scrapedAt": "2026-09-04T13:20:45Z",
   "products": [
     {
       "id": "au-cur-du-cafe-costa-rica-tarrazu",
@@ -46,7 +46,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-expresso",
@@ -61,7 +61,9 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Equilibré"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Espresso_fond_color.webp?v=1729630126",
@@ -79,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-guetemala-huehuetenango",
@@ -114,7 +116,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-mexique-chocaman-altura",
@@ -151,7 +153,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-nicaragua",
@@ -186,7 +188,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-sumatra-gayo-highland-hathi",
@@ -225,7 +227,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-caparao-bob-o-link",
@@ -262,7 +264,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-box-decouverte",
@@ -295,7 +297,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-bahia",
@@ -333,7 +335,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-moka-yrgacheffe",
@@ -369,7 +371,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-kenya",
@@ -405,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-decafeine",
@@ -438,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-blue-mountain-jamaique",
@@ -474,7 +476,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-skybury",
@@ -509,7 +511,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     },
     {
       "id": "au-cur-du-cafe-coeur-du-bouchon",
@@ -545,7 +547,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T10:47:23Z"
+      "lastSeenAt": "2026-09-04T13:20:45Z"
     }
   ]
 }

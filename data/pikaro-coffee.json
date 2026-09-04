@@ -11,7 +11,7 @@
     "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
     "logoUrl": "https://media.cdnws.com/_i/44626/791/317/93/pikaro-torrefaction-cafe-the-cadeaux.png"
   },
-  "scrapedAt": "2026-09-04T10:47:14Z",
+  "scrapedAt": "2026-09-04T13:20:33Z",
   "products": [
     {
       "id": "pikaro-coffee-box-cafes-assemblages",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-carpeaux",
@@ -82,7 +82,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-decafeine",
@@ -115,7 +115,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-l-expresso-blend-cafe-de-specialite-du-salvador-importe-a-la-voile",
@@ -148,7 +148,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-kenya-aa",
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-le-greengo-cafe-de-specialite-du-rwanda-bio",
@@ -219,7 +219,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-le-guarani-cafe-du-bresil",
@@ -252,7 +252,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-indes-plantation-aa",
@@ -290,7 +290,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     },
     {
       "id": "pikaro-coffee-le-limon-cafe-de-colombie-importe-a-la-voile",
@@ -323,7 +323,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:12Z",
-      "lastSeenAt": "2026-09-04T10:47:14Z"
+      "lastSeenAt": "2026-09-04T13:20:33Z"
     }
   ]
 }

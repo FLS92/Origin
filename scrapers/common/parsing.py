@@ -7,7 +7,8 @@ PRICE_RE = re.compile(r"(\d+(?:[.,]\d{1,2})?)\s*€")
 
 def norm(text):
     n = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode()
-    return re.sub(r"[^a-z0-9 ]", "", n.lower()).strip()
+    n = re.sub(r"[^a-z0-9 ]", " ", n.lower())
+    return re.sub(r"\s+", " ", n).strip()
 
 
 def parse_grams(text):

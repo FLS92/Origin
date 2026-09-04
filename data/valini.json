@@ -11,15 +11,15 @@
     "notes": null,
     "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
   },
-  "scrapedAt": "2026-09-04T10:46:21Z",
+  "scrapedAt": "2026-09-04T13:16:44Z",
   "products": [
     {
       "id": "valini-p2",
       "name": "Le \"CROCO\"",
-      "originCountry": null,
+      "originCountry": "Ethiopie/Brésil",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Nature",
+      "variety": "Heirloom / Mundo Novo / Catuai",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -44,16 +44,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     },
     {
       "id": "valini-p77",
       "name": "Café décaféiné Pure Origine...",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Mountain Water",
+      "variety": "Blend",
+      "producer": "Santa Fé",
       "score": null,
       "acidity": null,
       "body": null,
@@ -77,16 +77,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     },
     {
       "id": "valini-p91",
       "name": "Café Pure Origine Brésil...",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Nature",
+      "variety": "Blend",
+      "producer": "BACANA",
       "score": null,
       "acidity": null,
       "body": null,
@@ -110,16 +110,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     },
     {
       "id": "valini-p94",
       "name": "Café Pure Origine Ethiopie...",
-      "originCountry": null,
+      "originCountry": "Ethiopie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Lavé",
+      "variety": "HEIRLOOM",
+      "producer": "Bombe",
       "score": null,
       "acidity": null,
       "body": null,
@@ -143,16 +143,16 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     },
     {
       "id": "valini-p93",
       "name": "Café Pure Origine Colombie...",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Lavé",
+      "variety": "Blend",
+      "producer": "Huitaca",
       "score": null,
       "acidity": null,
       "body": null,
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     },
     {
       "id": "valini-p105",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     },
     {
       "id": "valini-p104",
@@ -218,13 +218,20 @@
       "originDetail": null,
       "process": "Anaérobie",
       "variety": "Bourbon",
-      "producer": null,
+      "producer": "Baho",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Melon",
+        "Thé vert",
+        "Raisin Un café délicat",
+        "moderne",
+        "à la fois fruité",
+        "raffiné"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://valini.fr/426-full_default/cafe-ethiopie-nyala.jpg",
@@ -242,7 +249,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-04T10:46:21Z"
+      "lastSeenAt": "2026-09-04T13:16:44Z"
     }
   ]
 }
