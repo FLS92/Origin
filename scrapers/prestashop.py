@@ -7,6 +7,7 @@ Category discovery is generic: it looks at the homepage nav for a link whose
 text reads like a coffee category ("café", "cafés", "coffee"), since the URL
 path/id for that category differs on every PrestaShop install.
 """
+import json
 import re
 from urllib.parse import urljoin
 
@@ -16,6 +17,65 @@ from .common.http import session, get
 from .common.parsing import norm, parse_grams, parse_price_eur
 from .common.schema import RawProduct, apply_products, save
 
+# A handful of PrestaShop shops (confirmed on Terres de Café) run a "Stape"
+# theme module that echoes the full product record — including a proper
+# "Notes de Dégustation" block in real HTML, richer than the plain
+# itemprop=description this scraper otherwise falls back to — as a JS
+# variable assignment. It's valid JSON once isolated, so read it as JSON
+# rather than regexing the surrounding markup.
+_STAPE_VAR_RE = re.compile(r"stape_product\s*=\s*(\{)")
+
+
+_METHOD_WORDS = {"filtre", "expresso", "espresso", "omni", "methode", "methodes"}
+
+
+def _bold_flavor_candidates(tasting_html):
+    """Within the "Notes de Dégustation" block, this theme bolds the actual
+    tasting words inline in prose ("des notes de <strong>cardamome</strong>,
+    de <strong>pâte d'amande</strong>...") rather than listing them — but
+    also bolds sub-heading labels ("<strong>Au nez :</strong>") and other
+    asides ("torréfié pour la <strong>méthode expresso</strong>") the same
+    way, so filter those out rather than trust every bold span."""
+    soup = BeautifulSoup(tasting_html, "html.parser")
+    items = []
+    for tag in soup.find_all("strong"):
+        raw = tag.get_text(" ", strip=True)
+        if not raw or ":" in raw or len(raw) > 25:
+            continue
+        text = raw.strip(" '’")
+        if any(w in norm(text) for w in _METHOD_WORDS):
+            continue
+        if len(text.split()) > 3:
+            continue
+        items.append(text)
+    return items
+
+
+def extract_stape_product(html):
+    """Reads the "Stape" theme's echoed product-record JS variable (confirmed
+    on Terres de Café) for a richer description than plain itemprop=
+    description, plus tasting-note words the site bolds inline in that text.
+    Returns {} if this shop doesn't run this module."""
+    m = _STAPE_VAR_RE.search(html)
+    if not m:
+        return {}
+    try:
+        obj, _ = json.JSONDecoder().raw_decode(html, m.start(1))
+    except (ValueError, json.JSONDecodeError):
+        return {}
+
+    tasting_html = obj.get("bloc3_z3") or ""
+    parts = [tasting_html, obj.get("description")]
+    description_html = " ".join(p for p in parts if p) or None
+
+    extracted = {}
+    if tasting_html:
+        flavors = _bold_flavor_candidates(tasting_html)
+        if flavors:
+            extracted["flavors"] = flavors
+
+    return {"description_html": description_html, "extracted": extracted}
+
 COFFEE_LINK_WORDS = {"cafe", "cafes", "coffee"}
 EXCLUDE_LINK_WORDS = {"machine", "machines", "accessoire", "accessoires", "the", "thes", "entreprise", "entreprises"}
 
@@ -24,7 +84,7 @@ EXCLUDE_LINK_WORDS = {"machine", "machines", "accessoire", "accessoires", "the",
 # Label wording varies by site ("Origine" vs "Pays", "Producteur" vs "Nom de
 # la ferme et producteur"), so this maps synonyms same as WooCommerce's
 # custom attributes. Ambiguous/non-schema labels (Altitude, Prix,
-# Torréfaction, Conditionnement...) are deliberately left unmapped.
+# Conditionnement...) are deliberately left unmapped.
 DATA_SHEET_SYNONYMS = {
     "variety": {"variete", "varietes", "variete botanique", "cultivar"},
     "process": {"process", "procede", "traitement"},
@@ -32,6 +92,19 @@ DATA_SHEET_SYNONYMS = {
     "originCountry": {"origine", "pays"},
     "originDetail": {"region ferme", "region"},
 }
+
+
+def _normalize_method(value):
+    v = norm(value)
+    has_espresso = "expresso" in v or "espresso" in v
+    has_filtre = "filtre" in v
+    if "omni" in v or (has_espresso and has_filtre):
+        return "Omni"
+    if has_espresso:
+        return "Espresso"
+    if has_filtre:
+        return "Filtre"
+    return None
 
 
 def extract_data_sheet(soup):
@@ -51,6 +124,11 @@ def extract_data_sheet(soup):
             if m:
                 n = float(m.group(0).replace(",", "."))
                 out.setdefault("score", int(n) if n.is_integer() else n)
+            continue
+        if label == "torrefaction":
+            method = _normalize_method(value)
+            if method:
+                out.setdefault("method", method)
             continue
         for field, synonyms in DATA_SHEET_SYNONYMS.items():
             if label in synonyms:
@@ -140,8 +218,14 @@ def scrape_product_detail(s, url):
         price = parse_price_eur(price_el.get("content") or price_el.get_text())
     weight = parse_grams(text)
     desc_el = soup.select_one('[itemprop="description"], .product-description')
-    description_html = str(desc_el) if desc_el else None
+
+    stape = extract_stape_product(resp.text)
+    description_html = stape.get("description_html") or (str(desc_el) if desc_el else None)
+
     extracted = extract_data_sheet(soup)
+    for field, value in (stape.get("extracted") or {}).items():
+        extracted.setdefault(field, value)
+
     return {
         "price": price, "weight_g": weight, "description_html": description_html,
         "extracted": extracted,

@@ -15,6 +15,7 @@ import time
 import unicodedata
 
 from .common.http import session, get, decode_json_body
+from .common.paraphrase import strip_html
 from .common.schema import RawProduct, apply_products, save
 
 ATTR_SYNONYMS = {
@@ -197,11 +198,39 @@ def to_raw_product(p, site_name):
     )
 
 
+def fetch_page_content_html(s, url):
+    """Fallback for themes/page-builders (Elementor, Divi, custom blocks...)
+    that render the product's real content outside the Store API's
+    short_description/description fields entirely — confirmed on several
+    WooCommerce shops where the API returns "" for both but the live page
+    has a full "Variété / Process / Notes de dégustation" block. Strips
+    obvious page furniture and hands the rest to the same label extractor,
+    which only pulls out recognized "Label :" pairs so generic nav/footer
+    text left in doesn't turn into bogus fields."""
+    from bs4 import BeautifulSoup
+    resp = get(s, url)
+    if resp.status_code != 200:
+        return None
+    soup = BeautifulSoup(resp.text, "html.parser")
+    for tag in soup.select("header, footer, nav, script, style, .site-header, .site-footer"):
+        tag.decompose()
+    return str(soup.select_one("body") or soup)
+
+
 def scrape(roaster_meta):
     domain = roaster_meta["domain"]
     products = fetch_all_products(domain)
     coffee_products, filter_fallback = filter_coffee_products(products)
     raw_products = [to_raw_product(p, roaster_meta["name"]) for p in coffee_products]
+
+    s = session()
+    for raw in raw_products:
+        if strip_html(raw.raw_description_html):
+            continue  # the Store API already had real content, no need to fetch
+        url = raw.retailers[0]["url"] if raw.retailers else None
+        if not url:
+            continue
+        raw.raw_description_html = fetch_page_content_html(s, url)
     data, summary = apply_products(roaster_meta, raw_products)
     if filter_fallback:
         summary["warning"] = (

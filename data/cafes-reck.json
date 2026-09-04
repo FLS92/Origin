@@ -11,6 +11,6 @@
     "notes": " | Découverte automatique de catégorie a échoué : les seuls liens \"café\" trouvés dans la nav pointent vers des pages CMS statiques (/content/…), pas vers une vraie catégorie produit. 0 produit récupéré — à corriger avec l'URL de catégorie exacte.",
     "logoUrl": "https://www.reck.fr/img/reck-logo-1588586661.jpg"
   },
-  "scrapedAt": "2026-09-04T13:20:04Z",
+  "scrapedAt": "2026-09-04T14:25:05Z",
   "products": []
 }

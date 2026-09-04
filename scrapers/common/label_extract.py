@@ -81,7 +81,11 @@ def _truncate_at_headless_marker(value):
 # instead of leaking into the previous field's value. À-Þ / ß-ÿ
 # cover the accented Latin-1 letters used in French.
 _LABEL_RE = re.compile(
-    r"(?<!\S)([A-ZÀ-Þ][a-zß-ÿ]+(?:[ '’-][a-zß-ÿ]+){0,3})\s*:\s*"
+    # ":" needs no surrounding space (the common case); "/" does, since
+    # unlike ":" it's also a URL and date separator with no space around it
+    # in those uses — requiring space keeps a "Variété / Caturra" style
+    # label without pulling in "12/03/2025" or a path.
+    r"(?<!\S)([A-ZÀ-Þ][a-zß-ÿ]+(?:[ '’-][a-zß-ÿ]+){0,3})(?:\s*:\s*|\s+/\s+)"
 )
 
 

@@ -70,6 +70,12 @@ SCHEMA_FIELDS = [
     "harvestYear",
 ]
 
+# Used only for the "did extraction actually work for this site" coverage
+# check below — originDetail/acidity/roastLevel/harvestYear are legitimately
+# rare even on a well-extracted site, so they're excluded to avoid false
+# alarms on roasters that are actually fine.
+ENRICHMENT_FIELDS = ["score", "producer", "process", "variety", "method", "flavors"]
+
 
 def _new_product_dict(roaster_id, raw, ts):
     pid = f"{roaster_id}-{raw.slug}"
@@ -190,15 +196,37 @@ def apply_products(roaster_meta, raw_products):
         "total_products": len(by_id),
         "excluded": excluded_n,
     }
+    warnings = []
+
     # A handful of gift cards/workshops slipping through is normal; a large
     # share of the catalog being excluded means the platform's own category
     # filter probably isn't matching this site at all, and everything is
     # falling through to the keyword net instead — worth a human look.
     if total_seen >= 5 and excluded_n / total_seen > 0.3:
         top_reason = max(excluded_reasons, key=excluded_reasons.get)
-        summary["warning"] = (
+        warnings.append(
             f"{excluded_n}/{total_seen} produits exclus par mot-clé (ex: \"{top_reason}\" "
             f"x{excluded_reasons[top_reason]}) — le filtre catégorie de la plateforme ne "
             f"semble pas fonctionner pour ce site, à vérifier"
         )
+
+    # With dozens of independently-run sites, nobody is reading every product
+    # page by hand to confirm extraction actually worked. A roaster where
+    # almost nothing got a single enrichment field is the visible symptom of
+    # a site using a description format none of the extractors recognize
+    # (a different label style, content behind JS, a page-builder block) —
+    # surfaced here instead of silently shipping a catalog that's all name/
+    # price/image, so it can be checked once rather than trusted blindly.
+    available = [p for p in by_id.values() if p["available"]]
+    if len(available) >= 5:
+        bare = sum(1 for p in available if all(p.get(f) is None for f in ENRICHMENT_FIELDS))
+        if bare / len(available) > 0.9:
+            warnings.append(
+                f"{bare}/{len(available)} produits sans aucun champ enrichi "
+                f"(score/producteur/process/variété/méthode/notes) — ce site utilise "
+                f"peut-être un format de fiche produit non reconnu, à vérifier manuellement"
+            )
+
+    if warnings:
+        summary["warning"] = " | ".join(warnings)
     return existing, summary

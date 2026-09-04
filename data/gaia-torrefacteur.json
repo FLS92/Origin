@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://gaiatorrefacteur.com/cdn/shop/files/Gaia_logo_blanc_9f9994a3-79b0-42a4-bd0e-117d1534712e.png?crop=center&height=165&v=1676034353&width=180"
   },
-  "scrapedAt": "2026-09-04T13:12:38Z",
+  "scrapedAt": "2026-09-04T14:16:57Z",
   "products": [
     {
       "id": "gaia-torrefacteur-stardust-bresil",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-full-bloom",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-buena-vista-nicaragua",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-santa-rita-guatemala",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-kuzco",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-rio-coco-nicaragua",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-rivelia-feb4455-w-machine-a-cafe-expresso-automatique",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-la-specialista-prestigio",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-dinamica-feb-3535",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-machine-a-espresso-delonghi-dedica-arte",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-guayacana",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     },
     {
       "id": "gaia-torrefacteur-decaf",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:44Z",
-      "lastSeenAt": "2026-09-04T13:12:38Z"
+      "lastSeenAt": "2026-09-04T14:16:57Z"
     }
   ]
 }
