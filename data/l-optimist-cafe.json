@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.loptimistcafe.com/wp-content/uploads/2026/03/Optimist_logo_primaire_1_CMJN-460x250.png"
   },
-  "scrapedAt": "2026-09-03T21:16:54Z",
+  "scrapedAt": "2026-09-04T10:46:01Z",
   "products": [
     {
       "id": "l-optimist-cafe-machine-a-cafe-la-marzocco",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:54Z",
-      "lastSeenAt": "2026-09-03T21:16:54Z"
+      "lastSeenAt": "2026-09-04T10:46:01Z"
     },
     {
       "id": "l-optimist-cafe-detartrant-dlsc-delonghi-ecodecalk",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:54Z",
-      "lastSeenAt": "2026-09-03T21:16:54Z"
+      "lastSeenAt": "2026-09-04T10:46:01Z"
     },
     {
       "id": "l-optimist-cafe-machine-a-cafe-espresso-broyeur-delonghi-dinamica-feb3535b",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:54Z",
-      "lastSeenAt": "2026-09-03T21:16:54Z"
+      "lastSeenAt": "2026-09-04T10:46:01Z"
     },
     {
       "id": "l-optimist-cafe-machine-a-cafe-espresso-broyeur-delonghi-magnifica-2220-b",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:54Z",
-      "lastSeenAt": "2026-09-03T21:16:54Z"
+      "lastSeenAt": "2026-09-04T10:46:01Z"
     }
   ]
 }

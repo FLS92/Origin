@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
   },
-  "scrapedAt": "2026-09-03T21:17:32Z",
+  "scrapedAt": "2026-09-04T10:46:44Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-03T21:17:32Z"
+      "lastSeenAt": "2026-09-04T10:46:44Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-03T21:17:32Z"
+      "lastSeenAt": "2026-09-04T10:46:44Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-03T21:17:32Z"
+      "lastSeenAt": "2026-09-04T10:46:44Z"
     }
   ]
 }

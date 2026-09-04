@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/06/LogoMagaliFull.svg"
   },
-  "scrapedAt": "2026-09-03T21:17:29Z",
+  "scrapedAt": "2026-09-04T10:46:41Z",
   "products": [
     {
       "id": "cafes-magali-magali",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:29Z",
-      "lastSeenAt": "2026-09-03T21:17:29Z"
+      "lastSeenAt": "2026-09-04T10:46:41Z"
     }
   ]
 }

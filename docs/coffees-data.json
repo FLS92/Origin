@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T07:04:23Z",
+  "generatedAt": "2026-09-04T10:47:23Z",
   "roasterCount": 68,
-  "coffeeCount": 1073,
+  "coffeeCount": 1072,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -665,7 +665,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/rwanda-murambi-bio",
-          "price": "4,00 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -692,7 +692,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ouganda-jukia",
-          "price": "4,00 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de, rupture de stock"
         }
       ]
@@ -719,7 +719,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/equateur-tulipe",
-          "price": "4,50 €",
+          "price": "6,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -746,7 +746,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
-          "price": "5,00 €",
+          "price": "6,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -773,7 +773,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/arlos-coffee",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -800,7 +800,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-tolima",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -827,7 +827,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ethiopie-ali-bio",
-          "price": "4,00 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -854,7 +854,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/bresil-silvia",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -881,7 +881,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/cafeespresso",
-          "price": "3,00 €",
+          "price": "4,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -908,7 +908,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/honduras-marco",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -935,7 +935,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/coffret-cafe-gamme-ephemere",
-          "price": "18,00 €",
+          "price": "22,00 €",
           "note": "650 g, à partir de"
         }
       ]
@@ -962,7 +962,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-deca",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "110 g, à partir de"
         }
       ]
@@ -1394,7 +1394,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-02-okapa-filter",
-          "price": "9,50 €",
+          "price": "12,00 €",
           "note": "à partir de, rupture de stock"
         }
       ]
@@ -1421,7 +1421,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-01-gasharu-filter",
-          "price": "9,50 €",
+          "price": "12,00 €",
           "note": "à partir de, rupture de stock"
         }
       ]
@@ -1448,7 +1448,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/1000-hills",
-          "price": "15,00 €",
+          "price": "18,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1475,7 +1475,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/cordillera-del-fuego",
-          "price": "25,00 €",
+          "price": "30,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1502,7 +1502,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/el-porvenir",
-          "price": "30,50 €",
+          "price": "37,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1529,7 +1529,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-los-primos",
-          "price": "23,00 €",
+          "price": "28,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1556,7 +1556,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-bella",
-          "price": "9,75 €",
+          "price": "12,00 €",
           "note": "275 g, à partir de"
         }
       ]
@@ -1961,7 +1961,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/bella-vista-zarza-colombie-natural",
-          "price": "19,50 €",
+          "price": "16,25 €",
           "note": "200 g, à partir de"
         }
       ]
@@ -1988,7 +1988,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/gasharu-rwanda-washed",
-          "price": "10,50 €",
+          "price": "8,75 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -2015,7 +2015,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/buhoro-rwanda-anaerobic",
-          "price": "12,50 €",
+          "price": "10,42 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -6362,7 +6362,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/west-village-assemblage-signature-l-expresso-selon-cafe-toque-941",
-          "price": "7,50 €",
+          "price": "7,11 €",
           "note": "1 kg"
         }
       ]
@@ -6389,7 +6389,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3515b-318",
-          "price": "499,00 €",
+          "price": "415,83 €",
           "note": ""
         }
       ]
@@ -6416,7 +6416,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/vitalite-assemblage-pour-expresso-italien-cafe-toque-435",
-          "price": "7,50 €",
+          "price": "7,11 €",
           "note": "1 kg"
         }
       ]
@@ -6443,7 +6443,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3535sb-407",
-          "price": "599,00 €",
+          "price": "499,17 €",
           "note": ""
         }
       ]
@@ -6470,7 +6470,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3795t-406",
-          "price": "999,00 €",
+          "price": "832,50 €",
           "note": "300 g"
         }
       ]
@@ -6497,7 +6497,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-de-longhi-rivelia-396",
-          "price": "799,00 €",
+          "price": "665,83 €",
           "note": "250 g"
         }
       ]
@@ -6524,7 +6524,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-domestique-jura-machine-automatique-ena4-309",
-          "price": "668,57 €",
+          "price": "557,14 €",
           "note": "500 g"
         }
       ]
@@ -6551,7 +6551,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-semi-professionnelle-jura-machine-automatique-e4-204",
-          "price": "828,00 €",
+          "price": "690,00 €",
           "note": "500 g"
         }
       ]
@@ -6578,7 +6578,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-semi-professionnelle-jura-machine-automatique-e6-205",
-          "price": "920,00 €",
+          "price": "766,67 €",
           "note": ""
         }
       ]
@@ -6605,7 +6605,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/cumbia-colombie-cafe-expresso-cafe-toque-434",
-          "price": "7,90 €",
+          "price": "7,49 €",
           "note": "1 kg"
         }
       ]
@@ -6632,7 +6632,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/produit-detartrant-delonghi-319",
-          "price": "14,00 €",
+          "price": "11,67 €",
           "note": ""
         }
       ]
@@ -6686,7 +6686,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/green-tea-the-vert-teahouse-exclusive-boite-de-15-sachets-284",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": "4 g"
         }
       ]
@@ -6713,7 +6713,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/chocolat-en-poudre-one-one-260",
-          "price": "14,77 €",
+          "price": "14,00 €",
           "note": ""
         }
       ]
@@ -6740,7 +6740,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/boite-de-pastilles-de-nettoyage-jura-206",
-          "price": "45,60 €",
+          "price": "38,00 €",
           "note": ""
         }
       ]
@@ -6767,7 +6767,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/earl-grey-the-noir-earl-grey-teahouse-boite-de-15-sachets-283",
-          "price": "5,90 €",
+          "price": "5,59 €",
           "note": ""
         }
       ]
@@ -6794,7 +6794,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/herbs-honey-infusion-aux-plantes-et-aux-fruits-teahouse-boite-de-15-sachets-263",
-          "price": "5,90 €",
+          "price": "5,59 €",
           "note": "4 g"
         }
       ]
@@ -6821,7 +6821,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/cartouche-jura-claris-smart-209",
-          "price": "19,20 €",
+          "price": "16,00 €",
           "note": ""
         }
       ]
@@ -6848,7 +6848,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/oriental-apple-infusion-de-pommes-et-mures-teahouse-boite-de-15-sachets-264",
-          "price": "5,90 €",
+          "price": "5,59 €",
           "note": ""
         }
       ]
@@ -15602,33 +15602,6 @@
       ]
     },
     {
-      "id": "kb-coffee-roasters-colombie-zarza-bourbon-rose",
-      "roasterId": "kb-coffee-roasters",
-      "name": "Colombie - Zarza Bourbon Rose",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-Zarza-BourbonAji-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_8324251e-f282-4089-8589-81cea0d42a15.png?v=1785502730",
-      "available": true,
-      "retailers": [
-        {
-          "site": "KB Coffee Roasters",
-          "url": "https://kbcoffeeroasters.com/products/colombie-zarza-bourbon-rose",
-          "price": "28,00 €",
-          "note": "260 g, à partir de"
-        }
-      ]
-    },
-    {
       "id": "kb-coffee-roasters-colombie-chapoleros",
       "roasterId": "kb-coffee-roasters",
       "name": "Colombie - Chapoleros",
@@ -15739,7 +15712,7 @@
     {
       "id": "kb-coffee-roasters-kb-filter-coffee-trip",
       "roasterId": "kb-coffee-roasters",
-      "name": "KB Filter Coffee Trip",
+      "name": "Coffee Filter Trip",
       "origin": null,
       "originCountry": null,
       "process": null,
@@ -15760,6 +15733,33 @@
           "url": "https://kbcoffeeroasters.com/products/kb-filter-coffee-trip",
           "price": "25,00 €",
           "note": "650 g, à partir de"
+        }
+      ]
+    },
+    {
+      "id": "kb-coffee-roasters-colombie-zarza-aji-1",
+      "roasterId": "kb-coffee-roasters",
+      "name": "Colombie - Zarza Aji",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-Zarza-BourbonAji-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_4f47f739-214f-4a97-8dc3-29a8f771c531.png?v=1773852184",
+      "available": true,
+      "retailers": [
+        {
+          "site": "KB Coffee Roasters",
+          "url": "https://kbcoffeeroasters.com/products/colombie-zarza-aji-1",
+          "price": "28,00 €",
+          "note": "260 g, à partir de"
         }
       ]
     },
@@ -16190,7 +16190,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-java",
-          "price": "20,90 €",
+          "price": "24,76 €",
           "note": "100 g"
         }
       ]
@@ -16217,7 +16217,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gedeo-naturel",
-          "price": "18,90 €",
+          "price": "22,39 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16244,7 +16244,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-cristal-coffee-globe",
-          "price": "29,90 €",
+          "price": "35,42 €",
           "note": "100 g"
         }
       ]
@@ -16271,7 +16271,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/lajones-bambu",
-          "price": "36,90 €",
+          "price": "43,71 €",
           "note": "100 g"
         }
       ]
@@ -16298,7 +16298,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chichogallo",
-          "price": "24,90 €",
+          "price": "29,49 €",
           "note": "100 g"
         }
       ]
@@ -16325,7 +16325,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-grands-crus-chocolates",
-          "price": "51,00 €",
+          "price": "60,41 €",
           "note": "750 g"
         }
       ]
@@ -16352,7 +16352,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/zelaya",
-          "price": "17,40 €",
+          "price": "20,61 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16379,7 +16379,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/fhlor-1",
-          "price": "16,90 €",
+          "price": "20,02 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16406,7 +16406,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-isabelina",
-          "price": "19,90 €",
+          "price": "23,57 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16433,7 +16433,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/autour-du-volcan-1",
-          "price": "34,90 €",
+          "price": "41,34 €",
           "note": "100 g"
         }
       ]
@@ -16460,7 +16460,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-atlas-coffee-globe",
-          "price": "25,90 €",
+          "price": "30,68 €",
           "note": "100 g"
         }
       ]
@@ -16487,7 +16487,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chakra-do-dago",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16514,7 +16514,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-degustation-decouverte",
-          "price": "97,28 €",
+          "price": "115,23 €",
           "note": "1.5 kg"
         }
       ]
@@ -16541,7 +16541,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/kit-decouverte-offre-de-lancement-reniala",
-          "price": "102,20 €",
+          "price": "121,06 €",
           "note": "963 g"
         }
       ]
@@ -16568,7 +16568,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/flhor-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "11,40 €",
+          "price": "13,50 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16595,7 +16595,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/amarillo-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "19,20 €",
+          "price": "22,74 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16622,7 +16622,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gera-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "11,40 €",
+          "price": "13,50 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16649,7 +16649,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "10,20 €",
+          "price": "12,08 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16676,7 +16676,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "12,00 €",
+          "price": "14,21 €",
           "note": "120 g, à partir de"
         }
       ]
@@ -16703,7 +16703,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/bourbon-pointu-grand-cru",
-          "price": "58,90 €",
+          "price": "69,77 €",
           "note": "100 g, rupture de stock"
         }
       ]
@@ -16730,7 +16730,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/canopee-en-capsule",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "131 g, à partir de"
         }
       ]
@@ -16757,7 +16757,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-capsule",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "131 g, à partir de"
         }
       ]
@@ -16784,7 +16784,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saqulew",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16811,7 +16811,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/blue-mariposa-1",
-          "price": "18,90 €",
+          "price": "22,39 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16838,7 +16838,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/timana",
-          "price": "18,90 €",
+          "price": "22,39 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16865,7 +16865,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-illumination",
-          "price": "135,00 €",
+          "price": "159,91 €",
           "note": "400 g"
         }
       ]
@@ -16892,7 +16892,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-metamorphose",
-          "price": "85,00 €",
+          "price": "100,68 €",
           "note": "300 g"
         }
       ]
@@ -16919,7 +16919,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/au-coeur-de-la-foret-1",
-          "price": "24,90 €",
+          "price": "29,49 €",
           "note": "100 g"
         }
       ]
@@ -16946,7 +16946,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/source",
-          "price": "15,90 €",
+          "price": "18,83 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -16973,7 +16973,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-canopee",
-          "price": "14,90 €",
+          "price": "17,65 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -17000,7 +17000,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saio",
-          "price": "18,90 €",
+          "price": "22,39 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -17027,7 +17027,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-initiation",
-          "price": "43,40 €",
+          "price": "51,41 €",
           "note": "750 g"
         }
       ]
@@ -17054,7 +17054,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine-en-capsule",
-          "price": "19,90 €",
+          "price": "23,57 €",
           "note": "131 g, à partir de"
         }
       ]
@@ -17081,7 +17081,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-origine",
-          "price": "14,90 €",
+          "price": "17,65 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -17108,7 +17108,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine",
-          "price": "16,90 €",
+          "price": "20,02 €",
           "note": "250 g, à partir de"
         }
       ]
@@ -17594,7 +17594,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bergamotier-642",
-          "price": "16,90 €",
+          "price": "16,02 €",
           "note": "100 g"
         }
       ]
@@ -17621,7 +17621,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-costa-rica-buho-801",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17648,7 +17648,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-honduras-alegria-803",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17675,7 +17675,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-mexique-decafeine-804",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17702,7 +17702,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-salvador-espresso-blend-800",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17729,7 +17729,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/brown-sugar-645",
-          "price": "10,90 €",
+          "price": "10,33 €",
           "note": "100 g"
         }
       ]
@@ -17756,7 +17756,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-dulces-suenos-decafeine-906",
-          "price": "12,90 €",
+          "price": "12,23 €",
           "note": "250 g"
         }
       ]
@@ -17783,7 +17783,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-mogiana-fazenda-alianca-910",
-          "price": "10,50 €",
+          "price": "9,95 €",
           "note": "250 g"
         }
       ]
@@ -17810,7 +17810,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chicoree-l-originale-nouree-752",
-          "price": "10,90 €",
+          "price": "10,33 €",
           "note": "100 g"
         }
       ]
@@ -17837,7 +17837,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chunmee-bio-648",
-          "price": "9,90 €",
+          "price": "9,38 €",
           "note": "100 g"
         }
       ]
@@ -17864,7 +17864,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/darjeeling-imperial-namring-651",
-          "price": "11,90 €",
+          "price": "11,28 €",
           "note": "100 g"
         }
       ]
@@ -17891,7 +17891,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-beloya-yirgacheffe-930",
-          "price": "13,00 €",
+          "price": "12,32 €",
           "note": "250 g"
         }
       ]
@@ -17918,7 +17918,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-oromia-814",
-          "price": "9,95 €",
+          "price": "9,43 €",
           "note": "250 g"
         }
       ]
@@ -17945,7 +17945,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-sidama-bombe-g1-1904",
-          "price": "9,50 €",
+          "price": "9,00 €",
           "note": "125 g"
         }
       ]
@@ -17972,7 +17972,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/earl-grey-royal-bio-653",
-          "price": "11,90 €",
+          "price": "11,28 €",
           "note": "100 g"
         }
       ]
@@ -17999,7 +17999,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/feel-good-bio-655",
-          "price": "10,90 €",
+          "price": "10,33 €",
           "note": "100 g"
         }
       ]
@@ -18026,7 +18026,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/guatemala-huehuetenango-el-panal-1903",
-          "price": "14,90 €",
+          "price": "14,12 €",
           "note": "250 g"
         }
       ]
@@ -18053,7 +18053,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/grand-yunnan-bio-614",
-          "price": "12,90 €",
+          "price": "12,23 €",
           "note": "100 g"
         }
       ]
@@ -18080,62 +18080,8 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/gunpowder-bio-657",
-          "price": "9,90 €",
+          "price": "9,38 €",
           "note": "100 g"
-        }
-      ]
-    },
-    {
-      "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
-      "roasterId": "la-fabrique-du-cafe",
-      "name": "Bedaye Bio – Ethiopie – Nature",
-      "origin": "Ethiopie",
-      "originCountry": "Ethiopie",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2025/08/Bedaye_Site-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/bedaye-bio-ethiopie-nature/",
-          "price": "11,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "la-fabrique-du-cafe-gedeb-bio-ethiopie-lave",
-      "roasterId": "la-fabrique-du-cafe",
-      "name": "Gedeb Bio – Ethiopie Lavé",
-      "origin": "Ethiopie",
-      "originCountry": "Ethiopie",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/03/Gedeb-Bio-scaled.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "La Fabrique du Café",
-          "url": "https://lafabriqueducafe.fr/produit/gedeb-bio-ethiopie-lave/",
-          "price": "11,00 €",
-          "note": "à partir de"
         }
       ]
     },
@@ -19647,7 +19593,7 @@
           "site": "Lomi",
           "url": "https://lomi.cafe/products/demain-caf-du-honduras-las-capucas",
           "price": "4,20 €",
-          "note": "250 g, à partir de, rupture de stock"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -21888,6 +21834,33 @@
           "site": "Mokxa",
           "url": "https://cafemokxa.com/products/los-lirios-cafe-du-nicaragua-bio-2026",
           "price": "10,00 €",
+          "note": "250 g, à partir de"
+        }
+      ]
+    },
+    {
+      "id": "mokxa-don-lino-cafe-de-colombie",
+      "roasterId": "mokxa",
+      "name": "Don Lino - Café de Colombie",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Don_Lino_Mokxa_03.png?v=1788426786",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Mokxa",
+          "url": "https://cafemokxa.com/products/don-lino-cafe-de-colombie",
+          "price": "16,00 €",
           "note": "250 g, à partir de"
         }
       ]
