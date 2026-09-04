@@ -16,7 +16,7 @@
     {
       "id": "cafes-lecoeur-p174",
       "name": "Le mélange Espresso - Café en grain pour Espresso",
-      "originCountry": null,
+      "originCountry": "Brésil/Vietnam Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "cafes-lecoeur-p175",
       "name": "The Click - Café en grain du Brésil, gourmand et équilibré",
-      "originCountry": null,
+      "originCountry": "Brésil Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "cafes-lecoeur-p176",
       "name": "Éthiopie Décaféiné - Café en grain décaféiné, floral et élégant",
-      "originCountry": null,
+      "originCountry": "Ethiopie Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "cafes-lecoeur-p179",
       "name": "Sidamo Bombe bona - Café en grain d’Éthiopie, floral et fruité",
-      "originCountry": null,
+      "originCountry": "Éthiopie Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "cafes-lecoeur-p178",
       "name": "Linarco - Café en grain de Colombie, fermenté et complexe",
-      "originCountry": null,
+      "originCountry": "Colombie Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "cafes-lecoeur-p181",
       "name": "El Diviso - Café en grain de Colombie, fermentation maîtrisée",
-      "originCountry": null,
+      "originCountry": "Colombie Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
       "process": null,
       "variety": null,

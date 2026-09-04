@@ -26,7 +26,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat au lait",
+        "cerise"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Salvador_15b8173c-aaa9-4e0d-aa46-fd29ce1c77d5.png?v=1686735707",
@@ -59,7 +62,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat",
+        "caramel",
+        "pomme"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/S1_667a6e00-ac50-478e-9a4f-905051fcf41c.png?v=1686735683",
@@ -92,7 +99,9 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "mûre"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/products/sachetdecafed_unkilo_1f2801e8-b5d3-4714-b3d0-cfd4b7bdccfc.jpg?v=1686735984",
@@ -125,7 +134,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat",
+        "pêche"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/VICTORIA.png?v=1686736266",
@@ -191,7 +203,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "cacao",
+        "citron",
+        "ananas",
+        "noisette"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/perou_b11c4fe3-0ed6-4857-a174-581d98e4fa7a.png?v=1686735759",
@@ -224,7 +241,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Coco",
+        "nectarine",
+        "floral"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Ethiopie_6710637a-de2a-4910-91cd-148e7a45fc96.png?v=1686735984",
@@ -257,7 +278,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "mures",
+        "hibiscus",
+        "cerises",
+        "agrumes"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Cascara_pret_a_infuser.jpg?v=1758018767",
@@ -323,7 +349,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat",
+        "de miel",
+        "de framboise"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Nicaragua.png?v=1686735901",
@@ -422,7 +452,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "thé noir",
+        "caramel",
+        "chocolat"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Costarica_9ea0da40-4aa7-45b2-8891-2ff2b1ad0fc1.png?v=1686736199",

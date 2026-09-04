@@ -66,7 +66,7 @@ def scrape_product_detail(s, url):
         return {}
     soup = BeautifulSoup(resp.text, "html.parser")
     text = soup.get_text(" ", strip=True)
-    desc_el = soup.select_one(".prod-detail__desc, [itemprop=description]")
+    desc_el = soup.select_one(".prod-infos__anim, .prod-detail__desc, [itemprop=description]")
     return {"weight_g": parse_grams(text), "description_html": str(desc_el) if desc_el else None}
 
 

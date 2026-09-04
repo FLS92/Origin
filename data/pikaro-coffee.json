@@ -26,7 +26,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Attaque douce",
+        "néanmoins légèrement boisé"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
@@ -59,7 +62,9 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Une attaque douce"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
@@ -158,7 +163,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Épicé",
+        "floral",
+        "chocolat au lait",
+        "citron"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
@@ -184,7 +194,7 @@
       "originCountry": null,
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Bourbon rouge Score SCA de 83",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -257,7 +267,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "corps moyen",
+        "- très faible acidité",
+        "- parfum léger",
+        "Préparation : par voie humide"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",

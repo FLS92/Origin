@@ -13,7 +13,8 @@ import unicodedata
 from datetime import datetime, timezone
 
 from .coffee_filter import excluded_reason
-from .paraphrase import analyze_product
+from .label_extract import extract_labeled_fields
+from .paraphrase import analyze_product, strip_html
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data")
 
@@ -72,12 +73,19 @@ SCHEMA_FIELDS = [
 
 def _new_product_dict(roaster_id, raw, ts):
     pid = f"{roaster_id}-{raw.slug}"
+    labeled = extract_labeled_fields(strip_html(raw.raw_description_html))
     analysis = analyze_product(raw.name, raw.raw_description_html)
 
+    # Precedence: the platform's own structured data first (a WooCommerce
+    # attribute, Magento's hover-panel), then the deterministic "Label :
+    # Value" reader (free, runs with no API key), then the LLM extraction
+    # (needs ANTHROPIC_API_KEY) fills whatever's still missing.
     fields = {f: None for f in SCHEMA_FIELDS}
     for f in SCHEMA_FIELDS:
         if raw.extracted.get(f) is not None:
             fields[f] = raw.extracted[f]
+        elif labeled.get(f) is not None:
+            fields[f] = labeled[f]
         elif analysis.get(f) is not None:
             fields[f] = analysis[f]
 

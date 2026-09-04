@@ -214,10 +214,10 @@
     {
       "id": "valini-p104",
       "name": "Café Pure Origine Rwanda BAHO",
-      "originCountry": null,
+      "originCountry": "Rwanda – province Ouest, région du Lac Kivu",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Anaérobie",
+      "variety": "Bourbon",
       "producer": null,
       "score": null,
       "acidity": null,

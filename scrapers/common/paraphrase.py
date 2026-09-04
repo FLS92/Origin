@@ -14,6 +14,7 @@ categorization. A platform's own structured data (a WooCommerce attribute, a
 Magento hover-panel) is applied before this and takes precedence: this only
 fills what that didn't find.
 """
+import html
 import json
 import os
 import re
@@ -71,6 +72,7 @@ def strip_html(raw_html):
     if not raw_html:
         return ""
     text = re.sub(r"<[^>]+>", " ", raw_html)
+    text = html.unescape(text)
     text = re.sub(r"\s+", " ", text).strip()
     return text
 

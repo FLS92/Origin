@@ -125,7 +125,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fraise",
+        "grenadine",
+        "raisin rouge",
+        "litchi",
+        "cerise",
+        "chocolat noir"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/770/1654/72/micro-lots-bridazul-super-natural.png",
@@ -249,8 +256,8 @@
       "name": "Colombie Sofia",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé",
+      "variety": "Bourbon, Caturra",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -290,7 +297,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat",
+        "caramel",
+        "agrumes"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/758/1221/60/origines-paquets-55x140mm-4.png",
@@ -313,7 +324,7 @@
     {
       "id": "kawaty-honduras-lenca",
       "name": "HONDURAS LENCA",
-      "originCountry": null,
+      "originCountry": "Marcala. Café lavé. Torréfié artisanalement en Berry",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -323,7 +334,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat au lait",
+        "caramel",
+        "noisette",
+        "agrumes"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/757/3345/59/origines-paquets-55x140mm-3.png",
@@ -480,7 +496,7 @@
       "name": "MOKA HARRAR",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
+      "process": "Nature",
       "variety": null,
       "producer": null,
       "score": null,
@@ -521,7 +537,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fruits rouges Corps subtil",
+        "acidité légère"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/762/2104/64/origines-paquets-55x140mm-8.png",
@@ -620,7 +639,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fleurs blanches",
+        "miel",
+        "agrumes",
+        "caramel"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/769/3964/71/origines-paquets-55x140mm-10.png",
@@ -643,7 +667,7 @@
     {
       "id": "kawaty-ethiopie-chancho-sidama",
       "name": "SIDAMA Chancho Ethiopie",
-      "originCountry": null,
+      "originCountry": "Bensa, Sidama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -653,7 +677,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "miel",
+        "fraise",
+        "mûre",
+        "abricot",
+        "chocolat au lait",
+        "citron vert"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://media.cdnws.com/_i/154691/768/1207/70/microlots-paquets-90x140mm-noir-2.png",
