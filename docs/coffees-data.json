@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-04T10:47:23Z",
+  "generatedAt": "2026-09-04T11:34:19Z",
   "roasterCount": 68,
-  "coffeeCount": 1072,
+  "coffeeCount": 1064,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -4690,33 +4690,6 @@
           "url": "https://www.cafefrate.com/p/la-pitchoune/",
           "price": "8,50 €",
           "note": "250 g, à partir de, rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "cafe-frate-coffret-cadeau",
-      "roasterId": "cafe-frate",
-      "name": "Coffret cadeau",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2025/12/WhatsApp-Image-2025-11-30-at-20.58-1.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Fraté",
-          "url": "https://www.cafefrate.com/p/coffret-cadeau/",
-          "price": "37,00 €",
-          "note": "250 g, à partir de"
         }
       ]
     },
@@ -10144,168 +10117,6 @@
           "url": "https://colors.coffee/products/el-salvador-pacamara",
           "price": "12,50 €",
           "note": "250 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-coffee-lover",
-      "roasterId": "coutume-cafe",
-      "name": "Coffee Lover - sans engagement",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Lover_abonnement.png?v=1777997994",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/coffee-lover",
-          "price": "34,90 €",
-          "note": "500 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-coffee-addict",
-      "roasterId": "coutume-cafe",
-      "name": "Coffee Addict - sans engagement",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Addict_abonnement.png?v=1777997993",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/coffee-addict",
-          "price": "64,90 €",
-          "note": "1 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-coffee-geek",
-      "roasterId": "coutume-cafe",
-      "name": "Coffee Geek - sans engagement",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Geek_abonnement.png?v=1777997995",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/coffee-geek",
-          "price": "114,90 €",
-          "note": "2.25 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-3-mois-de-cafe-a-offrir",
-      "roasterId": "coutume-cafe",
-      "name": "3 mois de café à offrir",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Lover_abonnement.png?v=1777997994",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/3-mois-de-cafe-a-offrir",
-          "price": "34,90 €",
-          "note": "500 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-6-mois-de-cafe-a-offrir",
-      "roasterId": "coutume-cafe",
-      "name": "6 mois de café à offrir",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Coffee_Lover_abonnement.png?v=1777997994",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/6-mois-de-cafe-a-offrir",
-          "price": "34,90 €",
-          "note": "560 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-1-an-de-cafe-a-offrir",
-      "roasterId": "coutume-cafe",
-      "name": "1 an de café à offrir",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/1_an_de_cafe_a_offrir.png?v=1777998168",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/1-an-de-cafe-a-offrir",
-          "price": "34,90 €",
-          "note": "600 g, à partir de"
         }
       ]
     },
@@ -18973,33 +18784,6 @@
           "url": "https://lecafequifume.com/products/cafe-costa-rica-hermosa-copy",
           "price": "8,90 €",
           "note": "110 g, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "le-cafe-qui-fume-panier-garni-offre-speciale",
-      "roasterId": "le-cafe-qui-fume",
-      "name": "Panier Garni - Offre spéciale (idées cadeaux à offrir)",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Photo_coffret_fete_des_meres.jpg?v=1748604394",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Le Café qui Fume",
-          "url": "https://lecafequifume.com/products/panier-garni-offre-speciale",
-          "price": "27,90 €",
-          "note": "1.8 kg, à partir de"
         }
       ]
     },

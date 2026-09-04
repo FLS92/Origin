@@ -15,12 +15,15 @@ import re
 import unicodedata
 
 EXCLUDE_KEYWORDS = [
-    # Gift cards
-    "carte cadeau", "e-carte",
+    # Gift cards / gifting
+    "carte cadeau", "e-carte", "cadeau",
     # Workshops / classes
     "atelier", "s'inscrire", "formation", "cours de degustation", "workshop",
-    # Subscriptions (a delivery plan, not a specific coffee)
-    "abonnement",
+    # Subscriptions (a delivery plan, not a specific coffee) — "abonnement"
+    # is the common French label, but some stores name their subscription
+    "abonnement", "sans engagement", "a offrir", "mois de cafe",
+    # tiers in English or as a duration/gifting phrase instead.
+    "coffee lover", "coffee addict", "coffee geek",
     # Brewing equipment brands/models — never used as a coffee's own name
     "dripper", "v60", "chemex", "moccamaster", "kalita", "hario", "origami",
     "aeropress", "espro", "porte-filtre", "porte filtre", "cafetiere",

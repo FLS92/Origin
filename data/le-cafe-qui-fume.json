@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
   },
-  "scrapedAt": "2026-09-04T10:47:02Z",
+  "scrapedAt": "2026-09-04T11:34:19Z",
   "products": [
     {
       "id": "le-cafe-qui-fume-cafe-du-salvador",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-bresil-daterra",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-ephemere-du-ouganda",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-decafeine-swisswater-du-perou",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-perou-ceranor",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-dethiopie-koke",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica-hermosa-copy",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-panier-garni-offre-speciale",
@@ -306,7 +306,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:50Z",
       "lastSeenAt": "2026-09-04T10:47:02Z"
     },
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-vert-bio",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-honduras-finca-liquidambar",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-04T10:47:02Z"
+      "lastSeenAt": "2026-09-04T11:34:19Z"
     }
   ]
 }
