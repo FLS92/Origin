@@ -505,9 +505,58 @@ function parsePriceEUR(c){
 function logoBadge(roasterId, size){
   const r = ROASTERS[roasterId];
   if(r.logoUrl){
-    return `<img src="${r.logoUrl}" alt="${r.name}" title="${r.name}" style="width:${size}px; height:${size}px; border-radius:50%; object-fit:cover; border:1px solid var(--line); flex-shrink:0; background:var(--panel-light);" onerror="this.replaceWith(Object.assign(document.createElement('div'), {outerHTML: logoBadgeFallback('${roasterId}', ${size})}))">`;
+    // Default to a white chip: most roaster logos are dark marks on a
+    // transparent background, drawn for a light page, and disappear against
+    // --panel-light. object-fit:contain (not cover) keeps wide wordmark
+    // logos whole instead of cropping them to a tiny circle-cover sliver —
+    // padding keeps them off the rim. Some logos are themselves white/light
+    // (made for a dark header) and would vanish on white in turn — adjustLogoChip
+    // samples the loaded image's pixels once and flips the chip to a dark
+    // background for those, when the CDN's CORS headers allow reading them.
+    const pad = Math.round(size*0.14);
+    return `<div class="logo-chip" title="${r.name}" style="width:${size}px; height:${size}px; border-radius:50%; background:#ffffff; border:1px solid var(--line); display:flex; align-items:center; justify-content:center; flex-shrink:0; overflow:hidden; box-sizing:border-box; padding:${pad}px;">
+      <img src="${r.logoUrl}" alt="${r.name}" crossorigin="anonymous" style="width:100%; height:100%; object-fit:contain;" onload="adjustLogoChip(this)" onerror="handleLogoError(this, '${roasterId}', ${size})">
+    </div>`;
   }
   return logoBadgeFallback(roasterId, size);
+}
+function handleLogoError(img, roasterId, size){
+  // crossorigin="anonymous" makes some hosts without CORS headers fail the
+  // request outright (needed for adjustLogoChip's canvas read below) —
+  // retry once as a plain, non-CORS image load before giving up on the logo
+  // entirely. That second attempt just can't be colour-sampled.
+  if(!img.dataset.corsRetried){
+    img.dataset.corsRetried = '1';
+    img.removeAttribute('crossorigin');
+    img.src = img.src;
+    return;
+  }
+  const chip = img.closest('.logo-chip');
+  if(chip) chip.outerHTML = logoBadgeFallback(roasterId, size);
+}
+function adjustLogoChip(img){
+  try{
+    const w = 24, h = 24;
+    const canvas = document.createElement('canvas');
+    canvas.width = w; canvas.height = h;
+    const ctx = canvas.getContext('2d');
+    ctx.drawImage(img, 0, 0, w, h);
+    const data = ctx.getImageData(0, 0, w, h).data; // throws if CORS-tainted
+    let total = 0, count = 0;
+    for(let i=0; i<data.length; i+=4){
+      if(data[i+3] < 40) continue; // skip transparent/near-transparent pixels
+      total += 0.299*data[i] + 0.587*data[i+1] + 0.114*data[i+2];
+      count++;
+    }
+    if(count===0) return; // fully transparent sample, keep the white default
+    if(total/count > 200){
+      const chip = img.closest('.logo-chip');
+      if(chip) chip.style.background = 'var(--panel-light)';
+    }
+  }catch(e){
+    // Cross-origin image without permissive CORS headers -- can't read its
+    // pixels, so keep the white default rather than guessing.
+  }
 }
 function logoBadgeFallback(roasterId, size){
   const r = ROASTERS[roasterId];
