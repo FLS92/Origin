@@ -860,6 +860,9 @@ auth.onAuthStateChanged(async (user)=>{
   if(document.getElementById('view-library').style.display !== 'none'){
     renderLibrary(document.getElementById('library-search-input') ? document.getElementById('library-search-input').value : '');
   }
+  if(document.getElementById('view-community').style.display !== 'none'){
+    renderTrending();
+  }
 });
 
 const RATING_TIERS = [
@@ -1569,6 +1572,11 @@ document.getElementById('tab-community').addEventListener('click', ()=> showView
 
 async function renderTrending(){
   const el = document.getElementById('trending-list');
+  if(!currentUser){
+    el.innerHTML = `<div class="empty"><h3>Connecte-toi pour voir la communauté</h3><p>Un compte est nécessaire pour voir les notes et avis des autres utilisateurs.</p><button class="primary" id="community-login-btn" style="margin-top:14px;">Se connecter</button></div>`;
+    document.getElementById('community-login-btn').addEventListener('click', ()=> openAuthModal('login'));
+    return;
+  }
   el.innerHTML = `<div class="empty"><h3>Chargement…</h3></div>`;
   if(!trendLoaded){
     for(const c of COFFEES){ await refreshCommunityAvg(c.id); }
