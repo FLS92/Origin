@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/logo-cafe-frate-1.png"
   },
-  "scrapedAt": "2026-09-04T14:23:54Z",
+  "scrapedAt": "2026-09-04T14:58:17Z",
   "products": [
     {
       "id": "cafe-frate-le-frangin",
@@ -46,7 +46,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:23Z",
-      "lastSeenAt": "2026-09-04T14:23:54Z"
+      "lastSeenAt": "2026-09-04T14:58:17Z"
     },
     {
       "id": "cafe-frate-la-pitchoune",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:23Z",
-      "lastSeenAt": "2026-09-04T14:23:54Z"
+      "lastSeenAt": "2026-09-04T14:58:17Z"
     },
     {
       "id": "cafe-frate-coffret-cadeau",
@@ -149,7 +149,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:23Z",
-      "lastSeenAt": "2026-09-04T14:23:54Z"
+      "lastSeenAt": "2026-09-04T14:58:17Z"
     },
     {
       "id": "cafe-frate-le-pape",
@@ -184,7 +184,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:23Z",
-      "lastSeenAt": "2026-09-04T14:23:54Z"
+      "lastSeenAt": "2026-09-04T14:58:17Z"
     },
     {
       "id": "cafe-frate-la-daronne",
@@ -219,7 +219,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:23Z",
-      "lastSeenAt": "2026-09-04T14:23:54Z"
+      "lastSeenAt": "2026-09-04T14:58:17Z"
     }
   ]
 }

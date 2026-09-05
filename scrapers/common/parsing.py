@@ -25,3 +25,22 @@ def parse_price_eur(text):
     if not m:
         return None
     return float(m.group(1).replace(",", "."))
+
+
+def normalize_method(value):
+    """Maps free text explicitly naming a brewing method to the schema's one
+    of "Filtre"/"Espresso"/"Omni" — used wherever a platform's own field
+    (WooCommerce/PrestaShop attribute, Shopify product_type or variant
+    option) or a description sentence states this explicitly. Both words
+    present (or "omni" itself) means the roaster sells/roasts it for either,
+    i.e. Omni. Returns None rather than guessing when neither word is found."""
+    v = norm(value)
+    has_espresso = "espresso" in v or "expresso" in v
+    has_filtre = "filtre" in v
+    if "omni" in v or (has_espresso and has_filtre):
+        return "Omni"
+    if has_espresso:
+        return "Espresso"
+    if has_filtre:
+        return "Filtre"
+    return None

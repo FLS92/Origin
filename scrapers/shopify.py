@@ -7,6 +7,7 @@ import time
 import unicodedata
 
 from .common.http import session, get, decode_json_body
+from .common.parsing import normalize_method
 from .common.schema import RawProduct, apply_products, save
 
 COFFEE_TYPE_ALLOW = {"cafe", "coffee", "cafes", "grain", "grains", "origine", "origines", "single origin"}
@@ -123,6 +124,30 @@ def fetch_all_products(domain):
     return products
 
 
+def _extract_method(p, variants):
+    """Two Shopify-native signals, checked before ever touching free text:
+    the shop's own product_type ("Café Filtre") is the roaster's explicit
+    categorization already used for the coffee/not-coffee filter above, and
+    a variant option ("Filtre" / "Espresso" as a grind choice) is equally
+    explicit. If different variants of the same product carry both, the
+    roaster sells/roasts it for either -- that's Omni, not a guess."""
+    method = normalize_method(p.get("product_type", ""))
+    if method:
+        return method
+
+    found = set()
+    for v in variants:
+        for key in ("option1", "option2", "option3"):
+            m = normalize_method(v.get(key) or "")
+            if m:
+                found.add(m)
+    if "Omni" in found or {"Filtre", "Espresso"} <= found:
+        return "Omni"
+    if found:
+        return next(iter(found))
+    return None
+
+
 def to_raw_product(p):
     variants = p.get("variants") or []
     priced = [v for v in variants if v.get("price") is not None]
@@ -144,12 +169,14 @@ def to_raw_product(p):
         "inStock": available,
         "stockStatus": "instock" if available else "outofstock",
     }
+    method = _extract_method(p, variants)
     return RawProduct(
         slug=p["handle"],
         name=p["title"],
         retailers=[retailer],
         raw_description_html=p.get("body_html"),
         image_url=image_url,
+        extracted={"method": method} if method else None,
     )
 
 

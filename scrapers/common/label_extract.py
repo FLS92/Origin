@@ -22,6 +22,8 @@ before the label map and safety checks below were finalized — see project hist
 import re
 import unicodedata
 
+from .parsing import normalize_method
+
 # label (normalized, accents stripped) -> schema field.
 FIELD_LABELS = {
     "process": [
@@ -95,19 +97,6 @@ def _norm(text):
     return re.sub(r"\s+", " ", n).strip()
 
 
-def _normalize_method(value):
-    v = _norm(value)
-    has_espresso = "espresso" in v
-    has_filtre = "filtre" in v
-    if "omni" in v or (has_espresso and has_filtre):
-        return "Omni"
-    if has_espresso:
-        return "Espresso"
-    if has_filtre:
-        return "Filtre"
-    return None
-
-
 def extract_labeled_fields(text):
     """Returns a dict of schema fields found via 'Label : Value' pairs in
     `text`. Fields not explicitly labelled are simply absent from the dict."""
@@ -162,7 +151,7 @@ def extract_labeled_fields(text):
                 existing = out.setdefault("flavors", [])
                 existing.extend(v for v in items if v not in existing)
         elif field == "_method":
-            method = _normalize_method(value)
+            method = normalize_method(value)
             if method:
                 out.setdefault("method", method)
         else:

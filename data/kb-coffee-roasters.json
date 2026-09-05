@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://kbcoffeeroasters.com/cdn/shop/files/visuel_KB_detoure_001b708d-56a9-466b-8e7a-321f003dc93e.jpg?v=1663248887"
   },
-  "scrapedAt": "2026-09-04T14:16:28Z",
+  "scrapedAt": "2026-09-04T14:51:41Z",
   "products": [
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-bourbon-rouge",
@@ -24,7 +24,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Cassis",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-yemen-queen-of-saba",
@@ -60,7 +60,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Thé",
@@ -85,7 +85,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-peru-vituya",
@@ -98,7 +98,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Raisins",
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-bresil-rio-brilhante-mundo-novo",
@@ -135,7 +135,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Praline",
@@ -159,7 +159,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-ethiopie-uraga-anaerobic",
@@ -172,7 +172,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Jasmin",
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-tanzanie-korongo",
@@ -209,7 +209,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Myrtilles",
@@ -235,7 +235,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-indonesie-de-berman",
@@ -248,7 +248,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Ananas",
@@ -273,7 +273,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-nicaragua-supernatural",
@@ -286,7 +286,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Framboises",
@@ -310,7 +310,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-ethiopie-uraga-oro",
@@ -323,7 +323,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Agrumes",
@@ -346,7 +346,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-chine-ximen-cimizhu-copie",
@@ -359,7 +359,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Cerises",
@@ -384,7 +384,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-typica-mejorado",
@@ -397,7 +397,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Pastèques",
@@ -422,7 +422,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-guatemala-el-panal",
@@ -435,7 +435,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Praliné",
@@ -459,7 +459,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-aroma-nativo-ry-1120-efm",
@@ -472,7 +472,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Myrtilles",
@@ -499,7 +499,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-filtre-ethiopie-uraga-carbo",
@@ -512,7 +512,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Framboises",
@@ -536,7 +536,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-chiroso-1",
@@ -549,7 +549,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Rhubarbe",
@@ -573,7 +573,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-ethiopie-dimtu",
@@ -586,7 +586,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Abricots",
@@ -613,7 +613,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-nicaragua-los-placerez",
@@ -626,7 +626,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Fèves de cacao",
@@ -650,7 +650,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-el-diviso-sidra-copie",
@@ -663,7 +663,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Cerise",
@@ -687,7 +687,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-monteblanco-coco",
@@ -700,7 +700,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Coco",
@@ -724,7 +724,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-candy-blast-decafeine-by-swiss-water-wow-filtre-espresso",
@@ -737,7 +737,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Pastèques",
@@ -761,7 +761,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-peru-eulogio-chipao-gesha",
@@ -774,7 +774,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Pêche",
@@ -798,7 +798,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-espresso-guatemala-san-lorenzo",
@@ -811,7 +811,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
@@ -834,7 +834,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-zarza-bourbon-rose",
@@ -880,7 +880,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Rhum",
@@ -904,7 +904,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-lord-voldemort-wush-wush-copie",
@@ -917,7 +917,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "jasmin",
@@ -943,7 +943,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-aroma-nativo-pb-1178",
@@ -956,7 +956,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Goyave",
@@ -980,7 +980,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-burundi-kibingo-oro",
@@ -993,7 +993,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Framboise",
@@ -1017,7 +1017,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-kb-filter-coffee-trip",
@@ -1030,7 +1030,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -1050,7 +1050,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-colombie-zarza-aji-1",
@@ -1063,7 +1063,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Framboise",
@@ -1087,7 +1087,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T10:44:07Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     },
     {
       "id": "kb-coffee-roasters-kb-filter-coffee-de-fou",
@@ -1100,7 +1100,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -1120,7 +1120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:12:10Z",
-      "lastSeenAt": "2026-09-04T14:16:28Z"
+      "lastSeenAt": "2026-09-04T14:51:41Z"
     }
   ]
 }

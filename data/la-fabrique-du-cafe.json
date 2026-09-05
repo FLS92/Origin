@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
   },
-  "scrapedAt": "2026-09-04T14:23:27Z",
+  "scrapedAt": "2026-09-04T14:57:42Z",
   "products": [
     {
       "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-04T14:23:27Z"
+      "lastSeenAt": "2026-09-04T14:57:42Z"
     },
     {
       "id": "la-fabrique-du-cafe-thermos-kinto-la-fabrique-du-cafe-35cl",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-04T14:23:27Z"
+      "lastSeenAt": "2026-09-04T14:57:42Z"
     },
     {
       "id": "la-fabrique-du-cafe-la-pradera-bio-honey-process-colombie-ship-by-sail",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-04T14:23:27Z"
+      "lastSeenAt": "2026-09-04T14:57:42Z"
     },
     {
       "id": "la-fabrique-du-cafe-boite-de-conservation-atmos-fellow-vide-dair-manuel",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-04T14:23:27Z"
+      "lastSeenAt": "2026-09-04T14:57:42Z"
     }
   ]
 }

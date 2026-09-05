@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
-  "scrapedAt": "2026-09-04T14:24:41Z",
+  "scrapedAt": "2026-09-04T14:59:19Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:41Z"
+      "lastSeenAt": "2026-09-04T14:59:19Z"
     },
     {
       "id": "cafe-1802-gasharu-rwanda-washed",
@@ -60,7 +60,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cassis",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:41Z"
+      "lastSeenAt": "2026-09-04T14:59:19Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:41Z"
+      "lastSeenAt": "2026-09-04T14:59:19Z"
     }
   ]
 }

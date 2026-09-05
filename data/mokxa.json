@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
   },
-  "scrapedAt": "2026-09-04T14:19:11Z",
+  "scrapedAt": "2026-09-04T14:54:09Z",
   "products": [
     {
       "id": "mokxa-cafe-de-poche",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-cafe-saudade-blend",
@@ -57,7 +57,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-cafe-notorious-rob-blend",
@@ -90,7 +90,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-sitiodatorre",
@@ -123,7 +123,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-cafe-melting-cup-blend",
@@ -156,7 +156,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-santarosa-guatemala-bio",
@@ -189,7 +189,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-ayni-cafe-du-perou",
@@ -222,7 +222,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-taba-cafe-du-rwanda",
@@ -255,7 +255,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-decafeine-cafe-de-colombie",
@@ -288,7 +288,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-coba-cafe-dethiopie",
@@ -321,7 +321,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-higueronal-cafe-de-costa-rica",
@@ -354,7 +354,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-cold-brew",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-los-lirios-cafe-du-nicaragua-bio-2026",
@@ -420,7 +420,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     },
     {
       "id": "mokxa-don-lino-cafe-de-colombie",
@@ -453,7 +453,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -473,7 +473,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T10:45:00Z",
-      "lastSeenAt": "2026-09-04T14:19:11Z"
+      "lastSeenAt": "2026-09-04T14:54:09Z"
+    },
+    {
+      "id": "mokxa-el-silencio-geisha-cafe-de-colombie",
+      "name": "El Silencio Geisha - Café de Colombie",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/ElSilencio02.jpg?v=1788528019",
+      "retailers": [
+        {
+          "site": "Mokxa",
+          "url": "https://cafemokxa.com/products/el-silencio-geisha-cafe-de-colombie",
+          "price": 21.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-04T14:54:09Z",
+      "lastSeenAt": "2026-09-04T14:54:09Z"
     }
   ]
 }

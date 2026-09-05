@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/05/cafes-boc-logo.png"
   },
-  "scrapedAt": "2026-09-04T14:24:40Z",
+  "scrapedAt": "2026-09-04T14:59:18Z",
   "products": [
     {
       "id": "cafes-boc-el-salvador-lycaste",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-honduras-ceiba-honey",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-decafeine-bio-abonnement",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-moka-jebena-bio-abonnement",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n5-abonnement",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n4-abonnement",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n2-abonnement",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n1-abonnement",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-colombie-choco",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-decafeine-du-mexique-bio",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-moka-jebena-bio-ethiopie",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n2-assemblage-maison-robusta-arabica",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n1-100-robusta",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-bresil",
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n5-assemblage-maison",
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     },
     {
       "id": "cafes-boc-boc-n4-assemblage-maison",
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-04T14:24:40Z"
+      "lastSeenAt": "2026-09-04T14:59:18Z"
     }
   ]
 }

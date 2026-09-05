@@ -14,7 +14,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 
 from .common.http import session, get
-from .common.parsing import norm, parse_grams, parse_price_eur
+from .common.parsing import norm, normalize_method, parse_grams, parse_price_eur
 from .common.schema import RawProduct, apply_products, save
 
 # A handful of PrestaShop shops (confirmed on Terres de Café) run a "Stape"
@@ -76,6 +76,7 @@ def extract_stape_product(html):
 
     return {"description_html": description_html, "extracted": extracted}
 
+
 COFFEE_LINK_WORDS = {"cafe", "cafes", "coffee"}
 EXCLUDE_LINK_WORDS = {"machine", "machines", "accessoire", "accessoires", "the", "thes", "entreprise", "entreprises"}
 
@@ -92,19 +93,6 @@ DATA_SHEET_SYNONYMS = {
     "originCountry": {"origine", "pays"},
     "originDetail": {"region ferme", "region"},
 }
-
-
-def _normalize_method(value):
-    v = norm(value)
-    has_espresso = "expresso" in v or "espresso" in v
-    has_filtre = "filtre" in v
-    if "omni" in v or (has_espresso and has_filtre):
-        return "Omni"
-    if has_espresso:
-        return "Espresso"
-    if has_filtre:
-        return "Filtre"
-    return None
 
 
 def extract_data_sheet(soup):
@@ -126,7 +114,7 @@ def extract_data_sheet(soup):
                 out.setdefault("score", int(n) if n.is_integer() else n)
             continue
         if label == "torrefaction":
-            method = _normalize_method(value)
+            method = normalize_method(value)
             if method:
                 out.setdefault("method", method)
             continue
