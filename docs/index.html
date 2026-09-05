@@ -249,13 +249,28 @@
   .field-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px; }
   .field{ display:flex; flex-direction:column; gap:5px; }
   .field label{ font-size:11px; color:var(--muted); font-weight:600; }
-  .field select, .field textarea, .field input[type=text]{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px; padding:9px 11px; border-radius:8px; outline:none; }
+  .field select, .field textarea, .field input[type=text], .field input[type=email], .field input[type=password]{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px; padding:9px 11px; border-radius:8px; outline:none; width:100%; box-sizing:border-box; }
   .field select:focus, .field textarea:focus, .field input:focus{ border-color:var(--gold); }
   .field textarea{ resize:vertical; min-height:64px; font-family:'Inter',sans-serif; }
   .field.full{ grid-column:1 / -1; }
   .lib-foot{ display:flex; justify-content:space-between; align-items:center; margin-top:10px; }
   .saved-tag{ font-size:11px; color:var(--sage-soft); opacity:0; transition:opacity .3s; }
   .saved-tag.show{ opacity:1; }
+
+  .auth-tabs{ display:flex; gap:4px; background:var(--panel-light); padding:4px; border-radius:10px; margin-bottom:20px; }
+  .auth-tabs button{ flex:1; background:none; border:none; color:var(--muted); font-family:'Inter',sans-serif; font-size:13.5px; font-weight:600; padding:9px; border-radius:7px; cursor:pointer; }
+  .auth-tabs button.active{ background:var(--gold); color:#0d1b2e; }
+  .auth-error{ background:rgba(201,106,90,.15); border:1px solid var(--danger); color:#e8a99a; font-size:12.5px; padding:10px 12px; border-radius:8px; margin-bottom:14px; display:none; }
+  .auth-error.show{ display:block; }
+  .btn-google{ display:flex; align-items:center; justify-content:center; gap:10px; width:100%; background:#fff; color:#1f1f1f; border:1px solid var(--line); font-family:'Inter',sans-serif; font-weight:600; font-size:13.5px; padding:11px; border-radius:9px; cursor:pointer; margin-bottom:16px; }
+  .btn-google:hover{ background:#f5f5f5; }
+  .auth-divider{ display:flex; align-items:center; gap:10px; color:var(--muted); font-size:11.5px; margin-bottom:16px; }
+  .auth-divider::before, .auth-divider::after{ content:''; flex:1; height:1px; background:var(--line); }
+  .user-status{ display:flex; align-items:center; gap:10px; font-size:12.5px; color:var(--muted); }
+  .user-status .ue{ color:var(--cream); font-weight:600; }
+  .user-status button{ background:none; border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:12px; font-weight:600; padding:7px 12px; border-radius:8px; cursor:pointer; }
+  .user-status button:hover{ border-color:var(--gold); color:var(--cream); }
+  @media (max-width:640px){ header.top .user-status{ order:3; width:100%; justify-content:flex-end; } }
 
   footer.hint{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:40px; line-height:1.7; }
 
@@ -285,18 +300,10 @@
   .btn-lux-outline:hover{ background:rgba(201,151,62,0.1); }
   .btn-lux-filled{ background:var(--gold); border:1px solid var(--gold); color:var(--ink); }
   .btn-lux-filled:hover{ background:var(--gold-soft); }
-  .lux-toast{
-    position:fixed; bottom:24px; left:50%; transform:translateX(-50%) translateY(20px);
-    background:var(--panel-light); border:1px solid var(--gold); color:var(--cream);
-    padding:12px 22px; border-radius:8px; font-size:13px; opacity:0; pointer-events:none;
-    transition:opacity .25s, transform .25s; z-index:100; white-space:nowrap;
-  }
-  .lux-toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
   @media (max-width:560px){
     .lux-hero{ min-height:440px; }
     .lux-logo{ font-size:32px; }
     .lux-tagline{ font-size:16px; }
-    .lux-toast{ white-space:normal; text-align:center; max-width:85vw; }
   }
 
   @media (max-width:560px){
@@ -319,6 +326,7 @@
       <button id="tab-library">Ma bibliothèque</button>
       <button id="tab-community">Communauté</button>
     </nav>
+    <div class="user-status" id="user-status"></div>
   </header>
 
   <div id="view-home">
@@ -359,7 +367,6 @@
         </div>
       </div>
     </div>
-    <div class="lux-toast" id="lux-toast">La création de compte sera disponible prochainement.</div>
   </div>
 
   <div id="view-explore" style="display:none;">
@@ -457,6 +464,27 @@
   <div class="detail" id="detail-content"></div>
 </div>
 
+<div class="overlay" id="auth-overlay">
+  <div class="detail" id="auth-content" style="max-width:400px;"></div>
+</div>
+
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-app-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-auth-compat.js"></script>
+<script src="https://www.gstatic.com/firebasejs/10.14.1/firebase-firestore-compat.js"></script>
+<script>
+const firebaseConfig = {
+  apiKey: "AIzaSyCWDgMEL8qL5aR8bpuOCz6oNzHchhow3FY",
+  authDomain: "origin-coffee-a8168.firebaseapp.com",
+  projectId: "origin-coffee-a8168",
+  storageBucket: "origin-coffee-a8168.firebasestorage.app",
+  messagingSenderId: "28725885447",
+  appId: "1:28725885447:web:0ce022d98f470af14e08a2"
+};
+firebase.initializeApp(firebaseConfig);
+const auth = firebase.auth();
+const db = firebase.firestore();
+let currentUser = null;
+</script>
 <script>
 const NA = 'Indisponible';
 function na(v){ return (v===NA || v===undefined || v===null || v===''); }
@@ -594,45 +622,16 @@ function ratioDenominator(ratio){ const n = parseInt((ratio||RATIO_DEFAULT).spli
 function computeWater(coffeeG, ratio){ return Math.round((coffeeG||COFFEE_G_DEFAULT) * ratioDenominator(ratio)); }
 
 // Origin runs as a plain static page (GitHub Pages), not a Claude Artifact,
-// so there is no injected `window.storage` API to persist anything against —
-// every call to it used to throw silently and get swallowed by a catch,
-// which is why "Ajouter à ma bibliothèque" (and everything else here)
-// stopped doing anything. `storage` below keeps the exact same get/set/
-// delete/list(prefix) shape so the rest of the app didn't need to change,
-// backed by localStorage instead: it works with zero setup, but it is
-// per-browser only. That's fine for personal data (library, wishlist,
-// settings) — it is NOT a real shared backend, so anything under a
-// `public:`/`rating:` key (meant to aggregate across every visitor for the
-// "Communauté" tab) will only ever see this one browser's own entry, not
-// other people's. Genuine cross-user community data needs a real backend;
-// there isn't one here yet.
-const storage = {
-  async get(key){
-    const raw = localStorage.getItem('origin:'+key);
-    return raw === null ? null : { value: raw };
-  },
-  async set(key, value){
-    localStorage.setItem('origin:'+key, value);
-    return true;
-  },
-  async delete(key){
-    localStorage.removeItem('origin:'+key);
-    return true;
-  },
-  async list(prefix){
-    const keys = [];
-    const full = 'origin:'+prefix;
-    for(let i=0;i<localStorage.length;i++){
-      const k = localStorage.key(i);
-      if(k && k.startsWith(full)) keys.push(k.slice('origin:'.length));
-    }
-    return { keys };
-  }
-};
-
+// so there is no injected `window.storage` API to persist anything against.
+// Personal data (library/wishlist/settings) lives under the signed-in
+// user's uid in Firestore (see firebaseConfig above); community data
+// (ratings/reviews) is a top-level collection keyed by coffee id, publicly
+// readable so every visitor's "Communauté" tab shows everyone's notes, but
+// writable only by its own author (see the Firestore security rules
+// shipped alongside this file) — an account is required to write, not to
+// read.
 let libraryCache = {};
 let settings = { publicLibrary:false };
-let userId = null;
 let storageReady = false;
 let selectedRoasters = new Set();
 let selectedRatingTier = null;
@@ -644,70 +643,86 @@ let selectedProcesses = new Set();
 let selectedCountry = 'all';
 let priceMin = null, priceMax = null;
 
-function randomId(){ return 'u' + Math.random().toString(36).slice(2,10) + Date.now().toString(36).slice(-4); }
-
-async function initUser(){
-  try{ const res = await storage.get('userId', false); userId = res.value; }
-  catch(e){ userId = randomId(); try{ await storage.set('userId', userId, false); }catch(e2){ console.error(e2); } }
+function requireAuth(promptMessage){
+  if(currentUser) return true;
+  openAuthModal('login', promptMessage);
+  return false;
 }
+
 async function loadSettings(){
-  try{ const res = await storage.get('settings', false); settings = JSON.parse(res.value); }
-  catch(e){ settings = { publicLibrary:false }; }
+  if(!currentUser){ settings = { publicLibrary:false }; return; }
+  try{
+    const doc = await db.collection('settings').doc(currentUser.uid).get();
+    settings = doc.exists ? doc.data() : { publicLibrary:false };
+  }catch(e){ console.error(e); settings = { publicLibrary:false }; }
 }
 async function loadLibrary(){
+  libraryCache = {};
+  if(!currentUser){ storageReady = true; return; }
   try{
-    const list = await storage.list('library:', false);
-    const keys = (list && list.keys) || [];
-    for(const k of keys){
-      try{ const res = await storage.get(k, false); if(res) libraryCache[k.replace('library:','')] = JSON.parse(res.value); }catch(e){}
-    }
+    const snap = await db.collection('libraries').doc(currentUser.uid).collection('coffees').get();
+    snap.forEach(doc=>{ libraryCache[doc.id] = doc.data(); });
   }catch(e){ console.error(e); }
   storageReady = true;
 }
 async function saveEntry(id, entry){
-  try{ const res = await storage.set('library:'+id, JSON.stringify(entry), false); return !!res; }
-  catch(e){ console.error(e); return false; }
+  if(!currentUser) return false;
+  try{
+    await db.collection('libraries').doc(currentUser.uid).collection('coffees').doc(id).set(entry);
+    return true;
+  }catch(e){ console.error(e); return false; }
 }
 
 let wishlist = new Set();
 async function loadWishlist(){
-  try{ const res = await storage.get('wishlist', false); wishlist = new Set(JSON.parse(res.value)); }
-  catch(e){ wishlist = new Set(); }
-}
-async function saveWishlist(){
-  try{ await storage.set('wishlist', JSON.stringify([...wishlist]), false); }catch(e){ console.error(e); }
+  wishlist = new Set();
+  if(!currentUser) return;
+  try{
+    const snap = await db.collection('wishlists').doc(currentUser.uid).collection('coffees').get();
+    snap.forEach(doc=> wishlist.add(doc.id));
+  }catch(e){ console.error(e); }
 }
 async function toggleWishlist(id){
-  if(wishlist.has(id)) wishlist.delete(id); else wishlist.add(id);
-  await saveWishlist();
+  if(!currentUser) return;
+  const ref = db.collection('wishlists').doc(currentUser.uid).collection('coffees').doc(id);
+  try{
+    if(wishlist.has(id)){ wishlist.delete(id); await ref.delete(); }
+    else{ wishlist.add(id); await ref.set({ addedAt: firebase.firestore.FieldValue.serverTimestamp() }); }
+  }catch(e){ console.error(e); }
 }
 async function syncShared(id, entry){
+  if(!currentUser) return;
+  const uid = currentUser.uid;
   try{
-    if(entry.rating && entry.rating > 0) await storage.set('rating:'+id+':'+userId, JSON.stringify({rating:entry.rating, updatedAt:Date.now()}), true);
-    else{ try{ await storage.delete('rating:'+id+':'+userId, true); }catch(e){} }
+    if(entry.rating && entry.rating > 0){
+      await db.collection('ratings').doc(id).collection('entries').doc(uid)
+        .set({ rating: entry.rating, updatedAt: firebase.firestore.FieldValue.serverTimestamp() });
+    }else{
+      try{ await db.collection('ratings').doc(id).collection('entries').doc(uid).delete(); }catch(e){}
+    }
   }catch(e){ console.error(e); }
   try{
+    const ref = db.collection('publicReviews').doc(id).collection('entries').doc(uid);
     if(settings.publicLibrary){
-      await storage.set('public:'+id+':'+userId, JSON.stringify({ rating: entry.rating||0, brewMethod: entry.brewMethod||'', grindSize: entry.grindSize||'', ratio: entry.ratio||'', coffeeG: entry.coffeeG||0, timeH: entry.timeH||0, timeM: entry.timeM||0, timeS: entry.timeS||0, notes: entry.notes||'' }), true);
-    }else{ try{ await storage.delete('public:'+id+':'+userId, true); }catch(e){} }
+      await ref.set({ rating: entry.rating||0, brewMethod: entry.brewMethod||'', grindSize: entry.grindSize||'', ratio: entry.ratio||'', coffeeG: entry.coffeeG||0, timeH: entry.timeH||0, timeM: entry.timeM||0, timeS: entry.timeS||0, notes: entry.notes||'' });
+    }else{ try{ await ref.delete(); }catch(e){} }
   }catch(e){ console.error(e); }
 }
 async function removeShared(id){
-  try{ await storage.delete('rating:'+id+':'+userId, true); }catch(e){}
-  try{ await storage.delete('public:'+id+':'+userId, true); }catch(e){}
+  if(!currentUser) return;
+  const uid = currentUser.uid;
+  try{ await db.collection('ratings').doc(id).collection('entries').doc(uid).delete(); }catch(e){}
+  try{ await db.collection('publicReviews').doc(id).collection('entries').doc(uid).delete(); }catch(e){}
 }
 async function togglePublicLibrary(makePublic){
+  if(!currentUser) return;
   settings.publicLibrary = makePublic;
-  try{ await storage.set('settings', JSON.stringify(settings), false); }catch(e){ console.error(e); }
-  const ids = Object.keys(libraryCache);
-  for(const id of ids){
-    if(makePublic){
-      await storage.set('public:'+id+':'+userId, JSON.stringify({ rating: libraryCache[id].rating||0, brewMethod: libraryCache[id].brewMethod||'', grindSize: libraryCache[id].grindSize||'', ratio: libraryCache[id].ratio||'', coffeeG: libraryCache[id].coffeeG||0, timeH: libraryCache[id].timeH||0, timeM: libraryCache[id].timeM||0, timeS: libraryCache[id].timeS||0, notes: libraryCache[id].notes||'' }), true);
-    }else{ try{ await storage.delete('public:'+id+':'+userId, true); }catch(e){} }
-  }
+  try{ await db.collection('settings').doc(currentUser.uid).set(settings); }catch(e){ console.error(e); }
+  for(const id of Object.keys(libraryCache)){ await syncShared(id, libraryCache[id]); }
 }
 async function removeEntry(id){
-  try{ await storage.delete('library:'+id, false); }catch(e){ console.error(e); }
+  if(!currentUser) return;
+  try{ await db.collection('libraries').doc(currentUser.uid).collection('coffees').doc(id).delete(); }catch(e){ console.error(e); }
   await removeShared(id);
   delete libraryCache[id];
   renderLibrary();
@@ -715,20 +730,14 @@ async function removeEntry(id){
 async function fetchCommunityData(id){
   const out = { avg:null, count:0, reviews:[] };
   try{
-    const ratingsList = await storage.list('rating:'+id+':', true);
-    const rkeys = (ratingsList && ratingsList.keys) || [];
+    const snap = await db.collection('ratings').doc(id).collection('entries').get();
     let sum = 0, count = 0;
-    for(const k of rkeys){
-      try{ const res = await storage.get(k, true); const val = JSON.parse(res.value); if(val && val.rating){ sum += val.rating; count++; } }catch(e){}
-    }
+    snap.forEach(doc=>{ const val = doc.data(); if(val && val.rating){ sum += val.rating; count++; } });
     if(count>0){ out.avg = sum/count; out.count = count; }
   }catch(e){ console.error(e); }
   try{
-    const pubList = await storage.list('public:'+id+':', true);
-    const pkeys = (pubList && pubList.keys) || [];
-    for(const k of pkeys){
-      try{ const res = await storage.get(k, true); const val = JSON.parse(res.value); if(val) out.reviews.push(val); }catch(e){}
-    }
+    const snap = await db.collection('publicReviews').doc(id).collection('entries').get();
+    snap.forEach(doc=> out.reviews.push(doc.data()));
   }catch(e){ console.error(e); }
   communityAvgCache[id] = out.avg;
   return out;
@@ -736,17 +745,17 @@ async function fetchCommunityData(id){
 
 async function refreshCommunityAvg(id){
   try{
-    const ratingsList = await storage.list('rating:'+id+':', true);
-    const rkeys = (ratingsList && ratingsList.keys) || [];
+    const snap = await db.collection('ratings').doc(id).collection('entries').get();
     let sum = 0, count = 0, weekCount = 0;
     const weekAgo = Date.now() - 7*24*3600*1000;
-    for(const k of rkeys){
-      try{
-        const res = await storage.get(k, true);
-        const val = JSON.parse(res.value);
-        if(val && val.rating){ sum += val.rating; count++; if(val.updatedAt && val.updatedAt >= weekAgo) weekCount++; }
-      }catch(e){}
-    }
+    snap.forEach(doc=>{
+      const val = doc.data();
+      if(val && val.rating){
+        sum += val.rating; count++;
+        const t = val.updatedAt && val.updatedAt.toMillis ? val.updatedAt.toMillis() : 0;
+        if(t >= weekAgo) weekCount++;
+      }
+    });
     communityAvgCache[id] = count>0 ? sum/count : null;
     trendCache[id] = weekCount;
   }catch(e){ communityAvgCache[id] = null; trendCache[id] = 0; }
@@ -757,6 +766,101 @@ async function loadAllCommunityAverages(){
   trendLoaded = true;
   renderGrid(document.getElementById('search-input').value);
 }
+
+// --- Authentification ---
+function updateUserStatusUI(){
+  const el = document.getElementById('user-status');
+  if(!el) return;
+  if(currentUser){
+    const label = currentUser.displayName || currentUser.email || 'Connecté';
+    el.innerHTML = `<span class="ue">${label}</span><button id="btn-logout">Se déconnecter</button>`;
+    document.getElementById('btn-logout').addEventListener('click', ()=> auth.signOut());
+  }else{
+    el.innerHTML = `<button id="btn-header-login">Se connecter</button>`;
+    document.getElementById('btn-header-login').addEventListener('click', ()=> openAuthModal('login'));
+  }
+}
+
+function authErrorMessage(code){
+  const map = {
+    'auth/email-already-in-use': 'Un compte existe déjà avec cet e-mail.',
+    'auth/invalid-email': 'Adresse e-mail invalide.',
+    'auth/weak-password': 'Le mot de passe doit contenir au moins 6 caractères.',
+    'auth/user-not-found': 'Aucun compte avec cet e-mail.',
+    'auth/wrong-password': 'Mot de passe incorrect.',
+    'auth/invalid-credential': 'E-mail ou mot de passe incorrect.',
+    'auth/popup-closed-by-user': 'Connexion annulée.',
+    'auth/network-request-failed': 'Problème de connexion réseau.',
+  };
+  return map[code] || 'Une erreur est survenue. Réessaie.';
+}
+
+function openAuthModal(mode, promptMessage){
+  renderAuthModal(mode||'login', promptMessage);
+  document.getElementById('auth-overlay').classList.add('open');
+}
+function closeAuthModal(){ document.getElementById('auth-overlay').classList.remove('open'); }
+
+function renderAuthModal(mode, promptMessage){
+  const content = document.getElementById('auth-content');
+  const isSignup = mode==='signup';
+  content.innerHTML = `
+    <button class="close" id="auth-close">✕</button>
+    <h2 style="margin-top:0;">${isSignup?'Créer un compte':'Se connecter'}</h2>
+    ${promptMessage ? `<p style="color:var(--muted); font-size:13px; margin-top:-8px;">${promptMessage}</p>` : ''}
+    <div class="auth-tabs">
+      <button class="auth-tab-login ${!isSignup?'active':''}">Connexion</button>
+      <button class="auth-tab-signup ${isSignup?'active':''}">Inscription</button>
+    </div>
+    <div class="auth-error" id="auth-error"></div>
+    <button class="btn-google" id="btn-google-auth">
+      <svg width="18" height="18" viewBox="0 0 48 48"><path fill="#FFC107" d="M43.6 20.5h-1.9V20H24v8h11.3c-1.6 4.7-6.1 8-11.3 8-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.1 8 3l6-6C34.6 5.1 29.6 3 24 3 12.4 3 3 12.4 3 24s9.4 21 21 21 21-9.4 21-21c0-1.2-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.6 15.9 18.9 13 24 13c3.1 0 5.8 1.1 8 3l6-6C34.6 5.1 29.6 3 24 3 16.3 3 9.7 7.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 45c5.5 0 10.4-1.9 14.3-5.1l-6.6-5.6c-2 1.5-4.7 2.5-7.7 2.5-5.2 0-9.6-3.3-11.3-8l-6.6 5.1C9.6 40.5 16.2 45 24 45z"/><path fill="#1976D2" d="M43.6 20.5H24v8h11.3c-.8 2.3-2.3 4.3-4.2 5.7l6.6 5.6C41.5 36.5 45 30.9 45 24c0-1.2-.1-2.4-.4-3.5z"/></svg>
+      Continuer avec Google
+    </button>
+    <div class="auth-divider">ou</div>
+    <form id="auth-form">
+      <div class="field" style="margin-bottom:12px;"><label>E-mail</label><input type="email" id="auth-email" required></div>
+      <div class="field" style="margin-bottom:16px;"><label>Mot de passe</label><input type="password" id="auth-password" minlength="6" required></div>
+      <button type="submit" class="primary" style="width:100%;" id="auth-submit">${isSignup?'Créer mon compte':'Se connecter'}</button>
+    </form>
+  `;
+  document.getElementById('auth-close').onclick = closeAuthModal;
+  content.querySelector('.auth-tab-login').addEventListener('click', ()=> renderAuthModal('login', promptMessage));
+  content.querySelector('.auth-tab-signup').addEventListener('click', ()=> renderAuthModal('signup', promptMessage));
+  const errEl = document.getElementById('auth-error');
+  const showError = (code)=>{ errEl.textContent = authErrorMessage(code); errEl.classList.add('show'); };
+
+  document.getElementById('btn-google-auth').addEventListener('click', async ()=>{
+    try{
+      await auth.signInWithPopup(new firebase.auth.GoogleAuthProvider());
+      closeAuthModal();
+    }catch(e){ showError(e.code); }
+  });
+  document.getElementById('auth-form').addEventListener('submit', async (e)=>{
+    e.preventDefault();
+    const email = document.getElementById('auth-email').value;
+    const password = document.getElementById('auth-password').value;
+    const btn = document.getElementById('auth-submit');
+    btn.disabled = true;
+    try{
+      if(isSignup) await auth.createUserWithEmailAndPassword(email, password);
+      else await auth.signInWithEmailAndPassword(email, password);
+      closeAuthModal();
+    }catch(e){ showError(e.code); btn.disabled = false; }
+  });
+}
+document.getElementById('auth-overlay').addEventListener('click', (e)=>{ if(e.target.id==='auth-overlay') closeAuthModal(); });
+
+auth.onAuthStateChanged(async (user)=>{
+  currentUser = user;
+  updateUserStatusUI();
+  await loadSettings();
+  await loadLibrary();
+  await loadWishlist();
+  if(document.getElementById('view-library').style.display !== 'none'){
+    renderLibrary(document.getElementById('library-search-input') ? document.getElementById('library-search-input').value : '');
+  }
+});
 
 const RATING_TIERS = [
   {min:4.5, label:'4,5+ Exceptionnel'},
@@ -995,17 +1099,19 @@ async function openDetail(id){
   document.getElementById('close-detail').onclick = closeDetail;
   const addBtn = document.getElementById('add-lib-btn');
   addBtn.onclick = async ()=>{
+    if(!requireAuth('Connecte-toi pour ajouter ce café à ta bibliothèque.')) return;
     addBtn.disabled = true; addBtn.textContent = 'Ajout…';
     const entry = { rating:0, brewMethod:'', grindSize:String(GRIND_DEFAULT), ratio:RATIO_DEFAULT, coffeeG:COFFEE_G_DEFAULT, timeH:0, timeM:0, timeS:0, notes:'', brews:[], dateAdded:new Date().toISOString() };
     const ok = await saveEntry(id, entry);
     if(ok){
       libraryCache[id] = entry; addBtn.textContent = 'Déjà dans ma bibliothèque';
-      if(wishlist.has(id)){ wishlist.delete(id); await saveWishlist(); wishlistBtn.textContent = '☆ Ajouter à ma liste à essayer'; wishlistBtn.classList.remove('active'); }
+      if(wishlist.has(id)){ await toggleWishlist(id); wishlistBtn.textContent = '☆ Ajouter à ma liste à essayer'; wishlistBtn.classList.remove('active'); }
     }
     else{ addBtn.disabled = false; addBtn.textContent = "Échec — réessayer"; }
   };
   const wishlistBtn = document.getElementById('wishlist-btn');
   wishlistBtn.onclick = async ()=>{
+    if(!requireAuth('Connecte-toi pour ajouter ce café à ta liste à essayer.')) return;
     await toggleWishlist(id);
     wishlistBtn.textContent = wishlist.has(id) ? '★ Dans ma liste à essayer' : '☆ Ajouter à ma liste à essayer';
     wishlistBtn.classList.toggle('active', wishlist.has(id));
@@ -1081,6 +1187,11 @@ function renderStats(){
 
 function renderWishlist(){
   const el = document.getElementById('wishlist-list');
+  if(!currentUser){
+    el.innerHTML = `<div class="empty"><h3>Connecte-toi pour voir ta liste à essayer</h3><button class="primary" id="wish-login-btn" style="margin-top:14px;">Se connecter</button></div>`;
+    document.getElementById('wish-login-btn').addEventListener('click', ()=> openAuthModal('login'));
+    return;
+  }
   const ids = [...wishlist];
   if(ids.length===0){ el.innerHTML = `<div class="empty"><h3>Aucun café à essayer pour l'instant</h3><p>Depuis Explorer, ouvre une fiche café et clique sur "Ajouter à ma liste à essayer".</p></div>`; return; }
   el.innerHTML = ids.map(id=>{
@@ -1111,7 +1222,7 @@ function renderWishlist(){
       const entry = { rating:0, brewMethod:'', grindSize:String(GRIND_DEFAULT), ratio:RATIO_DEFAULT, coffeeG:COFFEE_G_DEFAULT, timeH:0, timeM:0, timeS:0, notes:'', brews:[], dateAdded:new Date().toISOString() };
       await saveEntry(id, entry);
       libraryCache[id] = entry;
-      wishlist.delete(id); await saveWishlist();
+      await toggleWishlist(id);
       renderWishlist(); renderStats(); renderLibrary(document.getElementById('library-search-input').value);
       showView('library'); document.getElementById('subtab-tasted').click();
       openLibraryDetail(id);
@@ -1145,6 +1256,12 @@ function exportLibraryCSV(){
 
 function renderLibrary(filter){
   const list = document.getElementById('library-list');
+  if(!currentUser){
+    list.innerHTML = `<div class="empty"><h3>Connecte-toi pour voir ta bibliothèque</h3><p>Un compte est nécessaire pour enregistrer tes cafés dégustés, ta liste à essayer et tes recettes.</p><button class="primary" id="lib-login-btn" style="margin-top:14px;">Se connecter</button></div>`;
+    document.getElementById('lib-login-btn').addEventListener('click', ()=> openAuthModal('login'));
+    document.getElementById('stats-row').innerHTML = '';
+    return;
+  }
   document.getElementById('privacy-toggle').checked = !!settings.publicLibrary;
   renderStats();
   const q = (filter||'').trim().toLowerCase();
@@ -1484,16 +1601,8 @@ async function renderTrending(){
   });
 }
 
-let toastTimer;
-function showLuxToast(msg){
-  const t = document.getElementById('lux-toast');
-  t.textContent = msg;
-  t.classList.add('show');
-  clearTimeout(toastTimer);
-  toastTimer = setTimeout(()=> t.classList.remove('show'), 2600);
-}
-document.getElementById('btn-login').addEventListener('click', ()=> showLuxToast('La connexion sera disponible prochainement.'));
-document.getElementById('btn-signup').addEventListener('click', ()=> showLuxToast('La création de compte sera disponible prochainement.'));
+document.getElementById('btn-login').addEventListener('click', ()=> openAuthModal('login'));
+document.getElementById('btn-signup').addEventListener('click', ()=> openAuthModal('signup'));
 
 document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Chargement des cafés…</h3></div>`;
 document.getElementById('subtab-tasted').addEventListener('click', ()=>{
@@ -1522,7 +1631,10 @@ document.getElementById('export-csv').addEventListener('click', exportLibraryCSV
   renderFilterChips();
   renderGrid('');
   updateDataFooter();
-  await initUser(); await loadSettings(); await loadLibrary(); await loadWishlist(); renderLibrary(); loadAllCommunityAverages();
+  // Personal data (settings/library/wishlist) loads from auth.onAuthStateChanged
+  // above, which fires once immediately with the current sign-in state.
+  updateUserStatusUI();
+  loadAllCommunityAverages();
 })();
 </script>
 </body>

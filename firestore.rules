@@ -1,0 +1,39 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // Personal data — only the owning account can read or write it.
+    match /libraries/{uid}/coffees/{coffeeId} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+    match /wishlists/{uid}/coffees/{coffeeId} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+    match /settings/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Community ratings — publicly readable (everyone's "Communauté" tab
+    // aggregates across all of these), but each entry is only writable by
+    // its own author, and must be a plain {rating, updatedAt} shape with a
+    // rating in [0,5]. Doc id == author's uid, so there's at most one
+    // rating per user per coffee.
+    match /ratings/{coffeeId}/entries/{uid} {
+      allow read: if true;
+      allow create, update: if request.auth != null && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['rating', 'updatedAt'])
+        && request.resource.data.rating is number
+        && request.resource.data.rating >= 0 && request.resource.data.rating <= 5;
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
+
+    // Public reviews — the brew recipe + notes a user opts to share (the
+    // "Rendre ma bibliothèque publique" toggle). Same pattern: public read,
+    // author-only write.
+    match /publicReviews/{coffeeId}/entries/{uid} {
+      allow read: if true;
+      allow create, update: if request.auth != null && request.auth.uid == uid;
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
+  }
+}
