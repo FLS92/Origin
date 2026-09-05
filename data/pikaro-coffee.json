@@ -130,7 +130,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Sucre brun",
+        "Fermenté",
+        "Chocolat noir",
+        "Fruits à coque",
+        "Cerise"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
@@ -201,7 +207,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "écorce d'orange",
+        "noix",
+        "cannelle"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
@@ -234,7 +244,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "malt",
+        "noisette",
+        "chocolat au lait"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
@@ -305,7 +319,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "épices",
+        "cacao",
+        "chocolat au lait",
+        "noix"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",

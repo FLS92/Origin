@@ -593,6 +593,43 @@ const COFFEE_G_MIN = 1, COFFEE_G_MAX = 100, COFFEE_G_DEFAULT = 15;
 function ratioDenominator(ratio){ const n = parseInt((ratio||RATIO_DEFAULT).split(':')[1],10); return isNaN(n)?2:n; }
 function computeWater(coffeeG, ratio){ return Math.round((coffeeG||COFFEE_G_DEFAULT) * ratioDenominator(ratio)); }
 
+// Origin runs as a plain static page (GitHub Pages), not a Claude Artifact,
+// so there is no injected `window.storage` API to persist anything against —
+// every call to it used to throw silently and get swallowed by a catch,
+// which is why "Ajouter à ma bibliothèque" (and everything else here)
+// stopped doing anything. `storage` below keeps the exact same get/set/
+// delete/list(prefix) shape so the rest of the app didn't need to change,
+// backed by localStorage instead: it works with zero setup, but it is
+// per-browser only. That's fine for personal data (library, wishlist,
+// settings) — it is NOT a real shared backend, so anything under a
+// `public:`/`rating:` key (meant to aggregate across every visitor for the
+// "Communauté" tab) will only ever see this one browser's own entry, not
+// other people's. Genuine cross-user community data needs a real backend;
+// there isn't one here yet.
+const storage = {
+  async get(key){
+    const raw = localStorage.getItem('origin:'+key);
+    return raw === null ? null : { value: raw };
+  },
+  async set(key, value){
+    localStorage.setItem('origin:'+key, value);
+    return true;
+  },
+  async delete(key){
+    localStorage.removeItem('origin:'+key);
+    return true;
+  },
+  async list(prefix){
+    const keys = [];
+    const full = 'origin:'+prefix;
+    for(let i=0;i<localStorage.length;i++){
+      const k = localStorage.key(i);
+      if(k && k.startsWith(full)) keys.push(k.slice('origin:'.length));
+    }
+    return { keys };
+  }
+};
+
 let libraryCache = {};
 let settings = { publicLibrary:false };
 let userId = null;
@@ -610,35 +647,35 @@ let priceMin = null, priceMax = null;
 function randomId(){ return 'u' + Math.random().toString(36).slice(2,10) + Date.now().toString(36).slice(-4); }
 
 async function initUser(){
-  try{ const res = await window.storage.get('userId', false); userId = res.value; }
-  catch(e){ userId = randomId(); try{ await window.storage.set('userId', userId, false); }catch(e2){ console.error(e2); } }
+  try{ const res = await storage.get('userId', false); userId = res.value; }
+  catch(e){ userId = randomId(); try{ await storage.set('userId', userId, false); }catch(e2){ console.error(e2); } }
 }
 async function loadSettings(){
-  try{ const res = await window.storage.get('settings', false); settings = JSON.parse(res.value); }
+  try{ const res = await storage.get('settings', false); settings = JSON.parse(res.value); }
   catch(e){ settings = { publicLibrary:false }; }
 }
 async function loadLibrary(){
   try{
-    const list = await window.storage.list('library:', false);
+    const list = await storage.list('library:', false);
     const keys = (list && list.keys) || [];
     for(const k of keys){
-      try{ const res = await window.storage.get(k, false); if(res) libraryCache[k.replace('library:','')] = JSON.parse(res.value); }catch(e){}
+      try{ const res = await storage.get(k, false); if(res) libraryCache[k.replace('library:','')] = JSON.parse(res.value); }catch(e){}
     }
   }catch(e){ console.error(e); }
   storageReady = true;
 }
 async function saveEntry(id, entry){
-  try{ const res = await window.storage.set('library:'+id, JSON.stringify(entry), false); return !!res; }
+  try{ const res = await storage.set('library:'+id, JSON.stringify(entry), false); return !!res; }
   catch(e){ console.error(e); return false; }
 }
 
 let wishlist = new Set();
 async function loadWishlist(){
-  try{ const res = await window.storage.get('wishlist', false); wishlist = new Set(JSON.parse(res.value)); }
+  try{ const res = await storage.get('wishlist', false); wishlist = new Set(JSON.parse(res.value)); }
   catch(e){ wishlist = new Set(); }
 }
 async function saveWishlist(){
-  try{ await window.storage.set('wishlist', JSON.stringify([...wishlist]), false); }catch(e){ console.error(e); }
+  try{ await storage.set('wishlist', JSON.stringify([...wishlist]), false); }catch(e){ console.error(e); }
 }
 async function toggleWishlist(id){
   if(wishlist.has(id)) wishlist.delete(id); else wishlist.add(id);
@@ -646,31 +683,31 @@ async function toggleWishlist(id){
 }
 async function syncShared(id, entry){
   try{
-    if(entry.rating && entry.rating > 0) await window.storage.set('rating:'+id+':'+userId, JSON.stringify({rating:entry.rating, updatedAt:Date.now()}), true);
-    else{ try{ await window.storage.delete('rating:'+id+':'+userId, true); }catch(e){} }
+    if(entry.rating && entry.rating > 0) await storage.set('rating:'+id+':'+userId, JSON.stringify({rating:entry.rating, updatedAt:Date.now()}), true);
+    else{ try{ await storage.delete('rating:'+id+':'+userId, true); }catch(e){} }
   }catch(e){ console.error(e); }
   try{
     if(settings.publicLibrary){
-      await window.storage.set('public:'+id+':'+userId, JSON.stringify({ rating: entry.rating||0, brewMethod: entry.brewMethod||'', grindSize: entry.grindSize||'', ratio: entry.ratio||'', coffeeG: entry.coffeeG||0, timeH: entry.timeH||0, timeM: entry.timeM||0, timeS: entry.timeS||0, notes: entry.notes||'' }), true);
-    }else{ try{ await window.storage.delete('public:'+id+':'+userId, true); }catch(e){} }
+      await storage.set('public:'+id+':'+userId, JSON.stringify({ rating: entry.rating||0, brewMethod: entry.brewMethod||'', grindSize: entry.grindSize||'', ratio: entry.ratio||'', coffeeG: entry.coffeeG||0, timeH: entry.timeH||0, timeM: entry.timeM||0, timeS: entry.timeS||0, notes: entry.notes||'' }), true);
+    }else{ try{ await storage.delete('public:'+id+':'+userId, true); }catch(e){} }
   }catch(e){ console.error(e); }
 }
 async function removeShared(id){
-  try{ await window.storage.delete('rating:'+id+':'+userId, true); }catch(e){}
-  try{ await window.storage.delete('public:'+id+':'+userId, true); }catch(e){}
+  try{ await storage.delete('rating:'+id+':'+userId, true); }catch(e){}
+  try{ await storage.delete('public:'+id+':'+userId, true); }catch(e){}
 }
 async function togglePublicLibrary(makePublic){
   settings.publicLibrary = makePublic;
-  try{ await window.storage.set('settings', JSON.stringify(settings), false); }catch(e){ console.error(e); }
+  try{ await storage.set('settings', JSON.stringify(settings), false); }catch(e){ console.error(e); }
   const ids = Object.keys(libraryCache);
   for(const id of ids){
     if(makePublic){
-      await window.storage.set('public:'+id+':'+userId, JSON.stringify({ rating: libraryCache[id].rating||0, brewMethod: libraryCache[id].brewMethod||'', grindSize: libraryCache[id].grindSize||'', ratio: libraryCache[id].ratio||'', coffeeG: libraryCache[id].coffeeG||0, timeH: libraryCache[id].timeH||0, timeM: libraryCache[id].timeM||0, timeS: libraryCache[id].timeS||0, notes: libraryCache[id].notes||'' }), true);
-    }else{ try{ await window.storage.delete('public:'+id+':'+userId, true); }catch(e){} }
+      await storage.set('public:'+id+':'+userId, JSON.stringify({ rating: libraryCache[id].rating||0, brewMethod: libraryCache[id].brewMethod||'', grindSize: libraryCache[id].grindSize||'', ratio: libraryCache[id].ratio||'', coffeeG: libraryCache[id].coffeeG||0, timeH: libraryCache[id].timeH||0, timeM: libraryCache[id].timeM||0, timeS: libraryCache[id].timeS||0, notes: libraryCache[id].notes||'' }), true);
+    }else{ try{ await storage.delete('public:'+id+':'+userId, true); }catch(e){} }
   }
 }
 async function removeEntry(id){
-  try{ await window.storage.delete('library:'+id, false); }catch(e){ console.error(e); }
+  try{ await storage.delete('library:'+id, false); }catch(e){ console.error(e); }
   await removeShared(id);
   delete libraryCache[id];
   renderLibrary();
@@ -678,19 +715,19 @@ async function removeEntry(id){
 async function fetchCommunityData(id){
   const out = { avg:null, count:0, reviews:[] };
   try{
-    const ratingsList = await window.storage.list('rating:'+id+':', true);
+    const ratingsList = await storage.list('rating:'+id+':', true);
     const rkeys = (ratingsList && ratingsList.keys) || [];
     let sum = 0, count = 0;
     for(const k of rkeys){
-      try{ const res = await window.storage.get(k, true); const val = JSON.parse(res.value); if(val && val.rating){ sum += val.rating; count++; } }catch(e){}
+      try{ const res = await storage.get(k, true); const val = JSON.parse(res.value); if(val && val.rating){ sum += val.rating; count++; } }catch(e){}
     }
     if(count>0){ out.avg = sum/count; out.count = count; }
   }catch(e){ console.error(e); }
   try{
-    const pubList = await window.storage.list('public:'+id+':', true);
+    const pubList = await storage.list('public:'+id+':', true);
     const pkeys = (pubList && pubList.keys) || [];
     for(const k of pkeys){
-      try{ const res = await window.storage.get(k, true); const val = JSON.parse(res.value); if(val) out.reviews.push(val); }catch(e){}
+      try{ const res = await storage.get(k, true); const val = JSON.parse(res.value); if(val) out.reviews.push(val); }catch(e){}
     }
   }catch(e){ console.error(e); }
   communityAvgCache[id] = out.avg;
@@ -699,13 +736,13 @@ async function fetchCommunityData(id){
 
 async function refreshCommunityAvg(id){
   try{
-    const ratingsList = await window.storage.list('rating:'+id+':', true);
+    const ratingsList = await storage.list('rating:'+id+':', true);
     const rkeys = (ratingsList && ratingsList.keys) || [];
     let sum = 0, count = 0, weekCount = 0;
     const weekAgo = Date.now() - 7*24*3600*1000;
     for(const k of rkeys){
       try{
-        const res = await window.storage.get(k, true);
+        const res = await storage.get(k, true);
         const val = JSON.parse(res.value);
         if(val && val.rating){ sum += val.rating; count++; if(val.updatedAt && val.updatedAt >= weekAgo) weekCount++; }
       }catch(e){}
@@ -1218,7 +1255,7 @@ function openLibraryDetail(id){
 
     <div class="brew-history">
       <div class="bh-title">Historique de préparation${(e.brews&&e.brews.length)?` (${e.brews.length})`:''}</div>
-      <div id="brew-history-list">${renderBrewHistoryHTML(e)}</div>
+      <div id="brew-history-list">${renderBrewHistoryHTML(e, id)}</div>
     </div>
 
     <div class="fg-label" style="margin-top:20px; margin-bottom:8px;">Informations sur le café</div>
@@ -1243,22 +1280,101 @@ function openLibraryDetail(id){
     openLibraryDetail(id);
   });
   document.getElementById('remove-from-lib').addEventListener('click', async ()=>{ await removeEntry(id); closeDetail(); });
+  wireBrewHistoryActions(id);
   document.getElementById('overlay').classList.add('open');
 }
 
-function renderBrewHistoryHTML(e){
+function renderBrewHistoryHTML(e, id, editIndex){
   const brews = e.brews || [];
   if(brews.length===0) return `<div style="color:var(--muted); font-size:12.5px;">Aucun essai enregistré pour l'instant.</div>`;
-  return brews.map(b=>{
+  return brews.map((b,i)=>{
+    if(i===editIndex) return renderBrewEditFormHTML(id, i, b);
     const water = computeWater(b.coffeeG, b.ratio);
     const time = `${b.timeH||0}h${String(b.timeM||0).padStart(2,'0')}m${String(b.timeS||0).padStart(2,'0')}s`;
     const dateStr = new Date(b.date).toLocaleDateString('fr-FR', {day:'numeric', month:'short', year:'numeric', hour:'2-digit', minute:'2-digit'});
-    return `<div class="brew-log">
-      <div class="bl-date">${dateStr}</div>
+    return `<div class="brew-log" data-index="${i}">
+      <div style="display:flex; justify-content:space-between; align-items:flex-start; gap:8px;">
+        <div class="bl-date">${dateStr}</div>
+        <div style="display:flex; gap:10px; flex-shrink:0;">
+          <button class="danger-link bl-edit" data-index="${i}" style="color:var(--gold-soft);">Modifier</button>
+          <button class="danger-link bl-delete" data-index="${i}">Supprimer</button>
+        </div>
+      </div>
       <div class="bl-line">${b.brewMethod||'Méthode non précisée'} · Mouture ${b.grindSize||'—'} · ${b.ratio||'—'} · ${b.coffeeG||'—'} g / ${water} ml · ${time}</div>
       ${b.notes ? `<div class="bl-notes">${b.notes}</div>` : ''}
     </div>`;
   }).join('');
+}
+
+function renderBrewEditFormHTML(id, i, b){
+  return `<div class="brew-log" data-index="${i}" style="background:var(--panel);">
+    <div class="field-grid" style="margin-bottom:10px;">
+      <div class="field"><label>Méthode</label>
+        <select class="bl-f-brew">${['', ...BREW_METHODS].map(m=>`<option value="${m}" ${(b.brewMethod||'')===m?'selected':''}>${m||'— Choisir —'}</option>`).join('')}</select>
+      </div>
+      <div class="field"><label>Mouture</label>
+        <select class="bl-f-grind">${Array.from({length:GRIND_MAX-GRIND_MIN+1},(_,n)=>n+GRIND_MIN).map(n=>`<option value="${n}" ${String(b.grindSize)===String(n)?'selected':''}>${n}</option>`).join('')}</select>
+      </div>
+      <div class="field full"><label>Ratio</label>
+        <select class="bl-f-ratio">${RATIO_OPTIONS.map(rt=>`<option value="${rt}" ${(b.ratio||RATIO_DEFAULT)===rt?'selected':''}>${rt}</option>`).join('')}</select>
+      </div>
+      <div class="field"><label>Café (g)</label>
+        <select class="bl-f-coffee-g">${Array.from({length:COFFEE_G_MAX-COFFEE_G_MIN+1},(_,n)=>n+COFFEE_G_MIN).map(n=>`<option value="${n}" ${(b.coffeeG||COFFEE_G_DEFAULT)===n?'selected':''}>${n} g</option>`).join('')}</select>
+      </div>
+      <div class="field full"><label>Temps</label>
+        <div style="display:flex; align-items:center; gap:6px;">
+          <select class="bl-f-time-h">${Array.from({length:25},(_,n)=>n).map(n=>`<option value="${n}" ${(b.timeH||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">h</span>
+          <select class="bl-f-time-m">${Array.from({length:60},(_,n)=>n).map(n=>`<option value="${n}" ${(b.timeM||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">min</span>
+          <select class="bl-f-time-s">${Array.from({length:60},(_,n)=>n).map(n=>`<option value="${n}" ${(b.timeS||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">s</span>
+        </div>
+      </div>
+      <div class="field full"><label>Notes de dégustation</label>
+        <textarea class="bl-f-notes" style="min-height:40px;">${b.notes||''}</textarea>
+      </div>
+    </div>
+    <div style="display:flex; gap:8px;">
+      <button class="btn-small primary bl-save" data-index="${i}">Enregistrer</button>
+      <button class="btn-small ghost bl-cancel">Annuler</button>
+    </div>
+  </div>`;
+}
+
+function wireBrewHistoryActions(id){
+  const list = document.getElementById('brew-history-list');
+  if(!list) return;
+  const rerender = (editIndex)=>{ list.innerHTML = renderBrewHistoryHTML(libraryCache[id], id, editIndex); wireBrewHistoryActions(id); };
+  list.querySelectorAll('.bl-edit').forEach(btn=>{
+    btn.addEventListener('click', ()=> rerender(parseInt(btn.dataset.index,10)));
+  });
+  list.querySelectorAll('.bl-cancel').forEach(btn=>{
+    btn.addEventListener('click', ()=> rerender(undefined));
+  });
+  list.querySelectorAll('.bl-delete').forEach(btn=>{
+    btn.addEventListener('click', async ()=>{
+      const i = parseInt(btn.dataset.index,10);
+      if(!confirm('Supprimer cet essai de l\'historique ?')) return;
+      libraryCache[id].brews.splice(i,1);
+      await saveEntry(id, libraryCache[id]);
+      openLibraryDetail(id);
+    });
+  });
+  list.querySelectorAll('.bl-save').forEach(btn=>{
+    btn.addEventListener('click', async ()=>{
+      const i = parseInt(btn.dataset.index,10);
+      const row = list.querySelector(`.brew-log[data-index="${i}"]`);
+      const brew = libraryCache[id].brews[i];
+      brew.brewMethod = row.querySelector('.bl-f-brew').value;
+      brew.grindSize = row.querySelector('.bl-f-grind').value;
+      brew.ratio = row.querySelector('.bl-f-ratio').value;
+      brew.coffeeG = parseInt(row.querySelector('.bl-f-coffee-g').value,10);
+      brew.timeH = parseInt(row.querySelector('.bl-f-time-h').value,10);
+      brew.timeM = parseInt(row.querySelector('.bl-f-time-m').value,10);
+      brew.timeS = parseInt(row.querySelector('.bl-f-time-s').value,10);
+      brew.notes = row.querySelector('.bl-f-notes').value;
+      await saveEntry(id, libraryCache[id]);
+      rerender(undefined);
+    });
+  });
 }
 
 function wireLibraryDetailForm(id){

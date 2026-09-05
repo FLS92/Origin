@@ -37,18 +37,27 @@ FIELD_LABELS = {
     "producer": [
         "producteurs", "producteur", "cooperative", "ferme",
     ],
-    "originDetail": ["region", "localite"],
+    "originDetail": ["region", "localite", "province"],
     "originCountry": ["pays", "origine"],
-    "score": ["score"],
+    "score": ["score", "note cupping", "score sca", "score qualite"],
     "flavors": [
         # "profil a la tasse" deliberately excluded: sometimes a discrete
         # note list, sometimes a flowing descriptive sentence ("Un café
         # d'une grande clarté...") -- too inconsistent to trust as a list.
         "notes de degustation", "note de degustation", "notes aromatiques",
-        "notes gustatives", "profil aromatique", "saveurs", "notes", "note", "nez",
+        "notes gustatives", "note aromatiques", "saveurs", "notes", "note", "nez",
     ],
+    # "En bouche"/"Au nez"/"En tasse" are almost always a full tasting
+    # sentence, not a list -- e.g. "la tasse est franche sur des notes de
+    # cardamome, de pâte d'amande...". Handled separately from "flavors"
+    # above: only the "notes/arômes de ..." clause is trusted, and if that
+    # pattern isn't found in the sentence at all, this yields nothing rather
+    # than guessing from arbitrary prose (unlike "flavors" labels, whose
+    # value is normally already a clean list with no clause to look for).
+    "_flavors_prose": ["en bouche", "au nez", "en tasse", "retro olfaction"],
     "body": ["corps"],
     "acidity": ["acidite"],
+    "roastLevel": ["intensite du cafe", "intensite"],  # guarded: text only, see below
     "_method": ["extraction recommandee"],  # needs normalization, handled separately
 }
 
@@ -87,7 +96,11 @@ _LABEL_RE = re.compile(
     # unlike ":" it's also a URL and date separator with no space around it
     # in those uses — requiring space keeps a "Variété / Caturra" style
     # label without pulling in "12/03/2025" or a path.
-    r"(?<!\S)([A-ZÀ-Þ][a-zß-ÿ]+(?:[ '’-][a-zß-ÿ]+){0,3})(?:\s*:\s*|\s+/\s+)"
+    # The lookbehind rejects being preceded by a letter/digit (so it won't
+    # start mid-word), but allows anything else — some sites glue a bullet
+    # emoji straight onto the label with no space ("📍Coopérative :"), and a
+    # plain \S lookbehind would silently fail to treat those as boundaries.
+    r"(?<![a-zA-Zà-ÿÀ-Ÿ0-9])([A-ZÀ-Þ][a-zß-ÿ]+(?:[ '’-][a-zß-ÿ]+){0,3})(?:\s*:\s*|\s+/\s+)"
 )
 
 
@@ -117,6 +130,12 @@ def extract_labeled_fields(text):
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         value = text[start:end].strip(" .,;:–-")
         value = _truncate_at_headless_marker(value).strip(" .,;:–-")
+        # Some sites decorate every label with a bullet emoji ("📍", "⛰️") --
+        # harmless as a boundary marker (the lookbehind fix above handles
+        # that), but one can end up glued onto the END of the previous
+        # field's value when it sits right before the next label with no
+        # space. Strip a trailing run of non-text symbols rather than keep it.
+        value = re.sub(r"[\U0001F000-\U0001FFFF←-⯿️\s]+$", "", value).strip(" .,;:–-")
         if not value:
             continue
 
@@ -129,15 +148,29 @@ def extract_labeled_fields(text):
                 out.setdefault("score", int(n) if n.is_integer() else n)
             continue
 
-        if len(value) > 60 and field != "flavors":
+        if len(value) > 60 and field not in ("flavors", "_flavors_prose"):
             continue  # boundary detection still looks wrong for this span
 
-        if field in ("acidity", "body") and not any(c.isalpha() for c in value):
+        if field in ("acidity", "body", "roastLevel") and not any(c.isalpha() for c in value):
             continue  # a bare "3" or "3/5" isn't a qualitative descriptor
 
-        if field == "flavors":
+        if field == "roastLevel" and (len(value) > 20 or not value[0].isalpha()):
+            # A real roast level is a short word/phrase ("Moyenne", "French
+            # Roast") -- "Intensité" in particular is often immediately
+            # followed by free prose with no next label to bound it against
+            # ("Moyen Fraîchement torréfié en France"), or a bare "3/5".
+            continue
+
+        if field in ("flavors", "_flavors_prose"):
             head = re.split(r"[.!]", value)[0]
+            if field == "_flavors_prose":
+                clause = re.search(r"(?:notes?|ar[oô]mes?) d[e'’]\s*(.+?)(?:[.!]|$)", value, re.IGNORECASE)
+                if not clause:
+                    continue  # just prose, no list to pull out -- skip, don't guess
+                head = clause.group(1)
             items = [v.strip() for v in re.split(r"[,•/]| et ", head) if v.strip()]
+            items = [re.sub(r"^[dl]['’]|^de\s+|^du\s+|^des\s+|^la\s+|^le\s+", "", v, flags=re.IGNORECASE).strip()
+                     for v in items]
             items = [
                 v.lstrip("*# ") for v in items
                 if 0 < len(v) <= 30 and not any(c.isdigit() for c in v)

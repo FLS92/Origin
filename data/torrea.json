@@ -158,7 +158,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat",
+        "caramel",
+        "réglisse",
+        "long en bouche",
+        "respectueux de l’environnement"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/09/Honduras-Capucas-11.jpg",

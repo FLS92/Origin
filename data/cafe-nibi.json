@@ -26,7 +26,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "cacao",
+        "légèrement fruité"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/e901efac-c4a1-48d5-b49a-6f2a245e82db/Design+sans+titre+%2811%29.png",
@@ -59,7 +62,9 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "praliné"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718704691806-UANSVAE1UER3TL7EO0F1/Packshot-Le-meneur-200g-Transp.png",
@@ -92,7 +97,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "cacao",
+        "pain grillé"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718736058663-E7AZ8T0CIXU53KRA8U3T/Packshot-Le-jovial-200g-Transp.png",
@@ -158,7 +166,9 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "agrumes"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1aad921e-3df9-423b-90f4-9c2bc9590bf6/Design+sans+titre+%286%29.png",
@@ -587,7 +597,10 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fruits jaunes",
+        "miel"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/42cfd744-492a-4e45-8c69-b95a2eff5157/Eclaireur.png",
