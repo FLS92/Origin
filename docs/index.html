@@ -349,13 +349,6 @@
   .btn-google:hover{ background:#f5f5f5; }
   .auth-divider{ display:flex; align-items:center; gap:10px; color:var(--muted); font-size:11.5px; margin-bottom:16px; }
   .auth-divider::before, .auth-divider::after{ content:''; flex:1; height:1px; background:var(--line); }
-  .user-status{ display:flex; align-items:center; gap:10px; font-size:12.5px; color:var(--muted); }
-  .user-status .ue{ color:var(--cream); font-weight:600; }
-  .user-status button{ background:none; border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:12px; font-weight:600; padding:7px 12px; border-radius:8px; cursor:pointer; }
-  .user-status button:hover{ border-color:var(--gold); color:var(--cream); }
-  /* Mirrors nav.tabs.wrapped below: JS-detected wrap instead of a fixed
-     breakpoint, since brand text length shifts exactly where this happens. */
-  header.top.header-wrapped .user-status{ order:3; width:100%; justify-content:flex-end; }
   /* Once the tabs wrap onto their own row(s), the pill only hugs however
      wide its widest row of buttons happened to be, leaving its right edge
      short of the cards/panels below it that span the full width. This
@@ -471,8 +464,8 @@
           <button id="account-menu-logout">Se déconnecter</button>
         </div>
       </div>
+      <button id="btn-header-login" style="display:none;">Se connecter</button>
     </nav>
-    <div class="user-status" id="user-status"></div>
   </header>
 
   <div id="view-home">
@@ -1143,21 +1136,21 @@ function setAccountMenuOpen(open){
 }
 
 function updateUserStatusUI(){
-  const el = document.getElementById('user-status');
   const wrap = document.getElementById('account-tab-wrap');
-  if(!el || !wrap) return;
+  const loginBtn = document.getElementById('btn-header-login');
+  if(!wrap || !loginBtn) return;
   if(currentUser){
-    el.innerHTML = '';
     wrap.style.display = '';
+    loginBtn.style.display = 'none';
     document.getElementById('tab-account').textContent = firstNameOf(currentUser) || 'Compte';
     document.getElementById('account-menu-email').textContent = currentUser.email || '';
   }else{
     wrap.style.display = 'none';
     setAccountMenuOpen(false);
-    el.innerHTML = `<button id="btn-header-login">Se connecter</button>`;
-    document.getElementById('btn-header-login').addEventListener('click', ()=> openAuthModal('login'));
+    loginBtn.style.display = '';
   }
 }
+document.getElementById('btn-header-login').addEventListener('click', ()=> openAuthModal('login'));
 document.getElementById('tab-account').addEventListener('click', (e)=>{
   e.stopPropagation();
   setAccountMenuOpen(!accountMenuOpen);
@@ -2235,20 +2228,15 @@ window.addEventListener('scroll', ()=> stickyHeader.classList.toggle('scrolled',
 // own height varies (wraps to more than one line on narrow screens, or
 // when the account tab appears/disappears) -- track it with a CSS var
 // instead of a fixed offset so the two never overlap or leave a gap.
+// Se connecter/the account tab both live inside nav.tabs itself now (rather
+// than a separate .user-status sibling), so they always wrap together with
+// the other tabs as one unit -- no separate wrap detection needed for them.
 const navTabsEl = document.querySelector('nav.tabs');
-const userStatusEl = document.querySelector('.user-status');
 function updateHeaderHeightVar(){
   document.documentElement.style.setProperty('--header-h', stickyHeader.offsetHeight + 'px');
   const items = [...navTabsEl.children];
   const wrapped = items.length > 1 && items[0].offsetTop !== items[items.length - 1].offsetTop;
   navTabsEl.classList.toggle('wrapped', wrapped);
-  // Same idea, one level up: below ~900px (varies with the brand text and
-  // tab count) .user-status drops to its own row below brand+nav.tabs --
-  // without this it left-aligns by default (a wrapped flex item's normal
-  // behaviour), landing under the logo instead of the top-right corner it
-  // sits in on every wider layout.
-  const headerWrapped = userStatusEl.offsetTop !== document.querySelector('.brand').offsetTop;
-  stickyHeader.classList.toggle('header-wrapped', headerWrapped);
 }
 new ResizeObserver(updateHeaderHeightVar).observe(stickyHeader);
 updateHeaderHeightVar();
