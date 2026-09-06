@@ -74,7 +74,11 @@
   #filter-price-min, #filter-price-max{ width:100%; }
   #filter-country:focus, #filter-price-min:focus, #filter-price-max:focus{ border-color:var(--gold); }
 
-  .search-row{ display:flex; gap:10px; margin-bottom:16px; align-items:stretch; }
+  .search-row{
+    display:flex; gap:10px; margin-bottom:16px; align-items:stretch;
+    position:sticky; top:var(--header-h, 80px); z-index:90; background:var(--ink);
+    padding-top:10px; margin-top:-10px;
+  }
   .search-row .search{ margin-bottom:0; }
   .search{ display:flex; align-items:center; gap:10px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:12px 16px; flex:1; min-width:0; margin-bottom:24px; }
   .search input{ flex:1; background:none; border:none; outline:none; color:var(--cream); font-family:'Inter',sans-serif; font-size:15px; min-width:0; }
@@ -122,7 +126,7 @@
   .empty{ text-align:center; padding:60px 20px; color:var(--muted); }
   .empty h3{ color:var(--cream); margin-bottom:8px; }
 
-  .overlay{ position:fixed; inset:0; background:rgba(15,10,7,.72); display:none; align-items:flex-start; justify-content:center; padding:40px 16px; overflow-y:auto; z-index:50; }
+  .overlay{ position:fixed; inset:0; background:rgba(15,10,7,.72); display:none; align-items:flex-start; justify-content:center; padding:40px 16px; overflow-y:auto; z-index:200; }
   .overlay.open{ display:flex; }
   .detail{ background:var(--panel); border:1px solid var(--line); border-radius:18px; max-width:640px; width:100%; padding:32px; position:relative; }
   .detail .close{ position:absolute; top:18px; right:18px; background:var(--panel-light); border:none; color:var(--cream); width:32px; height:32px; border-radius:50%; cursor:pointer; font-size:16px; }
@@ -1330,6 +1334,7 @@ function renderAuthModal(mode, promptMessage){
     try{
       await auth.signInWithPopup(new firebase.auth.GoogleAuthProvider());
       closeAuthModal();
+      showView('home');
     }catch(e){ showError(e.code); }
   });
   document.getElementById('auth-form').addEventListener('submit', async (e)=>{
@@ -1342,6 +1347,7 @@ function renderAuthModal(mode, promptMessage){
       if(isSignup) await auth.createUserWithEmailAndPassword(email, password);
       else await auth.signInWithEmailAndPassword(email, password);
       closeAuthModal();
+      showView('home');
     }catch(e){ showError(e.code); btn.disabled = false; }
   });
 }
@@ -2134,6 +2140,16 @@ document.getElementById('about-cta-btn').addEventListener('click', ()=> openAuth
 
 const stickyHeader = document.querySelector('header.top');
 window.addEventListener('scroll', ()=> stickyHeader.classList.toggle('scrolled', window.scrollY > 4));
+
+// The Explorer search/filter/sort bar sticks right below the header, whose
+// own height varies (wraps to more than one line on narrow screens, or
+// when the account tab appears/disappears) -- track it with a CSS var
+// instead of a fixed offset so the two never overlap or leave a gap.
+function updateHeaderHeightVar(){
+  document.documentElement.style.setProperty('--header-h', stickyHeader.offsetHeight + 'px');
+}
+new ResizeObserver(updateHeaderHeightVar).observe(stickyHeader);
+updateHeaderHeightVar();
 
 async function renderTrending(){
   const el = document.getElementById('trending-list');
