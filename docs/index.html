@@ -35,6 +35,20 @@
   nav.tabs button.active{ background:var(--gold); color:#0d1b2e; }
   nav.tabs button:not(.active):hover{ color:var(--cream); }
 
+  .account-tab-wrap{ position:relative; }
+  .account-tab-wrap #tab-account::after{ content:'▾'; margin-left:6px; font-size:10px; opacity:.7; }
+  .account-menu{
+    position:absolute; top:calc(100% + 8px); right:0; z-index:20; min-width:200px;
+    background:var(--panel); border:1px solid var(--line); border-radius:10px;
+    padding:8px; box-shadow:0 12px 28px rgba(0,0,0,.35);
+  }
+  .account-menu-email{ font-size:12px; color:var(--muted); padding:6px 10px 8px; border-bottom:1px solid var(--line); margin-bottom:6px; word-break:break-all; }
+  .account-menu button{
+    display:block; width:100%; text-align:left; background:none; border:none; color:var(--cream);
+    font-family:'Inter',sans-serif; font-size:13.5px; font-weight:600; padding:9px 10px; border-radius:7px; cursor:pointer;
+  }
+  .account-menu button:hover{ background:var(--panel-light); }
+
   .roaster-filter{ display:flex; gap:8px; margin-bottom:18px; flex-wrap:wrap; }
   .rf-chip{ background:var(--panel); border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:13px; font-weight:600; padding:8px 14px; border-radius:20px; cursor:pointer; }
   .rf-chip.active{ background:var(--gold); color:#0d1b2e; border-color:var(--gold); }
@@ -356,6 +370,13 @@
       <button id="tab-explore">Explorer</button>
       <button id="tab-library">Ma bibliothèque</button>
       <button id="tab-community">Communauté</button>
+      <div class="account-tab-wrap" id="account-tab-wrap" style="display:none;">
+        <button id="tab-account"></button>
+        <div class="account-menu" id="account-menu" style="display:none;">
+          <div class="account-menu-email" id="account-menu-email"></div>
+          <button id="account-menu-logout">Se déconnecter</button>
+        </div>
+      </div>
     </nav>
     <div class="user-status" id="user-status"></div>
   </header>
@@ -911,18 +932,48 @@ async function loadAllCommunityAverages(){
 }
 
 // --- Authentification ---
+// Google sign-in gives the full name ("Félix Luttiau-Salmon") -- just the
+// first word reads as a greeting/label, the surname doesn't.
+function firstNameOf(user){
+  const full = user.displayName || (user.email ? user.email.split('@')[0] : '');
+  return full.trim().split(/\s+/)[0] || '';
+}
+
+let accountMenuOpen = false;
+function setAccountMenuOpen(open){
+  accountMenuOpen = open;
+  document.getElementById('account-menu').style.display = open ? '' : 'none';
+}
+
 function updateUserStatusUI(){
   const el = document.getElementById('user-status');
-  if(!el) return;
+  const wrap = document.getElementById('account-tab-wrap');
+  if(!el || !wrap) return;
   if(currentUser){
-    const label = currentUser.displayName || currentUser.email || 'Connecté';
-    el.innerHTML = `<span class="ue">${label}</span><button id="btn-logout">Se déconnecter</button>`;
-    document.getElementById('btn-logout').addEventListener('click', ()=> auth.signOut());
+    el.innerHTML = '';
+    wrap.style.display = '';
+    document.getElementById('tab-account').textContent = firstNameOf(currentUser) || 'Compte';
+    document.getElementById('account-menu-email').textContent = currentUser.email || '';
   }else{
+    wrap.style.display = 'none';
+    setAccountMenuOpen(false);
     el.innerHTML = `<button id="btn-header-login">Se connecter</button>`;
     document.getElementById('btn-header-login').addEventListener('click', ()=> openAuthModal('login'));
   }
 }
+document.getElementById('tab-account').addEventListener('click', (e)=>{
+  e.stopPropagation();
+  setAccountMenuOpen(!accountMenuOpen);
+});
+document.getElementById('account-menu-logout').addEventListener('click', ()=>{
+  setAccountMenuOpen(false);
+  auth.signOut();
+});
+document.addEventListener('click', (e)=>{
+  if(accountMenuOpen && !document.getElementById('account-tab-wrap').contains(e.target)){
+    setAccountMenuOpen(false);
+  }
+});
 
 function authErrorMessage(code){
   const map = {
@@ -1727,10 +1778,7 @@ function renderHome(){
   document.getElementById('home-guest-content').style.display = 'none';
   document.getElementById('home-user-content').style.display = '';
   hub.style.display = '';
-  // Google sign-in gives the full name ("Félix Luttiau-Salmon") -- just the
-  // first word reads as a greeting, the surname doesn't.
-  const fullName = currentUser.displayName || (currentUser.email ? currentUser.email.split('@')[0] : '');
-  const name = fullName.trim().split(/\s+/)[0] || '';
+  const name = firstNameOf(currentUser);
   document.getElementById('home-greeting').textContent = name ? `Content de te revoir, ${name}` : 'Content de te revoir';
   document.getElementById('hub-explore-stat').textContent =
     `${COFFEES.length} cafés · ${Object.keys(ROASTERS).length} torréfacteurs`;
