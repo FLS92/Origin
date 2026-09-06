@@ -162,6 +162,8 @@
   button.primary:disabled{ background:var(--sage); cursor:default; }
   button.danger-link{ background:none; border:none; color:var(--muted); font-size:12px; cursor:pointer; text-decoration:underline; }
   button.danger-link:hover{ color:#d99a89; }
+  button.btn-soft{ background:none; border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:13px; font-weight:600; padding:9px 18px; border-radius:8px; cursor:pointer; transition:border-color .15s, color .15s; }
+  button.btn-soft:hover{ border-color:var(--gold); color:var(--cream); }
 
   .settings-section{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:20px; margin-bottom:20px; }
   .settings-section h3{ margin:0 0 14px; font-size:16px; }
@@ -292,9 +294,10 @@
   .stars button{ background:none; border:none; cursor:pointer; font-size:20px; color:var(--panel-light); padding:0; line-height:1; }
   .stars button.filled{ color:var(--gold); }
   .field-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px; }
+  .grinder-row{ display:grid; grid-template-columns:2fr 1fr 1fr; gap:12px; margin-bottom:12px; }
   .field{ display:flex; flex-direction:column; gap:5px; }
   .field label{ font-size:11px; color:var(--muted); font-weight:600; }
-  .field select, .field textarea, .field input[type=text], .field input[type=email], .field input[type=password]{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px; padding:9px 11px; border-radius:8px; outline:none; width:100%; box-sizing:border-box; }
+  .field select, .field textarea, .field input[type=text], .field input[type=email], .field input[type=password], .field input[type=number]{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13.5px; padding:9px 11px; border-radius:8px; outline:none; width:100%; box-sizing:border-box; }
   .field select:focus, .field textarea:focus, .field input:focus{ border-color:var(--gold); }
   .field textarea{ resize:vertical; min-height:64px; font-family:'Inter',sans-serif; }
   .field.full{ grid-column:1 / -1; }
@@ -315,7 +318,14 @@
   .user-status .ue{ color:var(--cream); font-weight:600; }
   .user-status button{ background:none; border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:12px; font-weight:600; padding:7px 12px; border-radius:8px; cursor:pointer; }
   .user-status button:hover{ border-color:var(--gold); color:var(--cream); }
-  @media (max-width:640px){ header.top .user-status{ order:3; width:100%; justify-content:flex-end; } }
+  @media (max-width:640px){
+    header.top .user-status{ order:3; width:100%; justify-content:flex-end; }
+    /* Once the tabs wrap onto their own row, the pill only hugged however
+       wide its widest row of buttons happened to be, leaving its right
+       edge short of the cards/panels below it that span the full width --
+       stretch it to match instead. */
+    nav.tabs{ width:100%; }
+  }
 
   footer.hint{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:40px; line-height:1.7; }
 
@@ -359,7 +369,7 @@
   @media (max-width:760px){ .home-hub-grid{ grid-template-columns:1fr; } }
 
   @media (max-width:560px){
-    .field-grid{ grid-template-columns:1fr; } .meta-grid{ grid-template-columns:1fr; }
+    .field-grid{ grid-template-columns:1fr; } .meta-grid{ grid-template-columns:1fr; } .grinder-row{ grid-template-columns:1fr; }
     header.top{ flex-direction:column; align-items:flex-start; } .privacy-box{ flex-direction:column; align-items:flex-start; }
     .retailer-row{ flex-wrap:wrap; }
   }
@@ -532,7 +542,7 @@
   <div id="view-settings" style="display:none;">
     <div style="display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:20px; flex-wrap:wrap;">
       <h2 class="serif" style="margin:0;">Paramètres</h2>
-      <button id="settings-logout-btn">Se déconnecter</button>
+      <button class="btn-soft" id="settings-logout-btn">Se déconnecter</button>
     </div>
 
     <div class="settings-section">
@@ -542,8 +552,20 @@
         <div class="field"><label>Nom</label><input type="text" id="set-lastname"></div>
         <div class="field"><label>Ville</label><input type="text" id="set-city"></div>
         <div class="field"><label>Pays</label><input type="text" id="set-country"></div>
-        <div class="field"><label>Moulin 1</label><input type="text" id="set-grinder1" placeholder="ex. Comandante"></div>
-        <div class="field"><label>Moulin 2</label><input type="text" id="set-grinder2" placeholder="ex. Timemore C3"></div>
+      </div>
+      <div class="grinder-row">
+        <div class="field"><label>Moulin 1</label>
+          <select id="set-grinder1-name"><option value="">— À préciser plus tard —</option></select>
+        </div>
+        <div class="field"><label>Mouture mini</label><input type="number" id="set-grinder1-min" value="0"></div>
+        <div class="field"><label>Mouture maxi</label><input type="number" id="set-grinder1-max" value="40"></div>
+      </div>
+      <div class="grinder-row">
+        <div class="field"><label>Moulin 2</label>
+          <select id="set-grinder2-name"><option value="">— À préciser plus tard —</option></select>
+        </div>
+        <div class="field"><label>Mouture mini</label><input type="number" id="set-grinder2-min" value="0"></div>
+        <div class="field"><label>Mouture maxi</label><input type="number" id="set-grinder2-max" value="40"></div>
       </div>
       <button class="primary" id="settings-save-profile">Enregistrer le profil</button>
       <div class="settings-msg" id="settings-profile-msg"></div>
@@ -852,9 +874,31 @@ function cheapestLabel(c){
 
 const BREW_METHODS = ['V60','Espresso','AeroPress','Hario Switch','Chemex','Cafetière à piston','Moka','Cold Brew'];
 const GRIND_MIN = 0, GRIND_MAX = 40, GRIND_DEFAULT = 24;
+// Named grinder models to choose from in Paramètres -- à compléter plus
+// tard avec la liste réelle. Each slot's own click range (which varies a
+// lot by grinder -- some are 0-40, others 20-100) is entered by the user
+// themselves in Paramètres rather than looked up from this list, since
+// there's no model here to look it up from yet.
+const GRINDER_MODELS = [];
 const RATIO_OPTIONS = Array.from({length:20}, (_,i)=>'1:'+(i+1));
 const RATIO_DEFAULT = '1:2';
 const COFFEE_G_MIN = 1, COFFEE_G_MAX = 100, COFFEE_G_DEFAULT = 15;
+// A grinder's own click range (0-40 for some, 20-100 for others) is set by
+// the user per slot in Paramètres, not looked up from GRINDER_MODELS --
+// falls back to the app's original 0-40 default for an entry logged before
+// this existed, or when no grinder is configured at all.
+function grinderRangeFor(grinderKey){
+  if(grinderKey==='grinder1') return { min: settings.grinder1Min ?? GRIND_MIN, max: settings.grinder1Max ?? GRIND_MAX, name: settings.grinder1Name || 'Moulin 1' };
+  if(grinderKey==='grinder2') return { min: settings.grinder2Min ?? GRIND_MIN, max: settings.grinder2Max ?? GRIND_MAX, name: settings.grinder2Name || 'Moulin 2' };
+  return { min: GRIND_MIN, max: GRIND_MAX, name: '' };
+}
+function configuredGrinderKeys(){
+  return ['grinder1','grinder2'].filter(k=> k==='grinder1' ? settings.grinder1Name : settings.grinder2Name);
+}
+function grindOptionsHTML(min, max, selected){
+  const sel = selected!==undefined && selected!==null && selected!=='' ? String(selected) : String(GRIND_DEFAULT);
+  return Array.from({length: Math.max(max-min+1,1)}, (_,i)=>i+min).map(n=>`<option value="${n}" ${String(n)===sel?'selected':''}>${n}</option>`).join('');
+}
 function ratioDenominator(ratio){ const n = parseInt((ratio||RATIO_DEFAULT).split(':')[1],10); return isNaN(n)?2:n; }
 function computeWater(coffeeG, ratio){ return Math.round((coffeeG||COFFEE_G_DEFAULT) * ratioDenominator(ratio)); }
 
@@ -1073,14 +1117,26 @@ function isGoogleAccount(){
   return currentUser && currentUser.providerData[0]?.providerId === 'google.com';
 }
 
+function populateGrinderNameSelects(){
+  const opts = GRINDER_MODELS.map(m=>`<option value="${m}">${m}</option>`).join('');
+  ['set-grinder1-name','set-grinder2-name'].forEach(id=>{
+    document.getElementById(id).insertAdjacentHTML('beforeend', opts);
+  });
+}
+populateGrinderNameSelects();
+
 function renderSettings(){
   if(!currentUser) return;
   document.getElementById('set-firstname').value = settings.firstName || '';
   document.getElementById('set-lastname').value = settings.lastName || '';
   document.getElementById('set-city').value = settings.city || '';
   document.getElementById('set-country').value = settings.country || '';
-  document.getElementById('set-grinder1').value = settings.grinder1 || '';
-  document.getElementById('set-grinder2').value = settings.grinder2 || '';
+  document.getElementById('set-grinder1-name').value = settings.grinder1Name || '';
+  document.getElementById('set-grinder1-min').value = settings.grinder1Min ?? 0;
+  document.getElementById('set-grinder1-max').value = settings.grinder1Max ?? 40;
+  document.getElementById('set-grinder2-name').value = settings.grinder2Name || '';
+  document.getElementById('set-grinder2-min').value = settings.grinder2Min ?? 0;
+  document.getElementById('set-grinder2-max').value = settings.grinder2Max ?? 40;
   document.getElementById('privacy-toggle').checked = !!settings.publicLibrary;
   document.getElementById('settings-current-email').textContent = currentUser.email || '—';
 
@@ -1107,8 +1163,12 @@ document.getElementById('settings-save-profile').addEventListener('click', async
   settings.lastName = document.getElementById('set-lastname').value.trim();
   settings.city = document.getElementById('set-city').value.trim();
   settings.country = document.getElementById('set-country').value.trim();
-  settings.grinder1 = document.getElementById('set-grinder1').value.trim();
-  settings.grinder2 = document.getElementById('set-grinder2').value.trim();
+  settings.grinder1Name = document.getElementById('set-grinder1-name').value;
+  settings.grinder1Min = parseInt(document.getElementById('set-grinder1-min').value, 10) || 0;
+  settings.grinder1Max = parseInt(document.getElementById('set-grinder1-max').value, 10) || 40;
+  settings.grinder2Name = document.getElementById('set-grinder2-name').value;
+  settings.grinder2Min = parseInt(document.getElementById('set-grinder2-min').value, 10) || 0;
+  settings.grinder2Max = parseInt(document.getElementById('set-grinder2-max').value, 10) || 40;
   const msg = document.getElementById('settings-profile-msg');
   try{
     await db.collection('settings').doc(currentUser.uid).set(settings);
@@ -1750,12 +1810,19 @@ function openLibraryDetail(id){
           ${BREW_METHODS.map(m=>`<option value="${m}" ${e.brewMethod===m?'selected':''}>${m}</option>`).join('')}
         </select>
       </div>
-      <div class="field"><label>Taille de la mouture (Comandante)</label>
-        <select class="f-grind" data-id="${id}">
-          ${Array.from({length: GRIND_MAX-GRIND_MIN+1}, (_,i)=>i+GRIND_MIN).map(n=>{
-            const val = e.grindSize || String(GRIND_DEFAULT);
-            return `<option value="${n}" ${String(n)===val?'selected':''}>${n}</option>`;
+      ${configuredGrinderKeys().length ? `
+      <div class="field"><label>Moulin utilisé</label>
+        <select class="f-grinder" data-id="${id}">
+          <option value="">— Non précisé —</option>
+          ${configuredGrinderKeys().map(k=>{
+            const g = grinderRangeFor(k);
+            return `<option value="${k}" ${e.grinder===k?'selected':''}>${g.name}</option>`;
           }).join('')}
+        </select>
+      </div>` : ''}
+      <div class="field"><label>Taille de la mouture${(()=>{ const g=grinderRangeFor(e.grinder); return g.name ? ` (${g.name})` : ''; })()}</label>
+        <select class="f-grind" data-id="${id}">
+          ${(()=>{ const g=grinderRangeFor(e.grinder); return grindOptionsHTML(g.min, g.max, e.grindSize); })()}
         </select>
       </div>
       <div class="field full"><label>Ratio</label>
@@ -1803,7 +1870,7 @@ function openLibraryDetail(id){
     const cur = libraryCache[id];
     if(!cur.brews) cur.brews = [];
     cur.brews.unshift({
-      date: new Date().toISOString(), brewMethod: cur.brewMethod||'', grindSize: cur.grindSize||'',
+      date: new Date().toISOString(), brewMethod: cur.brewMethod||'', grindSize: cur.grindSize||'', grinder: cur.grinder||'',
       ratio: cur.ratio||RATIO_DEFAULT, coffeeG: cur.coffeeG||COFFEE_G_DEFAULT,
       timeH: cur.timeH||0, timeM: cur.timeM||0, timeS: cur.timeS||0, notes: cur.notes||''
     });
@@ -1831,7 +1898,7 @@ function renderBrewHistoryHTML(e, id, editIndex){
           <button class="danger-link bl-delete" data-index="${i}">Supprimer</button>
         </div>
       </div>
-      <div class="bl-line">${b.brewMethod||'Méthode non précisée'} · Mouture ${b.grindSize||'—'} · ${b.ratio||'—'} · ${b.coffeeG||'—'} g / ${water} ml · ${time}</div>
+      <div class="bl-line">${b.brewMethod||'Méthode non précisée'} · Mouture ${b.grindSize||'—'}${b.grinder ? ` (${grinderRangeFor(b.grinder).name})` : ''} · ${b.ratio||'—'} · ${b.coffeeG||'—'} g / ${water} ml · ${time}</div>
       ${b.notes ? `<div class="bl-notes">${b.notes}</div>` : ''}
     </div>`;
   }).join('');
@@ -1917,6 +1984,17 @@ function wireLibraryDetailForm(id){
       await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); await refreshCommunityAvg(id);
       openLibraryDetail(id);
       renderLibrary(document.getElementById('library-search-input').value);
+    });
+  });
+  content.querySelectorAll('.f-grinder').forEach(el=>{
+    el.addEventListener('change', async ()=>{
+      libraryCache[id].grinder = el.value;
+      const g = grinderRangeFor(el.value);
+      const grindSelect = content.querySelector('.f-grind');
+      grindSelect.innerHTML = grindOptionsHTML(g.min, g.max, null);
+      grindSelect.closest('.field').querySelector('label').textContent = 'Taille de la mouture' + (g.name ? ` (${g.name})` : '');
+      libraryCache[id].grindSize = grindSelect.value;
+      await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); flashSavedDetail();
     });
   });
   content.querySelectorAll('.f-brew, .f-grind, .f-ratio, .f-coffee-g, .f-time-h, .f-time-m, .f-time-s').forEach(el=>{
