@@ -1065,7 +1065,8 @@ function renderGrid(filter){
       if(priceMax!=null && p>priceMax) return false;
     }
     if(!q) return true;
-    const hay = [c.name, c.origin, c.flavors].filter(x=>!na(x)).join(' ').toLowerCase();
+    const roasterName = ROASTERS[c.roasterId] ? ROASTERS[c.roasterId].name : null;
+    const hay = [c.name, roasterName, c.origin, c.flavors].filter(x=>!na(x)).join(' ').toLowerCase();
     return hay.includes(q);
   });
 
