@@ -233,13 +233,41 @@ def _extract_method(p, variants):
     return None
 
 
+_WEIGHT_RE = re.compile(
+    # The main number allows a space/nbsp as a French-style thousands
+    # separator ("1 000g") -- without this, that string's "g" only glues
+    # onto the trailing "000", parsing as 0g instead of 1000g.
+    r"(?:(\d+)\s*[x×]\s*)?(\d+(?:[  ]\d{3})*(?:[.,]\d+)?)\s*(kg|gr|g)\b",
+    re.IGNORECASE,
+)
+
+
+def _variant_weight_g(variant):
+    """Shopify's own variant.grams is a SHIPPING weight (box/padding
+    included, and merchants routinely leave it at a stale default -- one
+    roaster in this dataset reports 300g for both its 250g and its 1kg
+    bags of the same coffee, another reports 1100g for both its 500g and
+    its 1kg bags). The pack size the customer actually buys is the option
+    text itself ("250g", "1 Kg", "3 x 250g" for a multi-pack), so prefer
+    parsing that; grams is only a fallback for the rare variant with no
+    such text (e.g. a capsule count with no weight unit at all)."""
+    for key in ("option1", "option2", "option3"):
+        m = _WEIGHT_RE.search(variant.get(key) or "")
+        if m:
+            count = int(m.group(1)) if m.group(1) else 1
+            n = float(re.sub(r"[  ]", "", m.group(2)).replace(",", "."))
+            unit_g = n * 1000 if m.group(3).lower() == "kg" else n
+            return round(count * unit_g)
+    return None
+
+
 def to_raw_product(p):
     variants = p.get("variants") or []
     priced = [v for v in variants if v.get("price") is not None]
     variant = min(priced, key=lambda v: float(v["price"])) if priced else (variants[0] if variants else {})
 
     price = float(variant["price"]) if variant.get("price") is not None else None
-    grams = variant.get("grams") or None
+    grams = _variant_weight_g(variant) or variant.get("grams") or None
     available = bool(variant.get("available", True))
     images = p.get("images") or []
     image_url = images[0]["src"] if images else None

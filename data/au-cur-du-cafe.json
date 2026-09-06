@@ -11,7 +11,7 @@
     "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source.",
     "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
   },
-  "scrapedAt": "2026-09-06T06:44:20Z",
+  "scrapedAt": "2026-09-06T09:15:23Z",
   "products": [
     {
       "id": "au-cur-du-cafe-costa-rica-tarrazu",
@@ -38,7 +38,7 @@
           "url": "https://aucoeurducafe.fr/products/costa-rica-tarrazu",
           "price": 11.5,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -46,7 +46,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-expresso",
@@ -73,7 +73,7 @@
           "url": "https://aucoeurducafe.fr/products/expresso",
           "price": 9.3,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-guetemala-huehuetenango",
@@ -108,7 +108,7 @@
           "url": "https://aucoeurducafe.fr/products/guetemala-huehuetenango",
           "price": 11.7,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -116,7 +116,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-mexique-chocaman-altura",
@@ -145,7 +145,7 @@
           "url": "https://aucoeurducafe.fr/products/mexique-chocaman-altura",
           "price": 9.3,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -153,7 +153,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-nicaragua",
@@ -180,7 +180,7 @@
           "url": "https://aucoeurducafe.fr/products/nicaragua",
           "price": 9.3,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -188,7 +188,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-sumatra-gayo-highland-hathi",
@@ -219,7 +219,7 @@
           "url": "https://aucoeurducafe.fr/products/sumatra-gayo-highland-hathi",
           "price": 11.9,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -227,7 +227,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-caparao-bob-o-link",
@@ -256,7 +256,7 @@
           "url": "https://aucoeurducafe.fr/products/bresil-caparao-bob-o-link",
           "price": 12.5,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -264,7 +264,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-box-decouverte",
@@ -297,7 +297,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-bahia",
@@ -327,7 +327,7 @@
           "url": "https://aucoeurducafe.fr/products/bresil-bahia",
           "price": 9.3,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -335,7 +335,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-moka-yrgacheffe",
@@ -363,7 +363,7 @@
           "url": "https://aucoeurducafe.fr/products/ethiopie-moka-yrgacheffe",
           "price": 11.0,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -371,7 +371,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-kenya",
@@ -399,7 +399,7 @@
           "url": "https://aucoeurducafe.fr/products/kenya",
           "price": 12.9,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-decafeine",
@@ -434,7 +434,7 @@
           "url": "https://aucoeurducafe.fr/products/ethiopie-decafeine",
           "price": 11.0,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -442,7 +442,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-blue-mountain-jamaique",
@@ -470,7 +470,7 @@
           "url": "https://aucoeurducafe.fr/products/blue-mountain-jamaique",
           "price": 32.1,
           "currency": "EUR",
-          "unitWeightG": 165,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -478,7 +478,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-skybury",
@@ -505,7 +505,7 @@
           "url": "https://aucoeurducafe.fr/products/skybury",
           "price": 16.9,
           "currency": "EUR",
-          "unitWeightG": 165,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -513,7 +513,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     },
     {
       "id": "au-cur-du-cafe-coeur-du-bouchon",
@@ -541,7 +541,7 @@
           "url": "https://aucoeurducafe.fr/products/coeur-du-bouchon",
           "price": 9.3,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -549,7 +549,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-06T06:44:20Z"
+      "lastSeenAt": "2026-09-06T09:15:23Z"
     }
   ]
 }

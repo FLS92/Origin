@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
   },
-  "scrapedAt": "2026-09-06T06:43:15Z",
+  "scrapedAt": "2026-09-06T09:14:40Z",
   "products": [
     {
       "id": "la-torref-ico-gerba-dogo-ethiopie-ico-torrefaction",
@@ -42,7 +42,7 @@
           "url": "https://latorref.com/products/gerba-dogo-ethiopie-ico-torrefaction",
           "price": 18.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-espresso-chr-bio-cafe-en-grain-pro",
@@ -78,7 +78,7 @@
           "url": "https://latorref.com/products/espresso-chr-bio-cafe-en-grain-pro",
           "price": 10.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-summer-blend-colombie-perou-ico-torrefaction",
@@ -114,7 +114,7 @@
           "url": "https://latorref.com/products/summer-blend-colombie-perou-ico-torrefaction",
           "price": 12.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": false,
           "stockStatus": "outofstock"
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-spring-blend-colombie-perou-ico-torrefaction",
@@ -151,7 +151,7 @@
           "url": "https://latorref.com/products/spring-blend-colombie-perou-ico-torrefaction",
           "price": 12.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": null,
           "inStock": false,
           "stockStatus": "outofstock"
@@ -159,7 +159,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-ruronzi-rwanda-ico-torrefaction",
@@ -188,7 +188,7 @@
           "url": "https://latorref.com/products/ruronzi-rwanda-ico-torrefaction",
           "price": 18.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": null,
           "inStock": true,
           "stockStatus": "instock"
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-jaguarundi-colombie-ico-torrefaction",
@@ -225,7 +225,7 @@
           "url": "https://latorref.com/products/jaguarundi-colombie-ico-torrefaction",
           "price": 16.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": null,
           "inStock": false,
           "stockStatus": "outofstock"
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-cih-emar-rwanda-ico-torrefaction",
@@ -263,7 +263,7 @@
           "url": "https://latorref.com/products/cih-emar-rwanda-ico-torrefaction",
           "price": 18.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": null,
           "inStock": false,
           "stockStatus": "outofstock"
@@ -271,7 +271,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-cafe-colombie-la-cocha-ico-torrefaction",
@@ -300,7 +300,7 @@
           "url": "https://latorref.com/products/cafe-colombie-la-cocha-ico-torrefaction",
           "price": 13.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": null,
           "inStock": false,
           "stockStatus": "outofstock"
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-the-dark-sip-perou-ico-torrefaction",
@@ -336,7 +336,7 @@
           "url": "https://latorref.com/products/the-dark-sip-perou-ico-torrefaction",
           "price": 9.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-house-blend-medium-dark-roast",
@@ -372,7 +372,7 @@
           "url": "https://latorref.com/products/house-blend-medium-dark-roast",
           "price": 10.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -380,7 +380,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "la-torref-ico-manzanilla-perou-cafe-bio-decafeine",
@@ -405,7 +405,7 @@
           "url": "https://latorref.com/products/manzanilla-perou-cafe-bio-decafeine",
           "price": 12.9,
           "currency": "EUR",
-          "unitWeightG": 264,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -413,7 +413,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-06T06:43:15Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     }
   ]
 }

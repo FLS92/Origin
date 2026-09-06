@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T06:58:33Z",
+  "generatedAt": "2026-09-06T09:15:23Z",
   "roasterCount": 68,
-  "coffeeCount": 1064,
+  "coffeeCount": 1056,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -666,7 +666,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/rwanda-murambi-bio",
           "price": "4,00 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -693,7 +693,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ouganda-jukia",
           "price": "4,00 €",
-          "note": "110 g, à partir de, rupture de stock"
+          "note": "100 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -720,7 +720,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/equateur-tulipe",
           "price": "4,50 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -747,7 +747,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
           "price": "5,00 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -774,7 +774,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/arlos-coffee",
           "price": "3,50 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -801,7 +801,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-tolima",
           "price": "3,50 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -828,7 +828,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ethiopie-ali-bio",
           "price": "4,00 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -855,7 +855,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/bresil-silvia",
           "price": "3,50 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -882,7 +882,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/cafeespresso",
           "price": "3,00 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -909,7 +909,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/honduras-marco",
           "price": "3,50 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -963,7 +963,7 @@
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-deca",
           "price": "3,50 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -990,7 +990,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/costa-rica-tarrazu",
           "price": "11,50 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1017,7 +1017,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/expresso",
           "price": "9,30 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1044,7 +1044,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/guetemala-huehuetenango",
           "price": "11,70 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1071,7 +1071,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/mexique-chocaman-altura",
           "price": "9,30 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1098,7 +1098,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/nicaragua",
           "price": "9,30 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1125,7 +1125,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/sumatra-gayo-highland-hathi",
           "price": "11,90 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1152,7 +1152,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/bresil-caparao-bob-o-link",
           "price": "12,50 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1206,7 +1206,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/bresil-bahia",
           "price": "9,30 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1233,7 +1233,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/ethiopie-moka-yrgacheffe",
           "price": "11,00 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1260,7 +1260,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/kenya",
           "price": "12,90 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1287,7 +1287,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/ethiopie-decafeine",
           "price": "11,00 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1314,7 +1314,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/blue-mountain-jamaique",
           "price": "32,10 €",
-          "note": "165 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -1341,7 +1341,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/skybury",
           "price": "16,90 €",
-          "note": "165 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -1368,7 +1368,7 @@
           "site": "Au Cœur du Café",
           "url": "https://aucoeurducafe.fr/products/coeur-du-bouchon",
           "price": "9,30 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1395,7 +1395,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-02-okapa-filter",
           "price": "9,50 €",
-          "note": "à partir de, rupture de stock"
+          "note": "100 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -1422,7 +1422,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-01-gasharu-filter",
           "price": "9,50 €",
-          "note": "à partir de, rupture de stock"
+          "note": "100 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -1449,7 +1449,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/1000-hills",
           "price": "15,00 €",
-          "note": "275 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1476,7 +1476,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/cordillera-del-fuego",
           "price": "25,00 €",
-          "note": "275 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1503,7 +1503,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/el-porvenir",
           "price": "30,50 €",
-          "note": "275 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1530,7 +1530,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-los-primos",
           "price": "23,00 €",
-          "note": "275 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1557,7 +1557,7 @@
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-bella",
           "price": "9,75 €",
-          "note": "275 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -1584,7 +1584,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/benjamin-paz-honduras",
           "price": "18,90 €",
-          "note": "300 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1638,7 +1638,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/kieni-ab-cafe-kenya",
           "price": "26,90 €",
-          "note": "300 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1665,7 +1665,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/kelloo-chelchele-washed",
           "price": "19,90 €",
-          "note": "300 g"
+          "note": "250 g"
         }
       ]
     },
@@ -1692,7 +1692,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/le-mistral-assemblage-cafe-belleville",
           "price": "19,00 €",
-          "note": "300 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1881,7 +1881,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/body-builder-assemblage-cafe-belleville",
           "price": "17,20 €",
-          "note": "300 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1908,7 +1908,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/chateau-belleville-assemblage-cafe-belleville",
           "price": "17,60 €",
-          "note": "300 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -1935,7 +1935,7 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/la-pantoufle-assemblage-cafe-belleville",
           "price": "16,30 €",
-          "note": "300 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -3420,7 +3420,7 @@
           "site": "Café Claudio Nelda",
           "url": "https://claudionelda.com/products/quindio-les-meilleurs-cafes",
           "price": "9,00 €",
-          "note": "à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -4068,7 +4068,7 @@
           "site": "Café Corto",
           "url": "https://cafe-corto.fr/products/cafe-a-la-voile-colombie",
           "price": "15,00 €",
-          "note": "à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8577,7 +8577,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/andy-llanos-gesha-perou",
           "price": "18,90 €",
-          "note": "170 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -8604,7 +8604,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/andy-llanos-sidra-perou",
           "price": "18,90 €",
-          "note": "170 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -8631,7 +8631,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/daanissa-ethiopie",
           "price": "13,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8658,7 +8658,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/cafe-mexique-juba",
           "price": "12,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8685,7 +8685,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/maribel-torres-cafe-perou",
           "price": "13,90 €",
-          "note": "275 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8712,7 +8712,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/sitio-cordilheiras-honey-filtre",
           "price": "15,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8739,7 +8739,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/cafe-arara-sitio-cordilheiras-bresil",
           "price": "18,90 €",
-          "note": "270 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -8766,7 +8766,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/zarza-gesha-nature-colombie",
           "price": "19,90 €",
-          "note": "170 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -8793,7 +8793,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/cascara-pulpe-cerise-cafe-infusion",
           "price": "8,90 €",
-          "note": "170 g, à partir de"
+          "note": "150 g, à partir de"
         }
       ]
     },
@@ -8928,7 +8928,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/mont-deca-decafeine",
           "price": "10,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8955,7 +8955,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/paddo-cafe",
           "price": "10,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -8982,7 +8982,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/tropikawa",
           "price": "9,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -9009,7 +9009,7 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/ca-passe-creme",
           "price": "8,90 €",
-          "note": "270 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -9900,7 +9900,7 @@
           "site": "Colors Coffee & Roasters",
           "url": "https://colors.coffee/products/burundi-nemba-copie",
           "price": "9,50 €",
-          "note": "250 g, à partir de"
+          "note": "200 g, à partir de"
         }
       ]
     },
@@ -9927,7 +9927,7 @@
           "site": "Colors Coffee & Roasters",
           "url": "https://colors.coffee/products/ethiopie-guji",
           "price": "13,50 €",
-          "note": "250 g, à partir de"
+          "note": "200 g, à partir de"
         }
       ]
     },
@@ -9954,7 +9954,7 @@
           "site": "Colors Coffee & Roasters",
           "url": "https://colors.coffee/products/kenya-embu",
           "price": "10,00 €",
-          "note": "250 g, à partir de"
+          "note": "200 g, à partir de"
         }
       ]
     },
@@ -9981,7 +9981,7 @@
           "site": "Colors Coffee & Roasters",
           "url": "https://colors.coffee/products/el-salvador-pacamara",
           "price": "12,50 €",
-          "note": "250 g, à partir de"
+          "note": "200 g, à partir de"
         }
       ]
     },
@@ -10737,7 +10737,7 @@
           "site": "Dose",
           "url": "https://dose.paris/products/gourmand",
           "price": "9,90 €",
-          "note": "1 kg, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -10845,7 +10845,7 @@
           "site": "Dose",
           "url": "https://dose.paris/products/fruite",
           "price": "9,90 €",
-          "note": "1 kg, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -10953,7 +10953,7 @@
           "site": "Dose",
           "url": "https://dose.paris/products/cafe-trio-espresso",
           "price": "36,90 €",
-          "note": "750 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -11412,7 +11412,7 @@
           "site": "Dose",
           "url": "https://dose.paris/products/mexico-city-decafeine-pro",
           "price": "7,90 €",
-          "note": "1 kg, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -11845,114 +11845,6 @@
           "url": "https://dose.paris/products/coffret-200-capsules",
           "price": "89,00 €",
           "note": "1.5 kg"
-        }
-      ]
-    },
-    {
-      "id": "dose-delonghi-dinamica-feb-3535-sb",
-      "roasterId": "dose",
-      "name": "De’Longhi Dinamica FEB 35.35.SB – Machine à café à grain (Gris)",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-delonghi-dinamica-feb-3535-sb-7764585.jpg?v=1758272364",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/delonghi-dinamica-feb-3535-sb",
-          "price": "599,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "dose-moulin-la-marzocco-jay",
-      "roasterId": "dose",
-      "name": "Moulin Professionnel La Marzocco Jay",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-moulin-professionnel-la-marzocco-jay-3268823.webp?v=1782185711",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/moulin-la-marzocco-jay",
-          "price": "1890,00 €",
-          "note": "20 kg"
-        }
-      ]
-    },
-    {
-      "id": "dose-la-marzocco-linea-mini-machine-espresso-acier",
-      "roasterId": "dose",
-      "name": "La Marzocco Linea Mini – Machine Espresso Premium",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Espresso",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-la-marzocco-linea-mini-machine-espresso-premium-1533380.png?v=1778622805",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/la-marzocco-linea-mini-machine-espresso-acier",
-          "price": "5316,00 €",
-          "note": "20 kg, à partir de"
-        }
-      ]
-    },
-    {
-      "id": "dose-delonghi-dinamica-feb-3535-b",
-      "roasterId": "dose",
-      "name": "De’Longhi Dinamica FEB 3535.B – Machine à café à grain (Noire)",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-delonghi-dinamica-feb-3535b-machine-a-cafe-a-grain-noire-2828656.png?v=1764958696",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/delonghi-dinamica-feb-3535-b",
-          "price": "579,00 €",
-          "note": "10 kg"
         }
       ]
     },
@@ -12735,7 +12627,7 @@
           "site": "Gaia Torréfacteur",
           "url": "https://gaiatorrefacteur.com/products/stardust-bresil",
           "price": "14,50 €",
-          "note": "à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -12816,7 +12708,7 @@
           "site": "Gaia Torréfacteur",
           "url": "https://gaiatorrefacteur.com/products/santa-rita-guatemala",
           "price": "15,50 €",
-          "note": "à partir de, rupture de stock"
+          "note": "250 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -12843,7 +12735,7 @@
           "site": "Gaia Torréfacteur",
           "url": "https://gaiatorrefacteur.com/products/kuzco",
           "price": "16,50 €",
-          "note": "à partir de, rupture de stock"
+          "note": "250 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -12870,115 +12762,7 @@
           "site": "Gaia Torréfacteur",
           "url": "https://gaiatorrefacteur.com/products/rio-coco-nicaragua",
           "price": "11,00 €",
-          "note": "à partir de, rupture de stock"
-        }
-      ]
-    },
-    {
-      "id": "gaia-torrefacteur-rivelia-feb4455-w-machine-a-cafe-expresso-automatique",
-      "roasterId": "gaia-torrefacteur",
-      "name": "Rivelia FEB4455 - Machine à café expresso automatique",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Espresso",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/RiveliaFEB4455.BG.avif?v=1751539651",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Gaia Torréfacteur",
-          "url": "https://gaiatorrefacteur.com/products/rivelia-feb4455-w-machine-a-cafe-expresso-automatique",
-          "price": "749,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "gaia-torrefacteur-la-specialista-prestigio",
-      "roasterId": "gaia-torrefacteur",
-      "name": "La Specialista Prestigio",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/LaSpecialistaPrestigio.png?v=1751539218",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Gaia Torréfacteur",
-          "url": "https://gaiatorrefacteur.com/products/la-specialista-prestigio",
-          "price": "839,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "gaia-torrefacteur-dinamica-feb-3535",
-      "roasterId": "gaia-torrefacteur",
-      "name": "Dinamica FEB 3535",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Dinamicagrisfeb3535.png?v=1751538508",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Gaia Torréfacteur",
-          "url": "https://gaiatorrefacteur.com/products/dinamica-feb-3535",
-          "price": "559,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "gaia-torrefacteur-machine-a-espresso-delonghi-dedica-arte",
-      "roasterId": "gaia-torrefacteur",
-      "name": "Machine à espresso DELONGHI Dedica",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Espresso",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/MachineespressoDeLonghifullmetal.png?v=1703766496",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Gaia Torréfacteur",
-          "url": "https://gaiatorrefacteur.com/products/machine-a-espresso-delonghi-dedica-arte",
-          "price": "319,00 €",
-          "note": ""
+          "note": "250 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -13032,7 +12816,7 @@
           "site": "Gaia Torréfacteur",
           "url": "https://gaiatorrefacteur.com/products/decaf",
           "price": "15,50 €",
-          "note": "à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -13626,7 +13410,7 @@
           "site": "Hayuco Coffee Roasters",
           "url": "https://hayuco.coffee/products/lec-1",
           "price": "14,00 €",
-          "note": "200 g, à partir de"
+          "note": "125 g, à partir de"
         }
       ]
     },
@@ -13680,7 +13464,7 @@
           "site": "Hayuco Coffee Roasters",
           "url": "https://hayuco.coffee/products/luis-b",
           "price": "14,00 €",
-          "note": "200 g, à partir de"
+          "note": "125 g, à partir de"
         }
       ]
     },
@@ -18000,7 +17784,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/gerba-dogo-ethiopie-ico-torrefaction",
           "price": "18,90 €",
-          "note": "264 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -18027,7 +17811,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/espresso-chr-bio-cafe-en-grain-pro",
           "price": "10,90 €",
-          "note": "264 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -18054,7 +17838,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/summer-blend-colombie-perou-ico-torrefaction",
           "price": "12,90 €",
-          "note": "264 g, à partir de, rupture de stock"
+          "note": "250 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -18081,7 +17865,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/spring-blend-colombie-perou-ico-torrefaction",
           "price": "12,90 €",
-          "note": "264 g, rupture de stock"
+          "note": "250 g, rupture de stock"
         }
       ]
     },
@@ -18108,7 +17892,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/ruronzi-rwanda-ico-torrefaction",
           "price": "18,90 €",
-          "note": "264 g"
+          "note": "250 g"
         }
       ]
     },
@@ -18135,7 +17919,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/jaguarundi-colombie-ico-torrefaction",
           "price": "16,90 €",
-          "note": "264 g, rupture de stock"
+          "note": "250 g, rupture de stock"
         }
       ]
     },
@@ -18162,7 +17946,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/cih-emar-rwanda-ico-torrefaction",
           "price": "18,90 €",
-          "note": "264 g, rupture de stock"
+          "note": "250 g, rupture de stock"
         }
       ]
     },
@@ -18189,7 +17973,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/cafe-colombie-la-cocha-ico-torrefaction",
           "price": "13,90 €",
-          "note": "264 g, rupture de stock"
+          "note": "250 g, rupture de stock"
         }
       ]
     },
@@ -18216,7 +18000,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/the-dark-sip-perou-ico-torrefaction",
           "price": "9,90 €",
-          "note": "264 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -18243,7 +18027,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/house-blend-medium-dark-roast",
           "price": "10,90 €",
-          "note": "264 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -18270,7 +18054,7 @@
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/manzanilla-perou-cafe-bio-decafeine",
           "price": "12,90 €",
-          "note": "264 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -18432,7 +18216,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-du-salvador",
           "price": "16,20 €",
-          "note": "530 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18459,7 +18243,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-bresil-daterra",
           "price": "7,90 €",
-          "note": "550 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -18486,7 +18270,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-ephemere-du-ouganda",
           "price": "18,90 €",
-          "note": "530 g, à partir de, rupture de stock"
+          "note": "500 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -18513,7 +18297,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
           "price": "19,90 €",
-          "note": "620 g, à partir de, rupture de stock"
+          "note": "500 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -18540,7 +18324,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-decafeine-swisswater-du-perou",
           "price": "18,70 €",
-          "note": "550 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18567,7 +18351,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-perou-ceranor",
           "price": "16,80 €",
-          "note": "530 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18594,7 +18378,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-dethiopie-koke",
           "price": "18,70 €",
-          "note": "530 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18621,7 +18405,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-costa-rica-hermosa-copy",
           "price": "8,90 €",
-          "note": "110 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -18648,7 +18432,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-en-grains-du-nicaragua",
           "price": "17,35 €",
-          "note": "550 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18675,7 +18459,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-vert-bio",
           "price": "12,90 €",
-          "note": "1.05 kg, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18702,7 +18486,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-honduras-finca-liquidambar",
           "price": "17,30 €",
-          "note": "530 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -18729,7 +18513,7 @@
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-costa-rica",
           "price": "16,95 €",
-          "note": "530 g, à partir de, rupture de stock"
+          "note": "500 g, à partir de, rupture de stock"
         }
       ]
     },
@@ -19674,7 +19458,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-ethiopie-chelchele",
           "price": "12,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -19701,7 +19485,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cold-brew",
           "price": "12,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -19728,7 +19512,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/geisha-cafe-dexception",
           "price": "18,80 €",
-          "note": "215 g, à partir de"
+          "note": "200 g, à partir de"
         }
       ]
     },
@@ -19755,7 +19539,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/signature-mouffetard-1",
           "price": "4,10 €",
-          "note": "265 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -19782,7 +19566,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/signature-jules-guesde",
           "price": "4,10 €",
-          "note": "265 g, à partir de"
+          "note": "100 g, à partir de"
         }
       ]
     },
@@ -19809,7 +19593,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-bresil-peaberry",
           "price": "14,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -19917,7 +19701,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-espresso-duo",
           "price": "20,60 €",
-          "note": "530 g, à partir de"
+          "note": "500 g, à partir de"
         }
       ]
     },
@@ -19944,7 +19728,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/fazenda-rio",
           "price": "11,40 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -19971,7 +19755,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-de-paris-bio",
           "price": "11,40 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -19998,7 +19782,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-de-lyon-bio",
           "price": "11,40 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20025,7 +19809,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/copie-de-arhuaco-bio",
           "price": "35,50 €",
-          "note": "800 g, à partir de"
+          "note": "750 g, à partir de"
         }
       ]
     },
@@ -20052,7 +19836,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/trio-espresso-3-cafes-pures-origines",
           "price": "35,50 €",
-          "note": "800 g, à partir de"
+          "note": "750 g, à partir de"
         }
       ]
     },
@@ -20079,7 +19863,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/italian-roast",
           "price": "10,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20106,7 +19890,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/espresso",
           "price": "10,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20133,7 +19917,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-arabica-indonesie-bio",
           "price": "12,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20160,7 +19944,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/deca-sueno",
           "price": "13,40 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20187,7 +19971,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-arabica-perou-bio",
           "price": "11,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20214,7 +19998,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-colombie-bio-voile-ocean-clean",
           "price": "12,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -20241,7 +20025,7 @@
           "site": "Loutsa",
           "url": "https://loutsa.fr/products/cafe-arabica-ethiopie",
           "price": "12,80 €",
-          "note": "265 g, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },
@@ -21186,7 +20970,7 @@
           "site": "Mokxa",
           "url": "https://cafemokxa.com/products/cafe-notorious-rob-blend",
           "price": "8,00 €",
-          "note": "1 kg, à partir de"
+          "note": "250 g, à partir de"
         }
       ]
     },

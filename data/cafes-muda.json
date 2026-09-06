@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
   },
-  "scrapedAt": "2026-09-06T06:44:05Z",
+  "scrapedAt": "2026-09-06T09:15:11Z",
   "products": [
     {
       "id": "cafes-muda-andy-llanos-gesha-perou",
@@ -36,7 +36,7 @@
           "url": "https://cafesmuda.fr/products/andy-llanos-gesha-perou",
           "price": 18.9,
           "currency": "EUR",
-          "unitWeightG": 170,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-andy-llanos-sidra-perou",
@@ -69,7 +69,7 @@
           "url": "https://cafesmuda.fr/products/andy-llanos-sidra-perou",
           "price": 18.9,
           "currency": "EUR",
-          "unitWeightG": 170,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-daanissa-ethiopie",
@@ -102,7 +102,7 @@
           "url": "https://cafesmuda.fr/products/daanissa-ethiopie",
           "price": 13.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-cafe-mexique-juba",
@@ -135,7 +135,7 @@
           "url": "https://cafesmuda.fr/products/cafe-mexique-juba",
           "price": 12.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-maribel-torres-cafe-perou",
@@ -168,7 +168,7 @@
           "url": "https://cafesmuda.fr/products/maribel-torres-cafe-perou",
           "price": 13.9,
           "currency": "EUR",
-          "unitWeightG": 275,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-sitio-cordilheiras-honey",
@@ -234,7 +234,7 @@
           "url": "https://cafesmuda.fr/products/sitio-cordilheiras-honey-filtre",
           "price": 15.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-cafe-arara-sitio-cordilheiras-bresil",
@@ -267,7 +267,7 @@
           "url": "https://cafesmuda.fr/products/cafe-arara-sitio-cordilheiras-bresil",
           "price": 18.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-cafe-perou-roger-chilcon",
@@ -333,7 +333,7 @@
           "url": "https://cafesmuda.fr/products/zarza-gesha-nature-colombie",
           "price": 19.9,
           "currency": "EUR",
-          "unitWeightG": 170,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-cascara-pulpe-cerise-cafe-infusion",
@@ -366,7 +366,7 @@
           "url": "https://cafesmuda.fr/products/cascara-pulpe-cerise-cafe-infusion",
           "price": 8.9,
           "currency": "EUR",
-          "unitWeightG": 170,
+          "unitWeightG": 150,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-coffret-filtre-decouverte",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-coffret-filtre-classique",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-coffret-espresso-classique",
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-coffret-espresso-decouverte",
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-mont-deca-decafeine",
@@ -531,7 +531,7 @@
           "url": "https://cafesmuda.fr/products/mont-deca-decafeine",
           "price": 10.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-paddo-cafe",
@@ -564,7 +564,7 @@
           "url": "https://cafesmuda.fr/products/paddo-cafe",
           "price": 10.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -572,7 +572,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-tropikawa",
@@ -597,7 +597,7 @@
           "url": "https://cafesmuda.fr/products/tropikawa",
           "price": 9.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -605,7 +605,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     },
     {
       "id": "cafes-muda-ca-passe-creme",
@@ -630,7 +630,7 @@
           "url": "https://cafesmuda.fr/products/ca-passe-creme",
           "price": 8.9,
           "currency": "EUR",
-          "unitWeightG": 270,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-06T06:44:05Z"
+      "lastSeenAt": "2026-09-06T09:15:11Z"
     }
   ]
 }

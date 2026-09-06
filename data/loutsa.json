@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
   },
-  "scrapedAt": "2026-09-06T06:55:00Z",
+  "scrapedAt": "2026-09-06T09:14:40Z",
   "products": [
     {
       "id": "loutsa-cafe-salvador-apanea",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -69,7 +69,7 @@
           "url": "https://loutsa.fr/products/cafe-ethiopie-chelchele",
           "price": 12.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cold-brew",
@@ -102,7 +102,7 @@
           "url": "https://loutsa.fr/products/cold-brew",
           "price": 12.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-geisha-cafe-dexception",
@@ -135,7 +135,7 @@
           "url": "https://loutsa.fr/products/geisha-cafe-dexception",
           "price": 18.8,
           "currency": "EUR",
-          "unitWeightG": 215,
+          "unitWeightG": 200,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -168,7 +168,7 @@
           "url": "https://loutsa.fr/products/signature-mouffetard-1",
           "price": 4.1,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 100,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-signature-jules-guesde",
@@ -201,7 +201,7 @@
           "url": "https://loutsa.fr/products/signature-jules-guesde",
           "price": 4.1,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 100,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -234,7 +234,7 @@
           "url": "https://loutsa.fr/products/cafe-bresil-peaberry",
           "price": 14.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-coffret-artisanal",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-espresso-duo",
@@ -366,7 +366,7 @@
           "url": "https://loutsa.fr/products/cafe-espresso-duo",
           "price": 20.6,
           "currency": "EUR",
-          "unitWeightG": 530,
+          "unitWeightG": 500,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -399,7 +399,7 @@
           "url": "https://loutsa.fr/products/fazenda-rio",
           "price": 11.4,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -432,7 +432,7 @@
           "url": "https://loutsa.fr/products/cafe-de-paris-bio",
           "price": 11.4,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -465,7 +465,7 @@
           "url": "https://loutsa.fr/products/cafe-de-lyon-bio",
           "price": 11.4,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -498,7 +498,7 @@
           "url": "https://loutsa.fr/products/copie-de-arhuaco-bio",
           "price": 35.5,
           "currency": "EUR",
-          "unitWeightG": 800,
+          "unitWeightG": 750,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -531,7 +531,7 @@
           "url": "https://loutsa.fr/products/trio-espresso-3-cafes-pures-origines",
           "price": 35.5,
           "currency": "EUR",
-          "unitWeightG": 800,
+          "unitWeightG": 750,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -564,7 +564,7 @@
           "url": "https://loutsa.fr/products/italian-roast",
           "price": 10.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -572,7 +572,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-espresso",
@@ -597,7 +597,7 @@
           "url": "https://loutsa.fr/products/espresso",
           "price": 10.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -605,7 +605,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -630,7 +630,7 @@
           "url": "https://loutsa.fr/products/cafe-arabica-indonesie-bio",
           "price": 12.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -663,7 +663,7 @@
           "url": "https://loutsa.fr/products/deca-sueno",
           "price": 13.4,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -671,7 +671,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -696,7 +696,7 @@
           "url": "https://loutsa.fr/products/cafe-arabica-perou-bio",
           "price": 11.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -704,7 +704,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -729,7 +729,7 @@
           "url": "https://loutsa.fr/products/cafe-colombie-bio-voile-ocean-clean",
           "price": 12.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -737,7 +737,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -762,7 +762,7 @@
           "url": "https://loutsa.fr/products/cafe-arabica-ethiopie",
           "price": 12.8,
           "currency": "EUR",
-          "unitWeightG": 265,
+          "unitWeightG": 250,
           "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
@@ -770,7 +770,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-06T06:55:00Z"
+      "lastSeenAt": "2026-09-06T09:14:40Z"
     }
   ]
 }
