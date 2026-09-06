@@ -16,7 +16,7 @@
     {
       "id": "cafes-gorille-cafe-de-colombie-neiva",
       "name": "CAFÉ DE COLOMBIE – NEIVA",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "cafes-gorille-cafe-du-nicaragua-macucane",
       "name": "CAFÉ DU NICARAGUA – MACUCANE",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "cafes-gorille-cafe-du-perou-moyobamba-biologique",
       "name": "CAFÉ DU PÉROU – MOYOBAMBA – Biologique",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "cafes-gorille-cafe-du-rwanda-rugamba",
       "name": "CAFÉ DU RWANDA – RUGAMBA",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "cafes-gorille-cafe-du-guatemala-saqulew-biologique",
       "name": "CAFÉ DU GUATEMALA – SAQÜLEW – BIOLOGIQUE",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -280,7 +280,7 @@
     {
       "id": "cafes-gorille-cafe-du-nicaragua-xarisma",
       "name": "CAFÉ DU NICARAGUA – XARISMA",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "cafes-gorille-cafe-du-honduras-copanti-biologique",
       "name": "CAFÉ DU HONDURAS – COPANTI – Biologique",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "cafes-gorille-cafe-du-rwanda-muka-kivu",
       "name": "CAFÉ DU RWANDA – MUKA KIVU",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -379,7 +379,7 @@
     {
       "id": "cafes-gorille-cafe-de-colombie-golden-huila",
       "name": "CAFE DE COLOMBIE – GOLDEN HUILA",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -412,7 +412,7 @@
     {
       "id": "cafes-gorille-cafe-du-guatemala-tata-nahual",
       "name": "CAFÉ DU GUATEMALA – TATA NAHUAL",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -445,7 +445,7 @@
     {
       "id": "cafes-gorille-cafe-kenya-matunda",
       "name": "CAFÉ DU KENYA – MATUNDA",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -478,7 +478,7 @@
     {
       "id": "cafes-gorille-cafe-kenya-kiambu",
       "name": "CAFE KENYA – KIAMBU",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -511,7 +511,7 @@
     {
       "id": "cafes-gorille-cafe-du-perou-pozuzo",
       "name": "CAFÉ DU PEROU – POZUZO",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -544,7 +544,7 @@
     {
       "id": "cafes-gorille-cafe-du-mexique-custepec-rainforest-alliance",
       "name": "CAFÉ DU MEXIQUE – CUSTEPEC – Rainforest Alliance",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -577,7 +577,7 @@
     {
       "id": "cafes-gorille-cafe-du-rwanda",
       "name": "CAFÉ DU RWANDA – INGOMA",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -610,7 +610,7 @@
     {
       "id": "cafes-gorille-cafe-du-bresil",
       "name": "CAFÉ DU BRÉSIL – PEARL",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,

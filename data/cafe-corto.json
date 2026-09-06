@@ -115,7 +115,7 @@
     {
       "id": "cafe-corto-guapo-guatemala",
       "name": "GUAPO - GUATEMALA",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": "Guatemala, San Marcos",
       "process": "Lavé",
       "variety": "Bourbon, Caturra et Catuai",
@@ -148,7 +148,7 @@
     {
       "id": "cafe-corto-cosurca-colombie",
       "name": "COSURCA - COLOMBIE",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": "Vallée de la Cauca, Colombie",
       "process": "Lavé",
       "variety": "Bourbon, Typica, Caturra",
@@ -181,7 +181,7 @@
     {
       "id": "cafe-corto-bacan-perou",
       "name": "BACAN - PÉROU",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": "Pérou, Jaén Cajamarca",
       "process": "Lavé",
       "variety": "Bourbon, Typica, Caturra",
@@ -214,7 +214,7 @@
     {
       "id": "cafe-corto-tafacce-ethiopie",
       "name": "TAFACCE - ETHIOPIE",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": "Sidama, Ethiopie",
       "process": "Naturel",
       "variety": "Heirloom",
@@ -247,7 +247,7 @@
     {
       "id": "cafe-corto-sidama-ethiopie",
       "name": "SIDAMA - ÉTHIOPIE",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": "Sidama, Éthiopie",
       "process": "Lavé",
       "variety": "Heirloom",
@@ -280,7 +280,7 @@
     {
       "id": "cafe-corto-cafe-a-la-voile-colombie",
       "name": "CAFÉ À LA VOILE - COLOMBIE",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": "Colombie - Tolima",
       "process": "Nature Anaérobique",
       "variety": "Mélange",
@@ -313,7 +313,7 @@
     {
       "id": "cafe-corto-kopi-indonesie",
       "name": "KOPI - INDONÉSIE",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "cafe-corto-deca-mexique",
       "name": "DÉCA - Mexique",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": "Veracruz, Maxique",
       "process": "Décafeiné à l'eau",
       "variety": "Blend",

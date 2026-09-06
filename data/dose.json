@@ -379,7 +379,7 @@
     {
       "id": "dose-mexico-city",
       "name": "Café Mexico City - Décaféiné",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -445,7 +445,7 @@
     {
       "id": "dose-salvador",
       "name": "Café San Salvador",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -742,7 +742,7 @@
     {
       "id": "dose-boite-de-10-capsules-sueno-decafeine-pro",
       "name": "Boite de 10 capsules - Mexico CIty -  Décaféiné (Pro)",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -841,7 +841,7 @@
     {
       "id": "dose-mexico-city-decafeine-pro",
       "name": "Café Mexico City - Décaféiné (Pro)",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -940,7 +940,7 @@
     {
       "id": "dose-san-salvador-pro",
       "name": "Café San Salvador (Pro)",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1047,7 +1047,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -1270,7 +1270,7 @@
     {
       "id": "dose-capsules-sueno-deca-boite-x-10",
       "name": "Capsules Mexico City - Décaféiné (boîte x 10)",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1476,7 +1476,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,

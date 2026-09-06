@@ -16,7 +16,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-du-salvador",
       "name": "Café du Salvador",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -52,7 +52,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-bresil-daterra",
       "name": "Café du Brésil Signature 1 - High quality beans from Daterra Farm",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -89,7 +89,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-ephemere-du-ouganda",
       "name": "Café éphémère du Ouganda",
-      "originCountry": null,
+      "originCountry": "Ouganda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -124,7 +124,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
       "name": "Café de colombie - Los tres Pinos de Victoria - Parcelle Le café Qui Fume",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -193,7 +193,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-perou-ceranor",
       "name": "Café Cecanor du Pérou Bio",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -231,7 +231,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-dethiopie-koke",
       "name": "Café d'Ethiopie \"Koke\"",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -268,7 +268,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica-hermosa-copy",
       "name": "Infusion de Cascara - Costa Rica - La Chumeca",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -339,7 +339,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-en-grains-du-nicaragua",
       "name": "Café du Nicaragua",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -409,7 +409,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-honduras-finca-liquidambar",
       "name": "Café du Honduras Maricella Bio",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -442,7 +442,7 @@
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica",
       "name": "Café du Costa Rica",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,

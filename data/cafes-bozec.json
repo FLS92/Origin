@@ -16,7 +16,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-indonesie-sumatra",
       "name": "Indonésie – Sumatra",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-nicaragua-maragogype",
       "name": "Nicaragua – Maragogype",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-colombie-huila",
       "name": "Colombie – Huila",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-salvador-cerro-el-aguila",
       "name": "Salvador – Cerro El Aguila",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
       "name": "Honduras – Comayagua",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-bonga-micro-lot",
       "name": "Éthiopie – Bonga",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-bresil-fazenda-jaguara",
       "name": "Cafés Bozec Brésil Fazenda Jaguara",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-colombie-origine",
       "name": "Colombie – Origine",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -379,7 +379,7 @@
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-kobi-gamme-terroir",
       "name": "Éthiopie – Kobi",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -412,7 +412,7 @@
     {
       "id": "cafes-bozec-nicaragua-mogoton",
       "name": "Pérou – Norandino",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,

@@ -16,7 +16,7 @@
     {
       "id": "cafe-d-auteur-p97",
       "name": "Rwanda - Simbi",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "cafe-d-auteur-p98",
       "name": "Tanzanie - Tumaini",
-      "originCountry": null,
+      "originCountry": "Tanzanie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "cafe-d-auteur-p101",
       "name": "Colombia, Decaf",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "cafe-d-auteur-p102",
       "name": "Yémen, Haraaz",
-      "originCountry": null,
+      "originCountry": "Yémen",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "cafe-d-auteur-p91",
       "name": "Ethiopie - Ygarcheffe",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "cafe-d-auteur-p103",
       "name": "Colombie, Castillo signature",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -379,7 +379,7 @@
     {
       "id": "cafe-d-auteur-p16",
       "name": "Jamaique - Blue Mountain",
-      "originCountry": null,
+      "originCountry": "Jamaïque",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -412,7 +412,7 @@
     {
       "id": "cafe-d-auteur-p104",
       "name": "Colombia - Geisha",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -445,7 +445,7 @@
     {
       "id": "cafe-d-auteur-p90",
       "name": "Indonésie - Kopi Luwak",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,

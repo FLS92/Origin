@@ -16,7 +16,7 @@
     {
       "id": "early-bird-ethiopie-sidama",
       "name": "Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "early-bird-ethiopia-sidama",
       "name": "Ethiopia",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "early-bird-tanzania",
       "name": "Tanzania",
-      "originCountry": null,
+      "originCountry": "Tanzanie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "early-bird-tanzania-songwe",
       "name": "Tanzania",
-      "originCountry": null,
+      "originCountry": "Tanzanie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "early-bird-colombia-3",
       "name": "Colombia",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "early-bird-colombia-huila-vanilla",
       "name": "Colombia",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "early-bird-costa-rica-4",
       "name": "Costa Rica",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -247,7 +247,7 @@
     {
       "id": "early-bird-costa-rica-3",
       "name": "Costa Rica",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -280,7 +280,7 @@
     {
       "id": "early-bird-guatemala-2",
       "name": "Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "early-bird-guatemala-alta-verapaz",
       "name": "Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "early-bird-costa-rica",
       "name": "Costa Rica",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -379,7 +379,7 @@
     {
       "id": "early-bird-colombia-2",
       "name": "Colombia",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -412,7 +412,7 @@
     {
       "id": "early-bird-colombia",
       "name": "Colombia",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -478,7 +478,7 @@
     {
       "id": "early-bird-bresil-cerrado",
       "name": "Brésil",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -511,7 +511,7 @@
     {
       "id": "early-bird-honduras-corquin",
       "name": "Honduras",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -544,7 +544,7 @@
     {
       "id": "early-bird-ethiopie-guji-2",
       "name": "Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,

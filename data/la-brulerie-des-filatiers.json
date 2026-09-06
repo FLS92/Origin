@@ -49,7 +49,7 @@
     {
       "id": "la-brulerie-des-filatiers-p801",
       "name": "Boite de capsules (x10) COSTA-Rica - Buho",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "la-brulerie-des-filatiers-p803",
       "name": "Boite de capsules (x10) HONDURAS - Alégria",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "la-brulerie-des-filatiers-p804",
       "name": "Boite de capsules (x10) MEXIQUE - Décaféiné",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "la-brulerie-des-filatiers-p800",
       "name": "Boite de capsules (x10) SALVADOR - Espresso Blend",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -156,7 +156,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -214,7 +214,7 @@
     {
       "id": "la-brulerie-des-filatiers-p906",
       "name": "Brésil - Dulces suenos - décaféiné",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": "CO2 décaféiné",
       "variety": "100 % arabica - Mélange de variétés ​​",
@@ -247,7 +247,7 @@
     {
       "id": "la-brulerie-des-filatiers-p910",
       "name": "Brésil - Mogiana - Fazenda Aliança",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": "Nature",
       "variety": "Catuai jaune ​ ​",
@@ -379,7 +379,7 @@
     {
       "id": "la-brulerie-des-filatiers-p930",
       "name": "ETHIOPIE - Beloya - Yirgacheffe",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": "Lavé",
       "variety": "Arabica - Heirloom ​​",
@@ -412,7 +412,7 @@
     {
       "id": "la-brulerie-des-filatiers-p814",
       "name": "ETHIOPIE - Oromia",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": "Lavé",
       "variety": "Arabica - Heirloom ​ ​",
@@ -445,7 +445,7 @@
     {
       "id": "la-brulerie-des-filatiers-p1904",
       "name": "ETHIOPIE - Sidama - Bombe G1",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": "Nature - fermentation aux levures",
       "variety": "Arabica - Heirloom ​​",
@@ -544,7 +544,7 @@
     {
       "id": "la-brulerie-des-filatiers-p1903",
       "name": "GUATEMALA - Huehuetenango - El Panal",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": "Nature",
       "variety": "Bourbon, Caturra & Catuaï ​​",

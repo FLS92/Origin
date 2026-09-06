@@ -524,7 +524,7 @@
     {
       "id": "montista-amankaya-guatemala",
       "name": "Amankaya | Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": "Huehuetenango, La Libertad 📍",
       "process": "Anaerobique, naturel. 🍃",
       "variety": "Caturra, Sarchimor, Bourbon ☀️",
@@ -627,7 +627,7 @@
     {
       "id": "montista-el-puente",
       "name": "El Puente | Honduras",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": "Marcala & Masaguara 📍",
       "process": "Extended Natural 🍃",
       "variety": "Catuai rouge ☀️",
@@ -730,7 +730,7 @@
     {
       "id": "montista-la-esperanza",
       "name": "La Esperanza | Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -763,9 +763,9 @@
     {
       "id": "montista-c-huehuetepan-lave",
       "name": "Huehuetepan Lavé | Mexique",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": "Typica",
       "producer": null,
       "score": null,
@@ -796,9 +796,9 @@
     {
       "id": "montista-huehuetepan",
       "name": "Huehuetepan Naturel | Mexique",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
+      "process": "Naturel",
       "variety": "Typica",
       "producer": null,
       "score": null,
@@ -862,7 +862,7 @@
     {
       "id": "montista-c-suke-afursa",
       "name": "Suke Afursa | Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -928,7 +928,7 @@
     {
       "id": "montista-c-blend3",
       "name": "Blend #3 | Inde & Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,

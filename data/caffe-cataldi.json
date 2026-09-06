@@ -16,7 +16,7 @@
     {
       "id": "caffe-cataldi-p557",
       "name": "Kenya Inoi Kianderi AA",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "caffe-cataldi-p556",
       "name": "Rwanda Gitesi",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "caffe-cataldi-p550",
       "name": "Honduras Caballero - Bomba de Fruta",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "caffe-cataldi-p548",
       "name": "Guatemala La Libertad Mochilita",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "caffe-cataldi-p545",
       "name": "Pérou Décaféiné Manzanilla",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "caffe-cataldi-p536",
       "name": "Colombie Geisha Hervey et Rocio Cuellar",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "caffe-cataldi-p532",
       "name": "Brésil FAF Curupira",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -247,7 +247,7 @@
     {
       "id": "caffe-cataldi-p519",
       "name": "Colombie Huila Remolinos",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,

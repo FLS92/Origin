@@ -120,7 +120,7 @@
     {
       "id": "pikaro-coffee-l-expresso-blend-cafe-de-specialite-du-salvador-importe-a-la-voile",
       "name": "L’Expresso Blend : Café de spécialité du Salvador importé à la voile",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -128,7 +128,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Sucre brun",
@@ -159,7 +159,7 @@
     {
       "id": "pikaro-coffee-kenya-aa",
       "name": "Le Bahatie blue :  Café de spécialité du Kenya",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -197,7 +197,7 @@
     {
       "id": "pikaro-coffee-le-greengo-cafe-de-specialite-du-rwanda-bio",
       "name": "Le Greengo : Café de spécialité du Rwanda Bio",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": "Bourbon rouge Score SCA de 83",
@@ -234,7 +234,7 @@
     {
       "id": "pikaro-coffee-le-guarani-cafe-du-bresil",
       "name": "Le Guarani : Café de spécialité du Brésil",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -309,7 +309,7 @@
     {
       "id": "pikaro-coffee-le-limon-cafe-de-colombie-importe-a-la-voile",
       "name": "Le Limon : Café de spécialité de Colombie importé à la voile",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,

@@ -16,7 +16,7 @@
     {
       "id": "arlo-s-coffee-rwanda-murambi-bio",
       "name": "RWANDA - MURAMBI - BIO",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "arlo-s-coffee-ouganda-jukia",
       "name": "OUGANDA - JUKIA",
-      "originCountry": null,
+      "originCountry": "Ouganda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "arlo-s-coffee-equateur-tulipe",
       "name": "EQUATEUR - TULIPE",
-      "originCountry": null,
+      "originCountry": "Équateur",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "arlo-s-coffee-https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
       "name": "COLOMBIE - COMUNEROS BIO",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "arlo-s-coffee-colombie-tolima",
       "name": "COLOMBIE - TOLIMA BIO",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "arlo-s-coffee-ethiopie-ali-bio",
       "name": "ETHIOPIE - ALI BIO",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -247,7 +247,7 @@
     {
       "id": "arlo-s-coffee-bresil-silvia",
       "name": "BRESIL - SYLVIA",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "arlo-s-coffee-honduras-marco",
       "name": "HONDURAS - MARCO BIO",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,

@@ -16,7 +16,7 @@
     {
       "id": "cafe-come-baho-rwanda",
       "name": "BAHO-RWANDA",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "cafe-come-la-alpina-salvador",
       "name": "LA ALPINA-SALVADOR",
-      "originCountry": null,
+      "originCountry": "Salvador",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "cafe-come-ketiara-gayo-indonesie",
       "name": "KETIARA GAYO-INDONESIE",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "cafe-come-harrar-ethiopie",
       "name": "HARRAR-ETHIOPIE",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -247,7 +247,7 @@
     {
       "id": "cafe-come-los-hernandez-costa-rica",
       "name": "LOS HERNANDEZ-COSTA RICA",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -280,7 +280,7 @@
     {
       "id": "cafe-come-el-palomar-perou",
       "name": "EL PALOMAR-PEROU",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "cafe-come-supremo-colombie-2",
       "name": "SUPREMO-COLOMBIE",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "cafe-come-minasul-bresil",
       "name": "MINASUL-BRESIL",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -379,7 +379,7 @@
     {
       "id": "cafe-come-santa-rosa-guatemala-2",
       "name": "SANTA ROSA-GUATEMALA",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -445,7 +445,7 @@
     {
       "id": "cafe-come-yirgacheffe-ethiopie-2",
       "name": "LAS NUBES-NICARAGUA",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -478,7 +478,7 @@
     {
       "id": "cafe-come-decafeine-mexique-2",
       "name": "DECAFEINE-MEXIQUE",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -511,7 +511,7 @@
     {
       "id": "cafe-come-kivu-congo-2",
       "name": "KIVU-CONGO",
-      "originCountry": null,
+      "originCountry": "RD Congo",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -544,7 +544,7 @@
     {
       "id": "cafe-come-test-variations",
       "name": "NAHUA-MEXIQUE",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,

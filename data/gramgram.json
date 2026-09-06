@@ -16,7 +16,7 @@
     {
       "id": "gramgram-cafe-honduras-copan",
       "name": "Café HONDURAS – COPAN",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -156,7 +156,7 @@
     {
       "id": "gramgram-cafe-nicaragua-san-jose",
       "name": "Café NICARAGUA – San José",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -263,7 +263,7 @@
     {
       "id": "gramgram-cafe-bresil-santa-caete",
       "name": "Café BRESIL – SANTA CAETE",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": "Arabicas Catuai",
@@ -568,7 +568,7 @@
     {
       "id": "gramgram-cafe-bresil-guarani",
       "name": "Café BRESIL – GUARANI",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": "Arabicas Blend de variétés Notes de fruits rouges",

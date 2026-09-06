@@ -16,7 +16,7 @@
     {
       "id": "moka-maritza-nicaragua",
       "name": "Maritza – Nicaragua",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": "À COMPLÉTER",
@@ -49,7 +49,7 @@
     {
       "id": "moka-lonya-perou",
       "name": "Lonya – Pérou",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": "À COMPLÉTER",
@@ -82,7 +82,7 @@
     {
       "id": "moka-zocapa-mexique",
       "name": "Zocapa – Mexique",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "moka-shanga-rwanda",
       "name": "Shanga – Rwanda",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": "Bourbon",
@@ -148,7 +148,7 @@
     {
       "id": "moka-julio-cesar-colombie",
       "name": "Julio César – Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": "Caturra",
@@ -181,7 +181,7 @@
     {
       "id": "moka-misadhi-kenya",
       "name": "Misadhi – Kenya",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": "Ruiru 11, Batian, SL28, SL34",
@@ -214,7 +214,7 @@
     {
       "id": "moka-edilberto-colombie",
       "name": "Edilberto – Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": "Bourbon rouge",
@@ -247,7 +247,7 @@
     {
       "id": "moka-cerrado-bresil",
       "name": "Cerrado – Brésil",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": "Arabica, Catuai & Mundo Novo",
@@ -280,7 +280,7 @@
     {
       "id": "moka-alma-guatemala",
       "name": "Alma – Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": "Lavé ESPRESSO • ITALIENNE • ORIENTALE",
       "variety": "Arabica Bourbon Catuai & Caturra",
@@ -313,7 +313,7 @@
     {
       "id": "moka-copanito-honduras",
       "name": "Copanito – Honduras",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": "Catuai, Icatú, Lempira et Parainema",
@@ -346,7 +346,7 @@
     {
       "id": "moka-hadama-ethiopie",
       "name": "Hadama – Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": "Heirloom",
@@ -379,7 +379,7 @@
     {
       "id": "moka-negele-ethiopie",
       "name": "Négélé – Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": "variétés JARC",
@@ -412,7 +412,7 @@
     {
       "id": "moka-melaku-ethiopie",
       "name": "Melaku – Éthiopie",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": "JARC 74112 74158 74110",
@@ -445,7 +445,7 @@
     {
       "id": "moka-palestina-colombie",
       "name": "Palestina – Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": "Castillo, Caturra & Colombia",
@@ -478,7 +478,7 @@
     {
       "id": "moka-lucha-libre-mexique",
       "name": "Lucha Libre – Mexique",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": "voie humide/lavé ESPRESSO • ITALIENNE • FILTRE",
       "variety": "Bourbon, Typica; Catimor",
@@ -511,7 +511,7 @@
     {
       "id": "moka-rosa-colombie-bio",
       "name": "Rosa – Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": "Naturel FILTRE • ESPRESSO • ITALIENNE",
       "variety": "Castillo, Caturra & Colombia",
@@ -544,7 +544,7 @@
     {
       "id": "moka-decaf-colombie",
       "name": "Decaf – Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": "Sugarcane",
       "variety": "Arabica, Catuai & Mundo Novo",
@@ -577,7 +577,7 @@
     {
       "id": "moka-nobo-nicaragua",
       "name": "Nobo – Nicaragua",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": "Red & yellow Catuai, Red & Yellow Caturra, Bourbon, Pache",

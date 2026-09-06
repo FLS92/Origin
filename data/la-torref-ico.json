@@ -55,7 +55,7 @@
     {
       "id": "la-torref-ico-espresso-chr-bio-cafe-en-grain-pro",
       "name": "Espresso blend - Rwanda & Honduras - Icö Torréfaction",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": "Nature & Lavé",
       "variety": null,
@@ -63,7 +63,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat noir",

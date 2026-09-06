@@ -16,7 +16,7 @@
     {
       "id": "cafe-claudio-nelda-cafe-de-colombie-boubon-rose-notes-de-jasmin-et-citronelle",
       "name": "Café de Colombie : Boubon Rose (Notes de jasmin et citronelle)",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,9 +49,9 @@
     {
       "id": "cafe-claudio-nelda-cafe-de-colombie-caturra-lave-notes-de-cranberrie-et-panela",
       "name": "Café de Colombie : Caturra Lavé (notes de Cranberrie et Panela)",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -82,7 +82,7 @@
     {
       "id": "cafe-claudio-nelda-cafe-du-perou",
       "name": "Café du Perou : Cajamarca Huabal. Notes de noisettes et de Panela.",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
       "variety": "Catuaï Rouge",
@@ -115,7 +115,7 @@
     {
       "id": "cafe-claudio-nelda-cafe-de-bolivie-collasuyo",
       "name": "Café de Bolivie : Collasuyo. Notes de citron vert, amandes.",
-      "originCountry": null,
+      "originCountry": "Bolivie",
       "originDetail": null,
       "process": "﻿Nature ﻿",
       "variety": "﻿Caturra Rouge ﻿",
@@ -148,7 +148,7 @@
     {
       "id": "cafe-claudio-nelda-cafe-du-bresil",
       "name": "Café du Bresil : Matas de Minas",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "cafe-claudio-nelda-cafe-du-honduras-marcala-bio",
       "name": "Café du Honduras : Marcala-BIO Le Ceiba , Notes de poivre, de noix, de cacahuète",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": "﻿Honey ﻿",
       "variety": "Arabica",
@@ -214,7 +214,7 @@
     {
       "id": "cafe-claudio-nelda-nicaragua",
       "name": "Café du Nicaragua : Nueva Segovia, Dipilto. Notes de miel, de nougatine.",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": "Lavé",
       "variety": "A rabica",
@@ -247,7 +247,7 @@
     {
       "id": "cafe-claudio-nelda-quindio-les-meilleurs-cafes",
       "name": "Café du Guatemala : Santa felisa Grand Cru de spécialité. Notes de coing, de sucre roux.",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": "Pacamara, Catuai, Typica Gesha",
@@ -280,7 +280,7 @@
     {
       "id": "cafe-claudio-nelda-sentir-andino",
       "name": "Café de Colombie : Guayabal de Siquima El Carmelo. Notes de raisin sec, floral",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": "Lavé Producteur Isaura",
       "variety": "Tabi",

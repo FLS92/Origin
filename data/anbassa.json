@@ -16,7 +16,7 @@
     {
       "id": "anbassa-cafe-exception-dipilto-maragogype-nicaragua",
       "name": "Café Dipilto Maragogype Nicaragua",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": "Nature",
       "variety": "Maragogype",
@@ -115,7 +115,7 @@
     {
       "id": "anbassa-cafe-exception-namisuni-ouganda",
       "name": "Café Namisuni Ouganda",
-      "originCountry": null,
+      "originCountry": "Ouganda",
       "originDetail": null,
       "process": "Nature",
       "variety": "SL14, SL28",
@@ -148,7 +148,7 @@
     {
       "id": "anbassa-cafe-exception-bahati-blue-kenya",
       "name": "Café BAHATI BLUE Kenya",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": "Lavé",
       "variety": "Batien et ruiru11",
@@ -181,7 +181,7 @@
     {
       "id": "anbassa-cafe-exception-lo-de-morales-guatemala",
       "name": "Café LO DE MORALES Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": "Lavé",
       "variety": "Pacamara Rouge",

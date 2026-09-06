@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Re-applies label_extract.extract_labeled_fields to every available
-product using freshly re-fetched text (not just the ones with every field
-still null, unlike harvest_raw_text.py + backfill_labeled_fields.py) — for
-when label_extract.py's rules improve and existing products could benefit,
-not just newly-scraped ones. Never overwrites a field that already has a
-value.
+"""Re-applies title_extract.extract_from_title (always, from p["name"]) and
+label_extract.extract_labeled_fields (when description text is available,
+freshly re-fetched) to every available product — not just the ones with
+every field still null, unlike harvest_raw_text.py + backfill_labeled_
+fields.py — for when these rules improve and existing products could
+benefit, not just newly-scraped ones. Never overwrites a field that
+already has a value.
 
 Usage: python3 scripts/backfill_all.py [roaster_id ...]
 """
@@ -15,6 +16,7 @@ import sys
 sys.path.insert(0, ".")
 from scripts.harvest_raw_text import DISPATCH  # noqa: E402
 from scrapers.common.label_extract import extract_labeled_fields  # noqa: E402
+from scrapers.common.title_extract import extract_from_title  # noqa: E402
 
 SCHEMA_FIELDS = [
     "originCountry", "originDetail", "process", "variety", "producer",
@@ -49,17 +51,22 @@ def main():
         try:
             text_by_slug = DISPATCH[meta["platform"]](meta)
         except Exception as exc:
-            print(f"{meta['name']}: skip ({exc})", file=sys.stderr)
-            continue
+            # Title extraction below doesn't need this fetch at all -- don't
+            # skip the whole roaster over it, just proceed with no
+            # description text (label_extract simply won't run for it).
+            print(f"{meta['name']}: description re-fetch failed ({exc}), title-only", file=sys.stderr)
+            text_by_slug = {}
 
         roaster_changed = False
         roaster_updated = 0
         for p in available:
             slug = p["id"][len(roaster_id) + 1:]
             text = text_by_slug.get(slug)
-            if not text:
-                continue
-            fields = extract_labeled_fields(text)
+            fields = extract_from_title(p["name"])
+            if text:
+                labeled = extract_labeled_fields(text)
+                for k, v in labeled.items():
+                    fields.setdefault(k, v)
             product_changed = False
             for field, value in fields.items():
                 if p.get(field) is None and value is not None:

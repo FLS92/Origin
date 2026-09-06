@@ -16,7 +16,7 @@
     {
       "id": "torrea-cafe-san-rafael-bresil-commerce-equitable",
       "name": "Café San Rafael – Brésil, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "torrea-cafe-ethiopie-salomon-commerce-equitable",
       "name": "Café ÉTHIOPIE – Salomon, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,7 +148,7 @@
     {
       "id": "torrea-cafe-capucas-honduras-commerce-equitable",
       "name": "Café CAPUCAS – HONDURAS, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -187,7 +187,7 @@
     {
       "id": "torrea-cafe-equateur-palanda-commerce-equitable",
       "name": "Café ÉQUATEUR – PALANDA, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Équateur",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -385,7 +385,7 @@
     {
       "id": "torrea-cafe-cauca-colombie-commerce-equitable",
       "name": "Café CAUCA – COLOMBIE, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -418,7 +418,7 @@
     {
       "id": "torrea-cafe-triunfo-mexique-commerce-equitable",
       "name": "Café EL TRIUNFO – Mexique, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -451,7 +451,7 @@
     {
       "id": "torrea-cafe-el-palomar-perou-commerce-equitable",
       "name": "Café EL PALOMAR – PÉROU, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -484,7 +484,7 @@
     {
       "id": "torrea-cafe-kitche-guatemala-commerce-equitable",
       "name": "Café KITCHÉ – Guatemala, Commerce Équitable",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -517,7 +517,7 @@
     {
       "id": "torrea-cafe-vert-honduras",
       "name": "Café vert Honduras – Marcala",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -550,7 +550,7 @@
     {
       "id": "torrea-cafe-vert-colombie-huila",
       "name": "Café vert Colombie – Huila",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -583,7 +583,7 @@
     {
       "id": "torrea-drip-cofffee-bag-boite-de-7-sachets",
       "name": "Drip Coffee Bag – Honduras (boîte de 7 sachets)",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": null,
       "variety": null,

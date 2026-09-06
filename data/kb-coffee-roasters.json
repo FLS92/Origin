@@ -427,7 +427,7 @@
     {
       "id": "kb-coffee-roasters-espresso-guatemala-el-panal",
       "name": "Espresso - Guatemala - El Panal",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": "La Libertad, Huehuetenango",
       "process": "Naturel",
       "variety": "Caturra, Catuai, Bourbon",

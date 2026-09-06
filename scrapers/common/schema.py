@@ -15,6 +15,7 @@ from datetime import datetime, timezone
 from .coffee_filter import excluded_reason
 from .label_extract import extract_labeled_fields
 from .paraphrase import analyze_product, strip_html
+from .title_extract import extract_from_title
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data")
 
@@ -79,17 +80,23 @@ ENRICHMENT_FIELDS = ["score", "producer", "process", "variety", "method", "flavo
 
 def _new_product_dict(roaster_id, raw, ts):
     pid = f"{roaster_id}-{raw.slug}"
+    from_title = extract_from_title(raw.name)
     labeled = extract_labeled_fields(strip_html(raw.raw_description_html))
     analysis = analyze_product(raw.name, raw.raw_description_html)
 
     # Precedence: the platform's own structured data first (a WooCommerce
-    # attribute, Magento's hover-panel), then the deterministic "Label :
-    # Value" reader (free, runs with no API key), then the LLM extraction
-    # (needs ANTHROPIC_API_KEY) fills whatever's still missing.
+    # attribute, Magento's hover-panel), then a country/process/method word
+    # in the product's own title (short and deliberate, e.g. "Rumudamo
+    # [Natural]" -- more trustworthy than a stray mention in a paragraph),
+    # then the deterministic "Label : Value" description reader (free, no
+    # API key), then the LLM extraction (needs ANTHROPIC_API_KEY) fills
+    # whatever's still missing.
     fields = {f: None for f in SCHEMA_FIELDS}
     for f in SCHEMA_FIELDS:
         if raw.extracted.get(f) is not None:
             fields[f] = raw.extracted[f]
+        elif from_title.get(f) is not None:
+            fields[f] = from_title[f]
         elif labeled.get(f) is not None:
             fields[f] = labeled[f]
         elif analysis.get(f) is not None:
@@ -159,12 +166,16 @@ def apply_products(roaster_meta, raw_products):
             # mapping, a fixed selector) would only ever benefit products
             # first seen after the fix; every existing one stays stuck with
             # whatever was extracted the day it was first scraped.
+            from_title = extract_from_title(raw.name)
             labeled = extract_labeled_fields(strip_html(raw.raw_description_html))
             for f in SCHEMA_FIELDS:
                 if p.get(f) is not None:
                     continue
                 if raw.extracted.get(f) is not None:
                     p[f] = raw.extracted[f]
+                    changed = True
+                elif from_title.get(f) is not None:
+                    p[f] = from_title[f]
                     changed = True
                 elif labeled.get(f) is not None:
                     p[f] = labeled[f]

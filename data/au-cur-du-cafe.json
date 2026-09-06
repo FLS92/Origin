@@ -16,7 +16,7 @@
     {
       "id": "au-cur-du-cafe-costa-rica-tarrazu",
       "name": "Costa Rica Tarrazu",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -59,7 +59,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Equilibré"
@@ -86,7 +86,7 @@
     {
       "id": "au-cur-du-cafe-guetemala-huehuetenango",
       "name": "Guatemala Huehuetenango",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -121,7 +121,7 @@
     {
       "id": "au-cur-du-cafe-mexique-chocaman-altura",
       "name": "Mexique Chocamán - Altura",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -158,7 +158,7 @@
     {
       "id": "au-cur-du-cafe-nicaragua",
       "name": "Nicaragua",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -232,7 +232,7 @@
     {
       "id": "au-cur-du-cafe-bresil-caparao-bob-o-link",
       "name": "Brésil Caparao - Bob O Link",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -302,7 +302,7 @@
     {
       "id": "au-cur-du-cafe-bresil-bahia",
       "name": "Brésil Bahia",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -340,7 +340,7 @@
     {
       "id": "au-cur-du-cafe-ethiopie-moka-yrgacheffe",
       "name": "Ethiopie Moka Yrgacheffe",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -376,7 +376,7 @@
     {
       "id": "au-cur-du-cafe-kenya",
       "name": "Kenya Chania Estate Caracoli",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -412,7 +412,7 @@
     {
       "id": "au-cur-du-cafe-ethiopie-decafeine",
       "name": "Ethiopie Décaféiné",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -445,7 +445,7 @@
     {
       "id": "au-cur-du-cafe-blue-mountain-jamaique",
       "name": "Blue Mountain de Jamaïque",
-      "originCountry": null,
+      "originCountry": "Jamaïque",
       "originDetail": null,
       "process": null,
       "variety": null,

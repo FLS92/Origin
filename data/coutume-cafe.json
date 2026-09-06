@@ -445,7 +445,7 @@
     {
       "id": "coutume-cafe-cafe-bresil-mogiana-1kg",
       "name": "Café Brésil Mogiana 1kg",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -478,7 +478,7 @@
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-250g",
       "name": "Café Brésil Mogiana 250g",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -511,7 +511,7 @@
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-2-kg",
       "name": "Café Brésil Mogiana 2kg",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -544,7 +544,7 @@
     {
       "id": "coutume-cafe-filadelfia",
       "name": "Café Colombie Filadelfia 1kg",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -577,7 +577,7 @@
     {
       "id": "coutume-cafe-cafe-colombie-filadelfia-250g",
       "name": "Café Colombie Filadelfia 250g",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -610,7 +610,7 @@
     {
       "id": "coutume-cafe-cafe-colombie-filadelfia-2kg",
       "name": "Café Colombie Filadelfia 2kg",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -643,7 +643,7 @@
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-la-cristalina-1kg",
       "name": "Café Colombie La Cristalina 1kg",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -676,7 +676,7 @@
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-la-cristalina-250g",
       "name": "Café Colombie La Cristalina 250g",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -709,7 +709,7 @@
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-1kg",
       "name": "Café Décaféiné Mexique Sueño 1kg",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -742,7 +742,7 @@
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-250g",
       "name": "Café Décaféiné Mexique Sueño 250g",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -775,7 +775,7 @@
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-2kg",
       "name": "Café Décaféiné Mexique Sueño 2kg",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -808,7 +808,7 @@
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-1kg",
       "name": "Café Ethiopie Bedaye 1kg",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -841,7 +841,7 @@
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-250g",
       "name": "Café Ethiopie Bedaye 250g",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -874,7 +874,7 @@
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-2kg",
       "name": "Café Ethiopie Bedaye 2kg",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -907,7 +907,7 @@
     {
       "id": "coutume-cafe-cafe-ethiopie-sedi-loya-bio-2kg-copie",
       "name": "Café Éthiopie Sedi Loya BIO 2kg",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -973,7 +973,7 @@
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-guatemala-bendicion-1kg",
       "name": "Café Guatemala Bendición 1kg",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1006,7 +1006,7 @@
     {
       "id": "coutume-cafe-cafe-guatemala-bendicion-250g",
       "name": "Café Guatemala Bendición 250g",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1039,7 +1039,7 @@
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
       "name": "Café Guatemala Bendición 2kg",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1072,7 +1072,7 @@
     {
       "id": "coutume-cafe-tajumulco",
       "name": "Café Guatemala Tajumulco 1kg",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1105,7 +1105,7 @@
     {
       "id": "coutume-cafe-cafe-guatemala-tajumulco-250g",
       "name": "Café Guatemala Tajumulco 250g",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,

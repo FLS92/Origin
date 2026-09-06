@@ -223,7 +223,7 @@
     {
       "id": "tinto-bocadillo-cafe-colombie-250g-1kg",
       "name": "Bocadillo- Café de Colombie (250g – 1Kg)",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": "Huila – Oporapa",
       "process": "Nature",
       "variety": "Castillo, Colombia",
@@ -261,7 +261,7 @@
     {
       "id": "tinto-pura-vida-mae-cafe-de-costa-rica-250g-1kg",
       "name": "Pura Vida, Mae! – Café de Costa Rica (250g – 1Kg)",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": "Tarrazú, Costa Rica",
       "process": null,
       "variety": "Red Catuai",
@@ -297,7 +297,7 @@
     {
       "id": "tinto-komothai-cafe-du-kenya-250g-1kg",
       "name": "Komothai – Café du Kenya (250g – 1Kg)",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": "Kiambu",
       "process": null,
       "variety": "SL28, SL34, Ruiru 11",
@@ -336,7 +336,7 @@
     {
       "id": "tinto-quilombo-cafe-bresilien-250g-1kg",
       "name": "Quilombo – Café du Brésil (250g – 1Kg)",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": "Sud de Minas Gerais",
       "process": null,
       "variety": "Catuai",

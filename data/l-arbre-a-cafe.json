@@ -643,7 +643,7 @@
     {
       "id": "l-arbre-a-cafe-bourbon-pointu-grand-cru",
       "name": "Bourbon Pointu de la Réunion",
-      "originCountry": null,
+      "originCountry": "La Réunion",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -742,7 +742,7 @@
     {
       "id": "l-arbre-a-cafe-saqulew",
       "name": "Saqülew —  Café Guatemala",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,

@@ -109,15 +109,6 @@
   .detail h2{ margin:0 0 4px; font-size:26px; }
   .detail .origin{ color:var(--muted); font-size:14px; margin-bottom:20px; }
 
-  .profile-row{ display:flex; gap:24px; align-items:center; margin-bottom:22px; flex-wrap:wrap; }
-  .profile-row .dial-arc{ width:60px; height:60px; }
-  .bars{ flex:1; min-width:180px; display:flex; flex-direction:column; gap:8px; }
-  .bar-item{ display:flex; align-items:center; gap:10px; }
-  .bar-item .lbl{ width:70px; font-size:12px; color:var(--muted); flex-shrink:0; }
-  .bar-track{ flex:1; height:6px; background:var(--panel-light); border-radius:4px; overflow:hidden; }
-  .bar-fill{ height:100%; background:var(--gold); border-radius:4px; }
-  .bar-val{ font-size:11.5px; color:var(--muted); width:70px; flex-shrink:0; text-align:right; }
-
   .desc{ font-size:14.5px; line-height:1.65; color:var(--cream); margin-bottom:20px; }
   .meta-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px; }
   .meta-item{ background:var(--panel-light); border-radius:10px; padding:12px 14px; }
@@ -724,8 +715,6 @@ function processCategory(process){
 }
 
 
-const QUAL_PCT = {'Faible':20,'Délicat':30,'Moyenne':50,'Moyen':50,'Vive':75,'Élevée':85,'Soyeux':55,'Liquoreux':80,'Rond':70,'Intense':85,'Moyen-élevé':65,'Moyenne-élevée':70,'Moyen-léger':40};
-
 function cheapestLabel(c){
   const prices = c.retailers.map(r=>r.price);
   if(prices.length===1) return prices[0];
@@ -1179,13 +1168,6 @@ async function openDetail(id){
     </div>
     <h2>${c.name}</h2>
     <div class="origin">${na(c.origin)?'Origine indisponible':c.origin} · ${na(c.process)?'Process indisponible':c.process}</div>
-
-    <div class="profile-row">
-      <div class="bars">
-        <div class="bar-item"><span class="lbl">Acidité</span><div class="bar-track"><div class="bar-fill" style="width:${na(c.acidity)?0:(QUAL_PCT[c.acidity]||50)}%"></div></div><span class="bar-val">${na(c.acidity)?'Indisponible':c.acidity}</span></div>
-        <div class="bar-item"><span class="lbl">Corps</span><div class="bar-track"><div class="bar-fill" style="width:${na(c.body)?0:(QUAL_PCT[c.body]||50)}%"></div></div><span class="bar-val">${na(c.body)?'Indisponible':c.body}</span></div>
-      </div>
-    </div>
 
     <p class="desc">${na(c.desc)?'Description indisponible pour ce café.':c.desc}</p>
 

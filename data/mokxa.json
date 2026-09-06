@@ -49,7 +49,7 @@
     {
       "id": "mokxa-cafe-saudade-blend",
       "name": "Saudade - Blend du Brésil",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "mokxa-sitiodatorre",
       "name": "Sitio da Torre - Café du Brésil",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -181,7 +181,7 @@
     {
       "id": "mokxa-santarosa-guatemala-bio",
       "name": "Santa Rosa - Café du Guatemala BIO",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "mokxa-ayni-cafe-du-perou",
       "name": "Ayni - Café du Pérou",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -247,7 +247,7 @@
     {
       "id": "mokxa-taba-cafe-du-rwanda",
       "name": "Taba - Café du Rwanda BIO",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -280,7 +280,7 @@
     {
       "id": "mokxa-decafeine-cafe-de-colombie",
       "name": "Décaféiné - Café de Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "mokxa-coba-cafe-dethiopie",
       "name": "Coba - Café d'Éthiopie BIO",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "mokxa-higueronal-cafe-de-costa-rica",
       "name": "Higueronal - Café de Costa Rica",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -412,7 +412,7 @@
     {
       "id": "mokxa-los-lirios-cafe-du-nicaragua-bio-2026",
       "name": "Los Lirios - Café du Nicaragua BIO",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -445,7 +445,7 @@
     {
       "id": "mokxa-don-lino-cafe-de-colombie",
       "name": "Don Lino - Café de Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -478,7 +478,7 @@
     {
       "id": "mokxa-el-silencio-geisha-cafe-de-colombie",
       "name": "El Silencio Geisha - Café de Colombie",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,

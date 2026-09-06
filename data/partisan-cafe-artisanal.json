@@ -16,7 +16,7 @@
     {
       "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
       "name": "KENYA AB KIANGOI 250g",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": "Kirinyaga Nearest",
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
       "name": "PERU Agua Colorada 250g",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "partisan-cafe-artisanal-ethiopie-biftu-250g",
       "name": "COLOMBIE ALTO CIELO 250g",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
       "name": "COLOMBIE LOS DIECINUEVE DECAF 250g",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,

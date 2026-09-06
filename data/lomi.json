@@ -264,7 +264,7 @@
     {
       "id": "lomi-caf-du-prou-smesure-blas",
       "name": "Café du Pérou s/mesure - Machefert",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
       "variety": null,
@@ -299,7 +299,7 @@
     {
       "id": "lomi-caf-de-colombie-smesure-eklo",
       "name": "Café s/mesure Colombie - Eklo",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -332,7 +332,7 @@
     {
       "id": "lomi-caf-du-prou-s-mesure-cesar-y-georgette",
       "name": "Café du Pérou s/mesure - Cesar y Georgette",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
       "variety": null,
@@ -472,7 +472,7 @@
     {
       "id": "lomi-deli-drinks-urban-red",
       "name": "Café Urban Red - Brésil s/mesure Delidrinks ",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": "Lavé/Nature",
       "variety": null,
@@ -507,7 +507,7 @@
     {
       "id": "lomi-deli-drinks-green-metropolitan",
       "name": "Café Green Metropolitan - Honduras BIO s/mesure Delidrink",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": null,
       "process": "Lavé/Nature",
       "variety": null,
@@ -579,7 +579,7 @@
     {
       "id": "lomi-caf-du-prou-las-damas-de-san-ignacio",
       "name": "Café du Pérou - Las Damas de San Ignacio",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
       "variety": null,

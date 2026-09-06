@@ -16,7 +16,7 @@
     {
       "id": "substance-panama-iris-estate-afterglow",
       "name": "Panama Iris Estate Afterglow",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -49,7 +49,7 @@
     {
       "id": "substance-panama-bambito-estate-geisha-2026",
       "name": "Panama Bambito Estate geisha",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -82,7 +82,7 @@
     {
       "id": "substance-panama-black-moon-farm-chiroso-21-33",
       "name": "Panama Black Moon Farm Chiroso Lot 21/33",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -115,7 +115,7 @@
     {
       "id": "substance-costa-rica-volcan-azul-geisha-2026",
       "name": "Costa Rica Volcan Azul geisha",
-      "originCountry": null,
+      "originCountry": "Costa Rica",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -148,9 +148,9 @@
     {
       "id": "substance-panama-elida-estate-loma-washed-crd",
       "name": "Panama Elida Estate Loma washed CRD",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -181,7 +181,7 @@
     {
       "id": "substance-colombia-la-roca-state-2026",
       "name": "Colombia La Roca State",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -214,7 +214,7 @@
     {
       "id": "substance-panama-morgan-estate-terroir",
       "name": "Panama Morgan Estate Terroir",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -247,7 +247,7 @@
     {
       "id": "substance-panama-finca-deborah-umbra",
       "name": "Panama Finca Deborah Umbra",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -280,7 +280,7 @@
     {
       "id": "substance-panama-mi-finquita-chibor-lot-126",
       "name": "Panama Mi Finquita Chibor Lot 126",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -313,7 +313,7 @@
     {
       "id": "substance-panama-auromar-firestone-2026",
       "name": "Panama Auromar Firestone",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -346,7 +346,7 @@
     {
       "id": "substance-panama-auromar-catalina",
       "name": "Panama Auromar Catalina",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -379,9 +379,9 @@
     {
       "id": "substance-colombia-finca-la-betania-red-honey",
       "name": "Colombia Finca La Betania Red Honey",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
+      "process": "Honey",
       "variety": null,
       "producer": null,
       "score": null,
@@ -412,9 +412,9 @@
     {
       "id": "substance-panama-elida-estate-falda-washed-crd",
       "name": "Panama Elida Estate Falda washed CRD",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -445,7 +445,7 @@
     {
       "id": "substance-panama-auromar-lupao",
       "name": "Panama Auromar Lupao",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -478,7 +478,7 @@
     {
       "id": "substance-ethiopia-banko-gotiti",
       "name": "Ethiopia Banko Gotiti",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -511,7 +511,7 @@
     {
       "id": "substance-kenya-kagumo",
       "name": "Kenya Kagumo",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -544,7 +544,7 @@
     {
       "id": "substance-panama-mi-finquita-chibor-lot-123",
       "name": "Panama Mi Finquita Chibor Lot 123",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -577,9 +577,9 @@
     {
       "id": "substance-panama-elida-estate-falda-natural-crd",
       "name": "Panama Elida Estate Falda natural CRD",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
-      "process": null,
+      "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
@@ -610,9 +610,9 @@
     {
       "id": "substance-panama-elida-estate-vuelta-washed-drd",
       "name": "Panama Elida Estate Vuelta washed DRD",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -643,7 +643,7 @@
     {
       "id": "substance-ethiopia-gesha-village-lot-e-22",
       "name": "Ethiopia Gesha Village Lot E-22",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -676,7 +676,7 @@
     {
       "id": "substance-panama-hacienda-la-esmeralda-fundador",
       "name": "Panama Hacienda La Esmeralda Fundador",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -709,9 +709,9 @@
     {
       "id": "substance-colombia-finca-la-betania",
       "name": "Colombia Finca La Betania Semi-Washed",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -742,7 +742,7 @@
     {
       "id": "substance-ethiopia-gesha-village-lot-137-2026",
       "name": "Ethiopia Gesha Village Lot 137",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -775,7 +775,7 @@
     {
       "id": "substance-ethiopia-gesha-village-lot-132",
       "name": "Ethiopia Gesha Village Lot 132",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -808,7 +808,7 @@
     {
       "id": "substance-ethiopia-gesha-village-lot-126-2026",
       "name": "Ethiopia Gesha Village Lot 126",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -841,7 +841,7 @@
     {
       "id": "substance-ethiopia-gesha-village-lot-127-2026",
       "name": "Ethiopia Gesha Village Lot 127",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -874,7 +874,7 @@
     {
       "id": "substance-panama-finca-deborah-horizon-2025",
       "name": "Panama Finca Deborah Horizon",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -907,7 +907,7 @@
     {
       "id": "substance-panama-finca-sophia-lot-95",
       "name": "Panama Finca Sophia lot 95",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -940,7 +940,7 @@
     {
       "id": "substance-panama-auromar-microlot",
       "name": "Panama Auromar Microlot",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -973,7 +973,7 @@
     {
       "id": "substance-ethiopia-wachile-garse",
       "name": "Ethiopia Wachile Garse",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1006,7 +1006,7 @@
     {
       "id": "substance-panama-finca-sophia-lot-120",
       "name": "Panama Finca Sophia lot 120",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1039,7 +1039,7 @@
     {
       "id": "substance-panama-finca-sophia-lot-136",
       "name": "Panama Finca Sophia lot 136",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1072,7 +1072,7 @@
     {
       "id": "substance-panama-elida-estate-aguacate-2025",
       "name": "Panama Elida Estate Aguacate",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1105,7 +1105,7 @@
     {
       "id": "substance-ethiopia-burtukaana-goro-bedesa",
       "name": "Ethiopia Burtukaana Goro Bedesa",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1138,7 +1138,7 @@
     {
       "id": "substance-panama-finca-sophia-lot-129",
       "name": "Panama Finca Sophia lot 129",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1171,7 +1171,7 @@
     {
       "id": "substance-panama-finca-sophia-geisha-2025-lot-122",
       "name": "Panama Finca Sophia lot 122",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1204,7 +1204,7 @@
     {
       "id": "substance-panama-iris-estate-terroir-2025",
       "name": "Panama Iris Estate Terroir",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1237,7 +1237,7 @@
     {
       "id": "substance-panama-finca-deborah-illumination-2025",
       "name": "Panama Finca Deborah Illumination",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1270,7 +1270,7 @@
     {
       "id": "substance-panama-hacienda-la-esmeralda-porton-5-nb",
       "name": "Panama Hacienda La Esmeralda Porton 5 NB",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1303,7 +1303,7 @@
     {
       "id": "substance-panama-hacienda-la-esmeralda-buenos-aires-8-fb",
       "name": "Panama Hacienda La Esmeralda Buenos Aires 8 FB",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1336,7 +1336,7 @@
     {
       "id": "substance-panama-iris-estate-illumination-2",
       "name": "Panama Iris Estate Illumination",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1369,7 +1369,7 @@
     {
       "id": "substance-panama-elida-estate-vuelta",
       "name": "Panama Elida Estate Vuelta",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1402,9 +1402,9 @@
     {
       "id": "substance-panama-mi-finquita-geisha-washed",
       "name": "Panama Mi Finquita geisha washed",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -1435,9 +1435,9 @@
     {
       "id": "substance-panama-mi-finquita-geisha-natural",
       "name": "Panama Mi Finquita geisha natural",
-      "originCountry": null,
+      "originCountry": "Panama",
       "originDetail": null,
-      "process": null,
+      "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
