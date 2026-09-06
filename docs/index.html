@@ -65,6 +65,13 @@
   .filter-group:last-child{ margin-bottom:0; }
   .fg-label{ display:block; font-size:11px; font-weight:700; color:var(--muted); text-transform:uppercase; letter-spacing:.5px; margin-bottom:8px; }
   .chips{ display:flex; gap:8px; flex-wrap:wrap; }
+  .roaster-list{
+    max-height:220px; overflow-y:auto; display:flex; flex-direction:column; gap:1px;
+    background:var(--panel-light); border:1px solid var(--line); border-radius:8px; padding:6px;
+  }
+  .roaster-list-item{ display:flex; align-items:center; gap:9px; padding:7px 9px; border-radius:6px; font-size:13.5px; cursor:pointer; }
+  .roaster-list-item:hover{ background:rgba(255,255,255,.05); }
+  .roaster-list-item input{ accent-color:var(--gold); cursor:pointer; flex-shrink:0; }
   .filter-row-inline{ display:flex; gap:24px; flex-wrap:wrap; }
   .filter-row-inline .filter-group{ flex:1; min-width:180px; }
   #filter-country, #filter-price-min, #filter-price-max{
@@ -497,7 +504,7 @@
         <span class="filters-title">Filtres</span>
         <button id="reset-filters" class="danger-link">Réinitialiser</button>
       </div>
-      <div class="filter-group"><span class="fg-label">Torréfacteur</span><div class="chips" id="filter-roaster"></div></div>
+      <div class="filter-group"><span class="fg-label">Torréfacteur</span><div class="roaster-list" id="filter-roaster"></div></div>
       <div class="filter-group"><span class="fg-label">Méthode</span><div class="chips" id="filter-usage"></div></div>
       <div class="filter-group"><span class="fg-label">Process</span><div class="chips" id="filter-process"></div></div>
       <div class="filter-group"><span class="fg-label">Note de la communauté</span><div class="chips" id="filter-rating"></div></div>
@@ -512,6 +519,7 @@
           </div>
         </div>
       </div>
+      <button class="primary" id="apply-filters" style="width:100%; margin-top:6px;">Valider les filtres</button>
     </div>
     <div class="grid" id="coffee-grid"></div>
   </div>
@@ -1389,7 +1397,18 @@ function toggleSetValue(set, val){ if(set.has(val)) set.delete(val); else set.ad
 
 function renderFilterChips(){
   const roasterEl = document.getElementById('filter-roaster');
-  roasterEl.innerHTML = Object.keys(ROASTERS).map(rid=>`<button class="rf-chip ${selectedRoasters.has(rid)?'active':''}" data-set="roaster" data-v="${rid}">${ROASTERS[rid].name}</button>`).join('');
+  const roasterIds = Object.keys(ROASTERS).sort((a,b)=> ROASTERS[a].name.localeCompare(ROASTERS[b].name));
+  roasterEl.innerHTML = roasterIds.map(rid=>`
+    <label class="roaster-list-item">
+      <input type="checkbox" data-v="${rid}" ${selectedRoasters.has(rid)?'checked':''}>
+      <span>${ROASTERS[rid].name}</span>
+    </label>`).join('');
+  roasterEl.querySelectorAll('input[type=checkbox]').forEach(cb=>{
+    cb.addEventListener('change', ()=>{
+      if(cb.checked) selectedRoasters.add(cb.dataset.v); else selectedRoasters.delete(cb.dataset.v);
+      updateFilterBadge();
+    });
+  });
 
   const usageEl = document.getElementById('filter-usage');
   const usages = ['Filtre','Espresso','Omni'];
@@ -1402,16 +1421,18 @@ function renderFilterChips(){
   const ratingEl = document.getElementById('filter-rating');
   ratingEl.innerHTML = RATING_TIERS.map(t=>`<button class="rf-chip ${selectedRatingTier===t.min?'active':''}" data-set="rating" data-v="${t.min}">${t.label}</button>`).join('');
 
+  // Selecting a filter here only updates the pending selection (chip state
+  // + badge count) -- the grid itself only re-renders once "Valider les
+  // filtres" is clicked, so picking several filters in a row doesn't
+  // re-filter the whole catalog after every single click.
   document.querySelectorAll('.chips .rf-chip').forEach(btn=>{
     btn.addEventListener('click', ()=>{
       const setName = btn.dataset.set;
       const val = btn.dataset.v;
-      if(setName==='roaster') toggleSetValue(selectedRoasters, val);
       if(setName==='usage') toggleSetValue(selectedUsages, val);
       if(setName==='process') toggleSetValue(selectedProcesses, val);
       if(setName==='rating') selectedRatingTier = (selectedRatingTier===parseFloat(val)) ? null : parseFloat(val);
       renderFilterChips();
-      renderGrid(document.getElementById('search-input').value);
     });
   });
 
@@ -2070,9 +2091,13 @@ document.getElementById('privacy-toggle').addEventListener('change', async (e)=>
 document.getElementById('search-input').addEventListener('input', (e)=> renderGrid(e.target.value));
 document.getElementById('filters-toggle').addEventListener('click', ()=> toggleFiltersPanel());
 document.getElementById('sort-select').addEventListener('change', ()=> renderGrid(document.getElementById('search-input').value));
-document.getElementById('filter-country').addEventListener('change', (e)=>{ selectedCountry = e.target.value; updateFilterBadge(); renderGrid(document.getElementById('search-input').value); });
-document.getElementById('filter-price-min').addEventListener('input', (e)=>{ priceMin = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); renderGrid(document.getElementById('search-input').value); });
-document.getElementById('filter-price-max').addEventListener('input', (e)=>{ priceMax = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); renderGrid(document.getElementById('search-input').value); });
+document.getElementById('filter-country').addEventListener('change', (e)=>{ selectedCountry = e.target.value; updateFilterBadge(); });
+document.getElementById('filter-price-min').addEventListener('input', (e)=>{ priceMin = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); });
+document.getElementById('filter-price-max').addEventListener('input', (e)=>{ priceMax = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); });
+document.getElementById('apply-filters').addEventListener('click', ()=>{
+  renderGrid(document.getElementById('search-input').value);
+  toggleFiltersPanel(false);
+});
 document.getElementById('reset-filters').addEventListener('click', ()=>{
   selectedRoasters.clear(); selectedUsages.clear(); selectedProcesses.clear(); selectedCountry = 'all';
   priceMin = null; priceMax = null; selectedRatingTier = null;
