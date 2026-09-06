@@ -20,7 +20,9 @@ CONFIG_PATH = "config/roasters.json"
 OUT_PATH = "docs/coffees-data.json"
 
 
-def format_price(price, currency):
+def format_price(price, currency, in_stock=True):
+    if not in_stock:
+        return "Rupture de stock"
     if price is None:
         return "Indisponible"
     symbol = {"EUR": "€", "GBP": "£", "USD": "$"}.get(currency, currency or "€")
@@ -32,19 +34,20 @@ def format_note(retailer):
     # Package weight deliberately left out: coverage/accuracy varies too
     # much site to site (see the Shopify grams-field fix) to show it on
     # some coffees and not others without looking like a data error.
+    # Out-of-stock is surfaced by replacing the price itself (format_price)
+    # rather than repeated here too.
     parts = []
     if retailer.get("priceNote"):
         parts.append(retailer["priceNote"])
-    if retailer.get("inStock") is False:
-        parts.append("rupture de stock")
     return ", ".join(parts)
 
 
 def transform_retailer(r):
+    in_stock = r.get("inStock") is not False
     return {
         "site": r.get("site") or "",
         "url": r.get("url") or "",
-        "price": format_price(r.get("price"), r.get("currency")),
+        "price": format_price(r.get("price"), r.get("currency"), in_stock),
         "note": format_note(r),
     }
 

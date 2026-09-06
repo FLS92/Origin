@@ -1640,9 +1640,13 @@ async function openDetail(id){
   let cheapestUrl = null;
   if(sameCurrency && c.retailers.length>1){
     const parsed = c.retailers.map(rt => ({...rt, num: parseFloat(rt.price.replace('£','').replace('€','').replace(',','.').trim())}));
-    parsed.sort((a,b)=>a.num-b.num);
+    // An out-of-stock retailer's price is text ("Rupture de stock"), not a
+    // number -- sort it to the end rather than let NaN comparisons place
+    // it arbitrarily (and possibly get picked as "prix le plus bas").
+    parsed.sort((a,b)=> (isNaN(a.num)?Infinity:a.num) - (isNaN(b.num)?Infinity:b.num));
     sortedRetailers = parsed;
-    cheapestUrl = parsed[0].url;
+    const cheapest = parsed.find(p => !isNaN(p.num));
+    cheapestUrl = cheapest ? cheapest.url : null;
   }
 
   content.innerHTML = `
