@@ -18,7 +18,12 @@
   h1,h2,h3,.serif{ font-family:'Fraunces',serif; }
   .app{ max-width:1100px; margin:0 auto; padding:28px 20px 80px; }
 
-  header.top{ display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:16px; flex-wrap:wrap; }
+  header.top{
+    display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;
+    position:sticky; top:0; z-index:100; background:var(--ink);
+    margin:0 -20px 16px; padding:16px 20px; border-bottom:1px solid transparent;
+  }
+  header.top.scrolled{ border-bottom-color:var(--line); }
   .brand{ display:flex; align-items:baseline; gap:10px; }
   .brand .mark{ font-family:'Fraunces',serif; font-weight:700; font-size:28px; letter-spacing:-0.5px; }
   .brand .mark span{ color:var(--gold); }
@@ -1697,6 +1702,10 @@ function showView(view){
     document.getElementById(tabs[k]).classList.toggle('active', k===view);
     document.getElementById(views[k]).style.display = (k===view) ? '' : 'none';
   });
+  // Switching tabs while scrolled down (e.g. clicking a home hub card at the
+  // bottom of the page) should land on the top of the new view, not wherever
+  // the previous one happened to be scrolled to.
+  window.scrollTo(0, 0);
   if(view==='home') renderHome();
   if(view==='library') renderLibrary(document.getElementById('library-search-input').value);
   if(view==='community') renderTrending();
@@ -1736,6 +1745,9 @@ document.getElementById('tab-library').addEventListener('click', ()=> showView('
 document.getElementById('tab-community').addEventListener('click', ()=> showView('community'));
 document.getElementById('tab-about').addEventListener('click', ()=> showView('about'));
 document.getElementById('about-cta-btn').addEventListener('click', ()=> openAuthModal('signup'));
+
+const stickyHeader = document.querySelector('header.top');
+window.addEventListener('scroll', ()=> stickyHeader.classList.toggle('scrolled', window.scrollY > 4));
 
 async function renderTrending(){
   const el = document.getElementById('trending-list');
