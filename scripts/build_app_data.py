@@ -29,10 +29,10 @@ def format_price(price, currency):
 
 
 def format_note(retailer):
+    # Package weight deliberately left out: coverage/accuracy varies too
+    # much site to site (see the Shopify grams-field fix) to show it on
+    # some coffees and not others without looking like a data error.
     parts = []
-    if retailer.get("unitWeightG"):
-        g = retailer["unitWeightG"]
-        parts.append(f"{g/1000:g} kg" if g >= 1000 else f"{g} g")
     if retailer.get("priceNote"):
         parts.append(retailer["priceNote"])
     if retailer.get("inStock") is False:
