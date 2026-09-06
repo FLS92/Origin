@@ -163,6 +163,14 @@
   button.danger-link{ background:none; border:none; color:var(--muted); font-size:12px; cursor:pointer; text-decoration:underline; }
   button.danger-link:hover{ color:#d99a89; }
 
+  .settings-section{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:20px; margin-bottom:20px; }
+  .settings-section h3{ margin:0 0 14px; font-size:16px; }
+  .settings-section.danger{ border-color:rgba(201,106,90,0.4); }
+  .settings-section p{ font-size:12.5px; color:var(--muted); line-height:1.6; }
+  .settings-msg{ font-size:12.5px; margin-top:10px; min-height:1em; }
+  .settings-msg.error{ color:var(--danger); }
+  .settings-msg.success{ color:var(--sage-soft); }
+
   .privacy-box{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin-bottom:20px; display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; }
   .privacy-box .pb-text{ flex:1; min-width:220px; }
   .privacy-box .pb-title{ font-weight:700; font-size:14.5px; margin-bottom:4px; }
@@ -374,6 +382,7 @@
         <button id="tab-account"></button>
         <div class="account-menu" id="account-menu" style="display:none;">
           <div class="account-menu-email" id="account-menu-email"></div>
+          <button id="account-menu-settings">Paramètres</button>
           <button id="account-menu-logout">Se déconnecter</button>
         </div>
       </div>
@@ -504,16 +513,6 @@
     </div>
 
     <div id="view-library-tasted">
-      <div class="privacy-box">
-        <div class="pb-text">
-          <div class="pb-title">Rendre ma bibliothèque publique</div>
-          <div class="pb-sub">Que ce soit activé ou non, ta note compte toujours dans la moyenne de chaque café. Si tu actives cette option, ta méthode de préparation, ta recette et tes notes de dégustation deviennent visibles par les autres utilisateurs de cette démo (de façon anonyme).</div>
-        </div>
-        <label class="switch">
-          <input type="checkbox" id="privacy-toggle">
-          <span class="slider"></span>
-        </label>
-      </div>
       <div id="library-list"></div>
     </div>
 
@@ -528,6 +527,80 @@
       <p>Les cafés les plus actifs sur Origin ces 7 derniers jours — notes et avis confondus, tous utilisateurs.</p>
     </div>
     <div id="trending-list"></div>
+  </div>
+
+  <div id="view-settings" style="display:none;">
+    <div style="display:flex; align-items:center; justify-content:space-between; gap:16px; margin-bottom:20px; flex-wrap:wrap;">
+      <h2 class="serif" style="margin:0;">Paramètres</h2>
+      <button id="settings-logout-btn">Se déconnecter</button>
+    </div>
+
+    <div class="settings-section">
+      <h3 class="serif">Profil</h3>
+      <div class="field-grid">
+        <div class="field"><label>Prénom</label><input type="text" id="set-firstname"></div>
+        <div class="field"><label>Nom</label><input type="text" id="set-lastname"></div>
+        <div class="field"><label>Ville</label><input type="text" id="set-city"></div>
+        <div class="field"><label>Pays</label><input type="text" id="set-country"></div>
+        <div class="field"><label>Moulin 1</label><input type="text" id="set-grinder1" placeholder="ex. Comandante"></div>
+        <div class="field"><label>Moulin 2</label><input type="text" id="set-grinder2" placeholder="ex. Timemore C3"></div>
+      </div>
+      <button class="primary" id="settings-save-profile">Enregistrer le profil</button>
+      <div class="settings-msg" id="settings-profile-msg"></div>
+    </div>
+
+    <div class="settings-section">
+      <h3 class="serif">Confidentialité</h3>
+      <div class="privacy-box" style="margin-bottom:0;">
+        <div class="pb-text">
+          <div class="pb-title">Rendre ma bibliothèque publique</div>
+          <div class="pb-sub">Que ce soit activé ou non, ta note compte toujours dans la moyenne de chaque café. Si tu actives cette option, ta méthode de préparation, ta recette et tes notes de dégustation deviennent visibles par les autres utilisateurs de cette démo (de façon anonyme).</div>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="privacy-toggle">
+          <span class="slider"></span>
+        </label>
+      </div>
+    </div>
+
+    <div class="settings-section">
+      <h3 class="serif">Adresse e-mail</h3>
+      <p style="margin-top:0;">Adresse actuelle : <span id="settings-current-email" style="color:var(--cream); font-weight:600;"></span></p>
+      <div id="settings-email-form">
+        <div class="field-grid">
+          <div class="field"><label>Nouvelle adresse e-mail</label><input type="email" id="set-new-email"></div>
+          <div class="field"><label>Mot de passe actuel</label><input type="password" id="set-email-current-password"></div>
+        </div>
+        <button class="primary" id="settings-change-email">Changer d'e-mail</button>
+        <div class="settings-msg" id="settings-email-msg"></div>
+      </div>
+      <p id="settings-email-google-note" style="display:none;">Ton compte est lié à Google — modifie ton adresse depuis ton compte Google.</p>
+    </div>
+
+    <div class="settings-section">
+      <h3 class="serif">Mot de passe</h3>
+      <div id="settings-password-form">
+        <div class="field-grid">
+          <div class="field"><label>Mot de passe actuel</label><input type="password" id="set-current-password"></div>
+          <div class="field"><label>Nouveau mot de passe</label><input type="password" id="set-new-password" minlength="6"></div>
+        </div>
+        <button class="primary" id="settings-change-password">Changer le mot de passe</button>
+        <div class="settings-msg" id="settings-password-msg"></div>
+      </div>
+      <p id="settings-password-google-note" style="display:none;">Ton compte est géré via Google — il n'y a pas de mot de passe Origin à changer.</p>
+    </div>
+
+    <div class="settings-section danger">
+      <h3 class="serif">Zone dangereuse</h3>
+      <p>Supprime définitivement ton compte, ta bibliothèque, ta liste à essayer et tes avis publics. Cette action est irréversible.</p>
+      <button class="danger-link" id="settings-delete-account-btn">Supprimer mon compte</button>
+      <div id="settings-delete-confirm" style="display:none; margin-top:12px;">
+        <p style="margin:0 0 10px;">Es-tu sûr ? Cette action ne peut pas être annulée.</p>
+        <button class="danger-link" id="settings-delete-confirm-yes" style="color:var(--danger); font-weight:700;">Oui, supprimer définitivement</button>
+        <button class="danger-link" id="settings-delete-confirm-no">Annuler</button>
+      </div>
+      <div class="settings-msg" id="settings-delete-msg"></div>
+    </div>
   </div>
 
   <div id="view-about" style="display:none;">
@@ -969,6 +1042,11 @@ document.getElementById('account-menu-logout').addEventListener('click', ()=>{
   setAccountMenuOpen(false);
   auth.signOut();
 });
+document.getElementById('account-menu-settings').addEventListener('click', ()=>{
+  setAccountMenuOpen(false);
+  showView('settings');
+});
+document.getElementById('settings-logout-btn').addEventListener('click', ()=> auth.signOut());
 document.addEventListener('click', (e)=>{
   if(accountMenuOpen && !document.getElementById('account-tab-wrap').contains(e.target)){
     setAccountMenuOpen(false);
@@ -985,9 +1063,143 @@ function authErrorMessage(code){
     'auth/invalid-credential': 'E-mail ou mot de passe incorrect.',
     'auth/popup-closed-by-user': 'Connexion annulée.',
     'auth/network-request-failed': 'Problème de connexion réseau.',
+    'auth/requires-recent-login': 'Pour ta sécurité, déconnecte-toi puis reconnecte-toi avant de réessayer.',
   };
   return map[code] || 'Une erreur est survenue. Réessaie.';
 }
+
+// --- Paramètres (profil, confidentialité, sécurité du compte) ---
+function isGoogleAccount(){
+  return currentUser && currentUser.providerData[0]?.providerId === 'google.com';
+}
+
+function renderSettings(){
+  if(!currentUser) return;
+  document.getElementById('set-firstname').value = settings.firstName || '';
+  document.getElementById('set-lastname').value = settings.lastName || '';
+  document.getElementById('set-city').value = settings.city || '';
+  document.getElementById('set-country').value = settings.country || '';
+  document.getElementById('set-grinder1').value = settings.grinder1 || '';
+  document.getElementById('set-grinder2').value = settings.grinder2 || '';
+  document.getElementById('privacy-toggle').checked = !!settings.publicLibrary;
+  document.getElementById('settings-current-email').textContent = currentUser.email || '—';
+
+  // Google-linked accounts have no Origin-managed password to reauthenticate
+  // with, so email/password changes here would need a different
+  // (popup-based) reauth flow -- out of scope for now, so those accounts are
+  // pointed to Google's own account settings instead.
+  const google = isGoogleAccount();
+  document.getElementById('settings-email-form').style.display = google ? 'none' : '';
+  document.getElementById('settings-email-google-note').style.display = google ? '' : 'none';
+  document.getElementById('settings-password-form').style.display = google ? 'none' : '';
+  document.getElementById('settings-password-google-note').style.display = google ? '' : 'none';
+
+  ['settings-profile-msg','settings-email-msg','settings-password-msg','settings-delete-msg'].forEach(id=>{
+    const el = document.getElementById(id);
+    el.textContent = ''; el.className = 'settings-msg';
+  });
+  document.getElementById('settings-delete-confirm').style.display = 'none';
+}
+
+document.getElementById('settings-save-profile').addEventListener('click', async ()=>{
+  if(!currentUser) return;
+  settings.firstName = document.getElementById('set-firstname').value.trim();
+  settings.lastName = document.getElementById('set-lastname').value.trim();
+  settings.city = document.getElementById('set-city').value.trim();
+  settings.country = document.getElementById('set-country').value.trim();
+  settings.grinder1 = document.getElementById('set-grinder1').value.trim();
+  settings.grinder2 = document.getElementById('set-grinder2').value.trim();
+  const msg = document.getElementById('settings-profile-msg');
+  try{
+    await db.collection('settings').doc(currentUser.uid).set(settings);
+    msg.textContent = 'Profil enregistré.'; msg.className = 'settings-msg success';
+  }catch(e){
+    console.error(e);
+    msg.textContent = 'Erreur, réessaie.'; msg.className = 'settings-msg error';
+  }
+});
+
+async function reauthenticateWithPassword(password){
+  const cred = firebase.auth.EmailAuthProvider.credential(currentUser.email, password);
+  await currentUser.reauthenticateWithCredential(cred);
+}
+
+document.getElementById('settings-change-email').addEventListener('click', async ()=>{
+  const msg = document.getElementById('settings-email-msg');
+  const newEmail = document.getElementById('set-new-email').value.trim();
+  const currentPassword = document.getElementById('set-email-current-password').value;
+  if(!newEmail || !currentPassword){
+    msg.textContent = 'Renseigne la nouvelle adresse et ton mot de passe actuel.'; msg.className = 'settings-msg error';
+    return;
+  }
+  try{
+    await reauthenticateWithPassword(currentPassword);
+    // Firebase now requires the new address to be verified before the
+    // change takes effect (a direct updateEmail() is rejected with
+    // auth/operation-not-allowed) -- this sends a confirmation link to the
+    // new address instead; currentUser.email only becomes the new value
+    // once that link is clicked.
+    await currentUser.verifyBeforeUpdateEmail(newEmail);
+    msg.textContent = `Un e-mail de confirmation a été envoyé à ${newEmail}. Clique sur le lien qu'il contient pour finaliser le changement.`;
+    msg.className = 'settings-msg success';
+    document.getElementById('set-new-email').value = '';
+    document.getElementById('set-email-current-password').value = '';
+  }catch(e){
+    msg.textContent = authErrorMessage(e.code); msg.className = 'settings-msg error';
+  }
+});
+
+document.getElementById('settings-change-password').addEventListener('click', async ()=>{
+  const msg = document.getElementById('settings-password-msg');
+  const currentPassword = document.getElementById('set-current-password').value;
+  const newPassword = document.getElementById('set-new-password').value;
+  if(!currentPassword || !newPassword){
+    msg.textContent = 'Renseigne ton mot de passe actuel et le nouveau.'; msg.className = 'settings-msg error';
+    return;
+  }
+  try{
+    await reauthenticateWithPassword(currentPassword);
+    await currentUser.updatePassword(newPassword);
+    msg.textContent = 'Mot de passe mis à jour.'; msg.className = 'settings-msg success';
+    document.getElementById('set-current-password').value = '';
+    document.getElementById('set-new-password').value = '';
+  }catch(e){
+    msg.textContent = authErrorMessage(e.code); msg.className = 'settings-msg error';
+  }
+});
+
+document.getElementById('settings-delete-account-btn').addEventListener('click', ()=>{
+  document.getElementById('settings-delete-confirm').style.display = '';
+});
+document.getElementById('settings-delete-confirm-no').addEventListener('click', ()=>{
+  document.getElementById('settings-delete-confirm').style.display = 'none';
+});
+document.getElementById('settings-delete-confirm-yes').addEventListener('click', async ()=>{
+  const msg = document.getElementById('settings-delete-msg');
+  msg.textContent = 'Suppression en cours…'; msg.className = 'settings-msg';
+  const uid = currentUser.uid;
+  try{
+    // Reuses the same per-coffee cleanup as removing one rating (public
+    // rating + public review), just run across the whole library rather
+    // than a single id -- there's no bulk "delete everything by this
+    // author" query available client-side across every coffee's
+    // subcollection, but the user's own library already lists every coffee
+    // they've ever rated or reviewed, so this covers the same ground.
+    for(const id of Object.keys(libraryCache)){
+      await removeShared(id);
+      await db.collection('libraries').doc(uid).collection('coffees').doc(id).delete();
+    }
+    for(const id of wishlist){
+      await db.collection('wishlists').doc(uid).collection('coffees').doc(id).delete();
+    }
+    await db.collection('settings').doc(uid).delete();
+    await currentUser.delete();
+    // auth.onAuthStateChanged fires with null right after delete() succeeds.
+  }catch(e){
+    console.error(e);
+    msg.textContent = authErrorMessage(e.code); msg.className = 'settings-msg error';
+  }
+});
 
 function openAuthModal(mode, promptMessage){
   renderAuthModal(mode||'login', promptMessage);
@@ -1048,6 +1260,12 @@ document.getElementById('auth-overlay').addEventListener('click', (e)=>{ if(e.ta
 auth.onAuthStateChanged(async (user)=>{
   currentUser = user;
   updateUserStatusUI();
+  // Signing out (or a successful account deletion, which signs out as a
+  // side effect) while on Paramètres would otherwise leave that page
+  // showing with no account tab left to navigate away from it.
+  if(!user && document.getElementById('view-settings').style.display !== 'none'){
+    showView('home');
+  }
   await loadSettings();
   await loadLibrary();
   await loadWishlist();
@@ -1059,6 +1277,9 @@ auth.onAuthStateChanged(async (user)=>{
   }
   if(document.getElementById('view-community').style.display !== 'none'){
     renderTrending();
+  }
+  if(document.getElementById('view-settings').style.display !== 'none'){
+    renderSettings();
   }
 });
 
@@ -1456,7 +1677,6 @@ function renderLibrary(filter){
     document.getElementById('stats-row').innerHTML = '';
     return;
   }
-  document.getElementById('privacy-toggle').checked = !!settings.publicLibrary;
   renderStats();
   const q = (filter||'').trim().toLowerCase();
   let ids = Object.keys(libraryCache);
@@ -1748,9 +1968,14 @@ document.getElementById('reset-filters').addEventListener('click', ()=>{
 document.getElementById('library-search-input').addEventListener('input', (e)=> renderLibrary(e.target.value));
 function showView(view){
   const tabs = {home:'tab-home', explore:'tab-explore', library:'tab-library', community:'tab-community', about:'tab-about'};
-  const views = {home:'view-home', explore:'view-explore', library:'view-library', community:'view-community', about:'view-about'};
+  // 'settings' has no button of its own in nav.tabs (reached via the account
+  // menu instead), so its visibility is handled separately from the
+  // tab-active toggling below.
+  const views = {home:'view-home', explore:'view-explore', library:'view-library', community:'view-community', about:'view-about', settings:'view-settings'};
   Object.keys(tabs).forEach(k=>{
     document.getElementById(tabs[k]).classList.toggle('active', k===view);
+  });
+  Object.keys(views).forEach(k=>{
     document.getElementById(views[k]).style.display = (k===view) ? '' : 'none';
   });
   // Switching tabs while scrolled down (e.g. clicking a home hub card at the
@@ -1760,6 +1985,7 @@ function showView(view){
   if(view==='home') renderHome();
   if(view==='library') renderLibrary(document.getElementById('library-search-input').value);
   if(view==='community') renderTrending();
+  if(view==='settings') renderSettings();
 }
 
 // The Accueil tab shows the sign-in hero to a guest and a personal hub
