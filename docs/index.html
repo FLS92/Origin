@@ -1727,7 +1727,10 @@ function renderHome(){
   document.getElementById('home-guest-content').style.display = 'none';
   document.getElementById('home-user-content').style.display = '';
   hub.style.display = '';
-  const name = currentUser.displayName || (currentUser.email ? currentUser.email.split('@')[0] : '');
+  // Google sign-in gives the full name ("Félix Luttiau-Salmon") -- just the
+  // first word reads as a greeting, the surname doesn't.
+  const fullName = currentUser.displayName || (currentUser.email ? currentUser.email.split('@')[0] : '');
+  const name = fullName.trim().split(/\s+/)[0] || '';
   document.getElementById('home-greeting').textContent = name ? `Content de te revoir, ${name}` : 'Content de te revoir';
   document.getElementById('hub-explore-stat').textContent =
     `${COFFEES.length} cafés · ${Object.keys(ROASTERS).length} torréfacteurs`;
