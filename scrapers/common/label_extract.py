@@ -24,18 +24,27 @@ import unicodedata
 
 from .parsing import normalize_method
 
-# label (normalized, accents stripped) -> schema field.
+# label (normalized, accents stripped) -> schema field. Mostly French (the
+# large majority of roasters here), but a handful of English aliases are
+# mixed in for the few sites that paste an international importer's own
+# spec sheet verbatim (e.g. Partisan Café Artisanal) -- only added where the
+# English word is unambiguous on its own; "Origin" is deliberately left out
+# even though it reads like originCountry, because at least one real site
+# uses it for the mill/cooperative name instead ("Origin: Kiangoi Factory -
+# Rung'eto Farmers' Cooperative Society") -- title_extract.py's country
+# gazetteer already covers originCountry for these sites regardless.
 FIELD_LABELS = {
     "process": [
         "process de sechage", "processus de traitement", "traitement apres recolte",
         "process post recolte", "type de process", "traitement", "procede",
-        "process", "sechage",
+        "process", "sechage", "processing",
     ],
     "variety": [
         "variete botanique", "varietes", "variete", "cultivar", "espece",
+        "varieties", "variety",
     ],
     "producer": [
-        "producteurs", "producteur", "cooperative", "ferme",
+        "producteurs", "producteur", "cooperative", "ferme", "producers", "producer",
     ],
     "originDetail": ["region", "localite", "province"],
     "originCountry": ["pays", "origine"],
@@ -46,6 +55,7 @@ FIELD_LABELS = {
         # d'une grande clarté...") -- too inconsistent to trust as a list.
         "notes de degustation", "note de degustation", "notes aromatiques",
         "notes gustatives", "note aromatiques", "saveurs", "notes", "note", "nez",
+        "tasting notes", "flavor notes", "cupping notes",
     ],
     # "En bouche"/"Au nez"/"En tasse" are almost always a full tasting
     # sentence, not a list -- e.g. "la tasse est franche sur des notes de

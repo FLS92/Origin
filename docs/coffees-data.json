@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T06:44:20Z",
+  "generatedAt": "2026-09-06T06:58:33Z",
   "roasterCount": 68,
-  "coffeeCount": 1073,
+  "coffeeCount": 1064,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -3907,87 +3907,6 @@
           "url": "https://cafe-come.fr/produit/test-variations/",
           "price": "8,80 €",
           "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-boite-atmos",
-      "roasterId": "cafe-corto",
-      "name": "Boite Atmos",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/FELLOW-ATMOS-W-16.png?v=1759323883",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/boite-atmos",
-          "price": "39,90 €",
-          "note": "450 g"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-travel-tumbler-kinto",
-      "roasterId": "cafe-corto",
-      "name": "Travel Tumbler | KINTO",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Capture_d_ecran_2024-11-27_a_11.07.38.png?v=1764062959",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/travel-tumbler-kinto",
-          "price": "41,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafe-corto-bouilloire-electrique-time-more-fish-smart-800-ml",
-      "roasterId": "cafe-corto",
-      "name": "Bouilloire électrique Time More Fish Smart 800 ml",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/TME_70THP070AA001_png.webp?v=1743151001",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Corto",
-          "url": "https://cafe-corto.fr/products/bouilloire-electrique-time-more-fish-smart-800-ml",
-          "price": "149,00 €",
-          "note": "1.55 kg"
         }
       ]
     },
@@ -10067,33 +9986,6 @@
       ]
     },
     {
-      "id": "coutume-cafe-bac-a-marc-de-cafe-avec-fond-en-inox-metallurgica-motta",
-      "roasterId": "coutume-cafe",
-      "name": "Bac à marc inox Motta",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-metallurgica-motta-bac-marc-inox.png?v=1775826285",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/bac-a-marc-de-cafe-avec-fond-en-inox-metallurgica-motta",
-          "price": "49,90 €",
-          "note": "rupture de stock"
-        }
-      ]
-    },
-    {
       "id": "coutume-cafe-bouilloire-electrique-col-de-cygne-900ml-fish-pro-noir-timemore",
       "roasterId": "coutume-cafe",
       "name": "Bouilloire électrique Timemore Fish Pro Noir 900 ml",
@@ -10117,141 +10009,6 @@
           "url": "https://coutumecafe.com/products/bouilloire-electrique-col-de-cygne-900ml-fish-pro-noir-timemore",
           "price": "159,00 €",
           "note": "1.5 kg"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-carafe-a-cafe-en-verre-300-ml-kinto",
-      "roasterId": "coutume-cafe",
-      "name": "Carafe à café Kinto verre 300 ml",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/carafe-a-cafe-en-verre-300-ml-kinto.jpg?v=1771422451",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/carafe-a-cafe-en-verre-300-ml-kinto",
-          "price": "15,00 €",
-          "note": "200 g"
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-carafe-a-cafe-en-verre-600-ml-kinto",
-      "roasterId": "coutume-cafe",
-      "name": "Carafe à café Kinto verre 600 ml",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-kinto-carafe-verre-600ml.png?v=1776093104",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/carafe-a-cafe-en-verre-600-ml-kinto",
-          "price": "18,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-nextlevel-pulsar-brewer",
-      "roasterId": "coutume-cafe",
-      "name": "NextLevel Pulsar Brewer",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-cafetiere-nextlevel-pulsar-brewer-3_b038c59e-c90b-4b11-8499-e71609d2ebe6.png?v=1776098016",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/nextlevel-pulsar-brewer",
-          "price": "79,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-pichet-a-lait-rhino-coffee-gear-36-cl-en-inox-petit-modele",
-      "roasterId": "coutume-cafe",
-      "name": "Pichet à lait Rhino Coffee Gear 36 cl en inox - Petit modèle",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-rhino-coffee-gear-pichet-lait-inox-36cl_fbe93312-36a4-4fab-b715-560d981ae5c8.png?v=1776098312",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/pichet-a-lait-rhino-coffee-gear-36-cl-en-inox-petit-modele",
-          "price": "20,40 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-pichet-a-lait-rhino-coffee-gear-60-cl-en-inox-grand-modele",
-      "roasterId": "coutume-cafe",
-      "name": "Pichet à lait Rhino Coffee Gear 60 cl en inox - Grand modèle",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-accessoire-rhino-coffee-gear-pichet-lait-inox-60cl_49b13ebd-8f25-4ff9-b6ba-d7bf455cbc46.png?v=1776098270",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/pichet-a-lait-rhino-coffee-gear-60-cl-en-inox-grand-modele",
-          "price": "23,40 €",
-          "note": ""
         }
       ]
     },
@@ -22654,9 +22411,9 @@
       "name": "KENYA AB KIANGOI 250g",
       "origin": "Kenya · Kirinyaga Nearest",
       "originCountry": "Kenya",
-      "process": null,
+      "process": "Washed",
       "usage": null,
-      "variety": null,
+      "variety": "Ruiru 11, SL-34, Batian, SL-28",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -22708,9 +22465,9 @@
       "name": "COLOMBIE ALTO CIELO 250g",
       "origin": "Colombie",
       "originCountry": "Colombie",
-      "process": null,
+      "process": "Natural",
       "usage": null,
-      "variety": null,
+      "variety": "Colombia",
       "producer": null,
       "score": null,
       "acidity": null,

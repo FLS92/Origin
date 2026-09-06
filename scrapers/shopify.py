@@ -90,6 +90,7 @@ NON_COFFEE_TOKENS = {
     "machine", "moulin", "grinder", "tasse", "carafe", "balance", "tamper",
     "dripper", "accessoire", "entretien", "cafetiere", "the", "infusion",
     "chocolat", "capsule", "livre", "carte", "textile", "formation",
+    "abonnement",
 }
 
 
@@ -98,9 +99,18 @@ def _norm(text):
     return re.sub(r"[^a-z0-9 ]", "", n.lower()).strip()
 
 
+def _is_non_coffee_word(word):
+    # Collection/product_type words are almost always plural ("Machines à
+    # café", "Accessoires café") while this list is written singular -- an
+    # exact-match check against NON_COFFEE_TOKENS silently never rejects any
+    # of them. A plain "+s" plural check (rather than blanket .startswith)
+    # keeps "the" (tea) from also matching unrelated words like "thermos".
+    return any(word == tok or word == tok + "s" for tok in NON_COFFEE_TOKENS)
+
+
 def _is_coffee_loose(product_type):
     words = product_type.split()
-    if any(w in NON_COFFEE_TOKENS for w in words):
+    if any(_is_non_coffee_word(w) for w in words):
         return False
     return any(w.startswith("cafe") or w == "coffee" for w in words)
 
@@ -131,7 +141,7 @@ def _collection_is_coffee(handle, title):
     if h in COFFEE_COLLECTION_ALLOW:
         return True
     words = _norm(title).split() + _norm(handle.replace("-", " ")).split()
-    if any(w in NON_COFFEE_TOKENS for w in words):
+    if any(_is_non_coffee_word(w) for w in words):
         return False
     return any(w.startswith("cafe") or w == "coffee" for w in words)
 
