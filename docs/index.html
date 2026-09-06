@@ -353,9 +353,9 @@
   .user-status .ue{ color:var(--cream); font-weight:600; }
   .user-status button{ background:none; border:1px solid var(--line); color:var(--muted); font-family:'Inter',sans-serif; font-size:12px; font-weight:600; padding:7px 12px; border-radius:8px; cursor:pointer; }
   .user-status button:hover{ border-color:var(--gold); color:var(--cream); }
-  @media (max-width:640px){
-    header.top .user-status{ order:3; width:100%; justify-content:flex-end; }
-  }
+  /* Mirrors nav.tabs.wrapped below: JS-detected wrap instead of a fixed
+     breakpoint, since brand text length shifts exactly where this happens. */
+  header.top.header-wrapped .user-status{ order:3; width:100%; justify-content:flex-end; }
   /* Once the tabs wrap onto their own row(s), the pill only hugs however
      wide its widest row of buttons happened to be, leaving its right edge
      short of the cards/panels below it that span the full width. This
@@ -2236,11 +2236,19 @@ window.addEventListener('scroll', ()=> stickyHeader.classList.toggle('scrolled',
 // when the account tab appears/disappears) -- track it with a CSS var
 // instead of a fixed offset so the two never overlap or leave a gap.
 const navTabsEl = document.querySelector('nav.tabs');
+const userStatusEl = document.querySelector('.user-status');
 function updateHeaderHeightVar(){
   document.documentElement.style.setProperty('--header-h', stickyHeader.offsetHeight + 'px');
   const items = [...navTabsEl.children];
   const wrapped = items.length > 1 && items[0].offsetTop !== items[items.length - 1].offsetTop;
   navTabsEl.classList.toggle('wrapped', wrapped);
+  // Same idea, one level up: below ~900px (varies with the brand text and
+  // tab count) .user-status drops to its own row below brand+nav.tabs --
+  // without this it left-aligns by default (a wrapped flex item's normal
+  // behaviour), landing under the logo instead of the top-right corner it
+  // sits in on every wider layout.
+  const headerWrapped = userStatusEl.offsetTop !== document.querySelector('.brand').offsetTop;
+  stickyHeader.classList.toggle('header-wrapped', headerWrapped);
 }
 new ResizeObserver(updateHeaderHeightVar).observe(stickyHeader);
 updateHeaderHeightVar();
