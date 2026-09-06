@@ -135,7 +135,7 @@
 
   .grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:16px; }
   .card{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px; cursor:pointer; transition:border-color .15s, transform .15s, box-shadow .2s; display:flex; flex-direction:column; gap:12px; }
-  .card:hover{ border-color:var(--gold); transform:translateY(-2px); box-shadow:0 8px 24px rgba(201,151,62,0.18); }
+  .card:hover{ border-color:var(--gold); transform:translateY(-2px); box-shadow:0 10px 28px rgba(201,151,62,0.4), 0 0 0 1px rgba(201,151,62,0.3); }
   .roast-dial{ display:flex; align-items:center; gap:10px; }
   .dial-arc{ width:46px; height:46px; flex-shrink:0; }
   .roast-label{ font-size:11px; color:var(--muted); }
@@ -416,8 +416,8 @@
 <svg class="side-decor side-decor-left" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="beanPatternSide" x="0" y="0" width="90" height="70" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
-      <animate attributeName="x" values="0;90;0" dur="90s" repeatCount="indefinite"/>
-      <animate attributeName="y" values="0;70;0" dur="70s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="0;90;0" dur="22s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="0;70;0" dur="17s" repeatCount="indefinite"/>
       <g opacity="0.5">
         <ellipse cx="18" cy="16" rx="13" ry="8.5" fill="none" stroke="#c9d2df" stroke-width="1.1" transform="rotate(-25 18 16)"/>
         <path d="M9 16 Q18 11 27 16" stroke="#c9d2df" stroke-width="1" fill="none" transform="rotate(-25 18 16)"/>
@@ -476,8 +476,8 @@
       <svg class="bean-texture" width="100%" height="100%" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
         <defs>
           <pattern id="beanPattern" x="0" y="0" width="90" height="70" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
-            <animate attributeName="x" values="0;90;0" dur="90s" repeatCount="indefinite"/>
-            <animate attributeName="y" values="0;70;0" dur="70s" repeatCount="indefinite"/>
+            <animate attributeName="x" values="0;90;0" dur="22s" repeatCount="indefinite"/>
+            <animate attributeName="y" values="0;70;0" dur="17s" repeatCount="indefinite"/>
             <g opacity="0.5">
               <ellipse cx="18" cy="16" rx="13" ry="8.5" fill="none" stroke="#c9d2df" stroke-width="1.1" transform="rotate(-25 18 16)"/>
               <path d="M9 16 Q18 11 27 16" stroke="#c9d2df" stroke-width="1" fill="none" transform="rotate(-25 18 16)"/>
