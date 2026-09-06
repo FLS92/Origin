@@ -59,7 +59,11 @@
   nav.tabs button.active{ background:var(--gold); color:#0d1b2e; }
   nav.tabs button:not(.active):hover{ color:var(--cream); }
 
-  .account-tab-wrap{ position:relative; }
+  /* margin-left:auto pushes it to the far right of the pill with a clear
+     gap from the other tabs (rather than sitting flush next to Communauté
+     like just one more tab) -- and since auto margins resolve per flex
+     line, it still lands right-aligned on its own row if the pill wraps. */
+  .account-tab-wrap{ position:relative; margin-left:auto; }
   .account-tab-wrap #tab-account::after{ content:'▾'; margin-left:6px; font-size:10px; opacity:.7; }
   .account-menu{
     position:absolute; top:calc(100% + 8px); right:0; z-index:20; min-width:200px;
