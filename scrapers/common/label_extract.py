@@ -104,6 +104,16 @@ _LABEL_RE = re.compile(
 )
 
 
+# "SCA" is an all-caps acronym, so "Note SCA :" / "Score SCA :" never
+# matches _LABEL_RE above (its multi-word continuation requires lowercase
+# letters, by design -- see that regex's own comment). Handled as its own
+# narrow, guarded pattern rather than loosening the generic one, which would
+# risk picking up random capitalized acronyms elsewhere in the text as fake
+# label boundaries. The 50-100 bound is SCA's actual scale, so a false
+# match (e.g. a stray page number) can't sneak in as a score.
+_SCA_SCORE_RE = re.compile(r"(?i)\b(?:note|score)\s+sca\s*:?\s*(\d{2,3}(?:[.,]\d+)?)\b")
+
+
 def _norm(text):
     n = unicodedata.normalize("NFKD", text or "").encode("ascii", "ignore").decode().lower()
     n = re.sub(r"[^a-z0-9 ]", " ", n)
@@ -189,5 +199,12 @@ def extract_labeled_fields(text):
                 out.setdefault("method", method)
         else:
             out.setdefault(field, value)
+
+    if "score" not in out:
+        m = _SCA_SCORE_RE.search(text)
+        if m:
+            n = float(m.group(1).replace(",", "."))
+            if 50 <= n <= 100:
+                out["score"] = int(n) if n.is_integer() else n
 
     return out

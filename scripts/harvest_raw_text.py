@@ -28,11 +28,17 @@ def needs_enrichment(product):
 
 
 def harvest_shopify(meta):
-    products = shopify.fetch_all_products(meta["domain"])
+    domain = meta["domain"]
+    products = shopify.fetch_all_products(domain)
     products, _ = shopify.filter_coffee_products(products)
     out = {}
     for p in products:
-        out[p["handle"]] = strip_html(p.get("body_html"))
+        body_html = p.get("body_html")
+        if not shopify._has_spec_sheet(body_html):
+            extra = shopify.fetch_product_page_text(domain, p["handle"])
+            if extra:
+                body_html = (body_html or "") + " " + extra
+        out[p["handle"]] = strip_html(body_html)
     return out
 
 

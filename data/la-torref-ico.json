@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
   },
-  "scrapedAt": "2026-09-04T14:57:26Z",
+  "scrapedAt": "2026-09-06T06:43:15Z",
   "products": [
     {
       "id": "la-torref-ico-gerba-dogo-ethiopie-ico-torrefaction",
@@ -21,7 +21,7 @@
       "process": "Lavé",
       "variety": "Heirloom",
       "producer": "Gerba Dogo",
-      "score": null,
+      "score": 86.75,
       "acidity": null,
       "body": null,
       "method": "Omni",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-espresso-chr-bio-cafe-en-grain-pro",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-summer-blend-colombie-perou-ico-torrefaction",
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-spring-blend-colombie-perou-ico-torrefaction",
@@ -159,7 +159,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-ruronzi-rwanda-ico-torrefaction",
@@ -169,7 +169,7 @@
       "process": "Nature Anaérobique",
       "variety": "Bourbon rouge",
       "producer": null,
-      "score": null,
+      "score": 86.5,
       "acidity": null,
       "body": null,
       "method": null,
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-jaguarundi-colombie-ico-torrefaction",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-cih-emar-rwanda-ico-torrefaction",
@@ -243,7 +243,7 @@
       "process": "Naturel – Sleeping Bag",
       "variety": "Bourbon rouge",
       "producer": "Emmanuel Rusatira / Baho Coffee",
-      "score": null,
+      "score": 87.5,
       "acidity": null,
       "body": null,
       "method": null,
@@ -271,7 +271,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-cafe-colombie-la-cocha-ico-torrefaction",
@@ -308,17 +308,17 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-the-dark-sip-perou-ico-torrefaction",
-      "name": "The Dark Sip - Pérou - Icö Torréfaction",
+      "name": "The Dark Sip - Rwanda - Icö Torréfaction",
       "originCountry": "Pérou (Cajamarca)",
       "originDetail": null,
       "process": "Lavé Score SCA : 83.5",
       "variety": "Catimor, Caturra, Typica",
       "producer": null,
-      "score": null,
+      "score": 83.25,
       "acidity": null,
       "body": null,
       "method": null,
@@ -329,22 +329,22 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0010-6382109101746055815.png?v=1783159729",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/DS1kg.png?v=1788609302",
       "retailers": [
         {
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/the-dark-sip-perou-ico-torrefaction",
-          "price": 8.9,
+          "price": 9.9,
           "currency": "EUR",
           "unitWeightG": 264,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-house-blend-medium-dark-roast",
@@ -370,7 +370,7 @@
         {
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/house-blend-medium-dark-roast",
-          "price": 9.9,
+          "price": 10.9,
           "currency": "EUR",
           "unitWeightG": 264,
           "priceNote": "à partir de",
@@ -380,7 +380,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     },
     {
       "id": "la-torref-ico-manzanilla-perou-cafe-bio-decafeine",
@@ -403,17 +403,17 @@
         {
           "site": "La Torref' / Icö",
           "url": "https://latorref.com/products/manzanilla-perou-cafe-bio-decafeine",
-          "price": 11.9,
+          "price": 12.9,
           "currency": "EUR",
           "unitWeightG": 264,
-          "priceNote": null,
+          "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-04T14:57:26Z"
+      "lastSeenAt": "2026-09-06T06:43:15Z"
     }
   ]
 }

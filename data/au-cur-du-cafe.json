@@ -11,20 +11,20 @@
     "notes": "Deux domaines trouvés (aucoeurducafe.fr et .com) — .fr confirmé Shopify et retenu comme source.",
     "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
   },
-  "scrapedAt": "2026-09-04T14:27:33Z",
+  "scrapedAt": "2026-09-06T06:44:20Z",
   "products": [
     {
       "id": "au-cur-du-cafe-costa-rica-tarrazu",
       "name": "Costa Rica Tarrazu",
       "originCountry": "Costa Rica",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Tarrazu",
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "C orsé"
@@ -46,21 +46,21 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-expresso",
       "name": "L’expresso",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Nature",
+      "variety": "Blend (90% Arabica, 10% Robusta)",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Espresso",
-      "roastLevel": null,
+      "roastLevel": "Fort",
       "flavors": [
         "Equilibré"
       ],
@@ -81,20 +81,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-guetemala-huehuetenango",
       "name": "Guatemala Huehuetenango",
       "originCountry": "Guatemala",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Huehuetenango",
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat noir"
@@ -116,20 +116,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-mexique-chocaman-altura",
       "name": "Mexique Chocamán - Altura",
       "originCountry": "Mexique",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Chocamán",
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Velouté",
@@ -153,20 +153,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-nicaragua",
       "name": "Nicaragua",
       "originCountry": "Nicaragua",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao"
@@ -188,20 +188,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-sumatra-gayo-highland-hathi",
       "name": "Sumatra Gayo Highland",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Sumatra",
+      "originDetail": "Gayo",
       "process": null,
-      "variety": null,
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Fruits rouge",
@@ -227,20 +227,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-caparao-bob-o-link",
       "name": "Brésil Caparao - Bob O Link",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Caparao",
+      "process": "Nature",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat",
@@ -264,7 +264,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-box-decouverte",
@@ -277,7 +277,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
@@ -297,20 +297,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-bresil-bahia",
       "name": "Brésil Bahia",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Bahia",
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -335,20 +335,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-moka-yrgacheffe",
       "name": "Ethiopie Moka Yrgacheffe",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Yrgacheffe",
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -371,7 +371,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-kenya",
@@ -379,12 +379,12 @@
       "originCountry": "Kenya",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -407,22 +407,24 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-ethiopie-decafeine",
       "name": "Ethiopie Décaféiné",
       "originCountry": "Éthiopie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Equilibré"
+      ],
       "harvestYear": null,
       "description": null,
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/DK_Ethiopie_fond_color.webp?v=1729628588",
@@ -440,7 +442,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-blue-mountain-jamaique",
@@ -453,7 +455,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Florales",
@@ -476,7 +478,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-skybury",
@@ -489,7 +491,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Fruité"
@@ -511,20 +513,20 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     },
     {
       "id": "au-cur-du-cafe-coeur-du-bouchon",
       "name": "Coeur du Bouchon",
-      "originCountry": null,
+      "originCountry": "Nicaragua",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé",
+      "variety": "100% Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -547,7 +549,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:23Z",
-      "lastSeenAt": "2026-09-04T14:27:33Z"
+      "lastSeenAt": "2026-09-06T06:44:20Z"
     }
   ]
 }

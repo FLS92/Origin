@@ -7,8 +7,83 @@ import time
 import unicodedata
 
 from .common.http import session, get, decode_json_body
+from .common.label_extract import extract_labeled_fields
+from .common.paraphrase import strip_html
 from .common.parsing import normalize_method
 from .common.schema import RawProduct, apply_products, save
+
+# Some Shopify themes render the actual spec sheet (Process/Variété/Score/
+# Producteur...) in a page section (an "image with text" block, a second
+# "rte" block, etc.) that never makes it into body_html -- /products.json
+# only ever returns body_html, so a site built this way looks empty to us
+# even though every field is right there on the page in our usual
+# "Label : Value" shape. Only worth the extra page fetch when body_html
+# itself didn't already yield a spec sheet -- most Shopify stores put it
+# there and this would just be a wasted request.
+_ENRICHMENT_CHECK_FIELDS = ["process", "variety", "producer", "score", "originDetail"]
+
+# Sections that can carry unrelated "Label :"-shaped text a reviews widget,
+# navigation, or "customers also bought" block -- none of it describes THIS
+# product, so it's dropped before extraction ever sees it (e.g. a review's
+# star widget stating "Note : 4.8/5" would otherwise misread as our score
+# label).
+_NOISE_CLASS_MARKERS = (
+    "review", "avis", "judge", "loox", "yotpo", "stamped", "rating",
+    "recommend", "cross-sell", "upsell", "recently-viewed", "cart",
+    "footer", "header", "nav", "menu", "newsletter", "announcement",
+)
+
+
+def _has_spec_sheet(body_html):
+    found = extract_labeled_fields(strip_html(body_html))
+    return any(f in found for f in _ENRICHMENT_CHECK_FIELDS)
+
+
+def fetch_product_page_text(domain, handle):
+    """Best-effort supplemental text pulled from the live product page (not
+    just body_html) -- see module docstring above. Returns "" on any
+    failure; this is a bonus source, never required."""
+    from bs4 import BeautifulSoup
+    s = session()
+    try:
+        resp = get(s, f"https://{domain}/products/{handle}")
+    except Exception:
+        return ""
+    if resp.status_code != 200:
+        return ""
+    soup = BeautifulSoup(resp.text, "html.parser")
+    main = soup.find("main") or soup.body or soup
+    for tag in main.find_all(["script", "style", "nav", "header", "footer", "form"]):
+        tag.decompose()
+    for el in main.find_all(class_=True):
+        if el.attrs is None:
+            continue  # already decomposed as a descendant of an earlier match
+        cls = " ".join(el.get("class") or []).lower()
+        idv = (el.get("id") or "").lower()
+        if any(m in cls or m in idv for m in _NOISE_CLASS_MARKERS):
+            el.decompose()
+
+    parts = [main.get_text(" ", strip=True)]
+    # A common Shopify theme "product specifications" section renders each
+    # label and its value as two separate sibling <div>s (.specs-heading /
+    # .specs-content) with no colon between them once flattened to text --
+    # invisible to label_extract.py's "Label :" boundary detection above.
+    # Rebuild each pair as "Label : Value" text so that same generic
+    # detection picks it up, rather than duplicating its field mapping here.
+    for item in main.select(".specs-item"):
+        heading = item.select_one(".specs-heading")
+        content = item.select_one(".specs-content")
+        if heading and content:
+            # label_extract's boundary regex requires the label to be plain
+            # word(s) right up to the colon -- a trailing "(s)"/"(m)" (very
+            # common on this kind of unit/plural hint: "Procédé(s)",
+            # "Altitude (m)") makes it invisible as a boundary, silently
+            # merging its value into whatever field came before it.
+            h = re.sub(r"\s*\([^)]*\)\s*$", "", heading.get_text(" ", strip=True)).strip()
+            c = content.get_text(" ", strip=True)
+            if h and c:
+                parts.append(f"{h} : {c}")
+    return " ".join(parts)
 
 COFFEE_TYPE_ALLOW = {"cafe", "coffee", "cafes", "grain", "grains", "origine", "origines", "single origin"}
 NON_COFFEE_TOKENS = {
@@ -201,6 +276,10 @@ def scrape(roaster_meta):
         p["_shop_display_name"] = site_name
         p["_product_url"] = f"https://{domain}/products/{p['handle']}"
         p["_currency"] = "EUR"
+        if not _has_spec_sheet(p.get("body_html")):
+            extra = fetch_product_page_text(domain, p["handle"])
+            if extra:
+                p["body_html"] = (p.get("body_html") or "") + " " + extra
         raw_products.append(to_raw_product(p))
     data, summary = apply_products(roaster_meta, raw_products)
     if warning:
