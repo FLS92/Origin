@@ -1826,6 +1826,7 @@ function openLibraryDetail(id){
   const r = ROASTERS[c.roasterId];
   const e = libraryCache[id];
   const content = document.getElementById('detail-content');
+  const hasGrinderChoice = configuredGrinderKeys().length > 0;
   content.innerHTML = `
     <button class="close" id="close-detail">✕</button>
     <div class="roaster-line" style="display:flex; align-items:center; gap:10px;">
@@ -1835,12 +1836,12 @@ function openLibraryDetail(id){
     <h2>${c.name}</h2>
     <div style="margin-bottom:20px;">${starsHTML(id, e.rating||0)}</div>
     <div class="field-grid">
-      <div class="field"><label>Méthode de préparation</label>
+      <div class="field${hasGrinderChoice ? ' full' : ''}"><label>Méthode de préparation</label>
         <select class="f-brew" data-id="${id}"><option value="">— Choisir —</option>
           ${BREW_METHODS.map(m=>`<option value="${m}" ${e.brewMethod===m?'selected':''}>${m}</option>`).join('')}
         </select>
       </div>
-      ${configuredGrinderKeys().length ? `
+      ${hasGrinderChoice ? `
       <div class="field"><label>Moulin utilisé</label>
         <select class="f-grinder" data-id="${id}">
           <option value="">— Non précisé —</option>
