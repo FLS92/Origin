@@ -26,6 +26,7 @@
   .side-decor-left{ left:0; }
   .side-decor-right{ right:0; }
   @media (min-width:1300px){ .side-decor{ display:block; } }
+  body.home-active .side-decor{ display:none; }
 
   /* Small coffee-bean bullet before section titles -- same line-art motif
      as the hero/side panels, just filled solid and small enough to read
@@ -364,7 +365,10 @@
      toggles this class instead of guessing a width. */
   nav.tabs.wrapped{ width:100%; }
 
-  footer.hint{ text-align:center; color:var(--muted); font-size:12.5px; margin-top:40px; line-height:1.7; }
+  .site-footer{ text-align:center; margin-top:40px; padding-top:22px; border-top:1px solid var(--line); }
+  .site-footer-brand{ font-family:'Fraunces',serif; font-weight:700; font-size:17px; color:var(--cream); margin-bottom:6px; letter-spacing:.3px; }
+  .site-footer-brand span{ color:var(--gold); }
+  .site-footer-legal{ font-size:11.5px; color:var(--muted); line-height:1.6; }
 
   .lux-hero{
     position:relative; overflow:hidden; border-radius:18px; min-height:520px;
@@ -412,7 +416,7 @@
   }
 </style>
 </head>
-<body>
+<body class="home-active">
 <svg class="side-decor side-decor-left" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="beanPatternSide" x="0" y="0" width="90" height="70" patternUnits="userSpaceOnUse" patternTransform="rotate(8)">
@@ -786,8 +790,9 @@
     </div>
   </div>
 
-  <footer class="hint" id="data-footer">
-    Chargement des informations sur les données…
+  <footer class="site-footer">
+    <div class="site-footer-brand">Ori<span>gi</span>n</div>
+    <div class="site-footer-legal">© 2026 Origin — Projet indépendant, non affilié aux torréfacteurs référencés.</div>
   </footer>
 </div>
 
@@ -824,7 +829,6 @@ function na(v){ return (v===NA || v===undefined || v===null || v===''); }
 // scripts/build_app_data.py à partir des scrapers) — voir loadCoffeeData().
 let ROASTERS = {};
 let COFFEES = [];
-let dataGeneratedAt = null;
 
 async function loadCoffeeData(){
   const res = await fetch('coffees-data.json', {cache:'no-store'});
@@ -832,16 +836,11 @@ async function loadCoffeeData(){
   const data = await res.json();
   ROASTERS = data.roasters;
   COFFEES = data.coffees;
-  dataGeneratedAt = data.generatedAt;
 }
 
 function updateDataFooter(){
-  const el = document.getElementById('data-footer');
-  if(!el) return;
   const roasterCount = Object.keys(ROASTERS).length;
   const coffeeCount = COFFEES.length;
-  const dateStr = dataGeneratedAt ? new Date(dataGeneratedAt).toLocaleDateString('fr-FR', {day:'numeric', month:'long', year:'numeric'}) : 'date inconnue';
-  el.innerHTML = `${coffeeCount} cafés référencés chez ${roasterCount} torréfacteurs. Les champs non trouvés affichent "Indisponible". Données scrapées automatiquement, dernière mise à jour le ${dateStr}.`;
   const csEl = document.getElementById('about-stat-coffees');
   const rsEl = document.getElementById('about-stat-roasters');
   if(csEl) csEl.textContent = coffeeCount;
@@ -2180,6 +2179,10 @@ function showView(view){
   Object.keys(views).forEach(k=>{
     document.getElementById(views[k]).style.display = (k===view) ? '' : 'none';
   });
+  // Accueil already has its own full-bleed bean texture in the hero -- the
+  // side panels would be a second, redundant instance of the same motif
+  // fighting for attention right next to it, so hide them there only.
+  document.body.classList.toggle('home-active', view==='home');
   // Switching tabs while scrolled down (e.g. clicking a home hub card at the
   // bottom of the page) should land on the top of the new view, not wherever
   // the previous one happened to be scrolled to.
