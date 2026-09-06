@@ -324,6 +324,13 @@
     .lux-tagline{ font-size:16px; }
   }
 
+  .home-hub-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:16px; margin-top:20px; }
+  .home-hub-card{ text-align:left; }
+  .home-hub-card h3{ margin:0; font-size:19px; }
+  .home-hub-card p{ margin:0; font-size:13.5px; color:var(--muted); line-height:1.5; }
+  .home-hub-stat{ font-size:12.5px; font-weight:600; color:var(--gold-soft); }
+  @media (max-width:760px){ .home-hub-grid{ grid-template-columns:1fr; } }
+
   @media (max-width:560px){
     .field-grid{ grid-template-columns:1fr; } .meta-grid{ grid-template-columns:1fr; }
     header.top{ flex-direction:column; align-items:flex-start; } .privacy-box{ flex-direction:column; align-items:flex-start; }
@@ -379,11 +386,34 @@
       <div class="lux-content">
         <div class="lux-logo">Ori<span>gi</span>n</div>
         <div class="lux-rule"></div>
-        <p class="lux-tagline">Le carnet des amateurs de café de spécialité</p>
-        <div class="lux-actions">
-          <button class="btn-lux-outline" id="btn-login">Se connecter</button>
-          <button class="btn-lux-filled" id="btn-signup">Créer un compte</button>
+        <div id="home-guest-content">
+          <p class="lux-tagline">Le carnet des amateurs de café de spécialité</p>
+          <div class="lux-actions">
+            <button class="btn-lux-outline" id="btn-login">Se connecter</button>
+            <button class="btn-lux-filled" id="btn-signup">Créer un compte</button>
+          </div>
         </div>
+        <div id="home-user-content" style="display:none;">
+          <p class="lux-tagline" id="home-greeting">Content de te revoir</p>
+        </div>
+      </div>
+    </div>
+
+    <div id="home-hub" class="home-hub-grid" style="display:none;">
+      <div class="card home-hub-card" id="hub-explore">
+        <h3 class="serif">Explorer</h3>
+        <p>Parcours le catalogue, filtre par torréfacteur, méthode ou origine, et compare les prix.</p>
+        <div class="home-hub-stat" id="hub-explore-stat">—</div>
+      </div>
+      <div class="card home-hub-card" id="hub-library">
+        <h3 class="serif">Ma bibliothèque</h3>
+        <p>Tes cafés dégustés, tes notes et tes recettes d'extraction, et ta liste à essayer.</p>
+        <div class="home-hub-stat" id="hub-library-stat">—</div>
+      </div>
+      <div class="card home-hub-card" id="hub-community">
+        <h3 class="serif">Communauté</h3>
+        <p>Les avis des autres amateurs et les cafés qui font le plus parler d'eux cette semaine.</p>
+        <div class="home-hub-stat" id="hub-community-stat">Voir les tendances →</div>
       </div>
     </div>
   </div>
@@ -965,6 +995,9 @@ auth.onAuthStateChanged(async (user)=>{
   await loadSettings();
   await loadLibrary();
   await loadWishlist();
+  if(document.getElementById('view-home').style.display !== 'none'){
+    renderHome();
+  }
   if(document.getElementById('view-library').style.display !== 'none'){
     renderLibrary(document.getElementById('library-search-input') ? document.getElementById('library-search-input').value : '');
   }
@@ -1664,9 +1697,39 @@ function showView(view){
     document.getElementById(tabs[k]).classList.toggle('active', k===view);
     document.getElementById(views[k]).style.display = (k===view) ? '' : 'none';
   });
+  if(view==='home') renderHome();
   if(view==='library') renderLibrary(document.getElementById('library-search-input').value);
   if(view==='community') renderTrending();
 }
+
+// The Accueil tab shows the sign-in hero to a guest and a personal hub
+// (Explorer / Ma bibliothèque / Communauté, each with a quick stat) once
+// signed in -- called both here and from auth.onAuthStateChanged, since a
+// user sitting on Accueil at the moment they sign in should land on the
+// hub immediately rather than staring at "Se connecter" while connected.
+function renderHome(){
+  const hub = document.getElementById('home-hub');
+  if(!currentUser){
+    document.getElementById('home-guest-content').style.display = '';
+    document.getElementById('home-user-content').style.display = 'none';
+    hub.style.display = 'none';
+    return;
+  }
+  document.getElementById('home-guest-content').style.display = 'none';
+  document.getElementById('home-user-content').style.display = '';
+  hub.style.display = '';
+  const name = currentUser.displayName || (currentUser.email ? currentUser.email.split('@')[0] : '');
+  document.getElementById('home-greeting').textContent = name ? `Content de te revoir, ${name}` : 'Content de te revoir';
+  document.getElementById('hub-explore-stat').textContent =
+    `${COFFEES.length} cafés · ${Object.keys(ROASTERS).length} torréfacteurs`;
+  const tastedCount = Object.keys(libraryCache).length;
+  document.getElementById('hub-library-stat').textContent = (tastedCount>0 || wishlist.size>0)
+    ? `${tastedCount} dégusté${tastedCount>1?'s':''} · ${wishlist.size} à essayer`
+    : `Ajoute ton premier café →`;
+}
+document.getElementById('hub-explore').addEventListener('click', ()=> showView('explore'));
+document.getElementById('hub-library').addEventListener('click', ()=> showView('library'));
+document.getElementById('hub-community').addEventListener('click', ()=> showView('community'));
 document.getElementById('tab-home').addEventListener('click', ()=> showView('home'));
 document.getElementById('tab-explore').addEventListener('click', ()=> showView('explore'));
 document.getElementById('tab-library').addEventListener('click', ()=> showView('library'));
@@ -1746,6 +1809,7 @@ document.getElementById('export-csv').addEventListener('click', exportLibraryCSV
   // Personal data (settings/library/wishlist) loads from auth.onAuthStateChanged
   // above, which fires once immediately with the current sign-in state.
   updateUserStatusUI();
+  renderHome();
   loadAllCommunityAverages();
 })();
 </script>
