@@ -19,12 +19,16 @@
   .app{ max-width:1100px; margin:0 auto; padding:28px 20px 80px; }
 
   header.top{
-    display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;
+    display:flex; align-items:center; gap:16px; flex-wrap:wrap;
     position:sticky; top:0; z-index:100; background:var(--ink);
     margin:0 -20px 16px; padding:16px 20px; border-bottom:1px solid transparent;
   }
   header.top.scrolled{ border-bottom-color:var(--line); }
-  .brand{ display:flex; align-items:baseline; gap:10px; }
+  /* Pins the logo left and lets everything else (tabs + account/login)
+     collect at the right edge as one group, instead of the old
+     justify-content:space-between spreading a gap on both sides of the
+     tab pill regardless of how wide the page is. */
+  .brand{ display:flex; align-items:baseline; gap:10px; margin-right:auto; }
   .brand .mark{ font-family:'Fraunces',serif; font-weight:700; font-size:28px; letter-spacing:-0.5px; }
   .brand .mark span{ color:var(--gold); }
   .brand .tag{ color:var(--muted); font-size:13px; }
@@ -874,12 +878,19 @@ function cheapestLabel(c){
 
 const BREW_METHODS = ['V60','Espresso','AeroPress','Hario Switch','Chemex','Cafetière à piston','Moka','Cold Brew'];
 const GRIND_MIN = 0, GRIND_MAX = 40, GRIND_DEFAULT = 24;
-// Named grinder models to choose from in Paramètres -- à compléter plus
-// tard avec la liste réelle. Each slot's own click range (which varies a
-// lot by grinder -- some are 0-40, others 20-100) is entered by the user
-// themselves in Paramètres rather than looked up from this list, since
-// there's no model here to look it up from yet.
-const GRINDER_MODELS = [];
+// Grinder reference database -- à compléter plus tard avec la liste réelle
+// des moulins et leur échelle de mouture officielle (ex. { name:
+// 'Comandante C40', min: 0, max: 40 }). Once a model is listed here,
+// picking it in Paramètres locks its mouture range to these values
+// (findGrinderModel below); a name not yet in this list falls back to
+// letting the user set its range by hand, so the feature stays usable
+// before the catalog is filled in.
+const GRINDER_MODELS = [
+  // { name: 'Comandante C40', min: 0, max: 40 },
+];
+function findGrinderModel(name){
+  return GRINDER_MODELS.find(m => m.name === name);
+}
 const RATIO_OPTIONS = Array.from({length:20}, (_,i)=>'1:'+(i+1));
 const RATIO_DEFAULT = '1:2';
 const COFFEE_G_MIN = 1, COFFEE_G_MAX = 100, COFFEE_G_DEFAULT = 15;
@@ -1118,12 +1129,29 @@ function isGoogleAccount(){
 }
 
 function populateGrinderNameSelects(){
-  const opts = GRINDER_MODELS.map(m=>`<option value="${m}">${m}</option>`).join('');
+  const opts = GRINDER_MODELS.map(m=>`<option value="${m.name}">${m.name}</option>`).join('');
   ['set-grinder1-name','set-grinder2-name'].forEach(id=>{
     document.getElementById(id).insertAdjacentHTML('beforeend', opts);
   });
 }
 populateGrinderNameSelects();
+
+// When the chosen name matches a catalog entry, its range is authoritative
+// -- lock the mini/maxi inputs to it instead of leaving them editable, so
+// the two can't drift out of sync with the database once it exists.
+function applyGrinderModelRange(slot){
+  const model = findGrinderModel(document.getElementById(`set-grinder${slot}-name`).value);
+  const minEl = document.getElementById(`set-grinder${slot}-min`);
+  const maxEl = document.getElementById(`set-grinder${slot}-max`);
+  if(model){
+    minEl.value = model.min; maxEl.value = model.max;
+    minEl.disabled = true; maxEl.disabled = true;
+  }else{
+    minEl.disabled = false; maxEl.disabled = false;
+  }
+}
+document.getElementById('set-grinder1-name').addEventListener('change', ()=> applyGrinderModelRange(1));
+document.getElementById('set-grinder2-name').addEventListener('change', ()=> applyGrinderModelRange(2));
 
 function renderSettings(){
   if(!currentUser) return;
@@ -1137,6 +1165,8 @@ function renderSettings(){
   document.getElementById('set-grinder2-name').value = settings.grinder2Name || '';
   document.getElementById('set-grinder2-min').value = settings.grinder2Min ?? 0;
   document.getElementById('set-grinder2-max').value = settings.grinder2Max ?? 40;
+  applyGrinderModelRange(1);
+  applyGrinderModelRange(2);
   document.getElementById('privacy-toggle').checked = !!settings.publicLibrary;
   document.getElementById('settings-current-email').textContent = currentUser.email || '—';
 
