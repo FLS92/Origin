@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
   },
-  "scrapedAt": "2026-09-04T14:58:45Z",
+  "scrapedAt": "2026-09-07T05:20:39Z",
   "products": [
     {
       "id": "moka-maritza-nicaragua",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-lonya-perou",
@@ -77,15 +77,15 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-zocapa-mexique",
       "name": "Zocapa – Mexique",
       "originCountry": "Mexique",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Veracruz",
+      "process": "Lavé ESPRESSO",
+      "variety": "Marsellesa, Sarchimor",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-shanga-rwanda",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-julio-cesar-colombie",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-misadhi-kenya",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-edilberto-colombie",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-cerrado-bresil",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-alma-guatemala",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-copanito-honduras",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-hadama-ethiopie",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-negele-ethiopie",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-melaku-ethiopie",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-palestina-colombie",
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-lucha-libre-mexique",
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-rosa-colombie-bio",
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-decaf-colombie",
@@ -572,7 +572,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     },
     {
       "id": "moka-nobo-nicaragua",
@@ -605,7 +605,1426 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-04T14:58:45Z"
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-blanca-nieve-nicaragua",
+      "name": "Blanca Nieve – Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Catuai, Bourbon, Pache, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-blanca_nieve-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/blanca-nieve-nicaragua/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-lino-colombie",
+      "name": "Lino – Colombie",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/01/etiq-lino-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/lino-colombie/",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-nubia-colombie",
+      "name": "Nubia – Colombie",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/01/etiq-nubia-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/nubia-colombie/",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-baya-nicaragua",
+      "name": "Baya – Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/12/etiq-baya-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/baya-nicaragua/",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-mumbi-kenya",
+      "name": "Mumbi – Kenya",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Colombia, Castillo, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-mumbi-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/mumbi-kenya/",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-zapote-honduras",
+      "name": "Zapote – Honduras",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Blend d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/zapote-brulerie_moka-1.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/zapote-honduras/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-ayoub-yemen",
+      "name": "Ayoub – Yémen",
+      "originCountry": "Yémen",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Mocha",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-ayoub-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/ayoub-yemen/",
+          "price": 20.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-romero-honduras",
+      "name": "Romero – Honduras",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "mélange d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/etiq-romero-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/romero-honduras/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-othaya-kenya",
+      "name": "Othaya – Kenya",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Ruiru 11, SL 28 et SL 34",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/02/etiq-othaya-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/othaya-kenya/",
+          "price": 12.8,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-ochoa-honduras",
+      "name": "Ochoa – Honduras",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Honey",
+      "variety": "Arabica, Parainema",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/09/etiq-ochoa-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/ochoa-honduras/",
+          "price": 13.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-yello-nicaragua",
+      "name": "Yello – Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Espresso",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/11/etiq-yello-min-_1_.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/yello-nicaragua/",
+          "price": 14.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-mi-pana-colombie",
+      "name": "Mi Pana – Colombie BIO",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "mélange d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/05/etiq-mi_pana-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/mi-pana-colombie/",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-carmen-salvador",
+      "name": "Carmen – El Salvador",
+      "originCountry": "Salvador",
+      "originDetail": null,
+      "process": "Naturel anaérobique",
+      "variety": "Arabica, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/07/etiq-carmen-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/carmen-salvador/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-mulugeta-ethiopie",
+      "name": "Mulugeta – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Bourbon, Catuai, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/10/etiq-mulugeta-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/mulugeta-ethiopie/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-damba-el-salvador",
+      "name": "Damba – El Salvador",
+      "originCountry": "Salvador",
+      "originDetail": null,
+      "process": "Honey",
+      "variety": "Arabica, Parainema",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/09/etiq-damba-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/damba-el-salvador/",
+          "price": 9.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-bernal-colombie",
+      "name": "Bernal – Colombie",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Bourbon, Catuai, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/05/etiq-bernal-2024-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/bernal-colombie/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-lalo-ethiopie",
+      "name": "Lalo – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Arabica, Heirloom",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/01/etiq-lalo-2024-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/lalo-ethiopie/",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-kivu-congo-bio",
+      "name": "Kivu – Congo BIO",
+      "originCountry": "RD Congo",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Arabica 74110",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/05/etiq-kivu-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/kivu-congo-bio/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-glenda-honduras",
+      "name": "Glenda – Honduras",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Bourbon, Catuai, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/03/etiq-glenda-min.webp",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/glenda-honduras/",
+          "price": 11.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-cafe-kaffa-ethiopie",
+      "name": "Café Kaffa – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Arabica 74110",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kaffa-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/cafe-kaffa-ethiopie/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-gitega-rwanda",
+      "name": "Gitega – Rwanda",
+      "originCountry": "Rwanda",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Bourbon rouge",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-gitega-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/gitega-rwanda/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-urubamba-perou",
+      "name": "Urubamba – Pérou BIO",
+      "originCountry": "Pérou",
+      "originDetail": "JAEN, CAJAMARCA",
+      "process": "Lavé",
+      "variety": "Caturra bourbon",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-urubamba-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/urubamba-perou/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-kabira-ethiopie",
+      "name": "Kabira – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Arabica 74110,74112 & Heirloom",
+      "producer": null,
+      "score": 88.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kabira-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/kabira-ethiopie/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-del-micay-colombie",
+      "name": "Del Micay – Colombie",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "mélange d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/12/etiq-del_micay-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/del-micay-colombie/",
+          "price": 8.8,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-chevere-perou-bio",
+      "name": "Chévere – Pérou BIO",
+      "originCountry": "Pérou",
+      "originDetail": "Cajamarca",
+      "process": "Lavé",
+      "variety": "Caturra rouge, Bourbon rouge, Typica",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/07/etiq-chevere-perou-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/chevere-perou-bio/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-la-palma-perou",
+      "name": "La Palma – Pérou",
+      "originCountry": "Pérou",
+      "originDetail": "La Palma, Colasay",
+      "process": "Lavé",
+      "variety": "Caturra & catimor, Mundo Novo, Pache, Typica",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-la_palma-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/la-palma-perou/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-sidamo-ethiopie",
+      "name": "SIDAMA – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica Heirloom",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2018/09/etiq-sidamo-brulerie_moka-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/sidamo-ethiopie/",
+          "price": 8.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-tata-nahual-guatemala",
+      "name": "Tata Nahual – Guatemala",
+      "originCountry": "Guatemala",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Catuaí & Icatu",
+      "producer": null,
+      "score": 83.75,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-nahual-brulerie_moka-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/tata-nahual-guatemala/",
+          "price": 7.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-isabelia-nicaragua",
+      "name": "Isabelia – Nicaragua BIO",
+      "originCountry": "Nicaragua",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Bourbon , Villa Sarchi",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-isabelia-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/isabelia-nicaragua/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-cafe-lahuerta-nicaragua",
+      "name": "La Huerta – Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Bourbon , Villa Sarchi",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/10/etiq-la_huerta-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/cafe-lahuerta-nicaragua/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-piendamo-colombie",
+      "name": "Piendamó – Colombie BIO",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica Bourbon, Catimor, Caturra et pache",
+      "producer": null,
+      "score": 83.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-piendamo-brulerie_moka-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/piendamo-colombie/",
+          "price": 8.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-rancho-bresil",
+      "name": "Rancho – Brésil",
+      "originCountry": "Brésil",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Arabica Acaia, Mundo Novo",
+      "producer": null,
+      "score": 84,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-rancho-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/rancho-bresil/",
+          "price": 7.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-zebigi-ouganda",
+      "name": "Zebigi – Ouganda",
+      "originCountry": "Ouganda",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Bourbon , Villa Sarchi",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-zebigi-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/zebigi-ouganda/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-bwenda-rwanda",
+      "name": "Bwenda – Rwanda",
+      "originCountry": "Rwanda",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-bwenda_rwanda-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/bwenda-rwanda/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-san-ignacio-costa-rica",
+      "name": "San Ignacio – Costa Rica",
+      "originCountry": "Costa Rica",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Caturra, Bourbon",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/11/etiq-san_ignacio-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/san-ignacio-costa-rica/",
+          "price": 9.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-gayuku-ini-kenya",
+      "name": "Gayuku Ini – Kenya",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-gayuku_ini-brulerie_moka-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/gayuku-ini-kenya/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-alero-honduras",
+      "name": "Alero – Honduras BIO",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Café séché par voie naturelle",
+      "variety": "Pur arabica Catuai jaune",
+      "producer": null,
+      "score": 80.75,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/etiq-alero-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/alero-honduras/",
+          "price": 8.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-don-ricardo-salvador",
+      "name": "Don Ricardo – Salvador",
+      "originCountry": "Salvador",
+      "originDetail": null,
+      "process": "Honey",
+      "variety": "Arabica Bourbon Sarchimor",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-don_ricardo-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/don-ricardo-salvador/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-san-antonio-salvador",
+      "name": "San Antonio – Salvador",
+      "originCountry": "Salvador",
+      "originDetail": null,
+      "process": "Semi lavé",
+      "variety": "Arabica Bourbon",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/09/etiq-san-antonio-min-1.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/san-antonio-salvador/",
+          "price": 8.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-wolichu-wachu-ethiopie",
+      "name": "Wolichu Wachu – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica bourbon",
+      "producer": null,
+      "score": 87.25,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-wolichu-brulerie_moka-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/wolichu-wachu-ethiopie/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-aba-kika-ethiopie",
+      "name": "Aba Kika – Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": "Province de Metu",
+      "process": "Lavé",
+      "variety": "Arabica Pacamara",
+      "producer": null,
+      "score": 86.25,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-aba-kika-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/aba-kika-ethiopie/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-santa-fe-mexique",
+      "name": "Santa Fe – Mexique BIO",
+      "originCountry": "Mexique",
+      "originDetail": "Chiapas",
+      "process": "Lavé",
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-sante_fe-brulerie_moka.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/santa-fe-mexique/",
+          "price": 8.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
+    },
+    {
+      "id": "moka-ibisi-rwanda",
+      "name": "Ibisi – Rwanda",
+      "originCountry": "Rwanda",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-ibisi-brulerie_moka-min.jpg",
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/ibisi-rwanda/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-07T05:20:39Z",
+      "lastSeenAt": "2026-09-07T05:20:39Z"
     }
   ]
 }

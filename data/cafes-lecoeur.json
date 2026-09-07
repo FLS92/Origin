@@ -11,7 +11,7 @@
     "notes": "E-commerce Odoo (module website_sale), pas d'API JSON publique standard — a scraper via parsing HTML des pages /shop.",
     "logoUrl": "https://www.cafeslecoeur.fr/web/image/website/1/logo/Caf%C3%A9s%20Lecoeur?unique=cc9073c"
   },
-  "scrapedAt": "2026-09-04T13:12:46Z",
+  "scrapedAt": "2026-09-07T05:16:39Z",
   "products": [
     {
       "id": "cafes-lecoeur-p174",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     },
     {
       "id": "cafes-lecoeur-p175",
@@ -82,7 +82,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     },
     {
       "id": "cafes-lecoeur-p177",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     },
     {
       "id": "cafes-lecoeur-p176",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     },
     {
       "id": "cafes-lecoeur-p179",
@@ -192,7 +192,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     },
     {
       "id": "cafes-lecoeur-p178",
@@ -230,7 +230,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     },
     {
       "id": "cafes-lecoeur-p181",
@@ -268,7 +268,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-04T13:12:46Z"
+      "lastSeenAt": "2026-09-07T05:16:39Z"
     }
   ]
 }

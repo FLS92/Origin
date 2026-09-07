@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
-  "scrapedAt": "2026-09-06T09:14:52Z",
+  "scrapedAt": "2026-09-07T05:21:02Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -37,7 +37,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/bella-vista-zarza-colombie-natural",
-          "price": 19.5,
+          "price": 16.25,
           "currency": "EUR",
           "unitWeightG": 200,
           "priceNote": "à partir de",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-06T09:14:52Z"
+      "lastSeenAt": "2026-09-07T05:21:02Z"
     },
     {
       "id": "cafe-1802-gasharu-rwanda-washed",
@@ -73,7 +73,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/gasharu-rwanda-washed",
-          "price": 10.5,
+          "price": 8.75,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-06T09:14:52Z"
+      "lastSeenAt": "2026-09-07T05:21:02Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -109,7 +109,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/buhoro-rwanda-anaerobic",
-          "price": 12.5,
+          "price": 10.42,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-06T09:14:52Z"
+      "lastSeenAt": "2026-09-07T05:21:02Z"
     }
   ]
 }

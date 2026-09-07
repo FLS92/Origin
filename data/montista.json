@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png"
   },
-  "scrapedAt": "2026-09-04T14:57:53Z",
+  "scrapedAt": "2026-09-07T05:20:09Z",
   "products": [
     {
       "id": "montista-san-antonio-el-salvador",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-papa-blend",
@@ -80,7 +80,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-guariroba-bresil",
@@ -90,7 +90,7 @@
       "process": "Naturel 🍃",
       "variety": "Catucai Jaune ☀️",
       "producer": null,
-      "score": null,
+      "score": 84.5,
       "acidity": null,
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
@@ -116,7 +116,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-cundinamarca-colombie",
@@ -149,7 +149,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-kamunyaka-kenya-nyeri",
@@ -182,7 +182,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-dcaf5",
@@ -215,7 +215,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-kinini-rwanda",
@@ -248,7 +248,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-ayla-bombe-ethiopie",
@@ -281,7 +281,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-mexique-huehuetepan",
@@ -314,7 +314,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-mbili-tanzanie",
@@ -347,7 +347,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-clark-lave-ouganda",
@@ -380,7 +380,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-simbu-cafe-papouasie-nouvelle-guinee",
@@ -390,7 +390,7 @@
       "process": "Lavé 🍃",
       "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
-      "score": null,
+      "score": 81,
       "acidity": null,
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
@@ -418,7 +418,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-finca-union-cafe-mexique",
@@ -451,7 +451,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-baragwi-cafe-kenya",
@@ -486,7 +486,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-don-claudio-costa-rica",
@@ -519,7 +519,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-amankaya-guatemala",
@@ -552,7 +552,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-don-victor-nicaragua",
@@ -585,7 +585,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-blend5",
@@ -622,7 +622,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-el-puente",
@@ -659,7 +659,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-thageini",
@@ -692,7 +692,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-c-hamburgo",
@@ -725,7 +725,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-la-esperanza",
@@ -758,7 +758,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-c-huehuetepan-lave",
@@ -791,7 +791,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-huehuetepan",
@@ -824,7 +824,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-c-sunheri",
@@ -857,7 +857,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-c-suke-afursa",
@@ -890,7 +890,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-c-dcaf1",
@@ -923,7 +923,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     },
     {
       "id": "montista-c-blend3",
@@ -956,7 +956,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-04T14:57:53Z"
+      "lastSeenAt": "2026-09-07T05:20:09Z"
     }
   ]
 }

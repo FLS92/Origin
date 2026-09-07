@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-06T09:15:23Z",
+  "generatedAt": "2026-09-07T05:22:13Z",
   "roasterCount": 68,
-  "coffeeCount": 1056,
+  "coffeeCount": 1088,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -665,7 +665,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/rwanda-murambi-bio",
-          "price": "4,00 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -719,7 +719,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/equateur-tulipe",
-          "price": "4,50 €",
+          "price": "6,00 €",
           "note": "à partir de"
         }
       ]
@@ -746,7 +746,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
-          "price": "5,00 €",
+          "price": "6,00 €",
           "note": "à partir de"
         }
       ]
@@ -773,7 +773,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/arlos-coffee",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -800,7 +800,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-tolima",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -827,7 +827,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/ethiopie-ali-bio",
-          "price": "4,00 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -854,7 +854,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/bresil-silvia",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -881,7 +881,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/cafeespresso",
-          "price": "3,00 €",
+          "price": "4,00 €",
           "note": "à partir de"
         }
       ]
@@ -908,7 +908,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/honduras-marco",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -935,7 +935,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/coffret-cafe-gamme-ephemere",
-          "price": "18,00 €",
+          "price": "22,00 €",
           "note": "à partir de"
         }
       ]
@@ -962,7 +962,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-deca",
-          "price": "3,50 €",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]
@@ -1448,7 +1448,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/1000-hills",
-          "price": "15,00 €",
+          "price": "18,00 €",
           "note": "à partir de"
         }
       ]
@@ -1475,7 +1475,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/cordillera-del-fuego",
-          "price": "25,00 €",
+          "price": "30,00 €",
           "note": "à partir de"
         }
       ]
@@ -1502,7 +1502,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/el-porvenir",
-          "price": "30,50 €",
+          "price": "37,00 €",
           "note": "à partir de"
         }
       ]
@@ -1529,7 +1529,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-los-primos",
-          "price": "23,00 €",
+          "price": "28,00 €",
           "note": "à partir de"
         }
       ]
@@ -1556,7 +1556,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-bella",
-          "price": "9,75 €",
+          "price": "12,00 €",
           "note": "à partir de"
         }
       ]
@@ -1961,7 +1961,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/bella-vista-zarza-colombie-natural",
-          "price": "19,50 €",
+          "price": "16,25 €",
           "note": "à partir de"
         }
       ]
@@ -1988,7 +1988,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/gasharu-rwanda-washed",
-          "price": "10,50 €",
+          "price": "8,75 €",
           "note": "à partir de"
         }
       ]
@@ -2015,7 +2015,7 @@
         {
           "site": "Café 1802",
           "url": "https://cafe1802.fr/products/buhoro-rwanda-anaerobic",
-          "price": "12,50 €",
+          "price": "10,42 €",
           "note": "à partir de"
         }
       ]
@@ -6254,7 +6254,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/west-village-assemblage-signature-l-expresso-selon-cafe-toque-941",
-          "price": "7,50 €",
+          "price": "7,11 €",
           "note": ""
         }
       ]
@@ -6281,7 +6281,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3515b-318",
-          "price": "499,00 €",
+          "price": "415,83 €",
           "note": ""
         }
       ]
@@ -6308,7 +6308,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/vitalite-assemblage-pour-expresso-italien-cafe-toque-435",
-          "price": "7,50 €",
+          "price": "7,11 €",
           "note": ""
         }
       ]
@@ -6335,7 +6335,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3535sb-407",
-          "price": "599,00 €",
+          "price": "499,17 €",
           "note": ""
         }
       ]
@@ -6362,7 +6362,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-expresso-de-longhi-3795t-406",
-          "price": "999,00 €",
+          "price": "832,50 €",
           "note": ""
         }
       ]
@@ -6389,7 +6389,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/machine-de-longhi-rivelia-396",
-          "price": "799,00 €",
+          "price": "665,83 €",
           "note": ""
         }
       ]
@@ -6416,7 +6416,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-domestique-jura-machine-automatique-ena4-309",
-          "price": "668,57 €",
+          "price": "557,14 €",
           "note": ""
         }
       ]
@@ -6443,7 +6443,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-semi-professionnelle-jura-machine-automatique-e4-204",
-          "price": "828,00 €",
+          "price": "690,00 €",
           "note": ""
         }
       ]
@@ -6470,7 +6470,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/gamme-semi-professionnelle-jura-machine-automatique-e6-205",
-          "price": "920,00 €",
+          "price": "766,67 €",
           "note": ""
         }
       ]
@@ -6497,7 +6497,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/cumbia-colombie-cafe-expresso-cafe-toque-434",
-          "price": "7,90 €",
+          "price": "7,49 €",
           "note": ""
         }
       ]
@@ -6524,7 +6524,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/produit-detartrant-delonghi-319",
-          "price": "14,00 €",
+          "price": "11,67 €",
           "note": ""
         }
       ]
@@ -6578,7 +6578,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/green-tea-the-vert-teahouse-exclusive-boite-de-15-sachets-284",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -6605,7 +6605,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/chocolat-en-poudre-one-one-260",
-          "price": "14,77 €",
+          "price": "14,00 €",
           "note": ""
         }
       ]
@@ -6632,7 +6632,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/boite-de-pastilles-de-nettoyage-jura-206",
-          "price": "45,60 €",
+          "price": "38,00 €",
           "note": ""
         }
       ]
@@ -6659,7 +6659,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/earl-grey-the-noir-earl-grey-teahouse-boite-de-15-sachets-283",
-          "price": "5,90 €",
+          "price": "5,59 €",
           "note": ""
         }
       ]
@@ -6686,7 +6686,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/herbs-honey-infusion-aux-plantes-et-aux-fruits-teahouse-boite-de-15-sachets-263",
-          "price": "5,90 €",
+          "price": "5,59 €",
           "note": ""
         }
       ]
@@ -6713,7 +6713,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/cartouche-jura-claris-smart-209",
-          "price": "19,20 €",
+          "price": "16,00 €",
           "note": ""
         }
       ]
@@ -6740,7 +6740,7 @@
         {
           "site": "Café Toqué",
           "url": "https://lecafetoque.fr/shop/oriental-apple-infusion-de-pommes-et-mures-teahouse-boite-de-15-sachets-264",
-          "price": "5,90 €",
+          "price": "5,59 €",
           "note": ""
         }
       ]
@@ -7286,33 +7286,6 @@
       ]
     },
     {
-      "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
-      "roasterId": "cafes-bozec",
-      "name": "Honduras – Comayagua",
-      "origin": "Honduras",
-      "originCountry": "Honduras",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/6.png?fit=1063%2C1063&ssl=1",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés Bozec",
-          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-honduras-comayagua-micro-lot/",
-          "price": "12,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "cafes-bozec-cafes-bozec-ethiopie-bonga-micro-lot",
       "roasterId": "cafes-bozec",
       "name": "Éthiopie – Bonga",
@@ -7524,6 +7497,33 @@
           "site": "Cafés Bozec",
           "url": "https://www.cafesbozec.fr/produit/nicaragua-mogoton/",
           "price": "10,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "cafes-bozec-cafes-bozec-honduras-comayagua",
+      "roasterId": "cafes-bozec",
+      "name": "Honduras – Comayagua",
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/6.png?fit=1063%2C1063&ssl=1",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Cafés Bozec",
+          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-honduras-comayagua/",
+          "price": "12,00 €",
           "note": "à partir de"
         }
       ]
@@ -8334,6 +8334,33 @@
           "site": "Cafés Gorille",
           "url": "https://cafes-gorille.com/produit/cafe-du-bresil/",
           "price": "8,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "cafes-gorille-cafe-dindonesie-manggarai",
+      "roasterId": "cafes-gorille",
+      "name": "CAFÉ D’INDONÉSIE – MANGGARAI",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/04/Cafes-gorille-nouveautes-indonesie.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Cafés Gorille",
+          "url": "https://cafes-gorille.com/produit/cafe-dindonesie-manggarai/",
+          "price": "12,50 €",
           "note": "à partir de"
         }
       ]
@@ -11849,60 +11876,6 @@
       ]
     },
     {
-      "id": "early-bird-ethiopie-sidama",
-      "roasterId": "early-bird",
-      "name": "Éthiopie",
-      "origin": "Éthiopie",
-      "originCountry": "Éthiopie",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/sidama-cherry-packshot.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Early Bird",
-          "url": "https://earlybirdcoffee.fr/boutique/ethiopie-sidama/",
-          "price": "18,20 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "early-bird-ethiopia-sidama",
-      "roasterId": "early-bird",
-      "name": "Ethiopia",
-      "origin": "Éthiopie",
-      "originCountry": "Éthiopie",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/sidama-cherry-packshot.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Early Bird",
-          "url": "https://earlybirdcoffee.fr/en/shop/ethiopia-sidama/",
-          "price": "18,20 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "early-bird-tanzania",
       "roasterId": "early-bird",
       "name": "Tanzania",
@@ -12011,60 +11984,6 @@
       ]
     },
     {
-      "id": "early-bird-costa-rica-4",
-      "roasterId": "early-bird",
-      "name": "Costa Rica",
-      "origin": "Costa Rica",
-      "originCountry": "Costa Rica",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/los-santos.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Early Bird",
-          "url": "https://earlybirdcoffee.fr/boutique/costa-rica-4/",
-          "price": "17,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "early-bird-costa-rica-3",
-      "roasterId": "early-bird",
-      "name": "Costa Rica",
-      "origin": "Costa Rica",
-      "originCountry": "Costa Rica",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/los-santos.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Early Bird",
-          "url": "https://earlybirdcoffee.fr/en/shop/costa-rica-3/",
-          "price": "17,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "early-bird-guatemala-2",
       "roasterId": "early-bird",
       "name": "Guatemala",
@@ -12114,33 +12033,6 @@
           "site": "Early Bird",
           "url": "https://earlybirdcoffee.fr/en/shop/guatemala-alta-verapaz/",
           "price": "19,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "early-bird-costa-rica",
-      "roasterId": "early-bird",
-      "name": "Costa Rica",
-      "origin": "Costa Rica",
-      "originCountry": "Costa Rica",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2020/11/pack-central-valley-costa-rica.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Early Bird",
-          "url": "https://earlybirdcoffee.fr/boutique/costa-rica/",
-          "price": "33,70 €",
           "note": "à partir de"
         }
       ]
@@ -12276,33 +12168,6 @@
           "site": "Early Bird",
           "url": "https://earlybirdcoffee.fr/boutique/honduras-corquin/",
           "price": "10,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "early-bird-ethiopie-guji-2",
-      "roasterId": "early-bird",
-      "name": "Éthiopie",
-      "origin": "Éthiopie",
-      "originCountry": "Éthiopie",
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/ethiopia-guji-1.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Early Bird",
-          "url": "https://earlybirdcoffee.fr/boutique/ethiopie-guji-2/",
-          "price": "20,50 €",
           "note": "à partir de"
         }
       ]
@@ -14045,7 +13910,7 @@
       "usage": null,
       "variety": "Bourbon, Caturra",
       "producer": null,
-      "score": null,
+      "score": 84,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -15596,7 +15461,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-java",
-          "price": "20,90 €",
+          "price": "24,75 €",
           "note": ""
         }
       ]
@@ -15623,7 +15488,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gedeo-naturel",
-          "price": "18,90 €",
+          "price": "22,38 €",
           "note": "à partir de"
         }
       ]
@@ -15650,7 +15515,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-cristal-coffee-globe",
-          "price": "29,90 €",
+          "price": "35,41 €",
           "note": ""
         }
       ]
@@ -15677,7 +15542,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/lajones-bambu",
-          "price": "36,90 €",
+          "price": "43,70 €",
           "note": ""
         }
       ]
@@ -15704,7 +15569,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chichogallo",
-          "price": "24,90 €",
+          "price": "29,49 €",
           "note": ""
         }
       ]
@@ -15731,7 +15596,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-grands-crus-chocolates",
-          "price": "51,00 €",
+          "price": "60,40 €",
           "note": ""
         }
       ]
@@ -15758,7 +15623,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/zelaya",
-          "price": "17,40 €",
+          "price": "20,61 €",
           "note": "à partir de"
         }
       ]
@@ -15785,7 +15650,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/fhlor-1",
-          "price": "16,90 €",
+          "price": "20,01 €",
           "note": "à partir de"
         }
       ]
@@ -15812,7 +15677,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-isabelina",
-          "price": "19,90 €",
+          "price": "23,57 €",
           "note": "à partir de"
         }
       ]
@@ -15839,7 +15704,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/autour-du-volcan-1",
-          "price": "34,90 €",
+          "price": "41,33 €",
           "note": ""
         }
       ]
@@ -15866,7 +15731,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-atlas-coffee-globe",
-          "price": "25,90 €",
+          "price": "30,67 €",
           "note": ""
         }
       ]
@@ -15893,7 +15758,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chakra-do-dago",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "à partir de"
         }
       ]
@@ -15920,7 +15785,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-degustation-decouverte",
-          "price": "97,28 €",
+          "price": "115,21 €",
           "note": ""
         }
       ]
@@ -15947,7 +15812,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/kit-decouverte-offre-de-lancement-reniala",
-          "price": "102,20 €",
+          "price": "121,03 €",
           "note": ""
         }
       ]
@@ -15974,7 +15839,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/flhor-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "11,40 €",
+          "price": "13,50 €",
           "note": "à partir de"
         }
       ]
@@ -16001,7 +15866,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/amarillo-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "19,20 €",
+          "price": "22,74 €",
           "note": "à partir de"
         }
       ]
@@ -16028,7 +15893,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gera-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "11,40 €",
+          "price": "13,50 €",
           "note": "à partir de"
         }
       ]
@@ -16055,7 +15920,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "10,20 €",
+          "price": "12,08 €",
           "note": "à partir de"
         }
       ]
@@ -16082,7 +15947,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "12,00 €",
+          "price": "14,21 €",
           "note": "à partir de"
         }
       ]
@@ -16136,7 +16001,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/canopee-en-capsule",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "à partir de"
         }
       ]
@@ -16163,7 +16028,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-capsule",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "à partir de"
         }
       ]
@@ -16190,7 +16055,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saqulew",
-          "price": "17,90 €",
+          "price": "21,20 €",
           "note": "à partir de"
         }
       ]
@@ -16217,7 +16082,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/blue-mariposa-1",
-          "price": "18,90 €",
+          "price": "22,38 €",
           "note": "à partir de"
         }
       ]
@@ -16244,7 +16109,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/timana",
-          "price": "18,90 €",
+          "price": "22,38 €",
           "note": "à partir de"
         }
       ]
@@ -16271,7 +16136,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-illumination",
-          "price": "135,00 €",
+          "price": "159,88 €",
           "note": ""
         }
       ]
@@ -16298,7 +16163,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-metamorphose",
-          "price": "85,00 €",
+          "price": "100,66 €",
           "note": ""
         }
       ]
@@ -16325,7 +16190,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/au-coeur-de-la-foret-1",
-          "price": "24,90 €",
+          "price": "29,49 €",
           "note": ""
         }
       ]
@@ -16352,7 +16217,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/source",
-          "price": "15,90 €",
+          "price": "18,83 €",
           "note": "à partir de"
         }
       ]
@@ -16379,7 +16244,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-canopee",
-          "price": "14,90 €",
+          "price": "17,65 €",
           "note": "à partir de"
         }
       ]
@@ -16406,7 +16271,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saio",
-          "price": "18,90 €",
+          "price": "22,38 €",
           "note": "à partir de"
         }
       ]
@@ -16433,7 +16298,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-initiation",
-          "price": "43,40 €",
+          "price": "51,40 €",
           "note": ""
         }
       ]
@@ -16460,7 +16325,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine-en-capsule",
-          "price": "19,90 €",
+          "price": "23,57 €",
           "note": "à partir de"
         }
       ]
@@ -16487,7 +16352,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-origine",
-          "price": "14,90 €",
+          "price": "17,65 €",
           "note": "à partir de"
         }
       ]
@@ -16514,7 +16379,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine",
-          "price": "16,90 €",
+          "price": "20,01 €",
           "note": "à partir de"
         }
       ]
@@ -16541,7 +16406,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-monarca-coffee-globe",
-          "price": "22,90 €",
+          "price": "27,12 €",
           "note": ""
         }
       ]
@@ -17027,7 +16892,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bergamotier-642",
-          "price": "16,90 €",
+          "price": "16,02 €",
           "note": ""
         }
       ]
@@ -17054,7 +16919,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-costa-rica-buho-801",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17081,7 +16946,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-honduras-alegria-803",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17108,7 +16973,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-mexique-decafeine-804",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17135,7 +17000,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/boite-de-capsules-x10-salvador-espresso-blend-800",
-          "price": "5,50 €",
+          "price": "5,21 €",
           "note": ""
         }
       ]
@@ -17162,7 +17027,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/brown-sugar-645",
-          "price": "10,90 €",
+          "price": "10,33 €",
           "note": ""
         }
       ]
@@ -17189,7 +17054,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-dulces-suenos-decafeine-906",
-          "price": "12,90 €",
+          "price": "12,23 €",
           "note": ""
         }
       ]
@@ -17216,7 +17081,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/bresil-mogiana-fazenda-alianca-910",
-          "price": "10,50 €",
+          "price": "9,95 €",
           "note": ""
         }
       ]
@@ -17243,7 +17108,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chicoree-l-originale-nouree-752",
-          "price": "10,90 €",
+          "price": "10,33 €",
           "note": ""
         }
       ]
@@ -17270,7 +17135,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/chunmee-bio-648",
-          "price": "9,90 €",
+          "price": "9,38 €",
           "note": ""
         }
       ]
@@ -17297,7 +17162,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/darjeeling-imperial-namring-651",
-          "price": "11,90 €",
+          "price": "11,28 €",
           "note": ""
         }
       ]
@@ -17324,7 +17189,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-beloya-yirgacheffe-930",
-          "price": "13,00 €",
+          "price": "12,32 €",
           "note": ""
         }
       ]
@@ -17351,7 +17216,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-oromia-814",
-          "price": "9,95 €",
+          "price": "9,43 €",
           "note": ""
         }
       ]
@@ -17378,7 +17243,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-sidama-bombe-g1-1904",
-          "price": "9,50 €",
+          "price": "9,00 €",
           "note": ""
         }
       ]
@@ -17405,7 +17270,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/earl-grey-royal-bio-653",
-          "price": "11,90 €",
+          "price": "11,28 €",
           "note": ""
         }
       ]
@@ -17432,7 +17297,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/feel-good-bio-655",
-          "price": "10,90 €",
+          "price": "10,33 €",
           "note": ""
         }
       ]
@@ -17459,7 +17324,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/guatemala-huehuetenango-el-panal-1903",
-          "price": "14,90 €",
+          "price": "14,12 €",
           "note": ""
         }
       ]
@@ -17486,7 +17351,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/grand-yunnan-bio-614",
-          "price": "12,90 €",
+          "price": "12,23 €",
           "note": ""
         }
       ]
@@ -17513,7 +17378,7 @@
         {
           "site": "La Brûlerie des Filatiers",
           "url": "https://labruleriedesfilatiers.fr/shop/gunpowder-bio-657",
-          "price": "9,90 €",
+          "price": "9,38 €",
           "note": ""
         }
       ]
@@ -20087,11 +19952,11 @@
       "id": "moka-zocapa-mexique",
       "roasterId": "moka",
       "name": "Zocapa – Mexique",
-      "origin": "Mexique",
+      "origin": "Mexique · Veracruz",
       "originCountry": "Mexique",
-      "process": null,
+      "process": "Lavé ESPRESSO",
       "usage": null,
-      "variety": null,
+      "variety": "Marsellesa, Sarchimor",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -20516,6 +20381,1167 @@
       ]
     },
     {
+      "id": "moka-blanca-nieve-nicaragua",
+      "roasterId": "moka",
+      "name": "Blanca Nieve – Nicaragua",
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Catuai, Bourbon, Pache, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-blanca_nieve-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/blanca-nieve-nicaragua/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-lino-colombie",
+      "roasterId": "moka",
+      "name": "Lino – Colombie",
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/01/etiq-lino-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/lino-colombie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-nubia-colombie",
+      "roasterId": "moka",
+      "name": "Nubia – Colombie",
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/01/etiq-nubia-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/nubia-colombie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-baya-nicaragua",
+      "roasterId": "moka",
+      "name": "Baya – Nicaragua",
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/12/etiq-baya-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/baya-nicaragua/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-mumbi-kenya",
+      "roasterId": "moka",
+      "name": "Mumbi – Kenya",
+      "origin": "Kenya",
+      "originCountry": "Kenya",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Colombia, Castillo, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-mumbi-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/mumbi-kenya/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-zapote-honduras",
+      "roasterId": "moka",
+      "name": "Zapote – Honduras",
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Blend d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/zapote-brulerie_moka-1.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/zapote-honduras/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-ayoub-yemen",
+      "roasterId": "moka",
+      "name": "Ayoub – Yémen",
+      "origin": "Yémen",
+      "originCountry": "Yémen",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Mocha",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-ayoub-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/ayoub-yemen/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-romero-honduras",
+      "roasterId": "moka",
+      "name": "Romero – Honduras",
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "mélange d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/etiq-romero-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/romero-honduras/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-othaya-kenya",
+      "roasterId": "moka",
+      "name": "Othaya – Kenya",
+      "origin": "Kenya",
+      "originCountry": "Kenya",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Ruiru 11, SL 28 et SL 34",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/02/etiq-othaya-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/othaya-kenya/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-ochoa-honduras",
+      "roasterId": "moka",
+      "name": "Ochoa – Honduras",
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": "Honey",
+      "usage": null,
+      "variety": "Arabica, Parainema",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/09/etiq-ochoa-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/ochoa-honduras/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-yello-nicaragua",
+      "roasterId": "moka",
+      "name": "Yello – Nicaragua",
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
+      "usage": "Filtre, Espresso",
+      "variety": "Yellow Pacamara",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/11/etiq-yello-min-_1_.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/yello-nicaragua/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-mi-pana-colombie",
+      "roasterId": "moka",
+      "name": "Mi Pana – Colombie BIO",
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "mélange d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/05/etiq-mi_pana-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/mi-pana-colombie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-carmen-salvador",
+      "roasterId": "moka",
+      "name": "Carmen – El Salvador",
+      "origin": "Salvador",
+      "originCountry": "Salvador",
+      "process": "Naturel anaérobique",
+      "usage": null,
+      "variety": "Arabica, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/07/etiq-carmen-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/carmen-salvador/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-mulugeta-ethiopie",
+      "roasterId": "moka",
+      "name": "Mulugeta – Éthiopie",
+      "origin": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "process": "Lavé",
+      "usage": "Espresso, Filtre",
+      "variety": "Arabica, Bourbon, Catuai, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/10/etiq-mulugeta-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/mulugeta-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-damba-el-salvador",
+      "roasterId": "moka",
+      "name": "Damba – El Salvador",
+      "origin": "Salvador",
+      "originCountry": "Salvador",
+      "process": "Honey",
+      "usage": null,
+      "variety": "Arabica, Parainema",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/09/etiq-damba-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/damba-el-salvador/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-bernal-colombie",
+      "roasterId": "moka",
+      "name": "Bernal – Colombie",
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
+      "usage": "Espresso, Filtre",
+      "variety": "Arabica, Bourbon, Catuai, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/05/etiq-bernal-2024-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/bernal-colombie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-lalo-ethiopie",
+      "roasterId": "moka",
+      "name": "Lalo – Éthiopie",
+      "origin": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Arabica, Heirloom",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/01/etiq-lalo-2024-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/lalo-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-kivu-congo-bio",
+      "roasterId": "moka",
+      "name": "Kivu – Congo BIO",
+      "origin": "RD Congo",
+      "originCountry": "RD Congo",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Arabica 74110",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/05/etiq-kivu-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/kivu-congo-bio/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-glenda-honduras",
+      "roasterId": "moka",
+      "name": "Glenda – Honduras",
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": "Lavé",
+      "usage": "Espresso, Filtre",
+      "variety": "Arabica, Bourbon, Catuai, Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/03/etiq-glenda-min.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/glenda-honduras/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-cafe-kaffa-ethiopie",
+      "roasterId": "moka",
+      "name": "Café Kaffa – Éthiopie",
+      "origin": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Arabica 74110",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kaffa-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/cafe-kaffa-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-gitega-rwanda",
+      "roasterId": "moka",
+      "name": "Gitega – Rwanda",
+      "origin": "Rwanda",
+      "originCountry": "Rwanda",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Bourbon rouge",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-gitega-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/gitega-rwanda/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-urubamba-perou",
+      "roasterId": "moka",
+      "name": "Urubamba – Pérou BIO",
+      "origin": "Pérou · JAEN, CAJAMARCA",
+      "originCountry": "Pérou",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Caturra bourbon",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-urubamba-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/urubamba-perou/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-kabira-ethiopie",
+      "roasterId": "moka",
+      "name": "Kabira – Éthiopie",
+      "origin": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Arabica 74110,74112 & Heirloom",
+      "producer": null,
+      "score": 88.5,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kabira-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/kabira-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-del-micay-colombie",
+      "roasterId": "moka",
+      "name": "Del Micay – Colombie",
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "mélange d'Arabicas",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/12/etiq-del_micay-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/del-micay-colombie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-chevere-perou-bio",
+      "roasterId": "moka",
+      "name": "Chévere – Pérou BIO",
+      "origin": "Pérou · Cajamarca",
+      "originCountry": "Pérou",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Caturra rouge, Bourbon rouge, Typica",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/07/etiq-chevere-perou-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/chevere-perou-bio/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-la-palma-perou",
+      "roasterId": "moka",
+      "name": "La Palma – Pérou",
+      "origin": "Pérou · La Palma, Colasay",
+      "originCountry": "Pérou",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Caturra & catimor, Mundo Novo, Pache, Typica",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-la_palma-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/la-palma-perou/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-sidamo-ethiopie",
+      "roasterId": "moka",
+      "name": "SIDAMA – Éthiopie",
+      "origin": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica Heirloom",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2018/09/etiq-sidamo-brulerie_moka-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/sidamo-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-tata-nahual-guatemala",
+      "roasterId": "moka",
+      "name": "Tata Nahual – Guatemala",
+      "origin": "Guatemala",
+      "originCountry": "Guatemala",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Catuaí & Icatu",
+      "producer": null,
+      "score": 83.75,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-nahual-brulerie_moka-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/tata-nahual-guatemala/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-isabelia-nicaragua",
+      "roasterId": "moka",
+      "name": "Isabelia – Nicaragua BIO",
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Bourbon , Villa Sarchi",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-isabelia-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/isabelia-nicaragua/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-cafe-lahuerta-nicaragua",
+      "roasterId": "moka",
+      "name": "La Huerta – Nicaragua",
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Bourbon , Villa Sarchi",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/10/etiq-la_huerta-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/cafe-lahuerta-nicaragua/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-piendamo-colombie",
+      "roasterId": "moka",
+      "name": "Piendamó – Colombie BIO",
+      "origin": "Colombie",
+      "originCountry": "Colombie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica Bourbon, Catimor, Caturra et pache",
+      "producer": null,
+      "score": 83.5,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-piendamo-brulerie_moka-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/piendamo-colombie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-rancho-bresil",
+      "roasterId": "moka",
+      "name": "Rancho – Brésil",
+      "origin": "Brésil",
+      "originCountry": "Brésil",
+      "process": "Naturel",
+      "usage": null,
+      "variety": "Arabica Acaia, Mundo Novo",
+      "producer": null,
+      "score": 84,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-rancho-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/rancho-bresil/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-zebigi-ouganda",
+      "roasterId": "moka",
+      "name": "Zebigi – Ouganda",
+      "origin": "Ouganda",
+      "originCountry": "Ouganda",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Bourbon , Villa Sarchi",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-zebigi-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/zebigi-ouganda/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-bwenda-rwanda",
+      "roasterId": "moka",
+      "name": "Bwenda – Rwanda",
+      "origin": "Rwanda",
+      "originCountry": "Rwanda",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-bwenda_rwanda-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/bwenda-rwanda/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-san-ignacio-costa-rica",
+      "roasterId": "moka",
+      "name": "San Ignacio – Costa Rica",
+      "origin": "Costa Rica",
+      "originCountry": "Costa Rica",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Caturra, Bourbon",
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/11/etiq-san_ignacio-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/san-ignacio-costa-rica/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-gayuku-ini-kenya",
+      "roasterId": "moka",
+      "name": "Gayuku Ini – Kenya",
+      "origin": "Kenya",
+      "originCountry": "Kenya",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-gayuku_ini-brulerie_moka-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/gayuku-ini-kenya/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-alero-honduras",
+      "roasterId": "moka",
+      "name": "Alero – Honduras BIO",
+      "origin": "Honduras",
+      "originCountry": "Honduras",
+      "process": "Café séché par voie naturelle",
+      "usage": null,
+      "variety": "Pur arabica Catuai jaune",
+      "producer": null,
+      "score": 80.75,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/etiq-alero-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/alero-honduras/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-don-ricardo-salvador",
+      "roasterId": "moka",
+      "name": "Don Ricardo – Salvador",
+      "origin": "Salvador",
+      "originCountry": "Salvador",
+      "process": "Honey",
+      "usage": null,
+      "variety": "Arabica Bourbon Sarchimor",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-don_ricardo-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/don-ricardo-salvador/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-san-antonio-salvador",
+      "roasterId": "moka",
+      "name": "San Antonio – Salvador",
+      "origin": "Salvador",
+      "originCountry": "Salvador",
+      "process": "Semi lavé",
+      "usage": null,
+      "variety": "Arabica Bourbon",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/09/etiq-san-antonio-min-1.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/san-antonio-salvador/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-wolichu-wachu-ethiopie",
+      "roasterId": "moka",
+      "name": "Wolichu Wachu – Éthiopie",
+      "origin": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica bourbon",
+      "producer": null,
+      "score": 87.25,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-wolichu-brulerie_moka-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/wolichu-wachu-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-aba-kika-ethiopie",
+      "roasterId": "moka",
+      "name": "Aba Kika – Éthiopie",
+      "origin": "Éthiopie · Province de Metu",
+      "originCountry": "Éthiopie",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica Pacamara",
+      "producer": null,
+      "score": 86.25,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-aba-kika-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/aba-kika-ethiopie/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-santa-fe-mexique",
+      "roasterId": "moka",
+      "name": "Santa Fe – Mexique BIO",
+      "origin": "Mexique · Chiapas",
+      "originCountry": "Mexique",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-sante_fe-brulerie_moka.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/santa-fe-mexique/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-ibisi-rwanda",
+      "roasterId": "moka",
+      "name": "Ibisi – Rwanda",
+      "origin": "Rwanda",
+      "originCountry": "Rwanda",
+      "process": "Lavé",
+      "usage": null,
+      "variety": "Arabica, Castillo & Caturra",
+      "producer": null,
+      "score": 86,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-ibisi-brulerie_moka-min.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/ibisi-rwanda/",
+          "price": "Rupture de stock",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
       "id": "moklair-hendra-eclipse-2",
       "roasterId": "moklair",
       "name": "HENDRA ECLIPSE",
@@ -20651,33 +21677,6 @@
       ]
     },
     {
-      "id": "moklair-aguila-4-banc-hacienda-la-esmeralda-2",
-      "roasterId": "moklair",
-      "name": "HACIENDA LA ESMERALDA [AGUILA 4 BANC]",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/10/moklair2025-mockup-Aguila2.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/aguila-4-banc-hacienda-la-esmeralda-2/",
-          "price": "Rupture de stock",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "moklair-nirvana-finca-deborah-2",
       "roasterId": "moklair",
       "name": "FINCA DEBORAH [NIRVANA]",
@@ -20701,141 +21700,6 @@
           "url": "https://moklair.fr/product/nirvana-finca-deborah-2/",
           "price": "47,00 €",
           "note": ""
-        }
-      ]
-    },
-    {
-      "id": "moklair-janson-908",
-      "roasterId": "moklair",
-      "name": "LOS ALPES [JANSON 908]",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre, Omni roast (espresso light &amp; filtre)",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-Janson1.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/janson-908/",
-          "price": "Rupture de stock",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "moklair-lerida-461-2",
-      "roasterId": "moklair",
-      "name": "LERIDA ESTATE [LERIDA 461]",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre, Omni roast (espresso light &amp; filtre)",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-Lerida4611.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/lerida-461-2/",
-          "price": "Rupture de stock",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "moklair-hacienda-copey-2",
-      "roasterId": "moklair",
-      "name": "HACIENDA COPEY",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre, Omni roast (espresso light &amp; filtre)",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-haciendacopey1.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/hacienda-copey-2/",
-          "price": "Rupture de stock",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "moklair-wubita-queen-2",
-      "roasterId": "moklair",
-      "name": "WUBITA QUEEN",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre, Omni roast (espresso light &amp; filtre)",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-wubitaqueen2.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/wubita-queen-2/",
-          "price": "Rupture de stock",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "moklair-mukuru-gardens-2",
-      "roasterId": "moklair",
-      "name": "MUKURU GARDENS",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre, Omni roast (espresso light &amp; filtre)",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/11/moklair2025-mockup-mukurugardens2.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/mukuru-gardens-2/",
-          "price": "Rupture de stock",
-          "note": "à partir de"
         }
       ]
     },
@@ -20888,7 +21752,7 @@
         {
           "site": "Moklair",
           "url": "https://moklair.fr/product/gaitania-2/",
-          "price": "Rupture de stock",
+          "price": "20,50 €",
           "note": "à partir de"
         }
       ]
@@ -21362,7 +22226,7 @@
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "variety": "Catucai Jaune ☀️",
       "producer": null,
-      "score": null,
+      "score": 84.5,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -21605,7 +22469,7 @@
       "usage": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
-      "score": null,
+      "score": 81,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -25181,7 +26045,7 @@
         {
           "site": "Tanat Coffee",
           "url": "https://tanat.coffee/boutique/hacienda-la-papaya-typica-washed/",
-          "price": "20,90 €",
+          "price": "Rupture de stock",
           "note": "à partir de"
         }
       ]
@@ -28004,7 +28868,7 @@
       "usage": null,
       "variety": "Pink Bourbon",
       "producer": null,
-      "score": null,
+      "score": 88,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -28031,7 +28895,7 @@
       "usage": null,
       "variety": "Caturra, Colombia, Castillo",
       "producer": null,
-      "score": null,
+      "score": 83,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -28058,7 +28922,7 @@
       "usage": null,
       "variety": "Castillo, Colombia",
       "producer": null,
-      "score": null,
+      "score": 86,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -28085,7 +28949,7 @@
       "usage": null,
       "variety": "Red Catuai",
       "producer": null,
-      "score": null,
+      "score": 85.75,
       "acidity": null,
       "body": null,
       "roast": null,
@@ -28529,7 +29393,7 @@
         {
           "site": "Torrea",
           "url": "https://torrea.fr/product/cafe-el-palomar-perou-commerce-equitable/",
-          "price": "4,00 €",
+          "price": "Rupture de stock",
           "note": "à partir de"
         }
       ]
