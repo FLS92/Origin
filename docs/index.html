@@ -1949,6 +1949,8 @@ function renderStats(){
 
   const roasterCounts = {};
   const processCounts = {};
+  const brewMethodCounts = {};
+  const originCounts = {};
   let totalSpend = 0;
   ids.forEach(id=>{
     const c = COFFEES.find(x=>x.id===id);
@@ -1956,23 +1958,56 @@ function renderStats(){
     roasterCounts[c.roasterId] = (roasterCounts[c.roasterId]||0) + 1;
     const pcat = processCategory(c.process);
     if(!na(pcat)) processCounts[pcat] = (processCounts[pcat]||0) + 1;
+    if(libraryCache[id].brewMethod) brewMethodCounts[libraryCache[id].brewMethod] = (brewMethodCounts[libraryCache[id].brewMethod]||0) + 1;
+    const country = getCountry(c);
+    if(!na(country)) originCounts[country] = (originCounts[country]||0) + 1;
     const p = parsePriceEUR(c);
     if(p!=null) totalSpend += p;
   });
   const top3Roasters = Object.keys(roasterCounts).sort((a,b)=>roasterCounts[b]-roasterCounts[a]).slice(0,3);
   const top3Processes = Object.keys(processCounts).sort((a,b)=>processCounts[b]-processCounts[a]).slice(0,3);
+  const topBrewMethod = Object.keys(brewMethodCounts).sort((a,b)=>brewMethodCounts[b]-brewMethodCounts[a])[0];
+  const topOrigin = Object.keys(originCounts).sort((a,b)=>originCounts[b]-originCounts[a])[0];
 
   const top3ListHTML = (items, getLabel, counts)=>{
     if(items.length===0) return `<div class="top3-empty">—</div>`;
     return `<ol class="top3-list">${items.map((k,i)=>`<li><span class="top3-rank">${i+1}</span>${getLabel(k)} <span class="top3-count">(${counts[k]})</span></li>`).join('')}</ol>`;
   };
 
+  const evolutionPoints = ids
+    .map(id=>({ date: libraryCache[id].dateAdded, rating: libraryCache[id].rating }))
+    .filter(p=>p.rating>0 && p.date)
+    .sort((a,b)=> new Date(a.date) - new Date(b.date));
+
   el.innerHTML = `
     <div class="stat-box"><div class="stat-val">${total}</div><div class="stat-lbl">Cafés dégustés</div></div>
     <div class="stat-box"><div class="stat-val">${avgRating!=null ? avgRating.toFixed(1) : '—'}</div><div class="stat-lbl">Note moyenne donnée</div></div>
     <div class="stat-box"><div class="stat-lbl" style="margin-bottom:6px;">Top torréfacteurs</div>${top3ListHTML(top3Roasters, id=>ROASTERS[id].name, roasterCounts)}</div>
     <div class="stat-box"><div class="stat-lbl" style="margin-bottom:6px;">Top process</div>${top3ListHTML(top3Processes, p=>p, processCounts)}</div>
+    <div class="stat-box"><div class="stat-val" style="font-size:16px;">${topBrewMethod || '—'}</div><div class="stat-lbl">Méthode la + utilisée</div></div>
+    <div class="stat-box"><div class="stat-val" style="font-size:16px;">${topOrigin || '—'}</div><div class="stat-lbl">Origine la + dégustée</div></div>
+    <div class="stat-box" style="grid-column:1/-1;">
+      <div class="stat-lbl">Évolution de la note</div>
+      ${ratingEvolutionHTML(evolutionPoints)}
+    </div>
   `;
+}
+
+function ratingEvolutionHTML(points){
+  if(points.length < 2){
+    return `<div class="top3-empty">Note quelques cafés de plus pour voir ton évolution.</div>`;
+  }
+  const w = 600, h = 110, padX = 12, padY = 14;
+  const n = points.length;
+  const xStep = n>1 ? (w - padX*2) / (n-1) : 0;
+  const yFor = (r)=> h - padY - ((r-1)/4) * (h - padY*2);
+  const coords = points.map((p,i)=>[padX + i*xStep, yFor(p.rating)]);
+  const path = coords.map((c,i)=> (i===0?'M':'L') + c[0].toFixed(1) + ',' + c[1].toFixed(1)).join(' ');
+  const dots = coords.map(c=>`<circle cx="${c[0].toFixed(1)}" cy="${c[1].toFixed(1)}" r="3" style="fill:var(--gold);"/>`).join('');
+  return `<svg viewBox="0 0 ${w} ${h}" preserveAspectRatio="none" style="width:100%; height:100px; display:block; overflow:visible;">
+    <path d="${path}" fill="none" style="stroke:var(--gold); stroke-width:2px;"/>
+    ${dots}
+  </svg>`;
 }
 
 function renderWishlist(){
