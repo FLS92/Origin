@@ -274,6 +274,10 @@
   .btn-small.primary{ background:var(--gold); color:var(--ink); border:none; }
   .btn-small.ghost{ background:none; border:1px solid var(--line); color:var(--cream); }
   .btn-small.ghost:hover{ border-color:var(--gold); }
+  .share-wrap{ margin-bottom:14px; }
+  .share-row{ flex-wrap:wrap; gap:8px; margin-top:8px; }
+  .share-row a.btn-small{ display:inline-block; text-decoration:none; }
+  .share-note{ font-size:11.5px; color:var(--muted); margin-top:8px; width:100%; }
 
   .brew-history{ margin-top:22px; }
   .brew-history .bh-title{ font-size:13px; font-weight:700; color:var(--gold-soft); margin-bottom:10px; }
@@ -1780,6 +1784,10 @@ async function openDetail(id){
       <span>${r.name}${na(r.city)?'':' · '+r.city}${c.retailers.length===1 ? ' — <a href="'+c.retailers[0].url+'" target="_blank" rel="noopener">voir la fiche produit</a>' : ''}</span>
     </div>
     <h2>${c.name}</h2>
+    <div class="share-wrap">
+      <button type="button" class="btn-small ghost" id="share-toggle-btn">↗ Partager</button>
+      ${shareRowHTML(id, c.name, r.name)}
+    </div>
     <div class="origin">${na(c.origin)?'Origine indisponible':c.origin} · ${na(c.process)?'Process indisponible':c.process}</div>
 
     <p class="desc">${na(c.desc)?'Description indisponible pour ce café.':c.desc}</p>
@@ -1815,6 +1823,7 @@ async function openDetail(id){
     <button class="wishlist-btn ${wishlist.has(id)?'active':''}" id="wishlist-btn">${wishlist.has(id)?'★ Dans ma liste à essayer':'☆ Ajouter à ma liste à essayer'}</button>
   `;
   document.getElementById('close-detail').onclick = closeDetail;
+  wireShareRow(id);
   const addBtn = document.getElementById('add-lib-btn');
   addBtn.onclick = async ()=>{
     if(!requireAuth('Connecte-toi pour ajouter ce café à ta bibliothèque.')) return;
@@ -1852,6 +1861,65 @@ async function openDetail(id){
       }).join('');
     }
   }
+}
+
+function coffeeShareUrl(id){
+  return `${location.origin}${location.pathname}?coffee=${encodeURIComponent(id)}`;
+}
+function shareRowHTML(id, coffeeName, roasterName){
+  const url = coffeeShareUrl(id);
+  const text = encodeURIComponent(`${coffeeName} — ${roasterName}, sur Origin`);
+  const encodedUrl = encodeURIComponent(url);
+  return `
+    <div class="share-row" id="share-row" style="display:none;">
+      <a class="btn-small ghost" href="https://wa.me/?text=${text}%20${encodedUrl}" target="_blank" rel="noopener">WhatsApp</a>
+      <a class="btn-small ghost" href="https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}" target="_blank" rel="noopener">Facebook</a>
+      <a class="btn-small ghost" href="https://t.me/share/url?url=${encodedUrl}&text=${text}" target="_blank" rel="noopener">Telegram</a>
+      <a class="btn-small ghost" href="mailto:?subject=${text}&body=${encodedUrl}">Mail</a>
+      <button type="button" class="btn-small ghost" id="share-copy-link">Copier le lien</button>
+      <div class="share-note">Pas de partage direct vers Instagram : copie le lien ci-dessus et colle-le dans ta story, ta bio ou un DM.</div>
+      <input type="text" id="share-link-fallback" readonly value="${url}" style="display:none; width:100%; margin-top:4px; background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:12px; padding:8px 10px; border-radius:8px; box-sizing:border-box;">
+    </div>
+  `;
+}
+function legacyCopyToClipboard(text){
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.position = 'fixed';
+  ta.style.left = '-9999px';
+  document.body.appendChild(ta);
+  ta.select();
+  let ok = false;
+  try{ ok = document.execCommand('copy'); }catch(e){ ok = false; }
+  document.body.removeChild(ta);
+  return ok;
+}
+function wireShareRow(id){
+  const toggleBtn = document.getElementById('share-toggle-btn');
+  const row = document.getElementById('share-row');
+  if(!toggleBtn || !row) return;
+  toggleBtn.addEventListener('click', ()=>{
+    row.style.display = row.style.display === 'none' ? 'flex' : 'none';
+  });
+  const copyBtn = document.getElementById('share-copy-link');
+  const fallbackInput = document.getElementById('share-link-fallback');
+  copyBtn.addEventListener('click', async ()=>{
+    const url = coffeeShareUrl(id);
+    const original = copyBtn.textContent;
+    let ok = false;
+    try{ await navigator.clipboard.writeText(url); ok = true; }
+    catch(e){ ok = legacyCopyToClipboard(url); }
+    if(ok){
+      copyBtn.textContent = 'Copié ✓';
+      fallbackInput.style.display = 'none';
+    }else{
+      fallbackInput.style.display = 'block';
+      fallbackInput.value = url;
+      fallbackInput.focus();
+      fallbackInput.select();
+    }
+    setTimeout(()=>{ copyBtn.textContent = original; }, 1500);
+  });
 }
 
 function closeDetail(){ document.getElementById('overlay').classList.remove('open'); resetBrewTimer(); }
@@ -2154,6 +2222,10 @@ function openLibraryDetail(id){
       <span>${r.name}</span>
     </div>
     <h2>${c.name}</h2>
+    <div class="share-wrap">
+      <button type="button" class="btn-small ghost" id="share-toggle-btn">↗ Partager</button>
+      ${shareRowHTML(id, c.name, r.name)}
+    </div>
     <div style="margin-bottom:20px;">${starsHTML(id, e.rating||0)}</div>
     <div class="field-grid">
       <div class="field${hasGrinderChoice ? ' full' : ''}"><label>Méthode de préparation</label>
@@ -2222,6 +2294,7 @@ function openLibraryDetail(id){
     </div>
   `;
   document.getElementById('close-detail').onclick = closeDetail;
+  wireShareRow(id);
   wireLibraryDetailForm(id);
   wireBrewTimer(id);
   document.getElementById('log-brew-btn').addEventListener('click', async ()=>{
@@ -2562,6 +2635,12 @@ document.getElementById('export-csv').addEventListener('click', exportLibraryCSV
   updateUserStatusUI();
   renderHome();
   loadAllCommunityAverages();
+
+  const sharedId = new URLSearchParams(location.search).get('coffee');
+  if(sharedId && COFFEES.some(c=>c.id===sharedId)){
+    showView('explore');
+    openDetail(sharedId);
+  }
 })();
 </script>
 </body>
