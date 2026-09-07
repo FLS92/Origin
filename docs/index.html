@@ -1243,10 +1243,6 @@ document.getElementById('set-grinder2-name').addEventListener('change', ()=> app
 
 const FAQ_ITEMS = [
   {
-    q: "Comment les informations des cafés sont-elles collectées ?",
-    a: "Un programme lit directement les fiches produit publiques de chaque torréfacteur (l'interface native de leur boutique en ligne quand elle existe, sinon la page elle-même) et en extrait les champs explicitement indiqués. Aucune information n'est déduite : si un champ n'apparaît nulle part sur le site source, il reste vide plutôt que d'être complété par une supposition."
-  },
-  {
     q: "À quelle fréquence le catalogue est-il actualisé, et que devient un café retiré d'un site ?",
     a: "Le catalogue est réanalysé automatiquement chaque semaine. Un café qui disparaît du site d'un torréfacteur n'est jamais supprimé de la base : il est simplement marqué indisponible, pour conserver l'historique de vos dégustations et de vos avis même après la disparition de la fiche d'origine."
   },
@@ -1256,15 +1252,23 @@ const FAQ_ITEMS = [
   },
   {
     q: "Comment est déterminé le \"prix le plus bas\" quand un café a plusieurs revendeurs ?",
-    a: "Les prix de tous les revendeurs actifs sont comparés directement entre eux, à l'exclusion de ceux en rupture de stock ; le moins cher est mis en avant et sert de référence pour l'ordre d'affichage des boutiques."
+    a: "Les prix de tous les revendeurs actifs sont comparés directement entre eux, à l'exclusion de ceux en rupture de stock ; le moins cher est mis en avant et sert de référence pour l'ordre d'affichage des boutiques. Nous faisons notre maximum pour vous proposer le revendeur le moins cher."
   },
   {
     q: "Pourquoi le choix d'un moulin change-t-il l'échelle de mouture proposée dans une recette ?",
-    a: "Chaque moulin renseigné dans vos Paramètres a sa propre plage de clics (certains vont de 0 à 40, d'autres de 20 à 100...). En sélectionnant un moulin pour une recette, l'échelle affichée correspond exactement à celle que vous avez définie pour cet appareil, plutôt qu'une plage générique commune à tous."
+    a: "Chaque moulin renseigné dans vos Paramètres a sa propre plage de clics (certains vont de 0 à 40, d'autres de 20 à 100...). En sélectionnant un moulin pour une recette, l'échelle affichée correspond exactement à celle que vous avez définie pour cet appareil."
   },
   {
-    q: "Pourquoi dois-je valider les filtres avant qu'ils s'appliquent, alors que la recherche est instantanée ?",
-    a: "La recherche textuelle filtre le catalogue à chaque frappe, mais les filtres (torréfacteur, méthode, process, prix...) ne sont appliqués qu'après avoir cliqué sur \"Valider les filtres\". Cela évite de relancer le tri de l'ensemble du catalogue à chaque case cochée lorsque vous en sélectionnez plusieurs à la suite."
+    q: "Ma note est-elle recalculée si d'autres utilisateurs notent le même café après moi ?",
+    a: "Oui. La moyenne affichée dans l'onglet Communauté est recalculée à chaque nouvelle note, modification ou suppression de note, tous utilisateurs confondus — elle n'est jamais figée au moment de votre propre passage."
+  },
+  {
+    q: "Ma bibliothèque est-elle visible par les autres utilisateurs par défaut ?",
+    a: "Non. Par défaut, votre bibliothèque et vos recettes restent strictement privées — seule la note chiffrée que vous donnez à un café entre dans la moyenne publique de l'onglet Communauté. Vos notes de dégustation, votre méthode de préparation et le détail de votre recette ne deviennent visibles que si vous activez explicitement \"Rendre ma bibliothèque publique\" dans Paramètres."
+  },
+  {
+    q: "Que devient précisément mon compte si je le supprime ?",
+    a: "Votre bibliothèque, votre liste à essayer et vos avis publics sont supprimés un par un, puis votre compte d'authentification est définitivement effacé. L'opération est immédiate dès confirmation et ne peut pas être annulée."
   },
   {
     q: "Pourquoi ne puis-je pas changer mon mot de passe si je me suis inscrit avec Google ?",
@@ -1273,14 +1277,6 @@ const FAQ_ITEMS = [
   {
     q: "Pourquoi le changement d'adresse e-mail n'est-il pas immédiat ?",
     a: "Un e-mail de confirmation est envoyé à la nouvelle adresse, et le changement ne devient effectif qu'après avoir cliqué sur le lien qu'il contient. Cette vérification garantit que le compte n'est jamais rattaché à une adresse que vous ne contrôlez pas réellement."
-  },
-  {
-    q: "Ma note est-elle recalculée si d'autres utilisateurs notent le même café après moi ?",
-    a: "Oui. La moyenne affichée dans l'onglet Communauté est recalculée à chaque nouvelle note, modification ou suppression de note, tous utilisateurs confondus — elle n'est jamais figée au moment de votre propre passage."
-  },
-  {
-    q: "Que devient précisément mon compte si je le supprime ?",
-    a: "Votre bibliothèque, votre liste à essayer et vos avis publics sont supprimés un par un, puis votre compte d'authentification est définitivement effacé. L'opération est immédiate dès confirmation et ne peut pas être annulée."
   },
 ];
 
