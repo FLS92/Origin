@@ -1854,8 +1854,80 @@ async function openDetail(id){
   }
 }
 
-function closeDetail(){ document.getElementById('overlay').classList.remove('open'); }
+function closeDetail(){ document.getElementById('overlay').classList.remove('open'); resetBrewTimer(); }
 document.getElementById('overlay').addEventListener('click', (e)=>{ if(e.target.id === 'overlay') closeDetail(); });
+
+let brewTimer = { id:null, running:false, startTs:0, elapsedMs:0, intervalId:null };
+
+function stopBrewTimerInterval(){
+  if(brewTimer.intervalId){ clearInterval(brewTimer.intervalId); brewTimer.intervalId = null; }
+}
+function resetBrewTimer(){
+  stopBrewTimerInterval();
+  brewTimer = { id:null, running:false, startTs:0, elapsedMs:0, intervalId:null };
+}
+function brewTimerElapsedMs(){
+  return brewTimer.elapsedMs + (brewTimer.running ? Date.now()-brewTimer.startTs : 0);
+}
+function formatBrewTimer(ms){
+  const total = Math.floor(ms/1000);
+  const h = Math.floor(total/3600), m = Math.floor((total%3600)/60), s = total%60;
+  return h>0 ? `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}` : `${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+}
+function updateBrewTimerDisplay(){
+  const disp = document.getElementById('brew-timer-display');
+  if(disp) disp.textContent = formatBrewTimer(brewTimerElapsedMs());
+}
+function applyBrewTimerToFields(id){
+  const total = Math.floor(brewTimer.elapsedMs/1000);
+  const h = Math.min(24, Math.floor(total/3600)), m = Math.floor((total%3600)/60), s = total%60;
+  const content = document.getElementById('detail-content');
+  [['.f-time-h', h], ['.f-time-m', m], ['.f-time-s', s]].forEach(([sel, val])=>{
+    const el = content.querySelector(sel);
+    if(!el) return;
+    el.value = val;
+    el.dispatchEvent(new Event('change'));
+  });
+}
+function wireBrewTimer(id){
+  if(brewTimer.id !== id) resetBrewTimer();
+  brewTimer.id = id;
+  const startBtn = document.getElementById('brew-timer-start');
+  const stopBtn = document.getElementById('brew-timer-stop');
+  const resetBtn = document.getElementById('brew-timer-reset');
+  const setBtnState = ()=>{
+    startBtn.style.display = brewTimer.running ? 'none' : '';
+    stopBtn.style.display = brewTimer.running ? '' : 'none';
+  };
+  updateBrewTimerDisplay();
+  setBtnState();
+  if(brewTimer.running){
+    stopBrewTimerInterval();
+    brewTimer.intervalId = setInterval(updateBrewTimerDisplay, 250);
+  }
+  startBtn.addEventListener('click', ()=>{
+    brewTimer.running = true;
+    brewTimer.startTs = Date.now();
+    stopBrewTimerInterval();
+    brewTimer.intervalId = setInterval(updateBrewTimerDisplay, 250);
+    setBtnState();
+  });
+  stopBtn.addEventListener('click', ()=>{
+    brewTimer.elapsedMs = brewTimerElapsedMs();
+    brewTimer.running = false;
+    stopBrewTimerInterval();
+    updateBrewTimerDisplay();
+    setBtnState();
+    applyBrewTimerToFields(id);
+  });
+  resetBtn.addEventListener('click', ()=>{
+    const keepId = id;
+    resetBrewTimer();
+    brewTimer.id = keepId;
+    updateBrewTimerDisplay();
+    setBtnState();
+  });
+}
 
 function starsHTML(id, rating){
   let html = '<div class="stars">';
@@ -2088,6 +2160,12 @@ function openLibraryDetail(id){
           <select class="f-time-m" data-id="${id}">${Array.from({length:60},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeM||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">min</span>
           <select class="f-time-s" data-id="${id}">${Array.from({length:60},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeS||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">s</span>
         </div>
+        <div style="display:flex; align-items:center; gap:8px; margin-top:8px; flex-wrap:wrap;">
+          <span id="brew-timer-display" style="font-variant-numeric:tabular-nums; font-weight:600; min-width:50px;">00:00</span>
+          <button type="button" class="btn-small primary" id="brew-timer-start" style="padding:6px 12px;">▶ Minuteur</button>
+          <button type="button" class="btn-small ghost" id="brew-timer-stop" style="display:none; padding:6px 12px;">■ Arrêter</button>
+          <button type="button" class="btn-small ghost" id="brew-timer-reset" title="Réinitialiser le minuteur" style="padding:6px 10px;">↺</button>
+        </div>
       </div>
       <div class="field full"><label>Notes de dégustation</label>
         <textarea class="f-notes" data-id="${id}" placeholder="Ce que tu as ressenti en tasse…" style="min-height:40px;">${e.notes||''}</textarea>
@@ -2110,6 +2188,7 @@ function openLibraryDetail(id){
   `;
   document.getElementById('close-detail').onclick = closeDetail;
   wireLibraryDetailForm(id);
+  wireBrewTimer(id);
   document.getElementById('log-brew-btn').addEventListener('click', async ()=>{
     const cur = libraryCache[id];
     if(!cur.brews) cur.brews = [];
