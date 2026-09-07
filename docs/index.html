@@ -160,8 +160,8 @@
   .overlay{ position:fixed; inset:0; background:rgba(15,10,7,.72); display:none; align-items:flex-start; justify-content:center; padding:40px 16px; overflow-y:auto; z-index:200; }
   .overlay.open{ display:flex; }
   .detail{ background:var(--panel); border:1px solid var(--line); border-radius:18px; max-width:640px; width:100%; padding:32px; position:relative; }
-  .onboarding-card{ max-width:460px; animation:onboarding-pop .35s cubic-bezier(.2,.9,.3,1.3); }
-  @keyframes onboarding-pop{ from{ opacity:0; transform:scale(.94) translateY(8px); } to{ opacity:1; transform:none; } }
+  .onboarding-card{ max-width:460px; animation:onboarding-pop .25s ease-out; }
+  @keyframes onboarding-pop{ from{ opacity:0; transform:translateY(6px); } to{ opacity:1; transform:none; } }
   .onboarding-step{ display:flex; gap:14px; align-items:flex-start; margin-bottom:18px; }
   .onboarding-step-num{
     flex-shrink:0; width:28px; height:28px; border-radius:50%; background:var(--panel-light); border:1px solid var(--gold);
@@ -832,21 +832,21 @@
   <div class="detail onboarding-card">
     <button class="close" id="onboarding-close">✕</button>
     <div class="lux-logo" style="font-size:30px; text-align:center;">Ori<span>gi</span>n</div>
-    <h2 class="serif" style="text-align:center; margin:10px 0 6px;">Bienvenue dans la place !</h2>
-    <p style="text-align:center; color:var(--muted); font-size:13.5px; margin:0 0 24px;">Le tour du propriétaire, en trois gorgées.</p>
+    <h2 class="serif" style="text-align:center; margin:10px 0 6px;">Bienvenue sur Origin</h2>
+    <p style="text-align:center; color:var(--muted); font-size:13.5px; margin:0 0 24px;">Trois repères pour profiter pleinement du site.</p>
     <div class="onboarding-step">
       <div class="onboarding-step-num">1</div>
-      <div><h3>Explorer</h3><p>Filtre par torréfacteur, méthode ou prix, et compare les boutiques d'un coup d'œil — sans créer de compte si tu veux juste regarder.</p></div>
+      <div><h3>Explorer</h3><p>Parcourez le catalogue par torréfacteur, origine, process ou méthode d'extraction, et comparez les prix entre boutiques avant d'acheter.</p></div>
     </div>
     <div class="onboarding-step">
       <div class="onboarding-step-num">2</div>
-      <div><h3>Ma bibliothèque</h3><p>Note les cafés que tu goûtes, garde ta recette (mouture, ratio, temps) pour la reproduire, et retrouve tout ton historique.</p></div>
+      <div><h3>Ma bibliothèque</h3><p>Consignez vos dégustations et la recette exacte de chaque extraction — mouture, ratio, temps — pour la reproduire ou l'affiner la fois suivante.</p></div>
     </div>
     <div class="onboarding-step">
       <div class="onboarding-step-num">3</div>
-      <div><h3>Communauté</h3><p>Découvre les notes des autres amateurs et les cafés qui font le plus parler d'eux cette semaine.</p></div>
+      <div><h3>Communauté</h3><p>Consultez les notes des autres amateurs et suivez les cafés qui suscitent le plus d'intérêt cette semaine.</p></div>
     </div>
-    <button class="primary" id="onboarding-cta" style="width:100%; margin-top:8px;">C'est parti !</button>
+    <button class="primary" id="onboarding-cta" style="width:100%; margin-top:8px;">Découvrir Origin</button>
   </div>
 </div>
 
