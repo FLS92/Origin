@@ -6,6 +6,8 @@
 <title>Origin — Découvrez et notez vos cafés</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <style>
   :root{
     --ink:#0d1b2e; --panel:#152a42; --panel-light:#1e3654;
@@ -126,6 +128,15 @@
   .filters-toggle svg{ opacity:.8; flex-shrink:0; }
   .filters-toggle .chevron{ transition:transform .15s; }
   .filters-toggle.active .chevron{ transform:rotate(180deg); }
+  #roaster-map{ background:var(--panel); }
+  .roaster-pin{ width:14px; height:14px; border-radius:50%; background:var(--gold); border:2px solid var(--ink); box-shadow:0 0 0 2px var(--gold-soft); }
+  .leaflet-popup-content-wrapper, .leaflet-popup-tip{ background:var(--panel-light); color:var(--cream); }
+  .leaflet-popup-content-wrapper{ border-radius:10px; }
+  .roaster-popup{ font-family:'Inter',sans-serif; font-size:12.5px; line-height:1.5; }
+  .roaster-popup strong{ font-family:'Fraunces',serif; font-size:14px; }
+  .leaflet-container a.leaflet-popup-close-button{ color:var(--muted); }
+  .leaflet-control-attribution{ background:rgba(21,42,66,0.8); color:var(--muted); }
+  .leaflet-control-attribution a{ color:var(--gold-soft); }
   .filter-badge{
     background:var(--gold); color:#0d1b2e; font-size:11px; font-weight:700; border-radius:20px;
     padding:1px 7px; min-width:18px; text-align:center; line-height:1.5;
@@ -606,6 +617,10 @@
         <span class="filter-badge" id="filter-badge" style="display:none;">0</span>
         <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
+      <button id="map-toggle" class="filters-toggle">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 6v16l7-4 8 4 7-4V2l-7 4-8-4-7 4z"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
+        <span id="map-toggle-label">Carte</span>
+      </button>
       <select id="sort-select" class="sort-select">
         <option value="relevance">Trier par…</option>
         <option value="price-asc">Prix croissant</option>
@@ -637,6 +652,7 @@
       </div>
       <button class="primary" id="apply-filters" style="width:100%; margin-top:6px;">Valider les filtres</button>
     </div>
+    <div id="roaster-map" style="display:none; height:480px; border-radius:14px; overflow:hidden; margin-bottom:16px;"></div>
     <div class="grid" id="coffee-grid"></div>
   </div>
 
@@ -1682,6 +1698,49 @@ function toggleFiltersPanel(forceOpen){
   btn.classList.toggle('active', nextOpen);
 }
 
+let roasterMapInstance = null;
+function initRoasterMap(){
+  if(roasterMapInstance) return roasterMapInstance;
+  const map = L.map('roaster-map', { scrollWheelZoom:false }).setView([46.6, 2.4], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
+    maxZoom: 18,
+  }).addTo(map);
+  const icon = L.divIcon({
+    className: 'roaster-pin', html: '', iconSize:[14,14], iconAnchor:[7,7],
+  });
+  Object.entries(ROASTERS).forEach(([rid, r])=>{
+    if(r.lat==null || r.lng==null) return;
+    const marker = L.marker([r.lat, r.lng], { icon }).addTo(map);
+    const count = COFFEES.filter(c=>c.roasterId===rid).length;
+    const popup = document.createElement('div');
+    popup.className = 'roaster-popup';
+    popup.innerHTML = `<strong>${r.name}</strong><br>${na(r.city)?'':r.city}<br><span style="color:var(--muted); font-size:11.5px;">${count} café${count>1?'s':''}</span><br><button type="button" class="btn-small primary roaster-popup-btn" style="margin-top:8px;">Voir les cafés</button>`;
+    popup.querySelector('.roaster-popup-btn').addEventListener('click', ()=>{
+      selectedRoasters.clear();
+      selectedRoasters.add(rid);
+      renderFilterChips();
+      renderGrid(document.getElementById('search-input').value);
+      setExploreMapVisible(false);
+      map.closePopup();
+    });
+    marker.bindPopup(popup);
+  });
+  roasterMapInstance = map;
+  return map;
+}
+function setExploreMapVisible(show){
+  document.getElementById('roaster-map').style.display = show ? '' : 'none';
+  document.getElementById('coffee-grid').style.display = show ? 'none' : '';
+  document.getElementById('filters-panel').style.display = 'none';
+  document.getElementById('map-toggle').classList.toggle('active', show);
+  document.getElementById('map-toggle-label').textContent = show ? 'Grille' : 'Carte';
+  if(show){
+    const map = initRoasterMap();
+    setTimeout(()=> map.invalidateSize(), 0);
+  }
+}
+
 function renderGrid(filter){
   const grid = document.getElementById('coffee-grid');
   const q = (filter||'').trim().toLowerCase();
@@ -2518,6 +2577,10 @@ function flashSavedDetail(){
 document.getElementById('privacy-toggle').addEventListener('change', async (e)=>{ await togglePublicLibrary(e.target.checked); });
 document.getElementById('search-input').addEventListener('input', (e)=> renderGrid(e.target.value));
 document.getElementById('filters-toggle').addEventListener('click', ()=> toggleFiltersPanel());
+document.getElementById('map-toggle').addEventListener('click', ()=>{
+  const showing = document.getElementById('roaster-map').style.display !== 'none';
+  setExploreMapVisible(!showing);
+});
 document.getElementById('sort-select').addEventListener('change', ()=> renderGrid(document.getElementById('search-input').value));
 document.getElementById('filter-country').addEventListener('change', (e)=>{ selectedCountry = e.target.value; updateFilterBadge(); });
 document.getElementById('filter-price-min').addEventListener('input', (e)=>{ priceMin = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); });

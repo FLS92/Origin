@@ -8,476 +8,612 @@
       "city": "Melun",
       "url": "https://anbassa.fr/boutique/",
       "domain": "anbassa.fr",
-      "logoUrl": "https://anbassa.fr/wp-content/uploads/2021/10/logo-anbassa-noir.png"
+      "logoUrl": "https://anbassa.fr/wp-content/uploads/2021/10/logo-anbassa-noir.png",
+      "lat": 48.539927,
+      "lng": 2.6608169
     },
     "arlo-s-coffee": {
       "name": "Arlo's Coffee",
       "city": "Rambouillet",
       "url": "https://arloscoffee.com/",
       "domain": "arloscoffee.com",
-      "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
+      "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432",
+      "lat": 48.6452851,
+      "lng": 1.819207
     },
     "au-cur-du-cafe": {
       "name": "Au Cœur du Café",
       "city": "Troyes",
       "url": "https://www.aucoeurducafe.fr/",
       "domain": "aucoeurducafe.fr",
-      "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500"
+      "logoUrl": "https://www.aucoeurducafe.fr/cdn/shop/files/Logo_ACDC_Horizontal_RVB.png?v=1730225659&width=500",
+      "lat": 48.2971626,
+      "lng": 4.0746257
     },
     "bel-horizon-coffee-roasters": {
       "name": "Bel Horizon Coffee Roasters",
       "city": "Paris",
       "url": "https://belhorizon.coffee/",
       "domain": "belhorizon.coffee",
-      "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
+      "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "belleville-brulerie": {
       "name": "Belleville Brûlerie",
       "city": "Paris",
       "url": "https://cafesbelleville.com/",
       "domain": "cafesbelleville.com",
-      "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377"
+      "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "cafe-1802": {
       "name": "Café 1802",
       "city": "Rennes",
       "url": "https://cafe1802.fr/",
       "domain": "cafe1802.fr",
-      "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
+      "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300",
+      "lat": 48.1113387,
+      "lng": -1.6800198
     },
     "cafe-chulo": {
       "name": "Café Chulo",
       "city": "Fontaine",
       "url": "https://cafechulo.fr/",
       "domain": "cafechulo.fr",
-      "logoUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/08/Cafe-Chulo_logo_noir_80.png?fit=80%2C80&ssl=1"
+      "logoUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/08/Cafe-Chulo_logo_noir_80.png?fit=80%2C80&ssl=1",
+      "lat": 45.1950183,
+      "lng": 5.6869624
     },
     "cafe-claudio-nelda": {
       "name": "Café Claudio Nelda",
       "city": "Moret-Loing-et-Orvanne",
       "url": "https://claudionelda.com/",
       "domain": "claudionelda.com",
-      "logoUrl": "https://claudionelda.com/cdn/shop/t/6/assets/blank_1x1.gif?v=50849316544257392421624522096"
+      "logoUrl": "https://claudionelda.com/cdn/shop/t/6/assets/blank_1x1.gif?v=50849316544257392421624522096",
+      "lat": 48.3730295,
+      "lng": 2.8159485
     },
     "cafe-come": {
       "name": "Café Côme",
       "city": "Grenoble",
       "url": "https://cafe-come.fr/",
       "domain": "cafe-come.fr",
-      "logoUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/1.png"
+      "logoUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/1.png",
+      "lat": 45.1875602,
+      "lng": 5.7357819
     },
     "cafe-corto": {
       "name": "Café Corto",
       "city": "Marseille",
       "url": "https://cafe-corto.fr/",
       "domain": "cafe-corto.fr",
-      "logoUrl": "https://cafe-corto.fr/cdn/shop/files/CAFE-CORTO-Logo-rouge_2a40c653-fdfb-4935-b471-fa88a5fa82dd.png?v=1774947910&width=600"
+      "logoUrl": "https://cafe-corto.fr/cdn/shop/files/CAFE-CORTO-Logo-rouge_2a40c653-fdfb-4935-b471-fa88a5fa82dd.png?v=1774947910&width=600",
+      "lat": 43.2963986,
+      "lng": 5.3777888
     },
     "cafe-d-auteur": {
       "name": "Café d'Auteur",
       "city": "Paris",
       "url": "https://cafedauteur.com/",
       "domain": "cafedauteur.com",
-      "logoUrl": "https://cafedauteur.com/themes/bos_highlands//assets/img/logo-h2.png"
+      "logoUrl": "https://cafedauteur.com/themes/bos_highlands//assets/img/logo-h2.png",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "cafe-frate": {
       "name": "Café Fraté",
       "city": "Esclanèdes",
       "url": "https://www.cafefrate.com/boutique/",
       "domain": "cafefrate.com",
-      "logoUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/logo-cafe-frate-1.png"
+      "logoUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/logo-cafe-frate-1.png",
+      "lat": 44.4814605,
+      "lng": 3.3617373
     },
     "cafe-loule": {
       "name": "Café Loulé",
       "city": "Nantes",
       "url": "https://cafe-loule.fr/",
       "domain": "cafe-loule.fr",
-      "logoUrl": "https://cafe-loule.fr/cdn/shop/files/Cafe_LouLe_Logo.svg?v=1756610202"
+      "logoUrl": "https://cafe-loule.fr/cdn/shop/files/Cafe_LouLe_Logo.svg?v=1756610202",
+      "lat": 47.2186371,
+      "lng": -1.5541362
     },
     "cafe-nibi": {
       "name": "Café Nibi",
       "city": "Suresnes",
       "url": "https://www.cafenibi.com/e-boutique",
       "domain": "cafenibi.com",
-      "logoUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fcc0a887-ec4d-4765-b916-ac2d9765be01/Logo+Nibi+fin3.png?format=1500w"
+      "logoUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fcc0a887-ec4d-4765-b916-ac2d9765be01/Logo+Nibi+fin3.png?format=1500w",
+      "lat": 48.8709053,
+      "lng": 2.2255727
     },
     "cafe-piha": {
       "name": "Café Piha",
       "city": "Bordeaux",
       "url": "https://www.cafepiha.com/e-boutique/",
       "domain": "cafepiha.com",
-      "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg"
+      "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg",
+      "lat": 44.841225,
+      "lng": -0.5800364
     },
     "cafe-plume": {
       "name": "Café Plume",
       "city": "Toulouse",
       "url": "https://plumedecafe.fr/",
       "domain": "plumedecafe.fr",
-      "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png"
+      "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png",
+      "lat": 43.6044638,
+      "lng": 1.4442433
     },
     "cafe-toque": {
       "name": "Café Toqué",
       "city": "Lyon",
       "url": "https://www.lecafetoque.fr/",
       "domain": "lecafetoque.fr",
-      "logoUrl": "https://www.lecafetoque.fr/web/image/website/1/logo/Lecafetoque?unique=7f0a17a"
+      "logoUrl": "https://www.lecafetoque.fr/web/image/website/1/logo/Lecafetoque?unique=7f0a17a",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "cafes-boc": {
       "name": "Cafés BOC",
       "city": "Le Mans",
       "url": "https://www.cafesboc.fr/boutique/",
       "domain": "cafesboc.fr",
-      "logoUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/05/cafes-boc-logo.png"
+      "logoUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/05/cafes-boc-logo.png",
+      "lat": 48.0073849,
+      "lng": 0.1967849
     },
     "cafes-bozec": {
       "name": "Cafés Bozec",
       "city": "Brest",
       "url": "https://www.cafesbozec.fr/",
       "domain": "cafesbozec.fr",
-      "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1"
+      "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1",
+      "lat": 48.3905283,
+      "lng": -4.4860088
     },
     "cafes-goneo": {
       "name": "Cafés Gonéo",
       "city": "Lyon",
       "url": "https://shop.cafes-goneo.fr/",
       "domain": "shop.cafes-goneo.fr",
-      "logoUrl": "https://shop.cafes-goneo.fr/img/logo-17712465632.jpg"
+      "logoUrl": "https://shop.cafes-goneo.fr/img/logo-17712465632.jpg",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "cafes-gorille": {
       "name": "Cafés Gorille",
       "city": "Calvisson",
       "url": "https://cafes-gorille.com/",
       "domain": "cafes-gorille.com",
-      "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg"
+      "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg",
+      "lat": 43.7853458,
+      "lng": 4.1900505
     },
     "cafes-lecoeur": {
       "name": "Cafés Lecoeur",
       "city": "Épinay-sous-Sénart",
       "url": "https://www.cafeslecoeur.fr/shop",
       "domain": "cafeslecoeur.fr",
-      "logoUrl": "https://www.cafeslecoeur.fr/web/image/website/1/logo/Caf%C3%A9s%20Lecoeur?unique=cc9073c"
+      "logoUrl": "https://www.cafeslecoeur.fr/web/image/website/1/logo/Caf%C3%A9s%20Lecoeur?unique=cc9073c",
+      "lat": 48.6953018,
+      "lng": 2.5159134
     },
     "cafes-magali": {
       "name": "Cafés Magali",
       "city": "Toulon",
       "url": "https://www.cafesmagali.fr/boutique/",
       "domain": "cafesmagali.fr",
-      "logoUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/06/LogoMagaliFull.svg"
+      "logoUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/06/LogoMagaliFull.svg",
+      "lat": 43.1257311,
+      "lng": 5.9304919
     },
     "cafes-muda": {
       "name": "Cafés Muda",
       "city": "Lille",
       "url": "https://cafesmuda.fr/",
       "domain": "cafesmuda.fr",
-      "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
+      "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229",
+      "lat": 50.6365654,
+      "lng": 3.0635282
     },
     "caffe-cataldi": {
       "name": "Caffè Cataldi",
       "city": "Louargat",
       "url": "https://caffe-cataldi.fr/fr/",
       "domain": "caffe-cataldi.fr",
-      "logoUrl": "https://www.caffe-cataldi.fr/img/caffe-cataldi-meilleur-torrefacteur-de-france-2010-logo-1521212305.jpg"
+      "logoUrl": "https://www.caffe-cataldi.fr/img/caffe-cataldi-meilleur-torrefacteur-de-france-2010-logo-1521212305.jpg",
+      "lat": 48.5665253,
+      "lng": -3.3403924
     },
     "celsius-roasters": {
       "name": "Celsius Roasters",
       "city": "Lyon",
       "url": "https://celsius-roasters.fr/",
       "domain": "celsius-roasters.fr",
-      "logoUrl": "https://celsius-roasters.fr/cdn/shop/files/Celsius_Roasters_logo_en_couleurs.png?v=1698744069"
+      "logoUrl": "https://celsius-roasters.fr/cdn/shop/files/Celsius_Roasters_logo_en_couleurs.png?v=1698744069",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "cime": {
       "name": "Cime",
       "city": "Nantes",
       "url": "https://www.cime-cafe.fr/nos-cafes.html",
       "domain": "cime-cafe.fr",
-      "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg"
+      "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg",
+      "lat": 47.2186371,
+      "lng": -1.5541362
     },
     "clinton-hill": {
       "name": "Clinton Hill",
       "city": "Clermont-Ferrand",
       "url": "https://clintonhill.fr/",
       "domain": "clintonhill.fr",
-      "logoUrl": "https://clintonhill.fr/wp-content/uploads/2023/05/cropped-cropped-Logo-horizontal-500-×-142-px.png"
+      "logoUrl": "https://clintonhill.fr/wp-content/uploads/2023/05/cropped-cropped-Logo-horizontal-500-×-142-px.png",
+      "lat": 45.7774551,
+      "lng": 3.0819427
     },
     "coffee-makers": {
       "name": "Coffee Makers",
       "city": "Lille",
       "url": "https://coffeemakers.fr/",
       "domain": "coffeemakers.fr",
-      "logoUrl": "https://coffeemakers.fr/cdn/shop/files/animiertes-gif-von-online-umwandeln-de_300x300.gif?v=1625085482"
+      "logoUrl": "https://coffeemakers.fr/cdn/shop/files/animiertes-gif-von-online-umwandeln-de_300x300.gif?v=1625085482",
+      "lat": 50.6365654,
+      "lng": 3.0635282
     },
     "colors-coffee-roasters": {
       "name": "Colors Coffee & Roasters",
       "city": "Aix-en-Provence",
       "url": "https://colors.coffee/",
       "domain": "colors.coffee",
-      "logoUrl": "https://colors.coffee/cdn/shop/files/LOGO_ICONS_Plan_de_travail_1_copie_3.png?crop=center&height=131&v=1751302534&width=250"
+      "logoUrl": "https://colors.coffee/cdn/shop/files/LOGO_ICONS_Plan_de_travail_1_copie_3.png?crop=center&height=131&v=1751302534&width=250",
+      "lat": 43.5298424,
+      "lng": 5.4474738
     },
     "coutume-cafe": {
       "name": "Coutume Café",
       "city": "Romainville",
       "url": "https://coutumecafe.com/",
       "domain": "coutumecafe.com",
-      "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400"
+      "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400",
+      "lat": 48.8852958,
+      "lng": 2.4358326
     },
     "dose": {
       "name": "Dose",
       "city": "Paris",
       "url": "https://dose.paris/",
       "domain": "dose.paris",
-      "logoUrl": "https://dose.paris/cdn/shop/files/logo-dose.png?v=1746034301&width=200"
+      "logoUrl": "https://dose.paris/cdn/shop/files/logo-dose.png?v=1746034301&width=200",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "early-bird": {
       "name": "Early Bird",
       "city": "Paris",
       "url": "https://earlybirdcoffee.fr/",
       "domain": "earlybirdcoffee.fr",
-      "logoUrl": "https://earlybirdcoffee.fr/wp-content/themes/1.6.1/images/2024-color-1.svg"
+      "logoUrl": "https://earlybirdcoffee.fr/wp-content/themes/1.6.1/images/2024-color-1.svg",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "fika-roasters": {
       "name": "Fika Roasters",
       "city": "Lyon",
       "url": "https://www.fikaroasters.fr/",
       "domain": "fikaroasters.fr",
-      "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png"
+      "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "gaia-torrefacteur": {
       "name": "Gaia Torréfacteur",
       "city": "Vincennes",
       "url": "https://gaiatorrefacteur.com/",
       "domain": "gaiatorrefacteur.com",
-      "logoUrl": "https://gaiatorrefacteur.com/cdn/shop/files/Gaia_logo_blanc_9f9994a3-79b0-42a4-bd0e-117d1534712e.png?crop=center&height=165&v=1676034353&width=180"
+      "logoUrl": "https://gaiatorrefacteur.com/cdn/shop/files/Gaia_logo_blanc_9f9994a3-79b0-42a4-bd0e-117d1534712e.png?crop=center&height=165&v=1676034353&width=180",
+      "lat": 48.8474508,
+      "lng": 2.4396714
     },
     "gramgram": {
       "name": "GramGram",
       "city": "Le Perreux-sur-Marne",
       "url": "https://gramgram.fr/",
       "domain": "gramgram.fr",
-      "logoUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram_logo_site-resp.svg"
+      "logoUrl": "https://gramgram.fr/wp-content/uploads/2020/01/gramgram_logo_site-resp.svg",
+      "lat": 48.8406252,
+      "lng": 2.5076601
     },
     "hayuco-coffee-roasters": {
       "name": "Hayuco Coffee Roasters",
       "city": "Toulouse",
       "url": "https://www.hayuco.coffee/",
       "domain": "hayuco.coffee",
-      "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226"
+      "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226",
+      "lat": 43.6044638,
+      "lng": 1.4442433
     },
     "kaffa-torrefacteur": {
       "name": "Kaffa Torréfacteur",
       "city": "Crest",
       "url": "https://kaffa-roastery.com/",
       "domain": "kaffa-roastery.com",
-      "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
+      "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png",
+      "lat": 44.7282675,
+      "lng": 5.0236641
     },
     "kawaty": {
       "name": "Kawaty",
       "city": "Châteauroux",
       "url": "https://www.kawaty.fr/",
       "domain": "kawaty.fr",
-      "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg"
+      "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg",
+      "lat": 46.8203785,
+      "lng": 1.6770956
     },
     "kb-coffee-roasters": {
       "name": "KB Coffee Roasters",
       "city": "Paris",
       "url": "https://kbcoffeeroasters.com/",
       "domain": "kbcoffeeroasters.com",
-      "logoUrl": "https://kbcoffeeroasters.com/cdn/shop/files/visuel_KB_detoure_001b708d-56a9-466b-8e7a-321f003dc93e.jpg?v=1663248887"
+      "logoUrl": "https://kbcoffeeroasters.com/cdn/shop/files/visuel_KB_detoure_001b708d-56a9-466b-8e7a-321f003dc93e.jpg?v=1663248887",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "kultivar": {
       "name": "Kultivar",
       "city": "Nantes",
       "url": "https://www.kultivarcafe.fr/",
       "domain": "kultivarcafe.fr",
-      "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
+      "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg",
+      "lat": 47.2186371,
+      "lng": -1.5541362
     },
     "l-alchimiste": {
       "name": "L'Alchimiste",
       "city": "Bordeaux",
       "url": "https://www.alchimiste-cafes.com/",
       "domain": "alchimiste-cafes.com",
-      "logoUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/01/instagram-header.svg"
+      "logoUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/01/instagram-header.svg",
+      "lat": 44.841225,
+      "lng": -0.5800364
     },
     "l-arbre-a-cafe": {
       "name": "L'Arbre à Café",
       "city": "Paris",
       "url": "https://larbreacafe.com/",
       "domain": "larbreacafe.com",
-      "logoUrl": "https://www.larbreacafe.com/cdn/shop/files/logo-laac24-vertical_674095ea-346b-4191-af03-defc403300e3_1600x.png?v=1773997418"
+      "logoUrl": "https://www.larbreacafe.com/cdn/shop/files/logo-laac24-vertical_674095ea-346b-4191-af03-defc403300e3_1600x.png?v=1773997418",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "l-ilot-cafes": {
       "name": "L'Îlot Cafés",
       "city": "Occitanie",
       "url": "https://www.lilotcafes.fr/boutique/",
       "domain": "lilotcafes.fr",
-      "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
+      "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png",
+      "lat": 43.0793983,
+      "lng": 2.1754217
     },
     "l-optimist-cafe": {
       "name": "L'Optimist Café",
       "city": "La Rochelle",
       "url": "https://www.loptimistcafe.com/",
       "domain": "loptimistcafe.com",
-      "logoUrl": "https://www.loptimistcafe.com/wp-content/uploads/2026/03/Optimist_logo_primaire_1_CMJN-460x250.png"
+      "logoUrl": "https://www.loptimistcafe.com/wp-content/uploads/2026/03/Optimist_logo_primaire_1_CMJN-460x250.png",
+      "lat": 46.159732,
+      "lng": -1.1515951
     },
     "la-brulerie-des-filatiers": {
       "name": "La Brûlerie des Filatiers",
       "city": "Toulouse",
       "url": "https://www.labruleriedesfilatiers.fr/",
       "domain": "labruleriedesfilatiers.fr",
-      "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
+      "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835",
+      "lat": 43.6044638,
+      "lng": 1.4442433
     },
     "la-fabrique-du-cafe": {
       "name": "La Fabrique du Café",
       "city": "Limoges",
       "url": "https://lafabriqueducafe.fr/boutique/",
       "domain": "lafabriqueducafe.fr",
-      "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
+      "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png",
+      "lat": 45.8354243,
+      "lng": 1.2644847
     },
     "la-pelle-cafe": {
       "name": "La Pelle Café",
       "city": "Bordeaux",
       "url": "https://lapellecafe.com/",
       "domain": "lapellecafe.com",
-      "logoUrl": "https://lapellecafe.com/wp-content/uploads/2017/12/admin-ajax.png"
+      "logoUrl": "https://lapellecafe.com/wp-content/uploads/2017/12/admin-ajax.png",
+      "lat": 44.841225,
+      "lng": -0.5800364
     },
     "la-torref-ico": {
       "name": "La Torref' / Icö",
       "city": "Anglet",
       "url": "https://www.latorref.com/",
       "domain": "latorref.com",
-      "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
+      "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600",
+      "lat": 43.4813927,
+      "lng": -1.5149935
     },
     "laplaine-torrefacteur": {
       "name": "Laplaine Torréfacteur",
       "city": "Pontoise",
       "url": "https://laplaine.fr/",
       "domain": "laplaine.fr",
-      "logoUrl": "https://laplaine.fr/cdn/shop/files/LAPLAINE2_5591cc07-0f87-4069-bcdb-9c10bffd82c3.png?v=1727858394&width=600"
+      "logoUrl": "https://laplaine.fr/cdn/shop/files/LAPLAINE2_5591cc07-0f87-4069-bcdb-9c10bffd82c3.png?v=1727858394&width=600",
+      "lat": 49.0508845,
+      "lng": 2.1008067
     },
     "le-cafe-qui-fume": {
       "name": "Le Café qui Fume",
       "city": "Plescop",
       "url": "https://lecafequifume.com/",
       "domain": "lecafequifume.com",
-      "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
+      "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600",
+      "lat": 47.6980235,
+      "lng": -2.8062224
     },
     "lomi": {
       "name": "Lomi",
       "city": "Paris",
       "url": "https://lomi.cafe/",
       "domain": "lomi.cafe",
-      "logoUrl": "https://lomi.cafe/icons/apple-touch-icon.png"
+      "logoUrl": "https://lomi.cafe/icons/apple-touch-icon.png",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "loutsa": {
       "name": "Loutsa",
       "city": "Lyon",
       "url": "https://www.loutsa.fr/",
       "domain": "loutsa.fr",
-      "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
+      "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "moka": {
       "name": "MÖKA",
       "city": "Marseille",
       "url": "https://www.brulerie-moka.com/shop/",
       "domain": "brulerie-moka.com",
-      "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
+      "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png",
+      "lat": 43.2963986,
+      "lng": 5.3777888
     },
     "moklair": {
       "name": "Moklair",
       "city": "Reims",
       "url": "https://moklair.fr/shop/",
       "domain": "moklair.fr",
-      "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg"
+      "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg",
+      "lat": 49.2577886,
+      "lng": 4.031926
     },
     "mokxa": {
       "name": "Mokxa",
       "city": "Lyon",
       "url": "https://www.cafemokxa.com/",
       "domain": "cafemokxa.com",
-      "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
+      "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "montista": {
       "name": "Montista",
       "city": "Montferrier-sur-Lez",
       "url": "https://montista.com/cafe-en-grain/",
       "domain": "montista.com",
-      "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png"
+      "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png",
+      "lat": 43.6665244,
+      "lng": 3.8613428
     },
     "omnino": {
       "name": "Omnino",
       "city": "Strasbourg",
       "url": "https://cafe.omnino.fr/",
       "domain": "cafe.omnino.fr",
-      "logoUrl": "https://cafe.omnino.fr/cdn/shop/files/omnino-logo_200x.png?v=1613694607"
+      "logoUrl": "https://cafe.omnino.fr/cdn/shop/files/omnino-logo_200x.png?v=1613694607",
+      "lat": 48.584614,
+      "lng": 7.7507127
     },
     "partisan-cafe-artisanal": {
       "name": "Partisan Café Artisanal",
       "city": "Paris",
       "url": "https://parispartisancafe.com/",
       "domain": "parispartisancafe.com",
-      "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
+      "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "pikaro-coffee": {
       "name": "Pikaro Coffee",
       "city": "Valenciennes",
       "url": "https://www.pikaro.fr/",
       "domain": "pikaro.fr",
-      "logoUrl": "https://media.cdnws.com/_i/44626/791/317/93/pikaro-torrefaction-cafe-the-cadeaux.png"
+      "logoUrl": "https://media.cdnws.com/_i/44626/791/317/93/pikaro-torrefaction-cafe-the-cadeaux.png",
+      "lat": 50.3579317,
+      "lng": 3.5234846
     },
     "signe-extrait": {
       "name": "Signé Extrait",
       "city": "Lyon",
       "url": "https://www.extrait.fr/",
       "domain": "extrait.fr",
-      "logoUrl": "https://www.extrait.fr/img/extraitfr-logo-1455523302.jpg"
+      "logoUrl": "https://www.extrait.fr/img/extraitfr-logo-1455523302.jpg",
+      "lat": 45.7578137,
+      "lng": 4.8320114
     },
     "substance": {
       "name": "Substance",
       "city": "Paris",
       "url": "https://www.substancecafe.com/",
       "domain": "substancecafe.com",
-      "logoUrl": "https://www.substancecafe.com/wp-content/uploads/2026/03/cropped-substance-logo-inverse-transp-scaled-1.png"
+      "logoUrl": "https://www.substancecafe.com/wp-content/uploads/2026/03/cropped-substance-logo-inverse-transp-scaled-1.png",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "tanat-coffee": {
       "name": "Tanat Coffee",
       "city": "Paris",
       "url": "https://tanat.coffee/",
       "domain": "tanat.coffee",
-      "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg"
+      "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "terres-de-cafe": {
       "name": "Terres de Café",
       "city": "Paris",
       "url": "https://www.terresdecafe.com/fr/",
       "domain": "terresdecafe.com",
-      "logoUrl": "https://www.terresdecafe.com/img/logo.png"
+      "logoUrl": "https://www.terresdecafe.com/img/logo.png",
+      "lat": 48.8534951,
+      "lng": 2.3483915
     },
     "tinto": {
       "name": "TINTO",
       "city": "Nantes",
       "url": "https://www.tintonantes.fr/boutique-de-cafe-en-ligne/",
       "domain": "tintonantes.fr",
-      "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
+      "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1",
+      "lat": 47.2186371,
+      "lng": -1.5541362
     },
     "torrea": {
       "name": "Torrea",
       "city": "Occitanie",
       "url": "https://torrea.fr/shop/",
       "domain": "torrea.fr",
-      "logoUrl": "https://torrea.fr/wp-content/uploads/2026/07/Logo-torrea.png"
+      "logoUrl": "https://torrea.fr/wp-content/uploads/2026/07/Logo-torrea.png",
+      "lat": 43.0793983,
+      "lng": 2.1754217
     },
     "valini": {
       "name": "Valini",
       "city": "Nîmes",
       "url": "https://valini.fr/",
       "domain": "valini.fr",
-      "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
+      "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg",
+      "lat": 43.8374249,
+      "lng": 4.3600687
     },
     "yellow-peak": {
       "name": "Yellow Peak",
       "city": "Pau",
       "url": "https://www.yellowpeak.fr/boutique/",
       "domain": "yellowpeak.fr",
-      "logoUrl": "https://www.yellowpeak.fr/wp-content/uploads/elementor/thumbs/Logo-Yellow-Peak-torrefacteur-cafe-de-specialite-pau-1-qyp8s8axq94t7rcp0hmd3u4fj2k1o33ijao6rmhdw0.png"
+      "logoUrl": "https://www.yellowpeak.fr/wp-content/uploads/elementor/thumbs/Logo-Yellow-Peak-torrefacteur-cafe-de-specialite-pau-1-qyp8s8axq94t7rcp0hmd3u4fj2k1o33ijao6rmhdw0.png",
+      "lat": 43.2957547,
+      "lng": -0.3685668
     }
   },
   "coffees": [
