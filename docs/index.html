@@ -254,7 +254,14 @@
   .top3-rank{ font-family:'Fraunces',serif; font-weight:700; color:var(--gold); font-size:12px; width:14px; flex-shrink:0; }
   .top3-count{ color:var(--muted); font-size:11px; }
   .top3-empty{ color:var(--muted); font-size:12.5px; }
-  @media (max-width:560px){ .stats-row{ grid-template-columns:1fr 1fr; } }
+  .bar-chart{ width:100%; }
+  .bar-row{ display:flex; align-items:center; gap:8px; margin-bottom:7px; }
+  .bar-row:last-child{ margin-bottom:0; }
+  .bar-row .bar-label{ flex:0 0 92px; font-size:11.5px; color:var(--cream); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .bar-row .bar-track{ flex:1; background:var(--panel-light); border-radius:6px; height:9px; overflow:hidden; }
+  .bar-row .bar-fill{ display:block; height:100%; background:var(--gold); border-radius:6px; }
+  .bar-row .bar-count{ flex:0 0 18px; text-align:right; color:var(--muted); font-size:11px; }
+  @media (max-width:560px){ .stats-row{ grid-template-columns:1fr 1fr; } .stat-box[style*="span 2"]{ grid-column:1/-1 !important; } }
 
   .lib-subtabs{ display:flex; align-items:center; gap:8px; margin-bottom:16px; }
   .lib-subtab{ background:none; border:none; color:var(--muted); font-family:'Inter',sans-serif; font-size:14px; font-weight:600; padding:8px 4px; cursor:pointer; border-bottom:2px solid transparent; }
@@ -281,6 +288,7 @@
 
   .brew-history{ margin-top:22px; }
   .brew-history .bh-title{ font-size:13px; font-weight:700; color:var(--gold-soft); margin-bottom:10px; }
+  .meta-title{ font-size:13px; font-weight:700; color:var(--gold-soft); }
   .brew-log{ background:var(--panel-light); border-radius:10px; padding:12px 14px; margin-bottom:8px; font-size:12.5px; }
   .brew-log .bl-date{ color:var(--muted); font-size:11px; margin-bottom:4px; }
   .brew-log .bl-line{ color:var(--cream); }
@@ -365,6 +373,29 @@
   .field select:focus, .field textarea:focus, .field input:focus{ border-color:var(--gold); }
   .field textarea{ resize:vertical; min-height:64px; font-family:'Inter',sans-serif; }
   .field.full{ grid-column:1 / -1; }
+  .timer-card{
+    display:flex; align-items:center; justify-content:center; gap:18px;
+    background:var(--panel-light); border:1px solid var(--line); border-radius:14px;
+    padding:14px 18px; margin-top:10px;
+  }
+  .timer-display{
+    font-family:'Fraunces',serif; font-weight:700; font-size:28px; color:var(--gold-soft);
+    font-variant-numeric:tabular-nums; min-width:92px; text-align:center;
+  }
+  .timer-actions{ display:flex; align-items:center; gap:10px; }
+  .timer-btn{
+    width:44px; height:44px; border-radius:50%; border:none; cursor:pointer;
+    background:var(--gold); color:var(--ink); font-size:16px; display:flex; align-items:center; justify-content:center;
+    transition:transform .15s;
+  }
+  .timer-btn:hover{ transform:scale(1.07); }
+  .timer-btn.is-stop{ background:var(--danger); color:var(--cream); }
+  .timer-btn-reset{
+    width:32px; height:32px; border-radius:50%; border:1px solid var(--line); background:var(--panel);
+    color:var(--muted); cursor:pointer; font-size:14px; display:flex; align-items:center; justify-content:center;
+    transition:border-color .15s, color .15s;
+  }
+  .timer-btn-reset:hover{ border-color:var(--gold); color:var(--cream); }
   .lib-foot{ display:flex; justify-content:space-between; align-items:center; margin-top:10px; }
   .saved-tag{ font-size:11px; color:var(--sage-soft); opacity:0; transition:opacity .3s; }
   .saved-tag.show{ opacity:1; }
@@ -615,16 +646,19 @@
       <input id="library-search-input" type="text" placeholder="Chercher dans ma bibliothèque…">
     </div>
 
-    <div class="stats-row" id="stats-row"></div>
-
     <div class="lib-subtabs">
       <button id="subtab-tasted" class="lib-subtab active">Dégustés</button>
+      <button id="subtab-stats" class="lib-subtab">Statistiques</button>
       <button id="subtab-wishlist" class="lib-subtab">À essayer</button>
       <button id="export-csv" class="danger-link" style="margin-left:auto;">Exporter (CSV)</button>
     </div>
 
     <div id="view-library-tasted">
       <div id="library-list"></div>
+    </div>
+
+    <div id="view-library-stats" style="display:none;">
+      <div class="stats-row" id="stats-row"></div>
     </div>
 
     <div id="view-library-wishlist" style="display:none;">
@@ -2032,33 +2066,46 @@ function renderStats(){
     const p = parsePriceEUR(c);
     if(p!=null) totalSpend += p;
   });
-  const top3Roasters = Object.keys(roasterCounts).sort((a,b)=>roasterCounts[b]-roasterCounts[a]).slice(0,3);
-  const top3Processes = Object.keys(processCounts).sort((a,b)=>processCounts[b]-processCounts[a]).slice(0,3);
-  const topBrewMethod = Object.keys(brewMethodCounts).sort((a,b)=>brewMethodCounts[b]-brewMethodCounts[a])[0];
-  const topOrigin = Object.keys(originCounts).sort((a,b)=>originCounts[b]-originCounts[a])[0];
-
-  const top3ListHTML = (items, getLabel, counts)=>{
-    if(items.length===0) return `<div class="top3-empty">—</div>`;
-    return `<ol class="top3-list">${items.map((k,i)=>`<li><span class="top3-rank">${i+1}</span>${getLabel(k)} <span class="top3-count">(${counts[k]})</span></li>`).join('')}</ol>`;
-  };
+  const top5Roasters = Object.keys(roasterCounts).sort((a,b)=>roasterCounts[b]-roasterCounts[a]).slice(0,5);
+  const top5Processes = Object.keys(processCounts).sort((a,b)=>processCounts[b]-processCounts[a]).slice(0,5);
+  const top5BrewMethods = Object.keys(brewMethodCounts).sort((a,b)=>brewMethodCounts[b]-brewMethodCounts[a]).slice(0,5);
+  const top5Origins = Object.keys(originCounts).sort((a,b)=>originCounts[b]-originCounts[a]).slice(0,5);
 
   const evolutionPoints = ids
     .map(id=>({ date: libraryCache[id].dateAdded, rating: libraryCache[id].rating }))
     .filter(p=>p.rating>0 && p.date)
     .sort((a,b)=> new Date(a.date) - new Date(b.date));
 
+  if(total===0){
+    el.innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Pas encore de statistiques</h3><p>Note quelques cafés dans l'onglet "Dégustés" pour voir tes statistiques apparaître ici.</p></div>`;
+    return;
+  }
+
   el.innerHTML = `
-    <div class="stat-box"><div class="stat-val">${total}</div><div class="stat-lbl">Cafés dégustés</div></div>
-    <div class="stat-box"><div class="stat-val">${avgRating!=null ? avgRating.toFixed(1) : '—'}</div><div class="stat-lbl">Note moyenne donnée</div></div>
-    <div class="stat-box"><div class="stat-lbl" style="margin-bottom:6px;">Top torréfacteurs</div>${top3ListHTML(top3Roasters, id=>ROASTERS[id].name, roasterCounts)}</div>
-    <div class="stat-box"><div class="stat-lbl" style="margin-bottom:6px;">Top process</div>${top3ListHTML(top3Processes, p=>p, processCounts)}</div>
-    <div class="stat-box"><div class="stat-val" style="font-size:16px;">${topBrewMethod || '—'}</div><div class="stat-lbl">Méthode la + utilisée</div></div>
-    <div class="stat-box"><div class="stat-val" style="font-size:16px;">${topOrigin || '—'}</div><div class="stat-lbl">Origine la + dégustée</div></div>
+    <div class="stat-box" style="grid-column:span 2;"><div class="stat-val">${total}</div><div class="stat-lbl">Cafés dégustés</div></div>
+    <div class="stat-box" style="grid-column:span 2;"><div class="stat-val">${avgRating!=null ? avgRating.toFixed(1) : '—'}</div><div class="stat-lbl">Note moyenne donnée</div></div>
+    <div class="stat-box" style="grid-column:span 2; align-items:stretch; text-align:left;"><div class="stat-lbl">Top torréfacteurs</div>${barChartHTML(top5Roasters, id=>ROASTERS[id].name, roasterCounts)}</div>
+    <div class="stat-box" style="grid-column:span 2; align-items:stretch; text-align:left;"><div class="stat-lbl">Top process</div>${barChartHTML(top5Processes, p=>p, processCounts)}</div>
+    <div class="stat-box" style="grid-column:span 2; align-items:stretch; text-align:left;"><div class="stat-lbl">Méthodes de préparation</div>${barChartHTML(top5BrewMethods, m=>m, brewMethodCounts)}</div>
+    <div class="stat-box" style="grid-column:span 2; align-items:stretch; text-align:left;"><div class="stat-lbl">Origines dégustées</div>${barChartHTML(top5Origins, o=>o, originCounts)}</div>
     <div class="stat-box" style="grid-column:1/-1;">
       <div class="stat-lbl">Évolution de la note</div>
       ${ratingEvolutionHTML(evolutionPoints)}
     </div>
   `;
+}
+
+function barChartHTML(items, getLabel, counts){
+  if(items.length===0) return `<div class="top3-empty">Pas assez de données pour l'instant.</div>`;
+  const max = Math.max(...items.map(k=>counts[k]));
+  return `<div class="bar-chart">${items.map(k=>{
+    const pct = max ? Math.round((counts[k]/max)*100) : 0;
+    return `<div class="bar-row">
+      <span class="bar-label">${getLabel(k)}</span>
+      <span class="bar-track"><span class="bar-fill" style="width:${pct}%;"></span></span>
+      <span class="bar-count">${counts[k]}</span>
+    </div>`;
+  }).join('')}</div>`;
 }
 
 function ratingEvolutionHTML(points){
@@ -2267,11 +2314,19 @@ function openLibraryDetail(id){
           <select class="f-time-m" data-id="${id}">${Array.from({length:60},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeM||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">min</span>
           <select class="f-time-s" data-id="${id}">${Array.from({length:60},(_,i)=>i).map(n=>`<option value="${n}" ${(e.timeS||0)===n?'selected':''}>${n}</option>`).join('')}</select><span style="font-size:12px; color:var(--muted);">s</span>
         </div>
-        <div style="display:flex; align-items:center; gap:8px; margin-top:8px; flex-wrap:wrap;">
-          <span id="brew-timer-display" style="font-variant-numeric:tabular-nums; font-weight:600; min-width:50px;">00:00</span>
-          <button type="button" class="btn-small primary" id="brew-timer-start" style="padding:6px 12px;">▶ Minuteur</button>
-          <button type="button" class="btn-small ghost" id="brew-timer-stop" style="display:none; padding:6px 12px;">■ Arrêter</button>
-          <button type="button" class="btn-small ghost" id="brew-timer-reset" title="Réinitialiser le minuteur" style="padding:6px 10px;">↺</button>
+        <div class="timer-card">
+          <div class="timer-display" id="brew-timer-display">00:00</div>
+          <div class="timer-actions">
+            <button type="button" class="timer-btn" id="brew-timer-start" title="Démarrer le minuteur">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><polygon points="6 4 20 12 6 20"/></svg>
+            </button>
+            <button type="button" class="timer-btn is-stop" id="brew-timer-stop" title="Arrêter le minuteur" style="display:none;">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><rect x="5" y="5" width="14" height="14" rx="2"/></svg>
+            </button>
+            <button type="button" class="timer-btn-reset" id="brew-timer-reset" title="Réinitialiser le minuteur">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><polyline points="3 4 3 9 8 9"/></svg>
+            </button>
+          </div>
         </div>
       </div>
       <div class="field full"><label>Notes de dégustation</label>
@@ -2285,7 +2340,7 @@ function openLibraryDetail(id){
       <div id="brew-history-list">${renderBrewHistoryHTML(e, id)}</div>
     </div>
 
-    <div class="fg-label section-title" style="margin-top:20px; margin-bottom:8px;">Informations sur le café</div>
+    <div class="meta-title section-title" style="margin-top:20px; margin-bottom:8px;">Informations sur le café</div>
     ${coffeeMetaGridHTML(c)}
 
     <div class="lib-foot">
@@ -2604,19 +2659,18 @@ document.getElementById('btn-login').addEventListener('click', ()=> openAuthModa
 document.getElementById('btn-signup').addEventListener('click', ()=> openAuthModal('signup'));
 
 document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Chargement des cafés…</h3></div>`;
-document.getElementById('subtab-tasted').addEventListener('click', ()=>{
-  document.getElementById('subtab-tasted').classList.add('active');
-  document.getElementById('subtab-wishlist').classList.remove('active');
-  document.getElementById('view-library-tasted').style.display = '';
-  document.getElementById('view-library-wishlist').style.display = 'none';
-});
-document.getElementById('subtab-wishlist').addEventListener('click', ()=>{
-  document.getElementById('subtab-wishlist').classList.add('active');
-  document.getElementById('subtab-tasted').classList.remove('active');
-  document.getElementById('view-library-wishlist').style.display = '';
-  document.getElementById('view-library-tasted').style.display = 'none';
-  renderWishlist();
-});
+function switchLibSubtab(name){
+  const map = { tasted:'view-library-tasted', stats:'view-library-stats', wishlist:'view-library-wishlist' };
+  Object.keys(map).forEach(k=>{
+    document.getElementById('subtab-'+k).classList.toggle('active', k===name);
+    document.getElementById(map[k]).style.display = k===name ? '' : 'none';
+  });
+  if(name==='wishlist') renderWishlist();
+  if(name==='stats') renderStats();
+}
+document.getElementById('subtab-tasted').addEventListener('click', ()=> switchLibSubtab('tasted'));
+document.getElementById('subtab-stats').addEventListener('click', ()=> switchLibSubtab('stats'));
+document.getElementById('subtab-wishlist').addEventListener('click', ()=> switchLibSubtab('wishlist'));
 document.getElementById('export-csv').addEventListener('click', exportLibraryCSV);
 
 (async ()=>{
