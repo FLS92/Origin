@@ -1243,40 +1243,44 @@ document.getElementById('set-grinder2-name').addEventListener('change', ()=> app
 
 const FAQ_ITEMS = [
   {
-    q: "Que signifie \"Indisponible\" sur une fiche café ?",
-    a: "Un champ n'est renseigné que si le torréfacteur l'indique explicitement sur sa fiche produit. Origin ne devine et n'invente jamais une information manquante — \"Indisponible\" veut simplement dire que le site source ne la précise pas."
+    q: "Comment les informations des cafés sont-elles collectées ?",
+    a: "Un programme lit directement les fiches produit publiques de chaque torréfacteur (l'interface native de leur boutique en ligne quand elle existe, sinon la page elle-même) et en extrait les champs explicitement indiqués. Aucune information n'est déduite : si un champ n'apparaît nulle part sur le site source, il reste vide plutôt que d'être complété par une supposition."
   },
   {
-    q: "Origin est-il affilié aux torréfacteurs référencés ?",
-    a: "Non. Origin est un projet indépendant qui référence des torréfacteurs indépendants à partir des informations publiques de leurs sites — il n'est ni exploité par eux, ni partenaire commercial."
+    q: "À quelle fréquence le catalogue est-il actualisé, et que devient un café retiré d'un site ?",
+    a: "Le catalogue est réanalysé automatiquement chaque semaine. Un café qui disparaît du site d'un torréfacteur n'est jamais supprimé de la base : il est simplement marqué indisponible, pour conserver l'historique de vos dégustations et de vos avis même après la disparition de la fiche d'origine."
   },
   {
-    q: "Comment fonctionne la note de la communauté ?",
-    a: "Chaque utilisateur connecté peut noter un café sur 5 depuis sa bibliothèque. La moyenne s'affiche publiquement dans l'onglet Communauté, mais qui a donné quelle note reste privé, sauf si tu actives \"Rendre ma bibliothèque publique\" dans Paramètres."
+    q: "Pourquoi un champ reste-t-il vide malgré plusieurs semaines de mises à jour ?",
+    a: "L'extraction ne lit que ce que le torréfacteur écrit explicitement (process, variété, score...). Si cette information n'a jamais été publiée sur le site source, aucune mise à jour ultérieure ne la fera apparaître — Origin ne comble jamais un champ manquant par une estimation, même approximative."
   },
   {
-    q: "Quelle est la différence entre \"Ma bibliothèque\" et \"liste à essayer\" ?",
-    a: "Ma bibliothèque regroupe les cafés que tu as déjà dégustés, avec tes notes et tes recettes d'extraction. La liste à essayer sert à mettre de côté des cafés repérés que tu comptes goûter plus tard."
+    q: "Comment est déterminé le \"prix le plus bas\" quand un café a plusieurs revendeurs ?",
+    a: "Les prix de tous les revendeurs actifs sont comparés directement entre eux, à l'exclusion de ceux en rupture de stock ; le moins cher est mis en avant et sert de référence pour l'ordre d'affichage des boutiques."
   },
   {
-    q: "Comment fonctionne le choix du moulin dans une recette ?",
-    a: "Configure jusqu'à deux moulins dans Paramètres, chacun avec sa propre échelle de mouture (certains vont de 0 à 40, d'autres de 20 à 100, etc.). Une fois renseignés, tu peux choisir lequel tu utilises pour chaque café, et l'échelle de mouture proposée s'adapte automatiquement."
+    q: "Pourquoi le choix d'un moulin change-t-il l'échelle de mouture proposée dans une recette ?",
+    a: "Chaque moulin renseigné dans vos Paramètres a sa propre plage de clics (certains vont de 0 à 40, d'autres de 20 à 100...). En sélectionnant un moulin pour une recette, l'échelle affichée correspond exactement à celle que vous avez définie pour cet appareil, plutôt qu'une plage générique commune à tous."
   },
   {
-    q: "\"Rupture de stock\" veut-il dire que le café a disparu du catalogue ?",
-    a: "Non, seulement qu'il est temporairement épuisé chez ce revendeur. Il réapparaît en stock dès que la boutique le remet en vente, sans que tu aies besoin de faire quoi que ce soit."
+    q: "Pourquoi dois-je valider les filtres avant qu'ils s'appliquent, alors que la recherche est instantanée ?",
+    a: "La recherche textuelle filtre le catalogue à chaque frappe, mais les filtres (torréfacteur, méthode, process, prix...) ne sont appliqués qu'après avoir cliqué sur \"Valider les filtres\". Cela évite de relancer le tri de l'ensemble du catalogue à chaque case cochée lorsque vous en sélectionnez plusieurs à la suite."
   },
   {
-    q: "Pourquoi certains cafés ont-ils plusieurs boutiques avec des prix différents ?",
-    a: "Certains torréfacteurs vendent leur café en direct et via des revendeurs partenaires. Origin affiche toutes les boutiques connues avec leur prix pour te permettre de comparer facilement."
+    q: "Pourquoi ne puis-je pas changer mon mot de passe si je me suis inscrit avec Google ?",
+    a: "Un compte créé via Google n'a pas de mot de passe propre à Origin : l'authentification est entièrement déléguée à Google. Le mot de passe se modifie donc directement depuis votre compte Google, pas depuis les Paramètres d'Origin."
   },
   {
-    q: "Que se passe-t-il si je supprime mon compte ?",
-    a: "Ta bibliothèque, ta liste à essayer et tes avis publics sont supprimés immédiatement et définitivement, ainsi que ton compte lui-même. Cette action ne peut pas être annulée."
+    q: "Pourquoi le changement d'adresse e-mail n'est-il pas immédiat ?",
+    a: "Un e-mail de confirmation est envoyé à la nouvelle adresse, et le changement ne devient effectif qu'après avoir cliqué sur le lien qu'il contient. Cette vérification garantit que le compte n'est jamais rattaché à une adresse que vous ne contrôlez pas réellement."
   },
   {
-    q: "Mes données sont-elles privées ?",
-    a: "Ta bibliothèque et ta liste à essayer sont privées par défaut. Seule ta note chiffrée entre dans la moyenne publique d'un café, sauf si tu actives explicitement le partage public de ta bibliothèque dans Paramètres."
+    q: "Ma note est-elle recalculée si d'autres utilisateurs notent le même café après moi ?",
+    a: "Oui. La moyenne affichée dans l'onglet Communauté est recalculée à chaque nouvelle note, modification ou suppression de note, tous utilisateurs confondus — elle n'est jamais figée au moment de votre propre passage."
+  },
+  {
+    q: "Que devient précisément mon compte si je le supprime ?",
+    a: "Votre bibliothèque, votre liste à essayer et vos avis publics sont supprimés un par un, puis votre compte d'authentification est définitivement effacé. L'opération est immédiate dès confirmation et ne peut pas être annulée."
   },
 ];
 
