@@ -212,6 +212,18 @@
   .settings-msg.error{ color:var(--danger); }
   .settings-msg.success{ color:var(--sage-soft); }
 
+  .faq-item{ background:var(--panel); border:1px solid var(--line); border-radius:12px; margin-bottom:10px; overflow:hidden; }
+  .faq-question{
+    width:100%; text-align:left; background:none; border:none; color:var(--cream);
+    font-family:'Inter',sans-serif; font-size:14.5px; font-weight:600; padding:16px 18px; cursor:pointer;
+    display:flex; justify-content:space-between; align-items:center; gap:12px;
+  }
+  .faq-question:hover{ color:var(--gold-soft); }
+  .faq-question .chevron{ transition:transform .15s; flex-shrink:0; opacity:.7; }
+  .faq-item.open .faq-question .chevron{ transform:rotate(180deg); }
+  .faq-answer{ display:none; padding:0 18px 18px; color:var(--muted); font-size:13.5px; line-height:1.65; }
+  .faq-item.open .faq-answer{ display:block; }
+
   .privacy-box{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px 20px; margin-bottom:20px; display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; }
   .privacy-box .pb-text{ flex:1; min-width:220px; }
   .privacy-box .pb-title{ font-weight:700; font-size:14.5px; margin-bottom:4px; }
@@ -465,6 +477,7 @@
         <div class="account-menu" id="account-menu" style="display:none;">
           <div class="account-menu-email" id="account-menu-email"></div>
           <button id="account-menu-settings">Paramètres</button>
+          <button id="account-menu-faq">FAQ</button>
           <button id="account-menu-logout">Se déconnecter</button>
         </div>
       </div>
@@ -698,6 +711,11 @@
       </div>
       <div class="settings-msg" id="settings-delete-msg"></div>
     </div>
+  </div>
+
+  <div id="view-faq" style="display:none;">
+    <h2 class="serif section-title" style="margin-bottom:20px;">Questions fréquentes</h2>
+    <div class="faq-list" id="faq-list"></div>
   </div>
 
   <div id="view-about" style="display:none;">
@@ -1167,6 +1185,10 @@ document.getElementById('account-menu-settings').addEventListener('click', ()=>{
   setAccountMenuOpen(false);
   showView('settings');
 });
+document.getElementById('account-menu-faq').addEventListener('click', ()=>{
+  setAccountMenuOpen(false);
+  showView('faq');
+});
 document.getElementById('settings-logout-btn').addEventListener('click', ()=> auth.signOut());
 document.addEventListener('click', (e)=>{
   if(accountMenuOpen && !document.getElementById('account-tab-wrap').contains(e.target)){
@@ -1218,6 +1240,61 @@ function applyGrinderModelRange(slot){
 }
 document.getElementById('set-grinder1-name').addEventListener('change', ()=> applyGrinderModelRange(1));
 document.getElementById('set-grinder2-name').addEventListener('change', ()=> applyGrinderModelRange(2));
+
+const FAQ_ITEMS = [
+  {
+    q: "Que signifie \"Indisponible\" sur une fiche café ?",
+    a: "Un champ n'est renseigné que si le torréfacteur l'indique explicitement sur sa fiche produit. Origin ne devine et n'invente jamais une information manquante — \"Indisponible\" veut simplement dire que le site source ne la précise pas."
+  },
+  {
+    q: "Origin est-il affilié aux torréfacteurs référencés ?",
+    a: "Non. Origin est un projet indépendant qui référence des torréfacteurs indépendants à partir des informations publiques de leurs sites — il n'est ni exploité par eux, ni partenaire commercial."
+  },
+  {
+    q: "Comment fonctionne la note de la communauté ?",
+    a: "Chaque utilisateur connecté peut noter un café sur 5 depuis sa bibliothèque. La moyenne s'affiche publiquement dans l'onglet Communauté, mais qui a donné quelle note reste privé, sauf si tu actives \"Rendre ma bibliothèque publique\" dans Paramètres."
+  },
+  {
+    q: "Quelle est la différence entre \"Ma bibliothèque\" et \"liste à essayer\" ?",
+    a: "Ma bibliothèque regroupe les cafés que tu as déjà dégustés, avec tes notes et tes recettes d'extraction. La liste à essayer sert à mettre de côté des cafés repérés que tu comptes goûter plus tard."
+  },
+  {
+    q: "Comment fonctionne le choix du moulin dans une recette ?",
+    a: "Configure jusqu'à deux moulins dans Paramètres, chacun avec sa propre échelle de mouture (certains vont de 0 à 40, d'autres de 20 à 100, etc.). Une fois renseignés, tu peux choisir lequel tu utilises pour chaque café, et l'échelle de mouture proposée s'adapte automatiquement."
+  },
+  {
+    q: "\"Rupture de stock\" veut-il dire que le café a disparu du catalogue ?",
+    a: "Non, seulement qu'il est temporairement épuisé chez ce revendeur. Il réapparaît en stock dès que la boutique le remet en vente, sans que tu aies besoin de faire quoi que ce soit."
+  },
+  {
+    q: "Pourquoi certains cafés ont-ils plusieurs boutiques avec des prix différents ?",
+    a: "Certains torréfacteurs vendent leur café en direct et via des revendeurs partenaires. Origin affiche toutes les boutiques connues avec leur prix pour te permettre de comparer facilement."
+  },
+  {
+    q: "Que se passe-t-il si je supprime mon compte ?",
+    a: "Ta bibliothèque, ta liste à essayer et tes avis publics sont supprimés immédiatement et définitivement, ainsi que ton compte lui-même. Cette action ne peut pas être annulée."
+  },
+  {
+    q: "Mes données sont-elles privées ?",
+    a: "Ta bibliothèque et ta liste à essayer sont privées par défaut. Seule ta note chiffrée entre dans la moyenne publique d'un café, sauf si tu actives explicitement le partage public de ta bibliothèque dans Paramètres."
+  },
+];
+
+function renderFaq(){
+  const el = document.getElementById('faq-list');
+  el.innerHTML = FAQ_ITEMS.map((item, i) => `
+    <div class="faq-item" data-index="${i}">
+      <button class="faq-question">
+        <span>${item.q}</span>
+        <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
+      </button>
+      <div class="faq-answer">${item.a}</div>
+    </div>
+  `).join('');
+  el.querySelectorAll('.faq-item').forEach(item=>{
+    item.querySelector('.faq-question').addEventListener('click', ()=> item.classList.toggle('open'));
+  });
+}
 
 function renderSettings(){
   if(!currentUser) return;
@@ -2166,10 +2243,10 @@ document.getElementById('reset-filters').addEventListener('click', ()=>{
 document.getElementById('library-search-input').addEventListener('input', (e)=> renderLibrary(e.target.value));
 function showView(view){
   const tabs = {home:'tab-home', explore:'tab-explore', library:'tab-library', community:'tab-community', about:'tab-about'};
-  // 'settings' has no button of its own in nav.tabs (reached via the account
-  // menu instead), so its visibility is handled separately from the
-  // tab-active toggling below.
-  const views = {home:'view-home', explore:'view-explore', library:'view-library', community:'view-community', about:'view-about', settings:'view-settings'};
+  // 'settings' and 'faq' have no button of their own in nav.tabs (reached
+  // via the account menu instead), so their visibility is handled
+  // separately from the tab-active toggling below.
+  const views = {home:'view-home', explore:'view-explore', library:'view-library', community:'view-community', about:'view-about', settings:'view-settings', faq:'view-faq'};
   Object.keys(tabs).forEach(k=>{
     document.getElementById(tabs[k]).classList.toggle('active', k===view);
   });
@@ -2188,6 +2265,7 @@ function showView(view){
   if(view==='library') renderLibrary(document.getElementById('library-search-input').value);
   if(view==='community') renderTrending();
   if(view==='settings') renderSettings();
+  if(view==='faq') renderFaq();
 }
 
 // The Accueil tab shows the sign-in hero to a guest and a personal hub
