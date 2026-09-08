@@ -294,8 +294,13 @@
   .btn-small.ghost:hover{ border-color:var(--gold); }
   .share-wrap{ margin-bottom:14px; }
   .share-row{ flex-wrap:wrap; gap:8px; margin-top:8px; }
-  .share-row a.btn-small{ display:inline-block; text-decoration:none; }
-  .share-note{ font-size:11.5px; color:var(--muted); margin-top:8px; width:100%; }
+  .share-btn{ font-family:'Inter',sans-serif; font-size:12px; font-weight:700; padding:8px 14px; border-radius:8px; cursor:pointer; white-space:nowrap; display:inline-block; text-decoration:none; border:none; transition:filter .15s; }
+  .share-btn:hover{ filter:brightness(1.1); }
+  .share-btn-whatsapp{ background:#25D366; color:#06210f; }
+  .share-btn-facebook{ background:#1877F2; color:#fff; }
+  .share-btn-telegram{ background:#29A9EB; color:#062231; }
+  .share-btn-mail{ background:#f2a341; color:#2b1900; }
+  .share-btn-copy{ background:var(--gold); color:var(--ink); }
 
   .brew-history{ margin-top:22px; }
   .brew-history .bh-title{ font-size:13px; font-weight:700; color:var(--gold-soft); margin-bottom:10px; }
@@ -1965,12 +1970,11 @@ function shareRowHTML(id, coffeeName, roasterName){
   const encodedUrl = encodeURIComponent(url);
   return `
     <div class="share-row" id="share-row" style="display:none;">
-      <a class="btn-small ghost" href="https://wa.me/?text=${text}%20${encodedUrl}" target="_blank" rel="noopener">WhatsApp</a>
-      <a class="btn-small ghost" href="https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}" target="_blank" rel="noopener">Facebook</a>
-      <a class="btn-small ghost" href="https://t.me/share/url?url=${encodedUrl}&text=${text}" target="_blank" rel="noopener">Telegram</a>
-      <a class="btn-small ghost" href="mailto:?subject=${text}&body=${encodedUrl}">Mail</a>
-      <button type="button" class="btn-small ghost" id="share-copy-link">Copier le lien</button>
-      <div class="share-note">Pas de partage direct vers Instagram : copie le lien ci-dessus et colle-le dans ta story, ta bio ou un DM.</div>
+      <a class="share-btn share-btn-whatsapp" href="https://wa.me/?text=${text}%20${encodedUrl}" target="_blank" rel="noopener">WhatsApp</a>
+      <a class="share-btn share-btn-facebook" href="https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}" target="_blank" rel="noopener">Facebook</a>
+      <a class="share-btn share-btn-telegram" href="https://t.me/share/url?url=${encodedUrl}&text=${text}" target="_blank" rel="noopener">Telegram</a>
+      <a class="share-btn share-btn-mail" href="mailto:?subject=${text}&body=${encodedUrl}">Mail</a>
+      <button type="button" class="share-btn share-btn-copy" id="share-copy-link">Copier le lien</button>
       <input type="text" id="share-link-fallback" readonly value="${url}" style="display:none; width:100%; margin-top:4px; background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:12px; padding:8px 10px; border-radius:8px; box-sizing:border-box;">
     </div>
   `;
