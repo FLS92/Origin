@@ -130,19 +130,33 @@
     background:var(--panel); border:1px solid var(--line); border-radius:18px;
     padding:24px; margin-bottom:16px; position:relative;
   }
-  .roaster-map-card svg{ display:block; width:100%; height:auto; max-width:900px; margin:0 auto; overflow:visible; }
-  .map-landmass{ fill:var(--panel-light); stroke:var(--gold); stroke-width:1.4; stroke-linejoin:round; }
-  .map-dot{ fill:var(--gold); stroke:var(--ink); stroke-width:1.5; cursor:pointer; transition:r .15s, fill .15s; }
+  .roaster-map-card svg{ display:block; width:100%; height:auto; max-width:900px; margin:0 auto; overflow:hidden; cursor:grab; touch-action:none; }
+  .roaster-map-card svg:active{ cursor:grabbing; }
+  .map-landmass{ fill:var(--panel-light); stroke:var(--gold); stroke-width:1.4; stroke-linejoin:round; vector-effect:non-scaling-stroke; }
+  .map-dot{ fill:var(--gold); stroke:var(--ink); stroke-width:1.5; cursor:pointer; transition:fill .15s; vector-effect:non-scaling-stroke; }
   .map-dot:hover{ fill:var(--gold-soft); }
   .map-dot.active{ fill:var(--sage-soft); }
+  .map-zoom-controls{ position:absolute; top:16px; right:16px; display:flex; flex-direction:column; gap:6px; z-index:4; }
+  .map-zoom-btn{
+    width:30px; height:30px; border-radius:8px; border:1px solid var(--line); background:var(--panel-light);
+    color:var(--cream); font-size:16px; font-weight:700; font-family:'Inter',sans-serif; cursor:pointer;
+    display:flex; align-items:center; justify-content:center; line-height:1;
+  }
+  .map-zoom-btn:hover{ border-color:var(--gold); }
   .roaster-map-tooltip{
     position:absolute; background:var(--panel-light); border:1px solid var(--line); border-radius:12px;
     padding:12px 14px; font-family:'Inter',sans-serif; font-size:12.5px; color:var(--cream); line-height:1.5;
     box-shadow:0 10px 28px rgba(0,0,0,0.4); width:200px; max-height:280px; overflow-y:auto; z-index:5; display:none;
   }
+  .roaster-map-tooltip .rmt-entry{ position:relative; padding-right:26px; }
   .roaster-map-tooltip strong{ font-family:'Fraunces',serif; font-size:14px; display:block; }
   .roaster-map-tooltip div span{ display:block; margin-top:2px; }
   .roaster-map-tooltip hr{ border:none; border-top:1px solid var(--line); margin:8px 0; }
+  .rmt-flag{
+    position:absolute; top:0; right:0; width:20px; height:20px; border-radius:50%;
+    background:var(--panel); display:flex; align-items:center; justify-content:center;
+    font-size:11px; line-height:1; overflow:hidden;
+  }
   .rmt-view{ margin-top:6px; padding:6px 10px; font-size:11px; width:100%; }
   .filter-badge{
     background:var(--gold); color:#0d1b2e; font-size:11px; font-weight:700; border-radius:20px;
@@ -1762,6 +1776,22 @@ function roasterMapClusters(){
   });
   return Object.values(clusters);
 }
+// Roaster country -> ISO 3166-1 alpha-2, for the little flag badge on each
+// tooltip entry. Only France is populated today, but the map is already
+// built for a worldwide roster, so this covers the countries most likely
+// to show up next rather than just the one in the data right now.
+const COUNTRY_TO_ISO = {
+  'France':'FR', 'Belgique':'BE', 'Suisse':'CH', 'Italie':'IT', 'Espagne':'ES',
+  'Allemagne':'DE', 'Royaume-Uni':'GB', 'Pays-Bas':'NL', 'Portugal':'PT',
+  'Luxembourg':'LU', 'Irlande':'IE', 'Autriche':'AT', 'Danemark':'DK',
+  'Suède':'SE', 'Norvège':'NO', 'Finlande':'FI', 'Pologne':'PL',
+  'États-Unis':'US', 'Canada':'CA', 'Japon':'JP',
+};
+function countryFlagEmoji(countryName){
+  const iso = COUNTRY_TO_ISO[countryName];
+  if(!iso) return null;
+  return iso.replace(/./g, c => String.fromCodePoint(127397 + c.charCodeAt(0)));
+}
 function renderRoasterMap(){
   const wrap = document.getElementById('roaster-map');
   const landmasses = WORLD_LANDMASSES.map(pts=>{
@@ -1773,20 +1803,34 @@ function renderRoasterMap(){
     const [x,y] = projectGeo(cl.lat, cl.lng);
     return `<circle class="map-dot" data-cluster="${i}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5"></circle>`;
   }).join('');
+  // Default zoom target: the centroid of all roaster dots, so the first
+  // zoom-in click already moves toward where the data actually is instead
+  // of the (currently empty) geographic center of the whole world.
+  const defaultCenter = clusters.length
+    ? clusters.reduce((sum,cl)=>{ const [x,y]=projectGeo(cl.lat,cl.lng); return [sum[0]+x, sum[1]+y]; }, [0,0]).map(v=>v/clusters.length)
+    : [WORLD_MAP.w/2, WORLD_MAP.h/2];
   wrap.innerHTML = `
     <div class="roaster-map-card">
       <svg viewBox="0 0 ${WORLD_MAP.w} ${WORLD_MAP.h}">
         ${landmasses}
         ${dots}
       </svg>
+      <div class="map-zoom-controls">
+        <button type="button" class="map-zoom-btn" id="map-zoom-in" title="Zoomer">+</button>
+        <button type="button" class="map-zoom-btn" id="map-zoom-out" title="Dézoomer">–</button>
+        <button type="button" class="map-zoom-btn" id="map-zoom-reset" title="Réinitialiser la vue">⤢</button>
+      </div>
       <div class="roaster-map-tooltip" id="roaster-map-tooltip"></div>
     </div>
   `;
   const card = wrap.querySelector('.roaster-map-card');
+  const svg = wrap.querySelector('svg');
   const tooltip = document.getElementById('roaster-map-tooltip');
+  const panZoom = attachMapPanZoom(svg, wrap, defaultCenter);
   wrap.querySelectorAll('.map-dot').forEach(dot=>{
     dot.addEventListener('click', (e)=>{
       e.stopPropagation();
+      if(panZoom.isDragActive()) return;
       wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
       dot.classList.add('active');
       showRoasterMapTooltip(clusters[parseInt(dot.dataset.cluster,10)], dot, card, tooltip);
@@ -1799,11 +1843,91 @@ function renderRoasterMap(){
     }
   });
 }
+// Lets the map be zoomed (buttons + scroll wheel) and panned (drag), by
+// resizing/translating the SVG viewBox rather than a CSS transform -- keeps
+// everything crisp at any zoom level. Roasters that share a city are one
+// dot at the world view; zooming in is what lets them visually spread out
+// within their own country/city instead of staying one indistinct blob.
+function attachMapPanZoom(svg, wrap, defaultCenter){
+  const ZOOM_MIN = 1, ZOOM_MAX = 8;
+  let scale = 1;
+  let cx = defaultCenter[0], cy = defaultCenter[1];
+  let justDragged = false;
+
+  function applyViewBox(){
+    const vw = WORLD_MAP.w/scale, vh = WORLD_MAP.h/scale;
+    let x0 = cx - vw/2, y0 = cy - vh/2;
+    x0 = Math.min(Math.max(x0, 0), Math.max(0, WORLD_MAP.w - vw));
+    y0 = Math.min(Math.max(y0, 0), Math.max(0, WORLD_MAP.h - vh));
+    // Only sync cx/cy back from the clamped viewBox once there's actually
+    // room to pan (vw<W) -- at the fully-zoomed-out scale, x0/y0 are always
+    // forced to 0 regardless of cx/cy, and feeding that back in would wipe
+    // out the intended zoom target before the very first zoom-in.
+    if(vw < WORLD_MAP.w) cx = x0 + vw/2;
+    if(vh < WORLD_MAP.h) cy = y0 + vh/2;
+    svg.setAttribute('viewBox', `${x0.toFixed(2)} ${y0.toFixed(2)} ${vw.toFixed(2)} ${vh.toFixed(2)}`);
+  }
+  function zoomBy(factor){
+    scale = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, scale*factor));
+    applyViewBox();
+  }
+  applyViewBox();
+
+  wrap.querySelector('#map-zoom-in').addEventListener('click', ()=> zoomBy(1.6));
+  wrap.querySelector('#map-zoom-out').addEventListener('click', ()=> zoomBy(1/1.6));
+  wrap.querySelector('#map-zoom-reset').addEventListener('click', ()=>{
+    scale = 1; cx = defaultCenter[0]; cy = defaultCenter[1];
+    applyViewBox();
+    document.getElementById('roaster-map-tooltip').style.display = 'none';
+    wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
+  });
+  svg.addEventListener('wheel', (e)=>{
+    e.preventDefault();
+    zoomBy(e.deltaY < 0 ? 1.2 : 1/1.2);
+  }, { passive:false });
+
+  // Deliberately no setPointerCapture here: capturing the pointer on the
+  // svg root redirects the eventual 'click' there too in some browsers,
+  // which meant clicking a dot to open its tooltip stopped working as soon
+  // as panning was added. Tracking move/up on document instead avoids that
+  // -- still keeps dragging smooth if the cursor leaves the svg mid-drag.
+  let dragging = false, startX=0, startY=0, startCx=0, startCy=0, moved=0;
+  function onPointerMove(e){
+    if(!dragging) return;
+    const rect = svg.getBoundingClientRect();
+    const unitsPerPx = (WORLD_MAP.w/scale) / rect.width;
+    const dx = (e.clientX - startX) * unitsPerPx;
+    const dy = (e.clientY - startY) * unitsPerPx;
+    moved = Math.max(moved, Math.hypot(e.clientX-startX, e.clientY-startY));
+    cx = startCx - dx; cy = startCy - dy;
+    applyViewBox();
+  }
+  function onPointerUp(){
+    dragging = false;
+    document.removeEventListener('pointermove', onPointerMove);
+    document.removeEventListener('pointerup', onPointerUp);
+    if(moved > 4){ justDragged = true; setTimeout(()=>{ justDragged = false; }, 0); }
+  }
+  svg.addEventListener('pointerdown', (e)=>{
+    dragging = true; moved = 0;
+    startX = e.clientX; startY = e.clientY; startCx = cx; startCy = cy;
+    document.addEventListener('pointermove', onPointerMove);
+    document.addEventListener('pointerup', onPointerUp);
+  });
+
+  return { isDragActive: ()=> justDragged };
+}
 function showRoasterMapTooltip(cluster, dotEl, cardEl, tooltipEl){
   tooltipEl.innerHTML = cluster.roasterIds.map(rid=>{
     const r = ROASTERS[rid];
     const count = COFFEES.filter(c=>c.roasterId===rid).length;
-    return `<div><strong>${r.name}</strong><span style="color:var(--muted); font-size:11px;">${na(r.city)?'':r.city+' · '}${count} café${count>1?'s':''}</span><button type="button" class="btn-small primary rmt-view" data-rid="${rid}">Voir les cafés</button></div>`;
+    const flag = countryFlagEmoji(r.country);
+    return `<div class="rmt-entry">
+      ${flag ? `<span class="rmt-flag" title="${r.country}">${flag}</span>` : ''}
+      <strong>${r.name}</strong>
+      <span style="color:var(--muted); font-size:11px;">${na(r.city)?'':r.city+' · '}${count} café${count>1?'s':''}</span>
+      <button type="button" class="btn-small primary rmt-view" data-rid="${rid}">Voir les cafés</button>
+    </div>`;
   }).join('<hr>');
   const dotRect = dotEl.getBoundingClientRect();
   const cardRect = cardEl.getBoundingClientRect();
