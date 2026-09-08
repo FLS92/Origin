@@ -6,8 +6,6 @@
 <title>Origin — Découvrez et notez vos cafés</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 <style>
   :root{
     --ink:#0d1b2e; --panel:#152a42; --panel-light:#1e3654;
@@ -128,15 +126,24 @@
   .filters-toggle svg{ opacity:.8; flex-shrink:0; }
   .filters-toggle .chevron{ transition:transform .15s; }
   .filters-toggle.active .chevron{ transform:rotate(180deg); }
-  #roaster-map{ background:var(--panel); }
-  .roaster-pin{ width:14px; height:14px; border-radius:50%; background:var(--gold); border:2px solid var(--ink); box-shadow:0 0 0 2px var(--gold-soft); }
-  .leaflet-popup-content-wrapper, .leaflet-popup-tip{ background:var(--panel-light); color:var(--cream); }
-  .leaflet-popup-content-wrapper{ border-radius:10px; }
-  .roaster-popup{ font-family:'Inter',sans-serif; font-size:12.5px; line-height:1.5; }
-  .roaster-popup strong{ font-family:'Fraunces',serif; font-size:14px; }
-  .leaflet-container a.leaflet-popup-close-button{ color:var(--muted); }
-  .leaflet-control-attribution{ background:rgba(21,42,66,0.8); color:var(--muted); }
-  .leaflet-control-attribution a{ color:var(--gold-soft); }
+  .roaster-map-card{
+    background:var(--panel); border:1px solid var(--line); border-radius:18px;
+    padding:24px; margin-bottom:16px; position:relative;
+  }
+  .roaster-map-card svg{ display:block; width:100%; height:auto; max-width:520px; margin:0 auto; overflow:visible; }
+  .fr-outline{ fill:var(--panel-light); stroke:var(--gold); stroke-width:1.6; stroke-linejoin:round; }
+  .fr-dot{ fill:var(--gold); stroke:var(--ink); stroke-width:1.5; cursor:pointer; transition:r .15s, fill .15s; }
+  .fr-dot:hover{ fill:var(--gold-soft); }
+  .fr-dot.active{ fill:var(--sage-soft); }
+  .roaster-map-tooltip{
+    position:absolute; background:var(--panel-light); border:1px solid var(--line); border-radius:12px;
+    padding:12px 14px; font-family:'Inter',sans-serif; font-size:12.5px; color:var(--cream); line-height:1.5;
+    box-shadow:0 10px 28px rgba(0,0,0,0.4); width:200px; max-height:280px; overflow-y:auto; z-index:5; display:none;
+  }
+  .roaster-map-tooltip strong{ font-family:'Fraunces',serif; font-size:14px; display:block; }
+  .roaster-map-tooltip div span{ display:block; margin-top:2px; }
+  .roaster-map-tooltip hr{ border:none; border-top:1px solid var(--line); margin:8px 0; }
+  .rmt-view{ margin-top:6px; padding:6px 10px; font-size:11px; width:100%; }
   .filter-badge{
     background:var(--gold); color:#0d1b2e; font-size:11px; font-weight:700; border-radius:20px;
     padding:1px 7px; min-width:18px; text-align:center; line-height:1.5;
@@ -657,7 +664,7 @@
       </div>
       <button class="primary" id="apply-filters" style="width:100%; margin-top:6px;">Valider les filtres</button>
     </div>
-    <div id="roaster-map" style="display:none; height:480px; border-radius:14px; overflow:hidden; margin-bottom:16px;"></div>
+    <div id="roaster-map" style="display:none;"></div>
     <div class="grid" id="coffee-grid"></div>
   </div>
 
@@ -1703,36 +1710,91 @@ function toggleFiltersPanel(forceOpen){
   btn.classList.toggle('active', nextOpen);
 }
 
-let roasterMapInstance = null;
-function initRoasterMap(){
-  if(roasterMapInstance) return roasterMapInstance;
-  const map = L.map('roaster-map', { scrollWheelZoom:false }).setView([46.6, 2.4], 6);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>',
-    maxZoom: 18,
-  }).addTo(map);
-  const icon = L.divIcon({
-    className: 'roaster-pin', html: '', iconSize:[14,14], iconAnchor:[7,7],
-  });
+// Stylized low-poly outline of mainland France (lat, lng) -- deliberately
+// simplified rather than real coastline data, to read as an illustrated,
+// on-brand map element instead of a realistic slippy map. Roaster pins use
+// the same projection, so their relative placement is still meaningful even
+// though the coastline itself is only an approximation.
+const FRANCE_OUTLINE = [
+  [51.03, 2.38], [50.87, 1.60], [49.65, -1.62], [48.68, -2.95], [48.39, -4.49],
+  [47.75, -3.35], [47.28, -2.20], [46.16, -1.15], [45.20, -1.15], [43.90, -1.50],
+  [43.20, -0.80], [42.55, 0.60], [42.45, 2.75], [43.30, 3.90], [43.10, 5.35],
+  [43.55, 6.95], [43.75, 7.45], [45.05, 6.75], [45.92, 7.05], [46.30, 6.15],
+  [47.35, 7.15], [47.60, 7.55], [48.95, 8.05], [49.35, 8.15], [49.50, 6.35],
+  [50.15, 4.75], [50.75, 3.10], [51.03, 2.38],
+];
+const FR_MAP = { latMin:42.3, latMax:51.2, lngMin:-4.9, lngMax:8.3, w:520, h:510, pad:22 };
+function projectFR(lat, lng){
+  const x = FR_MAP.pad + (lng - FR_MAP.lngMin) / (FR_MAP.lngMax - FR_MAP.lngMin) * (FR_MAP.w - 2*FR_MAP.pad);
+  const y = FR_MAP.pad + (FR_MAP.latMax - lat) / (FR_MAP.latMax - FR_MAP.latMin) * (FR_MAP.h - 2*FR_MAP.pad);
+  return [x, y];
+}
+function roasterMapClusters(){
+  const clusters = {};
   Object.entries(ROASTERS).forEach(([rid, r])=>{
     if(r.lat==null || r.lng==null) return;
-    const marker = L.marker([r.lat, r.lng], { icon }).addTo(map);
+    const key = r.lat.toFixed(2) + ',' + r.lng.toFixed(2);
+    (clusters[key] || (clusters[key] = { lat:r.lat, lng:r.lng, roasterIds:[] })).roasterIds.push(rid);
+  });
+  return Object.values(clusters);
+}
+function renderRoasterMap(){
+  const wrap = document.getElementById('roaster-map');
+  const outlinePoints = FRANCE_OUTLINE.map(([lat,lng]) => projectFR(lat,lng).map(n=>n.toFixed(1)).join(',')).join(' ');
+  const clusters = roasterMapClusters();
+  const dots = clusters.map((cl,i)=>{
+    const [x,y] = projectFR(cl.lat, cl.lng);
+    return `<circle class="fr-dot" data-cluster="${i}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="6"></circle>`;
+  }).join('');
+  wrap.innerHTML = `
+    <div class="roaster-map-card">
+      <svg viewBox="0 0 ${FR_MAP.w} ${FR_MAP.h}">
+        <polygon class="fr-outline" points="${outlinePoints}"/>
+        ${dots}
+      </svg>
+      <div class="roaster-map-tooltip" id="roaster-map-tooltip"></div>
+    </div>
+  `;
+  const card = wrap.querySelector('.roaster-map-card');
+  const tooltip = document.getElementById('roaster-map-tooltip');
+  wrap.querySelectorAll('.fr-dot').forEach(dot=>{
+    dot.addEventListener('click', (e)=>{
+      e.stopPropagation();
+      wrap.querySelectorAll('.fr-dot').forEach(d=>d.classList.remove('active'));
+      dot.classList.add('active');
+      showRoasterMapTooltip(clusters[parseInt(dot.dataset.cluster,10)], dot, card, tooltip);
+    });
+  });
+  document.addEventListener('click', function hideTooltip(e){
+    if(!wrap.contains(e.target)){
+      tooltip.style.display = 'none';
+      wrap.querySelectorAll('.fr-dot').forEach(d=>d.classList.remove('active'));
+    }
+  });
+}
+function showRoasterMapTooltip(cluster, dotEl, cardEl, tooltipEl){
+  tooltipEl.innerHTML = cluster.roasterIds.map(rid=>{
+    const r = ROASTERS[rid];
     const count = COFFEES.filter(c=>c.roasterId===rid).length;
-    const popup = document.createElement('div');
-    popup.className = 'roaster-popup';
-    popup.innerHTML = `<strong>${r.name}</strong><br>${na(r.city)?'':r.city}<br><span style="color:var(--muted); font-size:11.5px;">${count} café${count>1?'s':''}</span><br><button type="button" class="btn-small primary roaster-popup-btn" style="margin-top:8px;">Voir les cafés</button>`;
-    popup.querySelector('.roaster-popup-btn').addEventListener('click', ()=>{
+    return `<div><strong>${r.name}</strong><span style="color:var(--muted); font-size:11px;">${na(r.city)?'':r.city+' · '}${count} café${count>1?'s':''}</span><button type="button" class="btn-small primary rmt-view" data-rid="${rid}">Voir les cafés</button></div>`;
+  }).join('<hr>');
+  const dotRect = dotEl.getBoundingClientRect();
+  const cardRect = cardEl.getBoundingClientRect();
+  tooltipEl.style.display = 'block';
+  const tooltipW = 200;
+  let left = dotRect.left - cardRect.left + 12;
+  if(left + tooltipW > cardRect.width) left = dotRect.left - cardRect.left - tooltipW - 12;
+  tooltipEl.style.left = Math.max(0, left) + 'px';
+  tooltipEl.style.top = Math.max(0, dotRect.top - cardRect.top - 10) + 'px';
+  tooltipEl.querySelectorAll('.rmt-view').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
       selectedRoasters.clear();
-      selectedRoasters.add(rid);
+      selectedRoasters.add(btn.dataset.rid);
       renderFilterChips();
       renderGrid(document.getElementById('search-input').value);
       setExploreMapVisible(false);
-      map.closePopup();
     });
-    marker.bindPopup(popup);
   });
-  roasterMapInstance = map;
-  return map;
 }
 function setExploreMapVisible(show){
   document.getElementById('roaster-map').style.display = show ? '' : 'none';
@@ -1740,10 +1802,7 @@ function setExploreMapVisible(show){
   document.getElementById('filters-panel').style.display = 'none';
   document.getElementById('map-toggle').classList.toggle('active', show);
   document.getElementById('map-toggle-label').textContent = show ? 'Grille' : 'Carte';
-  if(show){
-    const map = initRoasterMap();
-    setTimeout(()=> map.invalidateSize(), 0);
-  }
+  if(show) renderRoasterMap();
 }
 
 function renderGrid(filter){
