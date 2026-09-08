@@ -130,11 +130,11 @@
     background:var(--panel); border:1px solid var(--line); border-radius:18px;
     padding:24px; margin-bottom:16px; position:relative;
   }
-  .roaster-map-card svg{ display:block; width:100%; height:auto; max-width:520px; margin:0 auto; overflow:visible; }
-  .fr-outline{ fill:var(--panel-light); stroke:var(--gold); stroke-width:1.6; stroke-linejoin:round; }
-  .fr-dot{ fill:var(--gold); stroke:var(--ink); stroke-width:1.5; cursor:pointer; transition:r .15s, fill .15s; }
-  .fr-dot:hover{ fill:var(--gold-soft); }
-  .fr-dot.active{ fill:var(--sage-soft); }
+  .roaster-map-card svg{ display:block; width:100%; height:auto; max-width:900px; margin:0 auto; overflow:visible; }
+  .map-landmass{ fill:var(--panel-light); stroke:var(--gold); stroke-width:1.4; stroke-linejoin:round; }
+  .map-dot{ fill:var(--gold); stroke:var(--ink); stroke-width:1.5; cursor:pointer; transition:r .15s, fill .15s; }
+  .map-dot:hover{ fill:var(--gold-soft); }
+  .map-dot.active{ fill:var(--sage-soft); }
   .roaster-map-tooltip{
     position:absolute; background:var(--panel-light); border:1px solid var(--line); border-radius:12px;
     padding:12px 14px; font-family:'Inter',sans-serif; font-size:12.5px; color:var(--cream); line-height:1.5;
@@ -1710,24 +1710,48 @@ function toggleFiltersPanel(forceOpen){
   btn.classList.toggle('active', nextOpen);
 }
 
-// Stylized low-poly outline of mainland France (lat, lng) -- deliberately
-// simplified rather than real coastline data, to read as an illustrated,
-// on-brand map element instead of a realistic slippy map. Roaster pins use
-// the same projection, so their relative placement is still meaningful even
-// though the coastline itself is only an approximation.
-const FRANCE_OUTLINE = [
-  [51.03, 2.38], [50.87, 1.60], [49.65, -1.62], [48.68, -2.95], [48.39, -4.49],
-  [47.75, -3.35], [47.28, -2.20], [46.16, -1.15], [45.20, -1.15], [43.90, -1.50],
-  [43.20, -0.80], [42.55, 0.60], [42.45, 2.75], [43.30, 3.90], [43.10, 5.35],
-  [43.55, 6.95], [43.75, 7.45], [45.05, 6.75], [45.92, 7.05], [46.30, 6.15],
-  [47.35, 7.15], [47.60, 7.55], [48.95, 8.05], [49.35, 8.15], [49.50, 6.35],
-  [50.15, 4.75], [50.75, 3.10], [51.03, 2.38],
+// Stylized world map -- deliberately simplified continent silhouettes
+// (not real coastline data) rounded into soft blobs, so it reads as an
+// illustrated, on-brand map element rather than a realistic atlas. Roasters
+// are worldwide in principle even though every one geocoded so far is in
+// France, so the projection covers the whole globe (cropped past the poles,
+// where no roaster will ever plausibly be) rather than just France.
+const WORLD_LANDMASSES = [
+  [[71,-156],[60,-140],[49,-125],[32,-117],[20,-105],[16,-95],[9,-83],[8,-77],
+   [18,-88],[25,-97],[29,-89],[25,-80],[32,-81],[41,-71],[45,-67],[47,-70],
+   [60,-65],[68,-85]],
+  [[8,-77],[11,-72],[10,-64],[5,-52],[-1,-48],[-8,-35],[-23,-43],[-34,-58],
+   [-53,-68],[-52,-73],[-33,-72],[-18,-70],[-5,-81],[1,-79]],
+  [[71,25],[60,30],[55,38],[47,40],[41,29],[36,23],[38,15],[41,9],[43,7],
+   [36,-6],[43,-9],[48,-5],[51,2],[53,4],[55,8],[58,11],[65,15]],
+  [[37,10],[32,32],[12,43],[-1,42],[-16,40],[-34,20],[-29,17],[-6,12],
+   [4,9],[6,-2],[15,-17],[31,-9]],
+  [[66,60],[70,90],[66,170],[60,160],[45,140],[35,140],[31,122],[22,114],
+   [10,106],[1,104],[6,80],[23,68],[25,55],[41,29],[45,40],[55,38]],
+  [[-11,131],[-17,146],[-28,153],[-34,151],[-38,145],[-35,138],[-32,115],[-20,113]],
 ];
-const FR_MAP = { latMin:42.3, latMax:51.2, lngMin:-4.9, lngMax:8.3, w:520, h:510, pad:22 };
-function projectFR(lat, lng){
-  const x = FR_MAP.pad + (lng - FR_MAP.lngMin) / (FR_MAP.lngMax - FR_MAP.lngMin) * (FR_MAP.w - 2*FR_MAP.pad);
-  const y = FR_MAP.pad + (FR_MAP.latMax - lat) / (FR_MAP.latMax - FR_MAP.latMin) * (FR_MAP.h - 2*FR_MAP.pad);
+const WORLD_MAP = { latMin:-58, latMax:75, lngMin:-170, lngMax:180, w:920, h:400, pad:16 };
+function projectGeo(lat, lng){
+  const x = WORLD_MAP.pad + (lng - WORLD_MAP.lngMin) / (WORLD_MAP.lngMax - WORLD_MAP.lngMin) * (WORLD_MAP.w - 2*WORLD_MAP.pad);
+  const y = WORLD_MAP.pad + (WORLD_MAP.latMax - lat) / (WORLD_MAP.latMax - WORLD_MAP.latMin) * (WORLD_MAP.h - 2*WORLD_MAP.pad);
   return [x, y];
+}
+// Rounds every corner of a closed point set into a smooth path: draws a
+// quadratic curve through each edge's midpoint using the shared vertex as
+// the control point, instead of the sharp straight-line joins a <polygon>
+// would give -- the "un peu plus arrondie" (a bit rounder) look asked for.
+function smoothClosedPath(points){
+  const n = points.length;
+  const mid = (a,b)=> [(a[0]+b[0])/2, (a[1]+b[1])/2];
+  const start = mid(points[n-1], points[0]);
+  let d = `M ${start[0].toFixed(1)},${start[1].toFixed(1)} `;
+  for(let i=0;i<n;i++){
+    const cur = points[i];
+    const next = points[(i+1)%n];
+    const m = mid(cur, next);
+    d += `Q ${cur[0].toFixed(1)},${cur[1].toFixed(1)} ${m[0].toFixed(1)},${m[1].toFixed(1)} `;
+  }
+  return d + 'Z';
 }
 function roasterMapClusters(){
   const clusters = {};
@@ -1740,16 +1764,19 @@ function roasterMapClusters(){
 }
 function renderRoasterMap(){
   const wrap = document.getElementById('roaster-map');
-  const outlinePoints = FRANCE_OUTLINE.map(([lat,lng]) => projectFR(lat,lng).map(n=>n.toFixed(1)).join(',')).join(' ');
+  const landmasses = WORLD_LANDMASSES.map(pts=>{
+    const projected = pts.map(([lat,lng]) => projectGeo(lat,lng));
+    return `<path class="map-landmass" d="${smoothClosedPath(projected)}"/>`;
+  }).join('');
   const clusters = roasterMapClusters();
   const dots = clusters.map((cl,i)=>{
-    const [x,y] = projectFR(cl.lat, cl.lng);
-    return `<circle class="fr-dot" data-cluster="${i}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="6"></circle>`;
+    const [x,y] = projectGeo(cl.lat, cl.lng);
+    return `<circle class="map-dot" data-cluster="${i}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5"></circle>`;
   }).join('');
   wrap.innerHTML = `
     <div class="roaster-map-card">
-      <svg viewBox="0 0 ${FR_MAP.w} ${FR_MAP.h}">
-        <polygon class="fr-outline" points="${outlinePoints}"/>
+      <svg viewBox="0 0 ${WORLD_MAP.w} ${WORLD_MAP.h}">
+        ${landmasses}
         ${dots}
       </svg>
       <div class="roaster-map-tooltip" id="roaster-map-tooltip"></div>
@@ -1757,10 +1784,10 @@ function renderRoasterMap(){
   `;
   const card = wrap.querySelector('.roaster-map-card');
   const tooltip = document.getElementById('roaster-map-tooltip');
-  wrap.querySelectorAll('.fr-dot').forEach(dot=>{
+  wrap.querySelectorAll('.map-dot').forEach(dot=>{
     dot.addEventListener('click', (e)=>{
       e.stopPropagation();
-      wrap.querySelectorAll('.fr-dot').forEach(d=>d.classList.remove('active'));
+      wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
       dot.classList.add('active');
       showRoasterMapTooltip(clusters[parseInt(dot.dataset.cluster,10)], dot, card, tooltip);
     });
@@ -1768,7 +1795,7 @@ function renderRoasterMap(){
   document.addEventListener('click', function hideTooltip(e){
     if(!wrap.contains(e.target)){
       tooltip.style.display = 'none';
-      wrap.querySelectorAll('.fr-dot').forEach(d=>d.classList.remove('active'));
+      wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
     }
   });
 }
