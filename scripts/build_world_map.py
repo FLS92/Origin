@@ -23,7 +23,7 @@ import urllib.request
 
 SOURCE_URL = "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_110m_admin_0_countries.geojson"
 OUT_PATH = "docs/world-countries.json"
-SIMPLIFY_EPSILON_DEG = 0.25
+SIMPLIFY_EPSILON_DEG = 0.1
 
 
 def perpendicular_distance(pt, start, end):

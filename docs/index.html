@@ -1736,8 +1736,24 @@ function projectGeo(lat, lng){
   const y = WORLD_MAP.pad + (WORLD_MAP.latMax - lat) / (WORLD_MAP.latMax - WORLD_MAP.latMin) * (WORLD_MAP.h - 2*WORLD_MAP.pad);
   return [x, y];
 }
-function closedPolygonPath(points){
-  return 'M ' + points.map(([x,y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(' L ') + ' Z';
+// Rounds every corner of a closed point set into a smooth path: draws a
+// quadratic curve through each edge's midpoint using the shared vertex as
+// the control point. Country borders are simplified down to relatively few
+// points for a small map, and straight segments between them look jagged/
+// low-poly at this scale -- this softens that into cleaner, rounder curves
+// without changing the underlying shape.
+function smoothClosedPath(points){
+  const n = points.length;
+  const mid = (a,b)=> [(a[0]+b[0])/2, (a[1]+b[1])/2];
+  const start = mid(points[n-1], points[0]);
+  let d = `M ${start[0].toFixed(1)},${start[1].toFixed(1)} `;
+  for(let i=0;i<n;i++){
+    const cur = points[i];
+    const next = points[(i+1)%n];
+    const m = mid(cur, next);
+    d += `Q ${cur[0].toFixed(1)},${cur[1].toFixed(1)} ${m[0].toFixed(1)},${m[1].toFixed(1)} `;
+  }
+  return d + 'Z';
 }
 let worldCountriesData = null;
 async function loadWorldCountries(){
@@ -1776,7 +1792,7 @@ async function renderRoasterMap(){
   const countries = await loadWorldCountries();
   const landmasses = countries.map(c=>{
     const projected = c.points.map(([lat,lng]) => projectGeo(lat,lng));
-    return `<path class="map-landmass" d="${closedPolygonPath(projected)}"><title>${c.name}</title></path>`;
+    return `<path class="map-landmass" d="${smoothClosedPath(projected)}"><title>${c.name}</title></path>`;
   }).join('');
   const clusters = roasterMapClusters();
   const dots = clusters.map((cl,i)=>{
@@ -1829,7 +1845,10 @@ async function renderRoasterMap(){
 // dot at the world view; zooming in is what lets them visually spread out
 // within their own country/city instead of staying one indistinct blob.
 function attachMapPanZoom(svg, wrap, defaultCenter){
-  const ZOOM_MIN = 1, ZOOM_MAX = 8;
+  // High max zoom on purpose: a single city can hold a dozen-plus roasters,
+  // all one dot at the world view, and getting them individually clickable
+  // means being able to zoom in close to street-level, not just country-level.
+  const ZOOM_MIN = 1, ZOOM_MAX = 60;
   let scale = 1;
   let cx = defaultCenter[0], cy = defaultCenter[1];
   let justDragged = false;
@@ -1846,6 +1865,11 @@ function attachMapPanZoom(svg, wrap, defaultCenter){
     if(vw < WORLD_MAP.w) cx = x0 + vw/2;
     if(vh < WORLD_MAP.h) cy = y0 + vh/2;
     svg.setAttribute('viewBox', `${x0.toFixed(2)} ${y0.toFixed(2)} ${vw.toFixed(2)} ${vh.toFixed(2)}`);
+    // Dots are fixed-radius SVG-unit circles, so they'd otherwise balloon
+    // to an unusable size at high zoom (the whole point of zooming that
+    // far in) -- taper the radius down as scale grows instead.
+    const r = Math.max(1, 5 / Math.pow(scale, 0.6));
+    svg.querySelectorAll('.map-dot').forEach(d => d.setAttribute('r', r.toFixed(2)));
   }
   function zoomBy(factor){
     scale = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, scale*factor));
