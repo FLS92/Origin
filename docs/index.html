@@ -150,13 +150,13 @@
   }
   .roaster-map-tooltip .rmt-entry{ position:relative; padding-right:26px; }
   .roaster-map-tooltip strong{ font-family:'Fraunces',serif; font-size:14px; display:block; }
-  .roaster-map-tooltip div span{ display:block; margin-top:2px; }
+  .roaster-map-tooltip div span:not(.rmt-flag){ display:block; margin-top:2px; }
   .roaster-map-tooltip hr{ border:none; border-top:1px solid var(--line); margin:8px 0; }
   .rmt-flag{
-    position:absolute; top:0; right:0; width:20px; height:20px; border-radius:50%;
-    background:var(--panel); display:flex; align-items:center; justify-content:center;
-    font-size:11px; line-height:1; overflow:hidden;
+    position:absolute; top:0; right:0; width:22px; height:22px; border-radius:50%;
+    background:var(--panel); overflow:hidden; display:block; border:1px solid var(--line);
   }
+  .rmt-flag img{ display:block; width:100%; height:100%; object-fit:cover; }
   .rmt-view{ margin-top:6px; padding:6px 10px; font-size:11px; width:100%; }
   .filter-badge{
     background:var(--gold); color:#0d1b2e; font-size:11px; font-weight:700; border-radius:20px;
@@ -1724,48 +1724,27 @@ function toggleFiltersPanel(forceOpen){
   btn.classList.toggle('active', nextOpen);
 }
 
-// Stylized world map -- deliberately simplified continent silhouettes
-// (not real coastline data) rounded into soft blobs, so it reads as an
-// illustrated, on-brand map element rather than a realistic atlas. Roasters
-// are worldwide in principle even though every one geocoded so far is in
-// France, so the projection covers the whole globe (cropped past the poles,
-// where no roaster will ever plausibly be) rather than just France.
-const WORLD_LANDMASSES = [
-  [[71,-156],[60,-140],[49,-125],[32,-117],[20,-105],[16,-95],[9,-83],[8,-77],
-   [18,-88],[25,-97],[29,-89],[25,-80],[32,-81],[41,-71],[45,-67],[47,-70],
-   [60,-65],[68,-85]],
-  [[8,-77],[11,-72],[10,-64],[5,-52],[-1,-48],[-8,-35],[-23,-43],[-34,-58],
-   [-53,-68],[-52,-73],[-33,-72],[-18,-70],[-5,-81],[1,-79]],
-  [[71,25],[60,30],[55,38],[47,40],[41,29],[36,23],[38,15],[41,9],[43,7],
-   [36,-6],[43,-9],[48,-5],[51,2],[53,4],[55,8],[58,11],[65,15]],
-  [[37,10],[32,32],[12,43],[-1,42],[-16,40],[-34,20],[-29,17],[-6,12],
-   [4,9],[6,-2],[15,-17],[31,-9]],
-  [[66,60],[70,90],[66,170],[60,160],[45,140],[35,140],[31,122],[22,114],
-   [10,106],[1,104],[6,80],[23,68],[25,55],[41,29],[45,40],[55,38]],
-  [[-11,131],[-17,146],[-28,153],[-34,151],[-38,145],[-35,138],[-32,115],[-20,113]],
-];
+// World map with real (if heavily simplified) country borders, so
+// different countries are visually distinguishable as roasters expand
+// beyond France -- built once from Natural Earth's public-domain 1:110m
+// data by scripts/build_world_map.py and vendored as world-countries.json,
+// rather than fetched from a third party at page-load time. Only fetched
+// on first opening the map, not on every page load.
 const WORLD_MAP = { latMin:-58, latMax:75, lngMin:-170, lngMax:180, w:920, h:400, pad:16 };
 function projectGeo(lat, lng){
   const x = WORLD_MAP.pad + (lng - WORLD_MAP.lngMin) / (WORLD_MAP.lngMax - WORLD_MAP.lngMin) * (WORLD_MAP.w - 2*WORLD_MAP.pad);
   const y = WORLD_MAP.pad + (WORLD_MAP.latMax - lat) / (WORLD_MAP.latMax - WORLD_MAP.latMin) * (WORLD_MAP.h - 2*WORLD_MAP.pad);
   return [x, y];
 }
-// Rounds every corner of a closed point set into a smooth path: draws a
-// quadratic curve through each edge's midpoint using the shared vertex as
-// the control point, instead of the sharp straight-line joins a <polygon>
-// would give -- the "un peu plus arrondie" (a bit rounder) look asked for.
-function smoothClosedPath(points){
-  const n = points.length;
-  const mid = (a,b)=> [(a[0]+b[0])/2, (a[1]+b[1])/2];
-  const start = mid(points[n-1], points[0]);
-  let d = `M ${start[0].toFixed(1)},${start[1].toFixed(1)} `;
-  for(let i=0;i<n;i++){
-    const cur = points[i];
-    const next = points[(i+1)%n];
-    const m = mid(cur, next);
-    d += `Q ${cur[0].toFixed(1)},${cur[1].toFixed(1)} ${m[0].toFixed(1)},${m[1].toFixed(1)} `;
-  }
-  return d + 'Z';
+function closedPolygonPath(points){
+  return 'M ' + points.map(([x,y]) => `${x.toFixed(1)},${y.toFixed(1)}`).join(' L ') + ' Z';
+}
+let worldCountriesData = null;
+async function loadWorldCountries(){
+  if(worldCountriesData) return worldCountriesData;
+  const res = await fetch('world-countries.json', {cache:'force-cache'});
+  worldCountriesData = await res.json();
+  return worldCountriesData;
 }
 function roasterMapClusters(){
   const clusters = {};
@@ -1787,16 +1766,17 @@ const COUNTRY_TO_ISO = {
   'Suède':'SE', 'Norvège':'NO', 'Finlande':'FI', 'Pologne':'PL',
   'États-Unis':'US', 'Canada':'CA', 'Japon':'JP',
 };
-function countryFlagEmoji(countryName){
+function countryFlagIso(countryName){
   const iso = COUNTRY_TO_ISO[countryName];
-  if(!iso) return null;
-  return iso.replace(/./g, c => String.fromCodePoint(127397 + c.charCodeAt(0)));
+  return iso ? iso.toLowerCase() : null;
 }
-function renderRoasterMap(){
+async function renderRoasterMap(){
   const wrap = document.getElementById('roaster-map');
-  const landmasses = WORLD_LANDMASSES.map(pts=>{
-    const projected = pts.map(([lat,lng]) => projectGeo(lat,lng));
-    return `<path class="map-landmass" d="${smoothClosedPath(projected)}"/>`;
+  wrap.innerHTML = `<div class="roaster-map-card"><div class="empty">Chargement de la carte…</div></div>`;
+  const countries = await loadWorldCountries();
+  const landmasses = countries.map(c=>{
+    const projected = c.points.map(([lat,lng]) => projectGeo(lat,lng));
+    return `<path class="map-landmass" d="${closedPolygonPath(projected)}"><title>${c.name}</title></path>`;
   }).join('');
   const clusters = roasterMapClusters();
   const dots = clusters.map((cl,i)=>{
@@ -1921,9 +1901,9 @@ function showRoasterMapTooltip(cluster, dotEl, cardEl, tooltipEl){
   tooltipEl.innerHTML = cluster.roasterIds.map(rid=>{
     const r = ROASTERS[rid];
     const count = COFFEES.filter(c=>c.roasterId===rid).length;
-    const flag = countryFlagEmoji(r.country);
+    const flagIso = countryFlagIso(r.country);
     return `<div class="rmt-entry">
-      ${flag ? `<span class="rmt-flag" title="${r.country}">${flag}</span>` : ''}
+      ${flagIso ? `<span class="rmt-flag" title="${r.country}"><img src="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/flags/4x3/${flagIso}.svg" alt="${r.country}"></span>` : ''}
       <strong>${r.name}</strong>
       <span style="color:var(--muted); font-size:11px;">${na(r.city)?'':r.city+' · '}${count} café${count>1?'s':''}</span>
       <button type="button" class="btn-small primary rmt-view" data-rid="${rid}">Voir les cafés</button>
