@@ -111,9 +111,6 @@ def main():
             "url": d["roaster"]["url"],
             "domain": d["roaster"]["domain"],
             "logoUrl": meta.get("logoUrl"),
-            "lat": meta.get("lat"),
-            "lng": meta.get("lng"),
-            "country": meta.get("country"),
         }
         coffees_out.extend(transform_product(p, roaster_id) for p in products)
 

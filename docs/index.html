@@ -126,38 +126,6 @@
   .filters-toggle svg{ opacity:.8; flex-shrink:0; }
   .filters-toggle .chevron{ transition:transform .15s; }
   .filters-toggle.active .chevron{ transform:rotate(180deg); }
-  .roaster-map-card{
-    background:var(--panel); border:1px solid var(--line); border-radius:18px;
-    padding:24px; margin-bottom:16px; position:relative;
-  }
-  .roaster-map-card svg{ display:block; width:100%; height:auto; max-width:900px; margin:0 auto; overflow:hidden; cursor:grab; touch-action:none; }
-  .roaster-map-card svg:active{ cursor:grabbing; }
-  .map-landmass{ fill:var(--panel-light); stroke:var(--gold); stroke-width:1.4; stroke-linejoin:round; vector-effect:non-scaling-stroke; }
-  .map-dot{ fill:var(--gold); stroke:var(--ink); stroke-width:1.5; cursor:pointer; transition:fill .15s; vector-effect:non-scaling-stroke; }
-  .map-dot:hover{ fill:var(--gold-soft); }
-  .map-dot.active{ fill:var(--sage-soft); }
-  .map-zoom-controls{ position:absolute; top:16px; right:16px; display:flex; flex-direction:column; gap:6px; z-index:4; }
-  .map-zoom-btn{
-    width:30px; height:30px; border-radius:8px; border:1px solid var(--line); background:var(--panel-light);
-    color:var(--cream); font-size:16px; font-weight:700; font-family:'Inter',sans-serif; cursor:pointer;
-    display:flex; align-items:center; justify-content:center; line-height:1;
-  }
-  .map-zoom-btn:hover{ border-color:var(--gold); }
-  .roaster-map-tooltip{
-    position:absolute; background:var(--panel-light); border:1px solid var(--line); border-radius:12px;
-    padding:12px 14px; font-family:'Inter',sans-serif; font-size:12.5px; color:var(--cream); line-height:1.5;
-    box-shadow:0 10px 28px rgba(0,0,0,0.4); width:200px; max-height:280px; overflow-y:auto; z-index:5; display:none;
-  }
-  .roaster-map-tooltip .rmt-entry{ position:relative; padding-right:26px; }
-  .roaster-map-tooltip strong{ font-family:'Fraunces',serif; font-size:14px; display:block; }
-  .roaster-map-tooltip div span:not(.rmt-flag){ display:block; margin-top:2px; }
-  .roaster-map-tooltip hr{ border:none; border-top:1px solid var(--line); margin:8px 0; }
-  .rmt-flag{
-    position:absolute; top:0; right:0; width:22px; height:22px; border-radius:50%;
-    background:var(--panel); overflow:hidden; display:block; border:1px solid var(--line);
-  }
-  .rmt-flag img{ display:block; width:100%; height:100%; object-fit:cover; }
-  .rmt-view{ margin-top:6px; padding:6px 10px; font-size:11px; width:100%; }
   .filter-badge{
     background:var(--gold); color:#0d1b2e; font-size:11px; font-weight:700; border-radius:20px;
     padding:1px 7px; min-width:18px; text-align:center; line-height:1.5;
@@ -643,10 +611,6 @@
         <span class="filter-badge" id="filter-badge" style="display:none;">0</span>
         <svg class="chevron" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 12 15 18 9"/></svg>
       </button>
-      <button id="map-toggle" class="filters-toggle">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 6v16l7-4 8 4 7-4V2l-7 4-8-4-7 4z"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg>
-        <span id="map-toggle-label">Carte</span>
-      </button>
       <select id="sort-select" class="sort-select">
         <option value="relevance">Trier par…</option>
         <option value="price-asc">Prix croissant</option>
@@ -678,7 +642,6 @@
       </div>
       <button class="primary" id="apply-filters" style="width:100%; margin-top:6px;">Valider les filtres</button>
     </div>
-    <div id="roaster-map" style="display:none;"></div>
     <div class="grid" id="coffee-grid"></div>
   </div>
 
@@ -1724,242 +1687,6 @@ function toggleFiltersPanel(forceOpen){
   btn.classList.toggle('active', nextOpen);
 }
 
-// World map with real (if heavily simplified) country borders, so
-// different countries are visually distinguishable as roasters expand
-// beyond France -- built once from Natural Earth's public-domain 1:110m
-// data by scripts/build_world_map.py and vendored as world-countries.json,
-// rather than fetched from a third party at page-load time. Only fetched
-// on first opening the map, not on every page load.
-const WORLD_MAP = { latMin:-58, latMax:75, lngMin:-170, lngMax:180, w:920, h:400, pad:16 };
-function projectGeo(lat, lng){
-  const x = WORLD_MAP.pad + (lng - WORLD_MAP.lngMin) / (WORLD_MAP.lngMax - WORLD_MAP.lngMin) * (WORLD_MAP.w - 2*WORLD_MAP.pad);
-  const y = WORLD_MAP.pad + (WORLD_MAP.latMax - lat) / (WORLD_MAP.latMax - WORLD_MAP.latMin) * (WORLD_MAP.h - 2*WORLD_MAP.pad);
-  return [x, y];
-}
-// Rounds every corner of a closed point set into a smooth path: draws a
-// quadratic curve through each edge's midpoint using the shared vertex as
-// the control point. Country borders are simplified down to relatively few
-// points for a small map, and straight segments between them look jagged/
-// low-poly at this scale -- this softens that into cleaner, rounder curves
-// without changing the underlying shape.
-function smoothClosedPath(points){
-  const n = points.length;
-  const mid = (a,b)=> [(a[0]+b[0])/2, (a[1]+b[1])/2];
-  const start = mid(points[n-1], points[0]);
-  let d = `M ${start[0].toFixed(1)},${start[1].toFixed(1)} `;
-  for(let i=0;i<n;i++){
-    const cur = points[i];
-    const next = points[(i+1)%n];
-    const m = mid(cur, next);
-    d += `Q ${cur[0].toFixed(1)},${cur[1].toFixed(1)} ${m[0].toFixed(1)},${m[1].toFixed(1)} `;
-  }
-  return d + 'Z';
-}
-let worldCountriesData = null;
-async function loadWorldCountries(){
-  if(worldCountriesData) return worldCountriesData;
-  const res = await fetch('world-countries.json', {cache:'force-cache'});
-  worldCountriesData = await res.json();
-  return worldCountriesData;
-}
-function roasterMapClusters(){
-  const clusters = {};
-  Object.entries(ROASTERS).forEach(([rid, r])=>{
-    if(r.lat==null || r.lng==null) return;
-    const key = r.lat.toFixed(2) + ',' + r.lng.toFixed(2);
-    (clusters[key] || (clusters[key] = { lat:r.lat, lng:r.lng, roasterIds:[] })).roasterIds.push(rid);
-  });
-  return Object.values(clusters);
-}
-// Roaster country -> ISO 3166-1 alpha-2, for the little flag badge on each
-// tooltip entry. Only France is populated today, but the map is already
-// built for a worldwide roster, so this covers the countries most likely
-// to show up next rather than just the one in the data right now.
-const COUNTRY_TO_ISO = {
-  'France':'FR', 'Belgique':'BE', 'Suisse':'CH', 'Italie':'IT', 'Espagne':'ES',
-  'Allemagne':'DE', 'Royaume-Uni':'GB', 'Pays-Bas':'NL', 'Portugal':'PT',
-  'Luxembourg':'LU', 'Irlande':'IE', 'Autriche':'AT', 'Danemark':'DK',
-  'Suède':'SE', 'Norvège':'NO', 'Finlande':'FI', 'Pologne':'PL',
-  'États-Unis':'US', 'Canada':'CA', 'Japon':'JP',
-};
-function countryFlagIso(countryName){
-  const iso = COUNTRY_TO_ISO[countryName];
-  return iso ? iso.toLowerCase() : null;
-}
-async function renderRoasterMap(){
-  const wrap = document.getElementById('roaster-map');
-  wrap.innerHTML = `<div class="roaster-map-card"><div class="empty">Chargement de la carte…</div></div>`;
-  const countries = await loadWorldCountries();
-  const landmasses = countries.map(c=>{
-    const projected = c.points.map(([lat,lng]) => projectGeo(lat,lng));
-    return `<path class="map-landmass" d="${smoothClosedPath(projected)}"><title>${c.name}</title></path>`;
-  }).join('');
-  const clusters = roasterMapClusters();
-  const dots = clusters.map((cl,i)=>{
-    const [x,y] = projectGeo(cl.lat, cl.lng);
-    return `<circle class="map-dot" data-cluster="${i}" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="5"></circle>`;
-  }).join('');
-  // Default zoom target: the centroid of all roaster dots, so the first
-  // zoom-in click already moves toward where the data actually is instead
-  // of the (currently empty) geographic center of the whole world.
-  const defaultCenter = clusters.length
-    ? clusters.reduce((sum,cl)=>{ const [x,y]=projectGeo(cl.lat,cl.lng); return [sum[0]+x, sum[1]+y]; }, [0,0]).map(v=>v/clusters.length)
-    : [WORLD_MAP.w/2, WORLD_MAP.h/2];
-  wrap.innerHTML = `
-    <div class="roaster-map-card">
-      <svg viewBox="0 0 ${WORLD_MAP.w} ${WORLD_MAP.h}">
-        ${landmasses}
-        ${dots}
-      </svg>
-      <div class="map-zoom-controls">
-        <button type="button" class="map-zoom-btn" id="map-zoom-in" title="Zoomer">+</button>
-        <button type="button" class="map-zoom-btn" id="map-zoom-out" title="Dézoomer">–</button>
-        <button type="button" class="map-zoom-btn" id="map-zoom-reset" title="Réinitialiser la vue">⤢</button>
-      </div>
-      <div class="roaster-map-tooltip" id="roaster-map-tooltip"></div>
-    </div>
-  `;
-  const card = wrap.querySelector('.roaster-map-card');
-  const svg = wrap.querySelector('svg');
-  const tooltip = document.getElementById('roaster-map-tooltip');
-  const panZoom = attachMapPanZoom(svg, wrap, defaultCenter);
-  wrap.querySelectorAll('.map-dot').forEach(dot=>{
-    dot.addEventListener('click', (e)=>{
-      e.stopPropagation();
-      if(panZoom.isDragActive()) return;
-      wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
-      dot.classList.add('active');
-      showRoasterMapTooltip(clusters[parseInt(dot.dataset.cluster,10)], dot, card, tooltip);
-    });
-  });
-  document.addEventListener('click', function hideTooltip(e){
-    if(!wrap.contains(e.target)){
-      tooltip.style.display = 'none';
-      wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
-    }
-  });
-}
-// Lets the map be zoomed (buttons + scroll wheel) and panned (drag), by
-// resizing/translating the SVG viewBox rather than a CSS transform -- keeps
-// everything crisp at any zoom level. Roasters that share a city are one
-// dot at the world view; zooming in is what lets them visually spread out
-// within their own country/city instead of staying one indistinct blob.
-function attachMapPanZoom(svg, wrap, defaultCenter){
-  // High max zoom on purpose: a single city can hold a dozen-plus roasters,
-  // all one dot at the world view, and getting them individually clickable
-  // means being able to zoom in close to street-level, not just country-level.
-  const ZOOM_MIN = 1, ZOOM_MAX = 60;
-  let scale = 1;
-  let cx = defaultCenter[0], cy = defaultCenter[1];
-  let justDragged = false;
-
-  function applyViewBox(){
-    const vw = WORLD_MAP.w/scale, vh = WORLD_MAP.h/scale;
-    let x0 = cx - vw/2, y0 = cy - vh/2;
-    x0 = Math.min(Math.max(x0, 0), Math.max(0, WORLD_MAP.w - vw));
-    y0 = Math.min(Math.max(y0, 0), Math.max(0, WORLD_MAP.h - vh));
-    // Only sync cx/cy back from the clamped viewBox once there's actually
-    // room to pan (vw<W) -- at the fully-zoomed-out scale, x0/y0 are always
-    // forced to 0 regardless of cx/cy, and feeding that back in would wipe
-    // out the intended zoom target before the very first zoom-in.
-    if(vw < WORLD_MAP.w) cx = x0 + vw/2;
-    if(vh < WORLD_MAP.h) cy = y0 + vh/2;
-    svg.setAttribute('viewBox', `${x0.toFixed(2)} ${y0.toFixed(2)} ${vw.toFixed(2)} ${vh.toFixed(2)}`);
-    // Dots are fixed-radius SVG-unit circles, so they'd otherwise balloon
-    // to an unusable size at high zoom (the whole point of zooming that
-    // far in) -- taper the radius down as scale grows instead.
-    const r = Math.max(1, 5 / Math.pow(scale, 0.6));
-    svg.querySelectorAll('.map-dot').forEach(d => d.setAttribute('r', r.toFixed(2)));
-  }
-  function zoomBy(factor){
-    scale = Math.min(ZOOM_MAX, Math.max(ZOOM_MIN, scale*factor));
-    applyViewBox();
-  }
-  applyViewBox();
-
-  wrap.querySelector('#map-zoom-in').addEventListener('click', ()=> zoomBy(1.6));
-  wrap.querySelector('#map-zoom-out').addEventListener('click', ()=> zoomBy(1/1.6));
-  wrap.querySelector('#map-zoom-reset').addEventListener('click', ()=>{
-    scale = 1; cx = defaultCenter[0]; cy = defaultCenter[1];
-    applyViewBox();
-    document.getElementById('roaster-map-tooltip').style.display = 'none';
-    wrap.querySelectorAll('.map-dot').forEach(d=>d.classList.remove('active'));
-  });
-  svg.addEventListener('wheel', (e)=>{
-    e.preventDefault();
-    zoomBy(e.deltaY < 0 ? 1.2 : 1/1.2);
-  }, { passive:false });
-
-  // Deliberately no setPointerCapture here: capturing the pointer on the
-  // svg root redirects the eventual 'click' there too in some browsers,
-  // which meant clicking a dot to open its tooltip stopped working as soon
-  // as panning was added. Tracking move/up on document instead avoids that
-  // -- still keeps dragging smooth if the cursor leaves the svg mid-drag.
-  let dragging = false, startX=0, startY=0, startCx=0, startCy=0, moved=0;
-  function onPointerMove(e){
-    if(!dragging) return;
-    const rect = svg.getBoundingClientRect();
-    const unitsPerPx = (WORLD_MAP.w/scale) / rect.width;
-    const dx = (e.clientX - startX) * unitsPerPx;
-    const dy = (e.clientY - startY) * unitsPerPx;
-    moved = Math.max(moved, Math.hypot(e.clientX-startX, e.clientY-startY));
-    cx = startCx - dx; cy = startCy - dy;
-    applyViewBox();
-  }
-  function onPointerUp(){
-    dragging = false;
-    document.removeEventListener('pointermove', onPointerMove);
-    document.removeEventListener('pointerup', onPointerUp);
-    if(moved > 4){ justDragged = true; setTimeout(()=>{ justDragged = false; }, 0); }
-  }
-  svg.addEventListener('pointerdown', (e)=>{
-    dragging = true; moved = 0;
-    startX = e.clientX; startY = e.clientY; startCx = cx; startCy = cy;
-    document.addEventListener('pointermove', onPointerMove);
-    document.addEventListener('pointerup', onPointerUp);
-  });
-
-  return { isDragActive: ()=> justDragged };
-}
-function showRoasterMapTooltip(cluster, dotEl, cardEl, tooltipEl){
-  tooltipEl.innerHTML = cluster.roasterIds.map(rid=>{
-    const r = ROASTERS[rid];
-    const count = COFFEES.filter(c=>c.roasterId===rid).length;
-    const flagIso = countryFlagIso(r.country);
-    return `<div class="rmt-entry">
-      ${flagIso ? `<span class="rmt-flag" title="${r.country}"><img src="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/flags/4x3/${flagIso}.svg" alt="${r.country}"></span>` : ''}
-      <strong>${r.name}</strong>
-      <span style="color:var(--muted); font-size:11px;">${na(r.city)?'':r.city+' · '}${count} café${count>1?'s':''}</span>
-      <button type="button" class="btn-small primary rmt-view" data-rid="${rid}">Voir les cafés</button>
-    </div>`;
-  }).join('<hr>');
-  const dotRect = dotEl.getBoundingClientRect();
-  const cardRect = cardEl.getBoundingClientRect();
-  tooltipEl.style.display = 'block';
-  const tooltipW = 200;
-  let left = dotRect.left - cardRect.left + 12;
-  if(left + tooltipW > cardRect.width) left = dotRect.left - cardRect.left - tooltipW - 12;
-  tooltipEl.style.left = Math.max(0, left) + 'px';
-  tooltipEl.style.top = Math.max(0, dotRect.top - cardRect.top - 10) + 'px';
-  tooltipEl.querySelectorAll('.rmt-view').forEach(btn=>{
-    btn.addEventListener('click', ()=>{
-      selectedRoasters.clear();
-      selectedRoasters.add(btn.dataset.rid);
-      renderFilterChips();
-      renderGrid(document.getElementById('search-input').value);
-      setExploreMapVisible(false);
-    });
-  });
-}
-function setExploreMapVisible(show){
-  document.getElementById('roaster-map').style.display = show ? '' : 'none';
-  document.getElementById('coffee-grid').style.display = show ? 'none' : '';
-  document.getElementById('filters-panel').style.display = 'none';
-  document.getElementById('map-toggle').classList.toggle('active', show);
-  document.getElementById('map-toggle-label').textContent = show ? 'Grille' : 'Carte';
-  if(show) renderRoasterMap();
-}
-
 function renderGrid(filter){
   const grid = document.getElementById('coffee-grid');
   const q = (filter||'').trim().toLowerCase();
@@ -2795,10 +2522,6 @@ function flashSavedDetail(){
 document.getElementById('privacy-toggle').addEventListener('change', async (e)=>{ await togglePublicLibrary(e.target.checked); });
 document.getElementById('search-input').addEventListener('input', (e)=> renderGrid(e.target.value));
 document.getElementById('filters-toggle').addEventListener('click', ()=> toggleFiltersPanel());
-document.getElementById('map-toggle').addEventListener('click', ()=>{
-  const showing = document.getElementById('roaster-map').style.display !== 'none';
-  setExploreMapVisible(!showing);
-});
 document.getElementById('sort-select').addEventListener('change', ()=> renderGrid(document.getElementById('search-input').value));
 document.getElementById('filter-country').addEventListener('change', (e)=>{ selectedCountry = e.target.value; updateFilterBadge(); });
 document.getElementById('filter-price-min').addEventListener('input', (e)=>{ priceMin = e.target.value===''? null : parseFloat(e.target.value); updateFilterBadge(); });
