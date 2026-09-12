@@ -1748,7 +1748,7 @@ function renderGrid(filter){
       <div class="roast-dial">
         ${logoBadge(c.roasterId,46)}
         <div>
-          <div class="roast-label">${na(usage)?'Méthode indisponible':usage} · ${na(pcat)?'Process indisponible':pcat}</div>
+          <div class="roast-label">${mergeMethodRoast(usage, c.roast)} · ${na(pcat)?'Process indisponible':pcat}</div>
           <div class="roast-name">${na(c.origin)?'Origine indisponible':c.origin}</div>
         </div>
       </div>
@@ -1787,7 +1787,7 @@ function coffeeMetaGridHTML(c){
       <div class="meta-item"><div class="lbl">Notes aromatiques</div><div class="val ${na(c.flavors)?'unavailable':''}">${na(c.flavors)?'Indisponible':c.flavors}</div></div>
       <div class="meta-item"><div class="lbl">Score SCA</div><div class="val ${na(c.score)?'unavailable':''}">${na(c.score)?'Indisponible':c.score}</div></div>
       <div class="meta-item"><div class="lbl">Producteur</div><div class="val ${na(c.producer)?'unavailable':''}">${na(c.producer)?'Indisponible':c.producer}</div></div>
-      <div class="meta-item"><div class="lbl">Méthode</div><div class="val ${na(usage)&&na(c.roast)?'unavailable':''}">${mergeMethodRoast(usage, c.roast)}</div></div>
+      <div class="meta-item"><div class="lbl">Méthode/Torréfaction</div><div class="val ${na(usage)&&na(c.roast)?'unavailable':''}">${mergeMethodRoast(usage, c.roast)}</div></div>
       <div class="meta-item"><div class="lbl">Process</div><div class="val ${na(c.process)?'unavailable':''}">${na(processCategory(c.process))?'Indisponible':processCategory(c.process)}</div></div>
       <div class="meta-item"><div class="lbl">Variété</div><div class="val ${na(c.variety)?'unavailable':''}">${na(c.variety)?'Indisponible':c.variety}</div></div>
     </div>`;
