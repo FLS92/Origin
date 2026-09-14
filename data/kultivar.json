@@ -118,16 +118,21 @@
       "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Typica",
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Belle",
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noix de coco",
+        "Fraise",
+        "Banane",
+        "Bubblegum"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné colombien de variété Typica offrant un profil fruité prononcé avec des notes de noix de coco, fraise, banane et bubblegum, caractérisé par une belle acidité et une douceur marquée.",
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/09/25_CS_CO_NOG_TYP_LAV-LOW_1.webp",
       "retailers": [
         {

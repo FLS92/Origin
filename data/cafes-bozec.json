@@ -509,8 +509,8 @@
       "id": "cafes-bozec-cafes-bozec-ethiopie-bonga",
       "name": "Éthiopie – Bonga",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Bonga",
+      "process": "Naturel et Honey",
       "variety": null,
       "producer": null,
       "score": null,
@@ -518,9 +518,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Floral",
+        "Fruité"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien d'origine rare issu d'une ferme familiale pratiquant une agriculture forestière respectueuse, traité en naturel et honey, offrant une tasse aux notes florales et fruitées.",
       "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/7.png?fit=1063%2C1063&ssl=1",
       "retailers": [
         {

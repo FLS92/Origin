@@ -628,9 +628,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel",
+        "Kiwi"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'origine tanzanienne aux notes de chocolat, caramel et kiwi.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2026/09/tanzania-packaging-1.png",
       "retailers": [
         {
@@ -651,7 +655,7 @@
     {
       "id": "early-bird-sumatra-2",
       "name": "Sumatra",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -661,9 +665,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cranberry cuit",
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de Sumatra aux notes de cranberry cuit et de cacao, caractérisé par une acidité prononcée.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2026/09/aceh-pantan-packaging.png",
       "retailers": [
         {
@@ -684,7 +691,7 @@
     {
       "id": "early-bird-sumatra-aceh-pantan",
       "name": "Sumatra",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -694,9 +701,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Canneberge cuite",
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de Sumatra aux notes de canneberge cuite et de cacao, présentant une acidité alcoolisée.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2026/09/aceh-pantan-packaging.png",
       "retailers": [
         {
@@ -723,13 +733,16 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Vineuse",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin",
+        "Chocolat au lait"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café d'Éthiopie présente des notes florales et chocolatées avec une acidité marquée de caractère viné.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/sidama-packaging-1.png",
       "retailers": [
         {
@@ -756,13 +769,16 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Vineuse",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin frais",
+        "Chocolat au lait"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café d'Éthiopie propose un profil aromatique floral et chocolaté avec une acidité de caractère.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/sidama-packaging-1.png",
       "retailers": [
         {
@@ -793,9 +809,15 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Citronnelle",
+        "Cardamome",
+        "Agrumes",
+        "Earl Grey",
+        "Eucalyptus"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de Colombie aux profils aromatiques complexes, présentant des notes d'agrumes et d'épices avec des touches florales et herbacées.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/huila-packaging.png",
       "retailers": [
         {
@@ -826,9 +848,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Passion",
+        "Tomate"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café kényan se caractérise par des notes de fruits de la passion et de tomate fraîche.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2024/06/kenya-nyeri-packaging.png",
       "retailers": [
         {
@@ -850,10 +875,10 @@
       "id": "early-bird-ethiopia-kaffa",
       "name": "Ethiopia",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Kaffa, district de Gibo, ferme Tega & Tula, parcelle Kewo",
       "process": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica",
+      "producer": "Tega & Tula Specialty Coffee Farm",
       "score": null,
       "acidity": null,
       "body": null,
@@ -861,7 +886,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café d'Arabica originaire de la région historique de Kaffa en Éthiopie, cultivé sur la ferme Tega & Tula certifiée biologique, dans un terroir influencé par les forêts patrimoine de l'UNESCO.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/kaffa-packaging-1.png",
       "retailers": [
         {
@@ -883,9 +908,9 @@
       "id": "early-bird-ethiopie-yirgacheffe",
       "name": "Ethiopie",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Yirgacheffe, région de Sidamo",
+      "process": "Lavé",
+      "variety": "Variétés locales landrace (héritage éthiopien)",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -894,7 +919,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien provient de Yirgacheffe, une région historique réputée pour ses cafés lavés de qualité. Les producteurs locaux utilisent des méthodes traditionnelles et des variétés héritées, avec un traitement incluant fermentation et séchage sur lits surélevés.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/yirgacheffe-packaging.png",
       "retailers": [
         {
@@ -916,18 +941,18 @@
       "id": "early-bird-ethiopie-kaffa",
       "name": "Ethiopie",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Kaffa, Woreda de Gibo, parcelle Kewo",
       "process": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica",
+      "producer": "Tega & Tula Specialty Coffee Farm",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Velouté",
       "method": null,
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Éthiopie cultivé sur la parcelle Kewo de la ferme Tega & Tula, située dans la région historique de Kaffa. Le café se distingue par sa complexité et son caractère soyeux, influencé par le terroir unique des forêts du patrimoine UNESCO.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/kaffa-packaging-1.png",
       "retailers": [
         {
