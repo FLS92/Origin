@@ -17,8 +17,8 @@
       "id": "cafe-d-auteur-p97",
       "name": "Rwanda - Simbi",
       "originCountry": "Rwanda",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Simbi",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -26,9 +26,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Amande",
+        "Fruits secs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café rwandais de la région de Simbi traité par voie humide, offrant des arômes de chocolat, amande et fruits secs.",
       "imageUrl": "https://cafedauteur.com/404-large_default/rwanda-simbi.jpg",
       "retailers": [
         {
@@ -51,7 +55,7 @@
       "name": "Tanzanie - Tumaini",
       "originCountry": "Tanzanie",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -59,9 +63,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Fruits des bois"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café tanzanien traité par voie lavée développe des notes de chocolat au lait associées à des arômes de fruits des bois.",
       "imageUrl": "https://cafedauteur.com/407-large_default/tanzania-tumaini.jpg",
       "retailers": [
         {
@@ -82,19 +89,22 @@
     {
       "id": "cafe-d-auteur-p87",
       "name": "Rép. Dominicaine - Finca la Colonia",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "République Dominicaine",
+      "originDetail": "Finca la Colonia",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
+      "producer": "Finca la Colonia",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Sucre roux",
+        "Tabac"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de République Dominicaine provenant de Finca la Colonia, traité par voie humide, offrant des saveurs de sucre roux et de tabac.",
       "imageUrl": "https://cafedauteur.com/398-large_default/dominican-republic-finca-la-colonia.jpg",
       "retailers": [
         {
@@ -127,7 +137,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café se caractérise par une expression claire et résonnante, avec des qualités telluriques distinctives.",
       "imageUrl": "https://cafedauteur.com/424-large_default/GAINSBOURG.jpg",
       "retailers": [
         {
@@ -150,7 +160,7 @@
       "name": "Colombia, Decaf",
       "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -158,9 +168,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Sucre brun",
+        "Miel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné d'origine colombienne traité par voie humide, offrant un profil gustatif sucré et chocolaté.",
       "imageUrl": "https://cafedauteur.com/427-large_default/colombia-decafeine.jpg",
       "retailers": [
         {
@@ -182,8 +196,8 @@
       "id": "cafe-d-auteur-p102",
       "name": "Yémen, Haraaz",
       "originCountry": "Yémen",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Haraaz",
+      "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
@@ -191,9 +205,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Raisin sec",
+        "Dattes",
+        "Rose séchée"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café yéménite traité par voie naturelle, offrant un profil aromatique marqué par des notes de fruits secs et de fleurs.",
       "imageUrl": "https://cafedauteur.com/431-large_default/yemen-haraaz.jpg",
       "retailers": [
         {
@@ -226,7 +244,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café aux caractéristiques énigmatiques et sauvages.",
       "imageUrl": "https://cafedauteur.com/420-large_default/gainsbourg.jpg",
       "retailers": [
         {
@@ -259,7 +277,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café présenté comme raffiné et inspirant, sans précisions supplémentaires sur son profil ou ses origines.",
       "imageUrl": "https://cafedauteur.com/417-large_default/balzac.jpg",
       "retailers": [
         {
@@ -292,7 +310,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café présente un profil à la fois doux et caractériel.",
       "imageUrl": "https://cafedauteur.com/421-large_default/Nina-Simone.jpg",
       "retailers": [
         {
@@ -314,8 +332,8 @@
       "id": "cafe-d-auteur-p91",
       "name": "Ethiopie - Ygarcheffe",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Yirgacheffe",
+      "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
@@ -323,9 +341,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits secs",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Éthiopie traité par voie naturelle, présentant des arômes de fruits secs et de caramel.",
       "imageUrl": "https://cafedauteur.com/409-large_default/ethiopia-ygarcheffe.jpg",
       "retailers": [
         {
@@ -348,17 +369,21 @@
       "name": "Colombie, Castillo signature",
       "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel lactique",
+      "variety": "Castillo",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits rouges",
+        "Fraise",
+        "Cerise"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien traité en naturel lactique avec un profil aromatique dominé par des notes de fruits rouges et de baies.",
       "imageUrl": "https://cafedauteur.com/435-large_default/colombia-castillo-lactic.jpg",
       "retailers": [
         {
@@ -381,7 +406,7 @@
       "name": "Jamaique - Blue Mountain",
       "originCountry": "Jamaïque",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -389,9 +414,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "sucre brun",
+        "miel",
+        "chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café jamaïcain traité par voie humide aux arômes sucrés et chocolatés.",
       "imageUrl": "https://cafedauteur.com/414-large_default/jamaica-blue-mountain.jpg",
       "retailers": [
         {
@@ -414,17 +443,21 @@
       "name": "Colombia - Geisha",
       "originCountry": "Colombie",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Naturel anaérobique",
+      "variety": "Geisha",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Violette",
+        "Floral",
+        "Herbacé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de variété Geisha traité en naturel anaérobique, présentant un profil aromatique floral et herbacé.",
       "imageUrl": "https://cafedauteur.com/439-large_default/colombia-geisha.jpg",
       "retailers": [
         {
@@ -447,7 +480,7 @@
       "name": "Indonésie - Kopi Luwak",
       "originCountry": "Indonésie",
       "originDetail": null,
-      "process": null,
+      "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
@@ -455,9 +488,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Terreux"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Indonésie traité naturellement et cultivé biologiquement, présentant des notes chocolatées avec des nuances terreuses.",
       "imageUrl": "https://cafedauteur.com/411-large_default/indonesia-kopi-luwak.jpg",
       "retailers": [
         {

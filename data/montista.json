@@ -731,18 +731,21 @@
       "id": "montista-la-esperanza",
       "name": "La Esperanza | Guatemala",
       "originCountry": "Guatemala",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originDetail": "Huehuetenango",
+      "process": "Lavé",
+      "variety": "Caturra et Bourbon",
+      "producer": "Finca La Esperanza",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café guatémaltèque cultivé en montagne, présentant un profil aromatique équilibré dominé par des notes de cacao riche et d'orange, avec une corpulence satisfaisante et une douceur subtile.",
       "imageUrl": "https://montista.com/wp-content/uploads/2023/06/fa10e268-38b7-4c96-8a57-8eb4750b14c0.jpg",
       "retailers": [
         {
@@ -829,8 +832,8 @@
     {
       "id": "montista-c-sunheri",
       "name": "Sunheri | Inde",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Inde",
+      "originDetail": "District de Chikmagalur, région de Bababudangiri",
       "process": null,
       "variety": null,
       "producer": null,
@@ -841,7 +844,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café originaire du district de Chikmagalur en Inde, sélectionné parmi les productions de petits agriculteurs selon des critères de taille et de qualité.",
       "imageUrl": "https://montista.com/wp-content/uploads/2022/09/Sunheri-Web.jpg",
       "retailers": [
         {
@@ -863,10 +866,10 @@
       "id": "montista-c-suke-afursa",
       "name": "Suke Afursa | Éthiopie",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Yirgacheffe",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Suke Afursa",
       "score": null,
       "acidity": null,
       "body": null,
@@ -874,7 +877,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien provenant de la station de lavage Suke Afursa à Yirgacheffe, qui reçoit les cerises de près de 950 producteurs locaux et bénéficie cette année d'une préparation minutieuse.",
       "imageUrl": "https://montista.com/wp-content/uploads/2022/09/Suke-Afursa-web.jpg",
       "retailers": [
         {
@@ -907,7 +910,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné selon un processus naturel utilisant de l'eau de source et de l'acétate d'éthyle d'origine naturelle, sans ajout de substances chimiques de synthèse.",
       "imageUrl": "https://montista.com/wp-content/uploads/2022/09/Dcaf1-Web.jpg",
       "retailers": [
         {
@@ -929,18 +932,22 @@
       "id": "montista-c-blend3",
       "name": "Blend #3 | Inde & Éthiopie",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Chikmagalur (Inde), Yirgacheffe (Éthiopie)",
+      "process": "Lavé (Inde), Naturel (Éthiopie)",
+      "variety": "Hybrides d'Arabica (Inde), Heirloom (Éthiopie)",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
+      "method": "Omni",
+      "roastLevel": "Robe de moine (Inde), Blonde (Éthiopie)",
+      "flavors": [
+        "Épicées",
+        "Noix",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Blend combinant un café lavé des Hauts Plateaux indiens aux notes épicées avec un Heirloom naturel éthiopien aux arômes subtils, conçu pour offrir une bonne longueur en bouche et des notes de fruits à coques et chocolat.",
       "imageUrl": "https://montista.com/wp-content/uploads/2022/09/2.jpg",
       "retailers": [
         {

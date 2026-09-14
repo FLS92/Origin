@@ -193,7 +193,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Machine à café automatique De Longhi Rivelia permettant de changer les grains de café selon les préférences.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/396/image_512/Machine%20De%20Longhi%20Rivelia?unique=a956ff3",
       "retailers": [
         {
@@ -226,7 +226,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'une machine à café automatique de la marque Jura destinée à un usage domestique, capable de préparer entre 10 et 15 cafés par jour avec une extraction de qualité et une facilité d'utilisation.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/309/image_512/Gamme%20Domestique%20JURA%20-%20Machine%20automatique%20ENA4?unique=4c84805",
       "retailers": [
         {
@@ -259,7 +259,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'une machine à café automatique de la gamme semi-professionnelle Jura, conçue pour préparer environ 15 cafés par jour dans un environnement de travail collectif.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/204/image_512/Gamme%20Semi%20Professionnelle%20JURA%20-%20Machine%20automatique%20E4?unique=4c84805",
       "retailers": [
         {
@@ -292,7 +292,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ceci est une fiche produit de machine à café automatique, non un café.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/205/image_512/Gamme%20Semi%20Professionnelle%20JURA%20-%20Machine%20automatique%20E6?unique=4c84805",
       "retailers": [
         {
@@ -358,7 +358,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit n'est pas un café mais un détartrant pour machines de café.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/319/image_512/Produit%20D%C3%A9tartrant%20DeLonghi?unique=4c84805",
       "retailers": [
         {
@@ -391,7 +391,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il ne s'agit pas d'une fiche produit de café, mais d'une machine automatique de la gamme professionnelle Jura.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/321/image_512/Gamme%20Professionnelle%20JURA%20-%20Machine%20automatique%20W4?unique=4c84805",
       "retailers": [
         {
@@ -412,8 +412,8 @@
     {
       "id": "cafe-toque-p284",
       "name": "GREEN TEA - Thé Vert  - TeaHouse Exclusive (boîte de 15 sachets)",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Chine",
+      "originDetail": "Province d'Anhui, hauts plateaux",
       "process": null,
       "variety": null,
       "producer": null,
@@ -424,7 +424,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Thé vert en sachet mousseline provenant des hauts plateaux de la province chinoise d'Anhui, caractérisé par un profil savoureux et vivifiant.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/284/image_512/GREEN%20TEA%20-%20Th%C3%A9%20Vert%20%20-%20TeaHouse%20Exclusive%20%28bo%C3%AEte%20de%2015%20sachets%29?unique=18179eb",
       "retailers": [
         {
@@ -457,7 +457,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Produit de chocolat en poudre destiné à être mélangé avec du lait.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/260/image_512/Chocolat%20en%20poudre%20One%26One?unique=6b2f9da",
       "retailers": [
         {
@@ -490,7 +490,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un produit d'entretien et non d'un café.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/206/image_512/Bo%C3%AEte%20de%20pastilles%20de%20nettoyage%20Jura?unique=4c84805",
       "retailers": [
         {
@@ -521,9 +521,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bergamote"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Thé noir aromatisé à la fleur de bergamote, présenté en sachets mousseline pour une infusion de qualité.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/283/image_512/EARL%20GREY%20-%20Th%C3%A9%20noir%20Earl%20Grey%20-%20TeaHouse%C2%A0%28bo%C3%AEte%20de%2015%20sachets%29?unique=8d847a4",
       "retailers": [
         {
@@ -589,7 +591,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Cartouche de filtre pour machines JURA.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/209/image_512/Cartouche%20Jura%20Claris%20Smart%2B?unique=4c84805",
       "retailers": [
         {
@@ -620,9 +622,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pommes",
+        "Mûres"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Infusion composée de pommes, d'hibiscus blanc et de feuilles de mûres, aux arômes délicats et juteux, offrant un profil à la fois chaleureux et réconfortant.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/264/image_512/ORIENTAL%20APPLE%20-%20Infusion%20de%20Pommes%20et%20M%C3%BBres%20-%20TeaHouse%20%28bo%C3%AEte%20de%2015%20sachets%29?unique=70c8379",
       "retailers": [
         {

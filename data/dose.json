@@ -225,12 +225,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage d'espresso présenté comme rond et gourmand, proposé en capsules biodégradables compatibles Nespresso. Café fraîchement torréfié issu d'une filière traçable et de spécialité.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-en-vrac-assemblage-de-max-x300-5900809.jpg?v=1765194786",
       "retailers": [
         {
@@ -258,12 +260,16 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits secs",
+        "Abricot",
+        "Dragée"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage signature torréfié frais proposé en capsules biodégradables compatibles Nespresso, caractérisé par un profil rond et gourmand aux notes de fruits secs et de confiserie.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-assemblage-de-max-boite-x-10-3289540.jpg?v=1761739746",
       "retailers": [
         {
@@ -494,7 +500,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Gourde isotherme de la marque japonaise Kinto conçue pour conserver les boissons à bonne température durant le transport, avec une structure minimaliste en acier inoxydable durable.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-thermos-isotherme-kinto-travel-tumbler-350-ml-dose-family-9307135.jpg?v=1762572187",
       "retailers": [
         {
@@ -527,7 +533,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Cet article décrit une bouilloire en inox de la marque Hario, équipée d'un bec verseur col de cygne pour verser précis, compatible tous feux et dotée d'une capacité de 1,2 litre.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-bouilloire-buono-4871472.jpg?v=1758272364",
       "retailers": [
         {
@@ -560,7 +566,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Bouilloire électrique avec contrôle de température précis et maintien de la chaleur, conçue pour la préparation soignée du café selon les principes du slow coffee.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-bouilloire-electrique-stagg-ekg-noir-mat-zf-fellow-1082797.jpg?v=1756277793",
       "retailers": [
         {
@@ -687,12 +693,16 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits secs",
+        "Abricot",
+        "Dragée"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet assemblage signature proposé en capsules biodégradables compatibles Nespresso offre un espresso aux qualités gourmandes avec une intensité modérée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-en-vrac-assemblage-de-max-x300-5900809.jpg?v=1765194786",
       "retailers": [
         {
@@ -720,12 +730,16 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits secs",
+        "Abricot",
+        "Dragée"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage d'espresso en capsules biodégradables offrant une tasse aromatique avec un profil rond et gourmand d'intensité modérée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-boite-de-10-capsules-assemblage-de-max-pro-1494698.jpg?v=1774620095",
       "retailers": [
         {
@@ -758,7 +772,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné mexicain proposé en capsules biodégradables compatibles Nespresso, utilisant une méthode de décaféination naturelle pour préserver la qualité du café.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-boite-de-10-capsules-sueno-decafeine-7533782.jpg?v=1756278890",
       "retailers": [
         {
@@ -1010,8 +1024,8 @@
     {
       "id": "dose-boite-de-10-capsules-anemos-pro",
       "name": "Boite de 10 capsules - Bogota (Pro)",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Bogota",
       "process": null,
       "variety": null,
       "producer": null,
@@ -1022,7 +1036,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de Bogota proposé en capsules biodégradables compatibles Nespresso, transporté par voilier cargo pour minimiser son impact environnemental.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-boite-de-10-capsules-bogota-pro-7189116.jpg?v=1774620132",
       "retailers": [
         {
@@ -1088,7 +1102,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Produit d'emballage professionnel pour café, cup réutilisable à paroi double de 25 centilitres.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-buchette-de-sucre-blond-bio-carton-de-1000-pro-4459523.png?v=1756277733",
       "retailers": [
         {
@@ -1121,7 +1135,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un produit accessoire pour le café, non d'un café en lui-même.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-buchette-de-sucre-blond-bio-carton-de-1000-pro-4459523.png?v=1756277733",
       "retailers": [
         {
@@ -1154,7 +1168,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit n'est pas un café mais une buchette de sucre blond biologique.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-buchette-de-sucre-blond-bio-carton-de-1000-pro-4459523.png?v=1756277733",
       "retailers": [
         {
@@ -1187,7 +1201,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit n'est pas un café mais un détartrant écologique pour machines à café De'Longhi.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-detartrant-ecologique-mini-delonghi-dlsc200-2x100-ml-pro-9371944.jpg?v=1758272363",
       "retailers": [
         {
@@ -1220,7 +1234,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Cet article n'est pas un café mais un accessoire de machine à café.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cartouche-filtrante-pour-delonghi-dlsc002-pro-2472076.jpg?v=1758272364",
       "retailers": [
         {
@@ -1253,7 +1267,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit n'est pas un café mais un détartrant écologique pour machines à café.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-detartrant-ecologique-delonghi-dlsc500-500-ml-pro-6305290.jpg?v=1758272363",
       "retailers": [
         {
@@ -1276,17 +1290,19 @@
       "name": "Capsules Mexico City - Décaféiné (boîte x 10)",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
+      "process": "Décaféination naturelle",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noisette"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné du Mexique torréfié et présenté en capsules biodégradables compatibles Nespresso, avec un profil aromatique noisetté et une intensité modérée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-sueno-decafeine-boite-x-10-8383523.jpg?v=1774645509",
       "retailers": [
         {
@@ -1307,7 +1323,7 @@
     {
       "id": "dose-anemos-boite-x10-capsules",
       "name": "Capsules - Bogota (boîte x 10)",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -1319,7 +1335,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de spécialité proposé en capsules biodégradables compatibles Nespresso, transporté par voilier cargo pour minimiser son empreinte carbone.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-boite-de-10-capsules-bogota-pro-7189116.jpg?v=1774620132",
       "retailers": [
         {
@@ -1348,11 +1364,11 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret découverte contenant trois assortiments de capsules biodégradables compatibles Nespresso, torréfiés à Paris, dont un assemblage signature, un décaféiné et un café colombien transporté en voilier cargo.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-coffret-trio-boites-x-30-7521052.jpg?v=1756277742",
       "retailers": [
         {
@@ -1385,7 +1401,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret de 200 capsules biodégradables compatibles Nespresso regroupant plusieurs assemblages et décaféinés torréfiés à Paris, dont l'Assemblage de Max, Bogota et un décaféiné à l'eau.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-coffret-trio-boites-x-30-7521052.jpg?v=1756277742",
       "retailers": [
         {

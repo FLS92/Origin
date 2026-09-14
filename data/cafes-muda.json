@@ -347,18 +347,21 @@
       "id": "cafes-muda-cascara-pulpe-cerise-cafe-infusion",
       "name": "CASCARA - INFUSION - RWANDA",
       "originCountry": "Rwanda",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originDetail": "Région de Gakenke, coopérative Rushashi",
+      "process": "Lavé",
+      "variety": "Bourbon rouge",
+      "producer": "Coopérative Abakundakawa",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fruité",
+        "sucré"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Infusion de cascara rwandaise provenant d'une coopérative engagée dans l'autonomisation des femmes, offrant un profil fruité et sucré faible en caféine et riche en antioxydants.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/products/MUDA-PACKSHOT-CASCARA.jpg?v=1649326298",
       "retailers": [
         {

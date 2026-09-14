@@ -26,9 +26,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bergamote",
+        "Fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café rwandais offre un profil puissant et fruité avec des notes de bergamote et de fruits rouges.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-rwanda.png",
       "retailers": [
         {
@@ -59,9 +62,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel",
+        "Chocolat",
+        "Brioche"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café d'origine salvadorienne présentant un profil équilibré avec des notes de caramel, chocolat et brioche.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-salvador.png",
       "retailers": [
         {
@@ -82,9 +89,9 @@
     {
       "id": "cafe-come-malabar-inde-2",
       "name": "MALABAR-INDE",
-      "originCountry": null,
+      "originCountry": "Inde",
       "originDetail": null,
-      "process": null,
+      "process": "Moussonné",
       "variety": null,
       "producer": null,
       "score": null,
@@ -92,9 +99,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bois",
+        "Épices"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café indien au traitement moussonné présentant un profil puissant et persistant avec des notes ligneuses et épicées.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-inde.png",
       "retailers": [
         {
@@ -116,18 +126,21 @@
       "id": "cafe-come-ketiara-gayo-indonesie",
       "name": "KETIARA GAYO-INDONESIE",
       "originCountry": "Indonésie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Gayo",
+      "process": "Honey",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 85,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café originaire de la région de Gayo en Indonésie, traité en Honey, avec un profil aromatique centré sur les notes de chocolat noir et de fruits rouges.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-3-1.png",
       "retailers": [
         {
@@ -149,7 +162,7 @@
       "id": "cafe-come-harrar-ethiopie",
       "name": "HARRAR-ETHIOPIE",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Harrar",
       "process": null,
       "variety": null,
       "producer": null,
@@ -158,9 +171,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cuir",
+        "Épices",
+        "Fruits noirs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de la région de Harrar aux caractéristiques prononcées, offrant une persistance en bouche marquée.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-Harrar.png",
       "retailers": [
         {
@@ -182,7 +199,7 @@
       "id": "cafe-come-come-melange-maison",
       "name": "COME (MELANGE MAISON)",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Amérique du Sud",
       "process": null,
       "variety": null,
       "producer": null,
@@ -191,9 +208,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Noix",
+        "Noisette"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange sud-américain combinant arabica et robusta, caractérisé par des notes de cacao, noix et noisette avec un profil équilibré.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-9.png",
       "retailers": [
         {
@@ -217,16 +238,20 @@
       "originCountry": null,
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Praline",
+        "Fruits secs",
+        "Frangipane"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce mélange 100% arabica provenant d'Amérique du Sud offre un profil gustatif sucré dominé par des notes de praline, fruits secs et frangipane.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-royal.png",
       "retailers": [
         {
@@ -251,15 +276,19 @@
       "originDetail": null,
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Los Hernandez",
       "score": null,
-      "acidity": null,
+      "acidity": "Légère",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Fruits mûrs",
+        "Fleurs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café costaricain présente un profil équilibré avec une acidité faible et des notes de chocolat, fruits mûrs et florales.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-costa-rica.png",
       "retailers": [
         {
@@ -290,9 +319,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Fruits secs",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café péruvien aux caractéristiques équilibrées, présentant des notes de cacao, fruits secs et agrumes.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/CO-12-x-8-cm-17.png",
       "retailers": [
         {
@@ -323,9 +356,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noix",
+        "Chocolat",
+        "Vanille",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien équilibré présentant des notes de noix, chocolat, vanille et agrumes.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-24.png",
       "retailers": [
         {
@@ -356,9 +394,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Amandes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien présentant un profil doux avec des notes de cacao et d'amandes.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-19.png",
       "retailers": [
         {
@@ -380,7 +421,7 @@
       "id": "cafe-come-santa-rosa-guatemala-2",
       "name": "SANTA ROSA-GUATEMALA",
       "originCountry": "Guatemala",
-      "originDetail": null,
+      "originDetail": "Santa Rosa",
       "process": null,
       "variety": null,
       "producer": null,
@@ -389,9 +430,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pêche",
+        "Abricot",
+        "Miel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café équilibré originaire de Santa Rosa au Guatemala, présentant des notes fruitées de pêche, abricot et miel.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-25.png",
       "retailers": [
         {
@@ -412,19 +457,23 @@
     {
       "id": "cafe-come-river-valley-nouvelle-guinee-2",
       "name": "RIVER VALLEY-NOUVELLE GUINEE",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "Papouasie-Nouvelle-Guinée",
+      "originDetail": "River Valley",
+      "process": "Naturel, fermentation de 48h",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 85.5,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Mandarine",
+        "Fruits secs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de la vallée de River Valley en Nouvelle-Guinée, traité par voie naturelle avec une fermentation de 48 heures, exprimant des arômes de chocolat noir, mandarine et fruits secs.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-21.png",
       "retailers": [
         {
@@ -447,17 +496,21 @@
       "name": "LAS NUBES-NICARAGUA",
       "originCountry": "Nicaragua",
       "originDetail": null,
-      "process": null,
+      "process": "Macération Carbonique Naturelle, fermentation de 48h",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 85,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Miel",
+        "Framboise"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café nicaraguayen traité en macération carbonique naturelle avec une fermentation de 48 heures, présentant des profils aromatiques de chocolat, miel et framboise.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-15.png",
       "retailers": [
         {
@@ -480,7 +533,7 @@
       "name": "DECAFEINE-MEXIQUE",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
+      "process": "Décaféiné à la vapeur d'eau, sans solvants ni produits chimiques",
       "variety": null,
       "producer": null,
       "score": null,
@@ -488,9 +541,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Boisées",
+        "Chocolatées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain décaféiné par vapeur d'eau, présentant des notes boisées et chocolatées.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/etiquette-decafeine.png",
       "retailers": [
         {
@@ -517,13 +573,18 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Puissante",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cèdre",
+        "Cacao",
+        "Vanille",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café se distingue par une acidité marquée et développe des arômes de cèdre, cacao, vanille et agrumes.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2026/01/CO-12-x-8-cm-3.png",
       "retailers": [
         {
@@ -554,9 +615,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amandes",
+        "Caramel",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain aux caractéristiques gustatives marquées, offrant une persistance en bouche avec des profils aromatiques orientés vers les fruits secs et le chocolat.",
       "imageUrl": "https://cafe-come.fr/wp-content/uploads/2025/10/CO-12-x-8-cm-27.png",
       "retailers": [
         {

@@ -985,7 +985,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Boisson à base de deux shots d'espresso allongés.",
       "imageUrl": null,
       "retailers": [
         {
@@ -1311,11 +1311,11 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Boisson à base d'espresso allongée avec de l'eau chaude, préparée selon les proportions standards.",
       "imageUrl": null,
       "retailers": [
         {

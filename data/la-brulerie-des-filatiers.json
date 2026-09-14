@@ -26,9 +26,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fleurs d'oranger",
+        "Bergamote"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un mélange de thés bleus et verts inspiré de l'Earl Grey, caractérisé par des notes florales et fruitées avec une faible teneur en théine.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/642/image_512/Bergamotier?unique=2ce1529",
       "retailers": [
         {
@@ -56,12 +59,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noix",
+        "Sucre brun"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café costaricain proposé en capsules, caractérisé par une tasse douce et équilibrée avec des notes de noix et sucre brun.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/801/image_512/Boite%20de%20capsules%20%28x10%29%20COSTA-Rica%20-%20Buho?unique=61fae6c",
       "retailers": [
         {
@@ -86,15 +92,19 @@
       "originDetail": null,
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Alégria",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits à coque",
+        "Citron",
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café du Honduras au profil aromatique complexe, offrant des saveurs de fruits à coque, citron et cacao.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/803/image_512/Boite%20de%20capsules%20%28x10%29%20HONDURAS%20-%20Al%C3%A9gria%20?unique=f295425",
       "retailers": [
         {
@@ -122,12 +132,16 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pain grillé",
+        "Amande",
+        "Fruit sec"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné d'origine mexicaine offrant une tasse équilibrée avec des notes de pain grillé, amande et fruit sec.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/804/image_512/Boite%20de%20capsules%20%28x10%29%20MEXIQUE%20-%20D%C3%A9caf%C3%A9in%C3%A9?unique=3fa2498",
       "retailers": [
         {
@@ -191,9 +205,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pécan",
+        "Caramel",
+        "Vanille",
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un thé noir gourmand et non d'un café. Ce produit ne correspond pas à la catégorie de produits pour laquelle ce formulaire est conçu.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/645/image_512/Brown%20Sugar%20?unique=2ce1529",
       "retailers": [
         {
@@ -290,9 +309,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Chicorée biologique française aux teintes dorées et aux saveurs caramélisées.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/752/image_512/Chicor%C3%A9e%20-%20L%27originale%20-%20Nour%C3%A9e?unique=2ce1529",
       "retailers": [
         {
@@ -323,9 +344,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Corsées",
+        "Fraîches",
+        "Végétales"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un thé vert biologique certifié de type Chunmee, caractérisé par ses feuilles courbées en forme de sourcils, offrant une tasse vive et équilibrée avec des notes corsées et végétales.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/648/image_512/Chunmee%20%28Bio%29?unique=2ce1529",
       "retailers": [
         {
@@ -358,7 +383,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit est un thé Darjeeling et non un café. Le texte ne contient aucune information pertinente pour une fiche café.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/651/image_512/Darjeeling%20Imp%C3%A9rial%20Namring%20?unique=2ce1529",
       "retailers": [
         {
@@ -478,19 +503,21 @@
     {
       "id": "la-brulerie-des-filatiers-p653",
       "name": "Earl Grey Royal ( Bio)",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bergamote"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Thé noir rwandais biologique et équitable aromatisé à la bergamote de Sicile, offrant une tasse équilibrée avec des notes florales et une structure tannique prononcée.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/653/image_512/Earl%20Grey%20Royal%20%28%20Bio%29%20?unique=2ce1529",
       "retailers": [
         {
@@ -521,9 +548,16 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Verveine",
+        "Fleur d'oranger",
+        "Camomille",
+        "Tilleul",
+        "Pétales de bleuets",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'une infusion de plantes biologiques, non d'un café, composée d'un mélange de verveine, fleur d'oranger, camomille, tilleul et autres plantes aux vertus apaisantes.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/655/image_512/Feel%20good%20%28Bio%29%20?unique=2ce1529",
       "retailers": [
         {
@@ -589,7 +623,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce texte concerne un thé noir du Yunnan et non un café. Les informations demandées ne s'appliquent pas à ce produit.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/614/image_512/Grand%20Yunnan%20%28Bio%29%20?unique=2ce1529",
       "retailers": [
         {
@@ -622,7 +656,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un thé vert biologique aux feuilles caractéristiquement roulées en billes, offrant une dégustation vive et tonique avec des notes fraîches typiques de ce classique, notamment utilisé pour préparer le thé à la menthe marocain.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/657/image_512/Gunpowder%20%28Bio%29%20?unique=2ce1529",
       "retailers": [
         {

@@ -89,17 +89,19 @@
       "name": "Décaféiné",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
+      "process": "Décaféiné à l'eau, sans solvant",
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Légère",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits à coques"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné traité à l'eau qui préserve une légère acidité et des arômes de fruits à coques, recommandé pour la dégustation en soirée.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {

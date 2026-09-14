@@ -17,8 +17,8 @@
       "id": "cafes-boc-el-salvador-lycaste",
       "name": "El Salvador Lycaste",
       "originCountry": "Apaneca Ilamatepec, El Salvador",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Ilamatepec",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -26,9 +26,12 @@
       "body": null,
       "method": null,
       "roastLevel": "2/5",
-      "flavors": null,
+      "flavors": [
+        "Biscuité",
+        "Fruité"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café salvadorien cultivé sur un terroir volcanique, traité en voie humide et présentant des notes biscuitées et fruitées légères.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2025/12/Salvador-e1767000290178.png",
       "retailers": [
         {
@@ -51,7 +54,7 @@
       "name": "Honduras Ceiba",
       "originCountry": "Honduras, Marcala",
       "originDetail": null,
-      "process": null,
+      "process": "Honey",
       "variety": null,
       "producer": null,
       "score": null,
@@ -59,9 +62,12 @@
       "body": null,
       "method": null,
       "roastLevel": "2,5/5",
-      "flavors": null,
+      "flavors": [
+        "Fruité",
+        "Sucré"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café hondurien cultivé en agriculture biologique développe des notes fruitées et sucrées grâce à son traitement honey.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2025/12/Honduras-Ceiba.png",
       "retailers": [
         {
@@ -83,18 +89,20 @@
       "id": "cafes-boc-decafeine-bio-abonnement",
       "name": "Décaféiné",
       "originCountry": "Mono Origine : Mexique - Chiapas",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Chiapas",
+      "process": "Décaféiné à l'eau sans solvant, process Mountain Water",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
-      "body": null,
+      "body": "Rond, soyeux",
       "method": null,
       "roastLevel": "1/5",
-      "flavors": null,
+      "flavors": [
+        "sucré"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné de spécialité originaire du Chiapas, traité à l'eau par le process Mountain Water. Offre un profil rond et soyeux avec des notes sucrées.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-decafeine.png",
       "retailers": [
         {
@@ -116,9 +124,9 @@
       "id": "cafes-boc-moka-jebena-bio-abonnement",
       "name": "Moka Jebena BIO",
       "originCountry": "Éthiopie, Guji",
-      "originDetail": null,
+      "originDetail": "Guji",
       "process": null,
-      "variety": null,
+      "variety": "Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -127,7 +135,7 @@
       "roastLevel": "4/5",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien de la région de Guji proposant des arômes intenses avec une légère amertume boisée, apprécié pour sa constitution corsée.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-moka.png",
       "retailers": [
         {
@@ -155,12 +163,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": "2,5/5",
-      "flavors": null,
+      "flavors": [
+        "Fruitées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange de cafés biologiques provenant du Honduras et d'Éthiopie, offrant des notes fruitées et une texture soyeuse.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-5-cafes-le-mans.png",
       "retailers": [
         {
@@ -187,13 +197,15 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vivacité",
+      "body": "Moyennement corsé",
       "method": null,
       "roastLevel": "3,5/5",
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange 100% Arabica provenant d'Éthiopie, de Colombie et du Brésil, offrant une acidité vive et une finale chocolatée persistante.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-boc-4.png",
       "retailers": [
         {
@@ -215,9 +227,9 @@
       "id": "cafes-boc-boc-n2-abonnement",
       "name": "BOC N°2",
       "originCountry": "Assemblage Cafés BOC, Brésil, Éthiopie, Rwanda",
-      "originDetail": null,
+      "originDetail": "Rwanda, Éthiopie, Brésil",
       "process": null,
-      "variety": null,
+      "variety": "Robusta (Nganda), Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -226,7 +238,7 @@
       "roastLevel": "4/5",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage de robusta rwandais relevé par des arabicas d'Éthiopie et du Brésil, offrant un profil puissant et caractéristique apprécié des consommateurs réguliers.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-2.png",
       "retailers": [
         {
@@ -248,9 +260,9 @@
       "id": "cafes-boc-boc-n1-abonnement",
       "name": "BOC N°1",
       "originCountry": "Rwanda",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Région du nord du Rwanda",
+      "process": "Lavé",
+      "variety": "Nganda",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -259,7 +271,7 @@
       "roastLevel": "5/5",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un robusta rwandais de variété Nganda cultivé en altitude entre 1600 et 2000 mètres, traité par voie lavée pour exprimer toute la puissance caractéristique du robusta.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/1-cafe-boc.png",
       "retailers": [
         {
@@ -281,7 +293,7 @@
       "id": "cafes-boc-colombie-choco",
       "name": "Colombie Choco",
       "originCountry": "Mono Origine: COLOMBIE Région: CAUCA",
-      "originDetail": null,
+      "originDetail": "Région de Cauca, autour de Popayan, Sud Ouest",
       "process": null,
       "variety": null,
       "producer": null,
@@ -290,9 +302,11 @@
       "body": null,
       "method": null,
       "roastLevel": "1/5",
-      "flavors": null,
+      "flavors": [
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de montagne originaire de Cauca en Colombie, cultivé en altitude. Il se distingue par son profil doux avec des notes de cacao, adapté aux préparations douces.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-colombie-choco.png",
       "retailers": [
         {
@@ -314,18 +328,18 @@
       "id": "cafes-boc-decafeine-du-mexique-bio",
       "name": "Décaféiné",
       "originCountry": "Mono Origine : Mexique - Chiapas",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Chiapas",
+      "process": "Mountain Water",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
-      "body": null,
+      "body": "Rond, soyeux",
       "method": null,
       "roastLevel": "1/5",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné de la région de Chiapas au Mexique, traité à l'eau sans solvants selon le procédé Mountain Water. Il se caractérise par un profil rond et soyeux avec des notes sucrées.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-decafeine.png",
       "retailers": [
         {
@@ -347,18 +361,21 @@
       "id": "cafes-boc-moka-jebena-bio-ethiopie",
       "name": "Moka Jebena BIO",
       "originCountry": "Éthiopie, Guji",
-      "originDetail": null,
+      "originDetail": "Guji",
       "process": null,
-      "variety": null,
+      "variety": "Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": "4/5",
-      "flavors": null,
+      "flavors": [
+        "Arômes intenses",
+        "Amertume boisée"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica éthiopien de la région de Guji proposant des arômes intenses et une légère amertume boisée, apprécié pour sa structure corsée.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-moka.png",
       "retailers": [
         {
@@ -382,7 +399,7 @@
       "originCountry": "Assemblage Cafés BOC, Brésil, Éthiopie, Rwanda",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Robusta (Nganda), Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -391,7 +408,7 @@
       "roastLevel": "4/5",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un mélange équilibré associant un robusta rwandais caractéristique à des arabicas éthiopiens et brésiliens, offrant une composition puissante et savoureuse.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-2.png",
       "retailers": [
         {
@@ -413,9 +430,9 @@
       "id": "cafes-boc-boc-n1-100-robusta",
       "name": "BOC N°1",
       "originCountry": "Rwanda",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Région du nord du Rwanda",
+      "process": "Lavé",
+      "variety": "Nganda",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -424,7 +441,7 @@
       "roastLevel": "5/5",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Robusta originaire du nord du Rwanda, cultivé en altitude entre 1600 et 2000 mètres, traité par voie humide pour préserver ses caractéristiques de force et de saveur distinctives.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/1-cafe-boc.png",
       "retailers": [
         {
@@ -446,18 +463,21 @@
       "id": "cafes-boc-bresil",
       "name": "Brésil Mountain",
       "originCountry": "Brésil, Mogiana, Serra dos Ciganos",
-      "originDetail": null,
+      "originDetail": "Serra dos Ciganos",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Serra dos Ciganos",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond et soyeux",
       "method": null,
       "roastLevel": "3/5",
-      "flavors": null,
+      "flavors": [
+        "Gourmandes",
+        "Pralinées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café brésilien d'origine Serra dos Ciganos proposé par la communauté, offrant un profil équilibré avec un corps rond et soyeux, destiné à la consommation quotidienne.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-test.png",
       "retailers": [
         {
@@ -485,12 +505,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": "2,5/5",
-      "flavors": null,
+      "flavors": [
+        "Fruitées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage de cafés biologiques en provenance du Honduras et d'Éthiopie, présentant des caractéristiques fruitées et une texture lisse.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-5-cafes-le-mans.png",
       "retailers": [
         {
@@ -517,13 +539,15 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vive",
+      "body": "Moyennement corsé",
       "method": null,
       "roastLevel": "3,5/5",
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange d'arabicas provenant d'Éthiopie, de Colombie et du Brésil, caractérisé par une vivacité marquée et des notes chocolatées persistantes.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/cafe-boc-4.png",
       "retailers": [
         {

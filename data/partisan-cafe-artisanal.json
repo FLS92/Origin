@@ -50,7 +50,7 @@
       "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
       "name": "PERU Agua Colorada 250g",
       "originCountry": "Pérou",
-      "originDetail": null,
+      "originDetail": "Agua Colorada",
       "process": null,
       "variety": null,
       "producer": null,
@@ -61,7 +61,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien d'origine Agua Colorada proposé en format de 250 grammes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/ScreenShot2026-03-26at09.29.27.png?v=1774514673",
       "retailers": [
         {
@@ -116,9 +116,9 @@
       "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
       "name": "COLOMBIE LOS DIECINUEVE DECAF 250g",
       "originCountry": "Colombie",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Région de Huila, altitude 2 000 mètres",
+      "process": "Décaféiné via acétate d'éthyle",
+      "variety": "Castillo, Colombia, Caturra",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -127,7 +127,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné de spécialité originaire de Huila en Colombie, composé de trois variétés cultivées en altitude et décaféiné naturellement à l'acétate d'éthyle.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2025-10-05at10.00.39.png?v=1759651265",
       "retailers": [
         {
@@ -155,12 +155,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Prononcé",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pain grillé",
+        "Chocolat noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un mélange italien conçu pour l'espresso, caractérisé par un corps marqué, une crème épaisse et des notes de pain grillé et chocolat noir avec une finale persistante.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-05-20at11.09.33.png?v=1779268446",
       "retailers": [
         {

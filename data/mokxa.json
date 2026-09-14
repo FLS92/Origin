@@ -16,11 +16,11 @@
     {
       "id": "mokxa-cafe-de-poche",
       "name": "Café de Poche - Brew Bag",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Sitio Da Torre",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Sitio Da Torre",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28,7 +28,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité brésilien présenté sous forme de sachet individuel prédosé, conçu pour une infusion simple et rapide en n'importe quel lieu.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/BRESIL_Cafe_de_Poche.jpg?v=1784708157",
       "retailers": [
         {

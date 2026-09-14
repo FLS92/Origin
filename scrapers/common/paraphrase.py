@@ -100,6 +100,8 @@ def analyze_product(product_name, raw_html):
         raw = "".join(block.text for block in resp.content if block.type == "text").strip()
         raw = re.sub(r"^```(?:json)?|```$", "", raw.strip(), flags=re.MULTILINE).strip()
         data = json.loads(raw)
+        if not isinstance(data, dict):
+            return dict(_EMPTY)
     except Exception:
         return dict(_EMPTY)
 

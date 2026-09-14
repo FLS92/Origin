@@ -17,18 +17,21 @@
       "id": "omnino-cascara-150g",
       "name": "Cascara (Costa Rica)",
       "originCountry": "Costa Rica",
-      "originDetail": null,
+      "originDetail": "Hacienda Sonora, au pied du volcan Poàs",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Hacienda Sonora",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Figue séchée"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cette cascara costaricaine provient de la Hacienda Sonora, une ferme cultivée de manière durable au pied du volcan Poàs. Son infusion développe une douceur naturelle avec des notes de miel et de figue séchée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/Cascara150g_1.jpg?v=1764241181",
       "retailers": [
         {
@@ -59,9 +62,15 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cannelle",
+        "Gingembre",
+        "Baies rouges de Sichuan",
+        "Cardamome",
+        "Vanille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce concentré de thé épicé combine les saveurs classiques du chaï avec une touche florale, mélange de thé noir, épices et notes florales.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/Fichier1_600x-Grande.jpg?v=1764239800",
       "retailers": [
         {
@@ -94,7 +103,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café infusé à froid pendant 24 heures, proposé en version concentrée sous forme de boisson prête-à-boire. Ce produit offre une expérience fraîche et aromatique sans amertume.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/IMG_8245.jpg?v=1764241043",
       "retailers": [
         {
@@ -127,7 +136,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café infusé à froid concentré pendant 24 heures, présenté sous forme de concentré à diluer pour obtenir une boisson rafraîchissante aux arômes subtils et sans amertume.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/IMG_8226_828a4d88-8ec9-481e-9e20-cebe3c1c9cb3.jpg?v=1764242153",
       "retailers": [
         {
@@ -160,7 +169,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café infusé à froid pendant 24 heures, servi glacé en bouteille prête-à-boire de 3 litres, offrant une boisson fraîche aux arômes subtils sans amertume.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0267/3721/3624/files/IMG_8240_e5c6e186-8929-4208-9b5c-23309bbb7256.jpg?v=1764242029",
       "retailers": [
         {

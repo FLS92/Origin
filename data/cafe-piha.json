@@ -259,7 +259,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un produit chocolaté créé en partenariat avec un artisan chocolatier bordelais, conçu pour accompagner un café.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/11/petit-creme-chocolat-hasnaa01.jpg",
       "retailers": [
         {
@@ -419,13 +419,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
-      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2018/10/IM1-HAKA.jpg",
+      "description": "Café biologique 100% arabica au profil rond et chocolaté, conçu pour être utilisé dans une cafetière automatique en tant que café de consommation quotidienne.",
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/01/IM1-HAKA.jpg",
       "retailers": [
         {
           "site": "Café Piha",

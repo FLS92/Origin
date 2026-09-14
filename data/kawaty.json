@@ -23,12 +23,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Boisé",
+        "Fruits secs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange signature multi-origines (Asie, Afrique, Amérique) offrant une tasse équilibrée et accessible, aux notes boisées et de fruits secs, adapté à la consommation quotidienne.",
       "imageUrl": "https://media.cdnws.com/_i/154691/766/3575/68/essentiels-paquets-55x140mm-3.png",
       "retailers": [
         {
@@ -50,18 +53,22 @@
       "id": "kawaty-alta-mogiana",
       "name": "ALTA MOGIANA Brésil",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Alta Mogiana",
+      "process": "Naturel",
+      "variety": "Bourbon jaune, Catuai",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Lait",
+        "Fraise",
+        "Ananas"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la région d'Alta Mogiana offre un profil fruité et sucré avec des notes de lait, fraise et ananas, caractérisé par une texture ronde et une belle complexité aromatique.",
       "imageUrl": "https://media.cdnws.com/_i/154691/767/1848/69/microlots-paquets-90x140mm-noir.png",
       "retailers": [
         {
@@ -83,18 +90,21 @@
       "id": "kawaty-bresil-mogiana",
       "name": "BRESIL MOGIANA",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Mogiana",
+      "process": "Nature",
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Faible",
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits à coque",
+        "Chocolat au lait"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la région Mogiana, traité en process nature, propose un profil sucré et équilibré avec une acidité faible et une texture généreuse, combinant des arômes de fruits secs et de chocolat.",
       "imageUrl": "https://media.cdnws.com/_i/154691/759/3757/61/origines-paquets-55x140mm-5.png",
       "retailers": [
         {
@@ -162,12 +172,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corsé",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café aromatisé au caramel composé principalement d'arabica, offrant un équilibre entre l'arôme de caramel et les caractéristiques du café.",
       "imageUrl": "https://media.cdnws.com/_i/154691/663/3800/64/img-4535.jpeg",
       "retailers": [
         {
@@ -195,12 +207,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corsé",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café aromatisé au caramel composé majoritairement d'arabica, offrant un profil équilibré entre la note aromatique et le caractère du café.",
       "imageUrl": "https://media.cdnws.com/_i/154691/661/3394/62/img-4536.jpeg",
       "retailers": [
         {
@@ -228,12 +242,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Moyennement corsé",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café aromatisé au caramel composé d'arabica avec un profil équilibré entre l'arôme de caramel et les caractéristiques du café.",
       "imageUrl": "https://media.cdnws.com/_i/154691/662/1207/63/img-4537.jpeg",
       "retailers": [
         {
@@ -369,12 +385,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noisette",
+        "Épices"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage de cafés africains et américains torréfié à Châteauroux, offrant une tasse intense et généreuse aux notes de noisette et d'épices, particulièrement adapté à la préparation en espresso.",
       "imageUrl": "https://media.cdnws.com/_i/154691/763/305/65/essentiels-paquets-55x140mm.png",
       "retailers": [
         {
@@ -396,18 +415,20 @@
       "id": "kawaty-melange-italien",
       "name": "MELANGE ITALIEN",
       "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Amérique centrale et Vietnam",
+      "process": "Lavé et naturel",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Marqué",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pain grillé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Blend d'arabica et robusta assemblant des cafés d'Amérique centrale et du Vietnam, conçu pour l'espresso avec un caractère intense et une belle persistance en bouche.",
       "imageUrl": "https://media.cdnws.com/_i/154691/765/3220/67/essentiels-paquets-55x140mm-2.png",
       "retailers": [
         {
@@ -429,18 +450,21 @@
       "id": "kawaty-mexique-chocaman",
       "name": "MEXIQUE CHOCAMAN",
       "originCountry": "Mexique",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Chocaman",
+      "process": "Lavé",
+      "variety": "Typica et Caturra",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Noix"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain de la région de Chocaman aux saveurs de chocolat et noix, offrant un profil doux et équilibré adapté à une consommation quotidienne. Traité en lavé et composé de variétés Typica et Caturra, il convient tant à l'espresso qu'au filtre.",
       "imageUrl": "https://media.cdnws.com/_i/154691/756/1903/58/origines-paquets-55x140mm-2.png",
       "retailers": [
         {
@@ -463,17 +487,20 @@
       "name": "MEXIQUE SUENO DK",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Lavé",
+      "variety": "Bourbon et Caturra",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain décaféiné à l'eau, alliant les variétés Bourbon et Caturra, présenté comme une tasse douce aux notes d'amande et de caramel, avec une texture soyeuse et un profil équilibré.",
       "imageUrl": "https://media.cdnws.com/_i/154691/764/1731/66/origines-paquets-55x140mm-9.png",
       "retailers": [
         {
@@ -564,18 +591,20 @@
       "id": "kawaty-nicaragua",
       "name": "NICARAGUA MONBACHO",
       "originCountry": "Nicaragua",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Région de Monbacho",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Céréalier"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café nicaraguayen de la région de Monbacho offre un profil doux et équilibré avec des notes céréalières, caractérisé par sa légèreté et sa faible amertume.",
       "imageUrl": "https://media.cdnws.com/_i/154691/761/2698/63/origines-paquets-55x140mm-7.png",
       "retailers": [
         {
@@ -598,17 +627,19 @@
       "name": "Pérou HB",
       "originCountry": "Pérou",
       "originDetail": null,
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien au profil doux et équilibré, offrant des notes de chocolat avec une texture souple. Adapté à la consommation quotidienne, il convient aussi bien à l'espresso qu'à la préparation filtre.",
       "imageUrl": "https://media.cdnws.com/_i/154691/755/3823/57/origines-paquets-55x140mm-2.png",
       "retailers": [
         {

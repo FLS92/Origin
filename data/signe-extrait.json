@@ -23,12 +23,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Corpulent",
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Giroflier",
+        "Vanille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café propose un profil épicé et vanillé, convenant aussi bien à l'espresso qu'aux méthodes de filtration pour une tasse riche et puissante.",
       "imageUrl": "https://www.extrait.fr/201-home_default/sunda-indonesie-cafe-grains-300g.jpg",
       "retailers": [
         {
@@ -49,19 +52,21 @@
     {
       "id": "signe-extrait-p80",
       "name": "CHIAPAS",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Mexique",
+      "originDetail": "Chiapas",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné à l'eau originaire de Chiapas au Mexique, présentant des notes cacaotées caractéristiques de sa région de production.",
       "imageUrl": "https://www.extrait.fr/212-home_default/chiapas-mexique-cafe-grains.jpg",
       "retailers": [
         {

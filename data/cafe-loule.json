@@ -26,9 +26,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Pruneau"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Infusion froide prête à boire, conçue pour être consommée nature ou dans des mocktails et cocktails, avec des notes de cacao et de pruneau.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0915/2066/3879/files/IMG-2365.png?v=1780592483",
       "retailers": [
         {

@@ -17,18 +17,21 @@
       "id": "cafe-claudio-nelda-cafe-de-colombie-boubon-rose-notes-de-jasmin-et-citronelle",
       "name": "Café de Colombie : Boubon Rose (Notes de jasmin et citronelle)",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "Département du Huila",
       "process": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbon Rose",
+      "producer": "Fredy Cordoba",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin",
+        "Citronelle"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien cultivé dans le Huila par Fredy Cordoba, offrant des notes florales et citronnées caractéristiques de la variété Bourbon Rose.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0574/2424/9014/files/FINCAELVISO-BORBONJPG.jpg?v=1747574430",
       "retailers": [
         {

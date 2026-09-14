@@ -376,19 +376,21 @@
     {
       "id": "le-cafe-qui-fume-cafe-vert-bio",
       "name": "Café vert grain BIO",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originCountry": "Pérou",
+      "originDetail": "Cécanor, 1000 - 2050 m",
+      "process": "Lavé",
+      "variety": "Bourbon, Catimor, Colombia",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Herbacé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café arabica vert en grains issus de la région de Cécanor au Pérou, destiné à être torréfié personnellement ou utilisé en décoction, disponible en certification biologique.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/cafevert.png?v=1686736343",
       "retailers": [
         {

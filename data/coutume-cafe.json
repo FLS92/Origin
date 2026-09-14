@@ -259,7 +259,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Bouilloire électrique avec col de cygne pour verser le café avec précision, dotée d'un réglage de température au degré près et d'une fonction de maintien au chaud.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/accessoire-bouilloire-timemore-fish-pro-noir-900ml.png?v=1776092894",
       "retailers": [
         {
@@ -512,18 +512,22 @@
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-2-kg",
       "name": "Café Brésil Mogiana 2kg",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "São José de Rio Pardo",
+      "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Praliné",
+        "Confiture de lait"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la région de Mogiana, traité en naturel, propose un profil sucré et gourmand avec des saveurs de cacao et de fruits confits, adapté à une consommation généraliste.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA2KG.png?v=1783680808",
       "retailers": [
         {
@@ -611,18 +615,22 @@
       "id": "coutume-cafe-cafe-colombie-filadelfia-2kg",
       "name": "Café Colombie Filadelfia 2kg",
       "originCountry": "Colombie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Huila",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
+      "producer": "Filadelfia",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Orange",
+        "Fruits jaunes",
+        "Sucre de canne"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité colombien traité par voie humide, offrant une tasse riche aux arômes d'agrumes et de fruits jaunes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/FILADELFIA1Kg_8990eeb2-2782-4a29-ac17-0dd938544889.png?v=1781510485",
       "retailers": [
         {
@@ -776,8 +784,8 @@
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-2kg",
       "name": "Café Décaféiné Mexique Sueño 2kg",
       "originCountry": "Mexique",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Chiapas",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -785,9 +793,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné de spécialité mexicain issu du Chiapas, traité par voie lavée et présentant un profil équilibré avec des notes de cacao.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO2KG.png?v=1783681046",
       "retailers": [
         {
@@ -875,18 +885,22 @@
       "id": "coutume-cafe-cafe-ethiopie-bedaye-2kg",
       "name": "Café Ethiopie Bedaye 2kg",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Jimma",
+      "process": "Naturel",
       "variety": null,
-      "producer": null,
+      "producer": "Bedaye",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Myrtille",
+        "Raisin",
+        "Abricot"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité éthiopien traité en naturel, originaire de la région de Jimma, présentant un profil aromatique fruité et complexe.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE2KG.png?v=1785244517",
       "retailers": [
         {
@@ -908,18 +922,22 @@
       "id": "coutume-cafe-cafe-ethiopie-sedi-loya-bio-2kg-copie",
       "name": "Café Éthiopie Sedi Loya BIO 2kg",
       "originCountry": "Éthiopie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Région d'Oromia",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
+      "producer": "Sedi Loya",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Mûre sauvage",
+        "Hibiscus",
+        "Groseille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café de spécialité biologique provenant d'Oromia offre un profil fruité et lumineux caractérisé par des notes de fruits rouges et de fleurs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SEDILOYA2KG.png?v=1787648519",
       "retailers": [
         {
@@ -1040,8 +1058,8 @@
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
       "name": "Café Guatemala Bendición 2kg",
       "originCountry": "Guatemala",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Acatenango",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
@@ -1049,9 +1067,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café de spécialité guatémaltéen au profil équilibré se distingue par ses notes de cacao et sa régularité d'extraction, le rendant particulièrement adapté à un usage professionnel.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION2KG.png?v=1783673358",
       "retailers": [
         {
@@ -1138,8 +1158,8 @@
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-cubi-10-litres",
       "name": "Cold Brew Bio Cubi 10L",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sedi Loya",
       "process": null,
       "variety": null,
       "producer": null,
@@ -1148,9 +1168,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Mûre",
+        "Tilleul"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité éthiopien préparé en infusion froide pendant 18 heures et doublement filtré, conditonné en cubi de 10 litres prêt à l'emploi. Ce cold brew bio offre un profil équilibré et rafraîchissant sans sucres ajoutés.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-cafe-noir-glace-cubi-10l.jpg?v=1775505102",
       "retailers": [
         {
@@ -1171,8 +1195,8 @@
     {
       "id": "coutume-cafe-cold-brew-bio-cubi-10l-copie",
       "name": "Cold Brew Bio Cubi 3L",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sedi Loya",
       "process": null,
       "variety": null,
       "producer": null,
@@ -1181,9 +1205,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Mûre",
+        "Tilleul"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de spécialité éthiopien préparé en cold brew bio, infusé à froid pendant 18 heures et doublement filtré, offrant un profil équilibré et rafraîchissant avec des notes de miel, mûre et tilleul.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-cafe-noir-glace-cubi-10l.jpg?v=1775505102",
       "retailers": [
         {
@@ -1204,8 +1232,8 @@
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-12-canettes",
       "name": "Cold Brew Bio Pack 12 x 20cl",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sedi Loya",
       "process": null,
       "variety": null,
       "producer": null,
@@ -1214,9 +1242,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Mûre",
+        "Tilleul"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un cold brew biologique préparé à partir d'un café de spécialité éthiopien, infusé à froid puis doublement filtré pour offrir un profil équilibré et désaltérant.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-pack-12x25cl.png?v=1775503667",
       "retailers": [
         {
@@ -1237,8 +1269,8 @@
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-24-canettes",
       "name": "Cold Brew Bio Pack 24 x 20cl",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sedi Loya",
       "process": null,
       "variety": null,
       "producer": null,
@@ -1247,9 +1279,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Mûre",
+        "Tilleul"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité éthiopien préparé en cold brew selon un processus d'infusion froide prolongée et de double filtration, présenté sous forme de canette prête à boire sans ajout de sucre.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-pack-24x25cl.png?v=1775503535",
       "retailers": [
         {
@@ -1270,8 +1306,8 @@
     {
       "id": "coutume-cafe-cold-brew-bio-pack-de-6-canettes",
       "name": "Cold Brew Bio Pack 6 x 20cl",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sedi Loya",
       "process": null,
       "variety": null,
       "producer": null,
@@ -1280,9 +1316,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Mûre",
+        "Tilleul"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de spécialité éthiopien préparé en cold brew biologique, infusé à froid et doublement filtré pour offrir une boisson équilibrée et rafraîchissante sans sucres ajoutés.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/cold-brew-bio-pack-6x25cl.png?v=1775503475",
       "retailers": [
         {

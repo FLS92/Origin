@@ -17,18 +17,24 @@
       "id": "l-alchimiste-gesha",
       "name": "Gesha Finca Gascon",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Finca Gascon, ferme de Felipe Contreras",
       "process": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Felipe Contreras",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin",
+        "Mûre",
+        "Framboise",
+        "Pêche blanche",
+        "Raisin blanc"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha rare et complexe offrant une texture délicate avec des arômes floraux et fruités prononcés.",
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2026/03/dsc00073-scaled.jpg",
       "retailers": [
         {
@@ -226,7 +232,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café cultivé sous ombrage diversifié par une coalition de producteurs biologiques engagés dans une démarche de qualité face aux défis climatiques.",
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2023/01/phoenix1.png",
       "retailers": [
         {
@@ -358,7 +364,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un livre de James Hoffmann sur les techniques pour préparer un excellent café à domicile.",
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2022/12/thebestcoffee.jpg",
       "retailers": [
         {
@@ -391,7 +397,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Produit présenté comme une ressource pédagogique générale sur le café, sans détails spécifiques sur son origine, son traitement ou son profil organoleptique.",
       "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/03/dsc04646-scaled.jpg",
       "retailers": [
         {

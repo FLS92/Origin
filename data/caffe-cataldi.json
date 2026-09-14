@@ -17,18 +17,21 @@
       "id": "caffe-cataldi-p557",
       "name": "Kenya Inoi Kianderi AA",
       "originCountry": "Kenya",
-      "originDetail": null,
+      "originDetail": "Inoi Kianderi",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Doux",
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Abricots",
+        "Quetsches"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kenyan présentant un profil aromatique caractéristique avec des notes de fruits séchés, offrant une tasse équilibrée et agréable.",
       "imageUrl": "https://www.caffe-cataldi.fr/734-home_default/kenya-inoi-kianderi-aa.jpg",
       "retailers": [
         {
@@ -50,18 +53,20 @@
       "id": "caffe-cataldi-p556",
       "name": "Rwanda Gitesi",
       "originCountry": "Rwanda",
-      "originDetail": null,
+      "originDetail": "Gitesi",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Acidulée",
+      "body": "Corpulent",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Prune"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café rwandais présentant une acidité vive et un corps ample, avec des notes de prune, conçu pour l'espresso.",
       "imageUrl": "https://www.caffe-cataldi.fr/735-home_default/rwanda-gitesi.jpg",
       "retailers": [
         {
@@ -84,17 +89,22 @@
       "name": "Honduras Caballero - Bomba de Fruta",
       "originCountry": "Honduras",
       "originDetail": null,
-      "process": null,
+      "process": "Naturel",
       "variety": null,
-      "producer": null,
+      "producer": "Caballero",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Mangue",
+        "Abricot",
+        "Fraise compotée",
+        "Fève de cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café hondurien traité en naturel se distingue par un profil aromatique original et fruité, dominé par des notes de fruits tropicaux et de cacao.",
       "imageUrl": "https://www.caffe-cataldi.fr/737-home_default/honduras-caballero-bomba-de-fruta.jpg",
       "retailers": [
         {
@@ -116,18 +126,21 @@
       "id": "caffe-cataldi-p548",
       "name": "Guatemala La Libertad Mochilita",
       "originCountry": "Guatemala",
-      "originDetail": null,
+      "originDetail": "La Libertad",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Mochilita",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café doux aux notes chocolatées et caramélisées, présentant une bonne persistance aromatique.",
       "imageUrl": "https://www.caffe-cataldi.fr/728-home_default/guatemala-la-libertad-mochilita.jpg",
       "retailers": [
         {
@@ -154,13 +167,16 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Légère",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noisette",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné péruvien présentant des profils aromatiques de noisette et caramel avec une acidité discrète.",
       "imageUrl": "https://www.caffe-cataldi.fr/720-home_default/perou-decafeine-manzanilla.jpg",
       "retailers": [
         {
@@ -184,16 +200,18 @@
       "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Geisha",
+      "producer": "Hervey et Rocio Cuellar",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corpulent",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Floral"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien de variété Geisha aux notes florales, doté d'un corps imposant et d'une finale remarquable.",
       "imageUrl": "https://www.caffe-cataldi.fr/718-home_default/colombie-geisha-hervey-et-rocio-cuellar.jpg",
       "retailers": [
         {
@@ -218,15 +236,18 @@
       "originDetail": null,
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "FAF Curupira",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien aux saveurs douces et chocolatées avec des notes de caramel, offrant une belle persistance en bouche, transporté par voie maritime.",
       "imageUrl": "https://www.caffe-cataldi.fr/714-home_default/bresil-faf-curupira.jpg",
       "retailers": [
         {
@@ -248,18 +269,18 @@
       "id": "caffe-cataldi-p519",
       "name": "Colombie Huila Remolinos",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "Huila Remolinos",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "présente mais parfaitement fondue",
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café colombien offre un profil équilibré avec une texture ronde et une acidité bien intégrée.",
       "imageUrl": "https://www.caffe-cataldi.fr/703-home_default/colombie-huila-remolinos.jpg",
       "retailers": [
         {
@@ -292,7 +313,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un ouvrage éducatif consacré aux généralités sur le café.",
       "imageUrl": "https://www.caffe-cataldi.fr/432-home_default/le-cafe-c-est-pas-sorcier.jpg",
       "retailers": [
         {

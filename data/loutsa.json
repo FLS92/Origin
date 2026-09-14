@@ -158,9 +158,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Amande",
+        "Cerise",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café en assemblage offre des notes de chocolat noir, amande, cerise et caramel, avec une finale marquée par la torréfaction.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/signature-mouffetard-8549733.jpg?v=1776355749",
       "retailers": [
         {
@@ -191,9 +196,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Amande",
+        "Cerise",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage de café sans origine géographique précisée, caractérisé par des notes de chocolat noir, amande, cerise et caramel.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/signature-jules-guesde-3259243.jpg?v=1776355749",
       "retailers": [
         {
@@ -255,11 +265,14 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un coffret cadeau festif composé d'une huile au café, de guimauve et d'un café espresso, proposant des notes de chocolat et de caramel.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-gourmand-551944.jpg?v=1749047524",
       "retailers": [
         {
@@ -280,19 +293,25 @@
     {
       "id": "loutsa-coffret-gastronomique",
       "name": "COFFRET GASTRONOMIQUE",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Plantation Gidaamii",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Gidaamii",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Framboise",
+        "Pêche blanche",
+        "Jasmin",
+        "Fruit de la passion",
+        "Myrtille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien permanent de la plantation Gidaamii proposé en coffret gastronomique accompagné d'une liqueur au café en collaboration avec la Maison Jacoulot, destiné aux amateurs de saveurs authentiques.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-gastronomique-211597.jpg?v=1749047518",
       "retailers": [
         {
@@ -313,7 +332,7 @@
     {
       "id": "loutsa-coffret-artisanal",
       "name": "COFFRET ARTISANAL",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -321,11 +340,11 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un coffret cadeau composé d'un café péruvien permanent appelé Prosperidad et de guimauves cappuccino artisanales infusées au café, destiné à offrir une expérience de dégustation originale.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-artisanal-115436.jpg?v=1749047516",
       "retailers": [
         {

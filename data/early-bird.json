@@ -92,9 +92,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Thé noir",
+        "Citron",
+        "Prune"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de Tanzanie aux notes de thé noir, citron et prune.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/tanzania-mbeya-sticker.png",
       "retailers": [
         {
@@ -125,9 +129,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Thé noir",
+        "Citron",
+        "Pruneau"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de Tanzanie aux notes de thé noir, citron et pruneau.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/tanzania-mbeya-sticker.png",
       "retailers": [
         {
@@ -158,9 +166,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pêche",
+        "Abricot",
+        "Groseille rouge",
+        "Vanille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien aux notes fruitées et vanillées.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/colombia-huila-yellow.png",
       "retailers": [
         {
@@ -191,9 +204,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pêche",
+        "Abricot",
+        "Groseille rouge",
+        "Vanille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de Colombie aux notes fruitées et épicées.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/colombia-huila-yellow.png",
       "retailers": [
         {
@@ -290,9 +308,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Biscuit",
+        "Thé noir",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café guatémaltèque aux notes de fruits, de céréales et de thé.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/11/guatemala-pack.png",
       "retailers": [
         {
@@ -323,9 +346,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Biscuit",
+        "Thé noir",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café du Guatemala aux profils gustatifs variés alliant notes douces, épicées et fruitées.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/11/guatemala-pack.png",
       "retailers": [
         {
@@ -385,13 +413,16 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Bonne",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Fruits frais"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café colombien propose des saveurs d'amande et de fruits frais avec une acidité équilibrée et une douceur atténuée.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2024/06/swiss-water-decaf.png",
       "retailers": [
         {
@@ -418,13 +449,16 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Bonne",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Fruits frais"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de Colombie aux saveurs douces combinant des notes d'amande et de fruits frais, caractérisé par une acidité bien présente.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2024/06/swiss-water-decaf.png",
       "retailers": [
         {
@@ -445,19 +479,23 @@
     {
       "id": "early-bird-sumatra",
       "name": "Sumatra",
-      "originCountry": null,
+      "originCountry": "Indonésie",
       "originDetail": null,
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "vineuse",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cassis séché",
+        "Raisin blond",
+        "Ananas cuit"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de Sumatra aux notes de fruits secs et épices, marqué par une acidité vineuse caractéristique.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2024/06/sumatra-aceh.png",
       "retailers": [
         {
@@ -518,12 +556,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Nougat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café du Honduras, torréfié pour l'espresso, présente un corps rond avec des notes de chocolat au lait et de nougat.",
       "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/corquin-honduras.png",
       "retailers": [
         {

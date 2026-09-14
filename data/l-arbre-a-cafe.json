@@ -511,11 +511,11 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Kit de découverte comprenant 12 dosettes de café espresso réparties entre cinq références, accompagné de deux tasses. Les cafés sont issus du commerce direct, certifiés biologiques et cultivés selon les principes de la biodynamie Demeter.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/kit-decouverte-offre-de-lancement-reniala-larbre-a-cafe-cafe-5421501.png?v=1770105194",
       "retailers": [
         {

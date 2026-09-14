@@ -94,7 +94,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret de démarrage pour préparer du café en capsules réutilisables, composé d'un shakeur breveté, de capsules en inox et d'opercules compostables.",
       "imageUrl": "https://shop.cafes-goneo.fr/3995-large_default/coffret-complet-caps-me.jpg",
       "retailers": [
         {
@@ -122,12 +122,12 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rondeur",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Pack composé de trois blends de 500g chacun, créés par le torréfacteur pour offrir des profils aromatiques distincts, dont un récompensé comme meilleur blend espresso en France en 2017.",
       "imageUrl": "https://shop.cafes-goneo.fr/3704-large_default/pack-blends-signature-3-x-500g.jpg",
       "retailers": [
         {
@@ -148,8 +148,8 @@
     {
       "id": "cafes-goneo-p685",
       "name": "PACK BARISTA",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Pérou",
+      "originDetail": "Palma Central",
       "process": null,
       "variety": null,
       "producer": null,
@@ -158,9 +158,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Douces"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un arabica biologique péruvien aux profils aromatiques doux et équilibrés, torréfié de manière artisanale, destiné à l'utilisation en boissons à base de lait.",
       "imageUrl": "https://shop.cafes-goneo.fr/3854-large_default/pack-barista.jpg",
       "retailers": [
         {
@@ -181,19 +183,25 @@
     {
       "id": "cafes-goneo-p727",
       "name": "Pack découverte - 3 x 250g",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Pérou",
+      "originDetail": "Palma Central",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Fruits noirs",
+        "Miel",
+        "Orange",
+        "Chocolat blanc"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Pack découverte composé de trois cafés de spécialité en boîtes métalliques réutilisables : deux blends et une origine pure du Pérou, offrant des profils allant du soyeux et sucré au fruité et équilibré.",
       "imageUrl": "https://shop.cafes-goneo.fr/4085-large_default/pack-deouverte-3-x-250g.jpg",
       "retailers": [
         {

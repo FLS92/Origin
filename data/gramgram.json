@@ -308,7 +308,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit n'est pas un café mais un détartrant pour machines à café.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/entretien_delonghi.png",
       "retailers": [
         {
@@ -341,7 +341,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Conteneur de conservation sous vide conçu pour préserver la fraîcheur du café en limitant l'oxydation.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/66-BOCAL-DE-CONSERVATION-AVEC-VIDE-DAIR-ACIER.jpg",
       "retailers": [
         {
@@ -374,7 +374,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Récipient de conservation sous vide conçu pour préserver la fraîcheur des aliments et du café en limitant l'oxydation, fabriqué en verre et silicone.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/03/IMG-20200331-WA0005.jpg",
       "retailers": [
         {
@@ -507,12 +507,16 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": "50%",
-      "flavors": null,
+      "flavors": [
+        "Cacahuète grillée",
+        "Agrumes",
+        "Pain toasté"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café mexicain décaféiné offre un profil gourmand et aromatique, traité par une méthode naturelle à l'eau de montagne qui préserve sa complexité.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/70-Cafe-MEXIQUE-AZTECA.jpg",
       "retailers": [
         {
@@ -613,7 +617,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Récipient de conservation sous vide en verre et silicone conçu pour préserver la fraîcheur du café en limitant l'exposition à l'oxydation.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/61-BOCAL-DE-CONSERVATION-AVEC-VIDE-DAIR-VERRE.jpg",
       "retailers": [
         {
@@ -646,7 +650,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Kit de dégustation comprenant 200 capsules et trois paquets de 250g de cafés d'origines pures : Colombie, Équateur et Rwanda.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/59-KIT-200-CAPSULES-3-PAQUETS-DE-250G.jpg",
       "retailers": [
         {
@@ -679,7 +683,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'une machine à café automatique avec broyeur intégré, non d'un café à déguster.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/GRAMGRAM-MACHINE-A-CAFE-DELONGHI-AVEC-BROYEUR.jpg",
       "retailers": [
         {
@@ -712,7 +716,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Assortiment de dégustation composé de six cafés arabicas originaires d'Éthiopie, Colombie, Salvador, Rwanda, Pérou et Costa Rica, proposé en grains ou moulu selon les préférences.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/57-ASSORTIMENT-DEGUSTATION.jpg",
       "retailers": [
         {

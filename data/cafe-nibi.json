@@ -123,19 +123,22 @@
     {
       "id": "cafe-nibi-arabica-gesha-cafe-de-specialite",
       "name": "L'Irrésistible - Arabica Gesha Colombien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "originCountry": "Colombie",
+      "originDetail": "Région d'Apia, entre 1650 et 1750 mètres d'altitude",
+      "process": "Lavé",
+      "variety": "Geisha",
+      "producer": "Philippe, Didier et Liliana",
+      "score": 87.5,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits rouges",
+        "Cerise"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica geisha 100 % de Colombie, cultivé en altitude et traité par lavage. Le café offre un profil aromatique complexe dominé par les fruits rouges et la cerise, convenant aussi bien aux méthodes douces qu'à l'espresso.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1721671914206-EC3DYTT35WDVD2GZXY1A/L%27Irr%C3%A9sistible+%284%29.png",
       "retailers": [
         {
@@ -191,19 +194,22 @@
     {
       "id": "cafe-nibi-arabica-kenya-cafe-specialite",
       "name": "L'Elégant - Arabica Kenyan",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originCountry": "Kenya",
+      "originDetail": "Mont Kenya, station de lavage Karatu, 1900 mètres d'altitude",
+      "process": "Lavé à la méthode kenyane",
+      "variety": "K7, SL28",
+      "producer": "Coopérative Karatu",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Épices"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un arabica kenyan lavé produit par une coopérative du Mont Kenya, présentant des notes de cacao et d'épices avec une légère amertume.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/e0ca9f1d-07e9-4439-b2f1-b3017ad53e1f/L%27Elegant.png",
       "retailers": [
         {
@@ -225,18 +231,18 @@
       "id": "cafe-nibi-costaud-blend-arabica-robusta-cafe-grain-moulu",
       "name": "Le Costaud Blend - Arabica + Robusta",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Brésil (arabica), Inde (robusta)",
       "process": null,
-      "variety": null,
+      "variety": "Arabica, Robusta",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage équilibré composé d'arabica brésilien et de robusta indien, créant un café crémeux et intense destiné aux amateurs de cafés forts à l'italienne.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718727869553-Y1ZI2HBUQX54DQAGCZGS/Packshot-Le-Costaud-200g-Transp.png",
       "retailers": [
         {
@@ -257,19 +263,22 @@
     {
       "id": "cafe-nibi-distingue-arabica-colombien-grain-moulu",
       "name": "Le Distingué - Arabica Colombien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "Colombie",
+      "originDetail": "Région de Cauca",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
+      "producer": "Communautés paysannes",
+      "score": 84.5,
+      "acidity": "Légère",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noisette",
+        "Caramélisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica colombien d'équilibre agréable provenant de la région de Cauca, cultivé en altitude par des communautés paysannes et traité par lavage.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/2d9691c5-9d95-4f73-8fcc-63ed9bfa201f/Packshot-Le-Distingu%C3%A9-200g-Transp.png",
       "retailers": [
         {
@@ -290,19 +299,22 @@
     {
       "id": "cafe-nibi-aventurier-arabica-guatemala",
       "name": "L'Aventurier - Arabica Guatémaltèque",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
+      "originCountry": "Guatemala",
+      "originDetail": "Huehuetenango, 1600 m d'altitude",
+      "process": "Lavé",
+      "variety": "Bourbon rouge, Caturra rouge",
+      "producer": "Famille Ovalle",
+      "score": 84,
+      "acidity": "Pointe d'acidité",
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruité",
+        "Caramélisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica guatémaltèque cultivé en altitude dans la région de Huehuetenango, cet assemblage de bourbon rouge et caturra rouge offre un profil fruité et caramélisé avec une légère acidité.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1701118242744-8BZS06434QF3FNOJ7GEX/Packshot-L-AVENTURIER-200g-Transp.png",
       "retailers": [
         {
@@ -323,19 +335,22 @@
     {
       "id": "cafe-nibi-eclaireur-par-arabica-ethiopie-grain-",
       "name": "L'Eclaireur - Arabica Ethiopien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Kaffa",
+      "process": "Naturel",
+      "variety": "74112, 74110",
+      "producer": "Ephrem Mulugeta",
+      "score": 86,
+      "acidity": "Légère",
+      "body": "Rond",
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruité",
+        "Aromatique"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet arabica éthiopien de la région de Kaffa offre une tasse aromatique et fruitée avec un corps rond et une acidité légère. Cultivé à 1900 m d'altitude en traitement naturel, il se distingue par sa grande qualité gustative.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1700682204584-NV4TI66KODNQLA20D7UT/Packshot-L-Eclaireur-200g-Transp.png",
       "retailers": [
         {
@@ -356,19 +371,21 @@
     {
       "id": "cafe-nibi-magnifique-arabica-colombien-grain-moulu",
       "name": "Le Magnifique - Arabica Colombien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
+      "originCountry": "Colombie",
+      "originDetail": "Région de Huila",
+      "process": "Lavé",
+      "variety": "Cenicafe, Colombia, Castillo",
+      "producer": "Yuppie",
+      "score": 84,
+      "acidity": "Belle",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruité"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet arabica colombien de la région de Huila offre un profil fruité avec une acidité notable. Traité par voie lavée, il présente un score de 84 et provient de producteurs cultivant plusieurs variétés à haute altitude.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1700681406639-BU3A45J76PAAU2OE2T83/Packshot-Le-magnifique-200g-Transp.png",
       "retailers": [
         {
@@ -393,15 +410,18 @@
       "originDetail": null,
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Café Nibi",
       "score": null,
-      "acidity": null,
+      "acidity": "Légère",
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Épicé",
+        "Fruité"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage signature 100 % arabica alliant un café kenyan et indonésien, offrant un profil aromatique complexe et surprenant avec des notes épicées et fruitées.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/7297f3ab-2004-46d6-9fe3-331c933dba12/Design+sans+titre+%284%29.png",
       "retailers": [
         {
@@ -422,19 +442,19 @@
     {
       "id": "cafe-nibi-deca-arabica-mexicain-mountainwater-",
       "name": "Le Déca - Arabica Mexicain",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originCountry": "Mexique",
+      "originDetail": "Chiapas",
+      "process": "Lavé",
+      "variety": "Catimor, Red Caturra",
+      "producer": "Jorge Arreola Nava",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica mexicain décaféiné cultivé à Chiapas, traité à l'eau par procédé Mountain Water, offrant un profil équilibré et sucré adapté à plusieurs modes de préparation.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1717612552643-LA9RWKMYFGC9E3XE48XV/Packshot-Le-deca-200g-Transp.png",
       "retailers": [
         {
@@ -455,19 +475,21 @@
     {
       "id": "cafe-nibi-le-robuste",
       "name": "Le Robuste - Robusta Indien",
-      "originCountry": null,
+      "originCountry": "Inde",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Robusta",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Corsé",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Épicé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Robusta indien de spécialité aux profils épicés et corsés, particulièrement adapté à la préparation en espresso ou en cafetière italienne.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718736110940-Z2IPZP5PQ0MJYBFGDZF6/Packshot-Le-Robuste-200g-Transp.png",
       "retailers": [
         {
@@ -500,7 +522,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret découverte composé de trois cafés arabica monooriginaux : un éthiopien aux notes florales, un guatémaltèque fruité et lumineux, et un brésilien aux arômes de cacao, présentés en grain ou moulu.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1721329132596-MS4PC3K3AFU5SQXQG3QE/PACKDEC200.png",
       "retailers": [
         {
@@ -554,19 +576,21 @@
     {
       "id": "cafe-nibi-capsule-compatible-arabica-colombie",
       "name": "Etui de 10 Capsules Le Magnifique - Arabica Colombien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
+      "originCountry": "Colombie",
+      "originDetail": "Région de Huila",
+      "process": "Lavé",
+      "variety": "Cenicafe, Colombia, Castillo",
+      "producer": "Yuppie",
+      "score": 84,
+      "acidity": "Belle",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruité"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un 100 % arabica colombien de la région de Huila, traité par lavage, offrant un profil fruité avec une acidité prononcée.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/b07ffc78-69da-4246-9a55-8c2c669782eb/magnifique+paquet+du+caf%C3%A9+et+capsules.png",
       "retailers": [
         {
@@ -623,19 +647,22 @@
     {
       "id": "cafe-nibi-capsule-compatible-arabica-colombien",
       "name": "Etui de 10 Capsules Le Distingué - Arabica Colombien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "Colombie",
+      "originDetail": "Région de Cauca, 1400-2000 m d'altitude",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
+      "producer": "Communautés paysannes",
+      "score": 84.5,
+      "acidity": "Légère",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noisette",
+        "Caramélisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet arabica colombien de la région de Cauca offre un profil équilibré combinant des notes noisette et caramélisées avec une acidité mesurée, cultivé en altitude par des communautés paysannes locales.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/54866ac7-c6cd-46ac-b073-dabab1dd9f07/distingue+paquet+du+caf%C3%A9+et+capsules.png",
       "retailers": [
         {
@@ -656,19 +683,19 @@
     {
       "id": "cafe-nibi-capsule-compatible-arabica-guatemala",
       "name": "Etui de 10 Capsules L' Aventurier - Arabica Guatémaltèque",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "originCountry": "Guatémala",
+      "originDetail": "Huehuetenango, 1600 m d'altitude",
+      "process": "Lavé",
+      "variety": "Bourbon rouge, Caturra rouge",
+      "producer": "Famille Ovalle",
+      "score": 84,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Cet arabica guatémaltèque 100 % cultivé en montagne associe deux variétés rouges dans un profil équilibré et intensément dosé.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/f286942f-af49-4e91-a549-1071115a94c8/aventurier+paquet+du+caf%C3%A9+et+capsules.png",
       "retailers": [
         {
@@ -689,19 +716,19 @@
     {
       "id": "cafe-nibi-capsule-compatible-le-costaud-blend-assemblage",
       "name": "Etui de 10 capsules Le Costaud - Arabica Colombien, Robusta Indien",
-      "originCountry": null,
+      "originCountry": "Brésil, Inde",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Arabica, Robusta",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Crémeux",
       "method": null,
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage combinant 75 % d'arabica brésilien certifié UTZ et 25 % de robusta indien, créant un café intense et crémeux conçu pour les amateurs de cafés forts de style italien.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/01f7d221-03de-42df-9637-a3ed5bfbcd82/costaud+paquet+du+caf%C3%A9+et+capsules.png",
       "retailers": [
         {
@@ -722,19 +749,19 @@
     {
       "id": "cafe-nibi-capsule-compatible-deca-sanssolvant-decac02",
       "name": "Etui de 10 Capsules Le Déca - Décaféiné Arabica Brésilien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "Brésil",
+      "originDetail": "Projet MIRIM",
+      "process": "Décaféiné au CO2",
       "variety": null,
-      "producer": null,
+      "producer": "FAF Coffee",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Crémeux",
       "method": null,
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné brésilien au CO2, crémeux et équilibré, provenant du projet MIRIM de FAF Coffee qui valorise les grains de petite taille pour réduire le gaspillage.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/f8a16e6d-95e6-47b1-a190-82d76daa78cd/d%C3%A9ca+paquet+du+caf%C3%A9+et+capsules.png",
       "retailers": [
         {
@@ -758,16 +785,19 @@
       "originCountry": null,
       "originDetail": null,
       "process": null,
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica",
+      "producer": "Café Nibi",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fruité",
+        "ensoleillées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret découverte contenant trois mélanges de café en capsules Nespresso, proposant différents profils de saveur et d'intensité, de la colombienne fruitée à l'assemblage robusta puissant.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/304052c6-857b-49e3-9f67-75c0dfb5cfb4/6CAPSDEC-Fond+transparent.png",
       "retailers": [
         {
@@ -788,8 +818,8 @@
     {
       "id": "cafe-nibi-th-noir-assam-100-gr",
       "name": "Thé Noir - Assam - 100 gr",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Inde",
+      "originDetail": "Vallée d'Assam",
       "process": null,
       "variety": null,
       "producer": null,
@@ -798,9 +828,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Boisées",
+        "Fruitées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Thé noir indien cultivé en Assam, offrant des notes boisées et fruitées, à déguster nature ou avec un trait de lait.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/9ba7ca4c-782d-4f92-b689-c885245fe076/ASSAM.png",
       "retailers": [
         {
@@ -833,7 +866,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'un produit de thé, non de café.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/5b2ad3d6-f997-4a35-b24e-f7f166f42130/GENMAICHA.png",
       "retailers": [
         {
@@ -864,9 +897,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "notes iodées",
+        "notes végétales"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Thé vert japonais composé principalement de tiges de théier, offrant une saveur douce et équilibrée avec une faible teneur en théine.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/32c5a6d1-8f6d-4b9f-87ae-09e4d0013622/KUKICHA+%282%29.png",
       "retailers": [
         {
@@ -899,7 +935,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce produit n'est pas un café mais un thé noir Pu Erh.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/4ecc66e1-0df3-4a82-9a7d-abeae5150ec8/PU+ERH.png",
       "retailers": [
         {
@@ -930,9 +966,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Beurre",
+        "Crème",
+        "Fleurs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Thé oolong aux notes délicates de beurre, crème et fleurs, élaboré à partir de feuilles chinoises sélectionnées et travaillées avec soin.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/16966284-69b1-497e-b2a9-e7f37827206e/MILKY+OOLONG.png",
       "retailers": [
         {
@@ -953,7 +993,7 @@
     {
       "id": "cafe-nibi-rooibos-100-gr",
       "name": "Rooibos - 100 gr",
-      "originCountry": null,
+      "originCountry": "Afrique du Sud",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -963,9 +1003,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Infusion douce à base de rooibos originaire d'Afrique du Sud, aux notes naturellement sucrées et florales, enrichie d'arômes de fruits rouges.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/ef593538-8b67-49e2-b3ab-b2c2bbc325b2/ROOIBOS.png",
       "retailers": [
         {
@@ -998,7 +1040,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Sac en coton offert à partir d'un achat de 59 euros chez Café Nibi.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718225914663-HWG2KRZXD7SL48KBY8CD/Design+sans+titre+%2827%29.png",
       "retailers": [
         {
