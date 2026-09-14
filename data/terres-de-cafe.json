@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.terresdecafe.com/img/logo.png"
   },
-  "scrapedAt": "2026-09-07T05:13:41Z",
+  "scrapedAt": "2026-09-14T05:14:22Z",
   "products": [
     {
       "id": "terres-de-cafe-p2099",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2098",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2095",
@@ -121,7 +121,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1445",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p78",
@@ -201,7 +201,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p588",
@@ -241,7 +241,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2094",
@@ -277,7 +277,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2092",
@@ -314,7 +314,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1441",
@@ -353,7 +353,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2087",
@@ -391,11 +391,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1978",
-      "name": "Café Felix Project Caranavi",
+      "name": "Café Felix Project Caranavi...",
       "originCountry": "Bolivie",
       "originDetail": "Caranavi, La Paz",
       "process": "Nature",
@@ -414,11 +414,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10006-medium_default/cafe-felix-project-caranavi.webp",
+      "imageUrl": "https://www.terresdecafe.com/10006-medium_default/cafe-felix-project-caranavi-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1978-28962-cafe-felix-project-caranavi.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1978-28962-cafe-felix-project-caranavi-bio.html",
           "price": 13.2,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -429,7 +429,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p392",
@@ -468,7 +468,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1966",
@@ -489,11 +489,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10033-medium_default/cafe-altos-de-bijao-estate-project.webp",
+      "imageUrl": "https://www.terresdecafe.com/10033-medium_default/cafe-altos-de-bijao-estate-project-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1966-28946-cafe-altos-de-bijao-estate-project.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1966-28946-cafe-altos-de-bijao-estate-project-bio.html",
           "price": 14.6,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -504,7 +504,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p394",
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1938",
@@ -577,7 +577,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2004",
@@ -620,7 +620,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1442",
@@ -659,7 +659,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2010",
@@ -706,11 +706,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1790",
-      "name": "Café Taba Hills - Nature",
+      "name": "Café Taba Hills Nature Bio",
       "originCountry": "Rwanda",
       "originDetail": "Taba Hills",
       "process": "Nature",
@@ -731,11 +731,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10184-medium_default/cafe-taba-hills-nature.webp",
+      "imageUrl": "https://www.terresdecafe.com/10455-medium_default/cafe-taba-hills-nature-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1790-26999-cafe-taba-hills-nature-3700926147199.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1790-26999-cafe-taba-hills-nature-bio-3700926147199.html",
           "price": 15.9,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -746,7 +746,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1696",
@@ -784,7 +784,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2002",
@@ -821,7 +821,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1396",
@@ -862,7 +862,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2035",
@@ -899,7 +899,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2008",
@@ -939,7 +939,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1832",
@@ -979,7 +979,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1937",
@@ -1003,11 +1003,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10190-medium_default/cafe-fazenda-ambiental-fortaleza-arara-natural.webp",
+      "imageUrl": "https://www.terresdecafe.com/10190-medium_default/cafe-fazenda-ambiental-fortaleza-arara-natural-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1937-28290-cafe-fazenda-ambiental-fortaleza-arara-natural-3700926145379.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1937-28290-cafe-fazenda-ambiental-fortaleza-arara-natural-bio-3700926145379.html",
           "price": 23.9,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -1018,11 +1018,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p923",
-      "name": "Café KSF Old Trees",
+      "name": "Café KSF Old Trees Bio",
       "originCountry": "Ethiopie",
       "originDetail": "Limmu / Khalid Shifa Farm",
       "process": "Nature",
@@ -1044,11 +1044,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/9832-medium_default/cafe-ksf-old-trees.webp",
+      "imageUrl": "https://www.terresdecafe.com/9832-medium_default/cafe-ksf-old-trees-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/923-18136-cafe-ksf-old-trees.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/923-18136-cafe-ksf-old-trees-bio.html",
           "price": 20.3,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -1059,7 +1059,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1988",
@@ -1098,7 +1098,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2017",
@@ -1136,7 +1136,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1961",
@@ -1173,7 +1173,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1878",
@@ -1211,7 +1211,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2071",
@@ -1235,11 +1235,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10048-medium_default/cafe-finca-elizabeth-parainema-washed.webp",
+      "imageUrl": "https://www.terresdecafe.com/10048-medium_default/cafe-finca-elizabeth-parainema-washed-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/2071-30167-cafe-finca-elizabeth-parainema-washed.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/2071-30167-cafe-finca-elizabeth-parainema-washed-bio.html",
           "price": 23.9,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -1250,7 +1250,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2076",
@@ -1287,7 +1287,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1697",
@@ -1326,7 +1326,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2056",
@@ -1363,7 +1363,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2029",
@@ -1401,7 +1401,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1836",
@@ -1438,7 +1438,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1920",
@@ -1476,7 +1476,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1942",
@@ -1516,7 +1516,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1953",
@@ -1549,7 +1549,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2072",
@@ -1586,7 +1586,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1996",
@@ -1624,7 +1624,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1990",
@@ -1662,7 +1662,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2086",
@@ -1698,7 +1698,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2012",
@@ -1739,7 +1739,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1959",
@@ -1772,7 +1772,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1998",
@@ -1809,7 +1809,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2084",
@@ -1845,7 +1845,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2028",
@@ -1883,7 +1883,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1960",
@@ -1916,7 +1916,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p62",
@@ -1955,7 +1955,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-09-07T05:13:41Z"
     },
@@ -1995,7 +1995,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2062",
@@ -2033,7 +2033,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p585",
@@ -2072,11 +2072,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p405",
-      "name": "Café H3",
+      "name": "Café H3 Bio",
       "originCountry": "Ethiopie",
       "originDetail": null,
       "process": "LavéNature",
@@ -2094,11 +2094,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/9533-medium_default/cafe-h3.webp",
+      "imageUrl": "https://www.terresdecafe.com/9533-medium_default/cafe-h3-bio.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/405-20371-cafe-h3-3700926145461.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/405-20371-cafe-h3-bio-3700926145461.html",
           "price": 15.9,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -2109,7 +2109,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2006",
@@ -2155,7 +2155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1073",
@@ -2197,7 +2197,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1082",
@@ -2234,7 +2234,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1263",
@@ -2267,7 +2267,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p843",
@@ -2303,7 +2303,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p409",
@@ -2341,7 +2341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1983",
@@ -2364,11 +2364,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10005-medium_default/cafe-felix-project-caranavi-kg.webp",
+      "imageUrl": "https://www.terresdecafe.com/10005-medium_default/cafe-felix-project-caranavi-bio-kg.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1983-29010-cafe-felix-project-caranavi-kg.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1983-29010-cafe-felix-project-caranavi-bio-kg.html",
           "price": 45.9,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -2379,7 +2379,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p408",
@@ -2417,7 +2417,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1939",
@@ -2455,7 +2455,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p399",
@@ -2490,7 +2490,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1984",
@@ -2511,11 +2511,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/9723-medium_default/cafe-altos-de-bijao-estate-project-kg.webp",
+      "imageUrl": "https://www.terresdecafe.com/9723-medium_default/cafe-altos-de-bijao-estate-project-bio-kg.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1984-29026-cafe-altos-de-bijao-estate-project-kg.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1984-29026-cafe-altos-de-bijao-estate-project-bio-kg.html",
           "price": 51.9,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -2526,7 +2526,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1443",
@@ -2565,7 +2565,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1446",
@@ -2606,7 +2606,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p791",
@@ -2644,11 +2644,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1791",
-      "name": "Café Taba Hills - Nature - KG",
+      "name": "Café Taba Hills Nature Bio...",
       "originCountry": "Rwanda",
       "originDetail": "Taba Hills",
       "process": "Nature",
@@ -2669,11 +2669,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/10187-medium_default/cafe-taba-hills-nature-kg.webp",
+      "imageUrl": "https://www.terresdecafe.com/10454-medium_default/cafe-taba-hills-nature-bio-kg.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1791-26184-cafe-taba-hills-nature-kg-3700926147199.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/1791-26184-cafe-taba-hills-nature-bio-kg-3700926147199.html",
           "price": 56.7,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -2684,11 +2684,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2061",
-      "name": "Café H3 - KG",
+      "name": "Café H3 Bio - KG",
       "originCountry": "Ethiopie",
       "originDetail": null,
       "process": "LavéNature",
@@ -2706,11 +2706,11 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.terresdecafe.com/9929-medium_default/cafe-h3-kg.webp",
+      "imageUrl": "https://www.terresdecafe.com/9929-medium_default/cafe-h3-bio-kg.webp",
       "retailers": [
         {
           "site": "Terres de Café",
-          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/2061-30087-cafe-h3-kg-3700926140589.html",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/2061-30087-cafe-h3-bio-kg-3700926140589.html",
           "price": 58.0,
           "currency": "EUR",
           "unitWeightG": 75,
@@ -2721,7 +2721,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1134",
@@ -2760,7 +2760,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p978",
@@ -2802,7 +2802,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p2003",
@@ -2839,7 +2839,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p785",
@@ -2878,7 +2878,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1824",
@@ -2913,7 +2913,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1857",
@@ -2951,7 +2951,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1856",
@@ -2990,7 +2990,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1861",
@@ -3026,7 +3026,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1852",
@@ -3066,7 +3066,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1854",
@@ -3106,7 +3106,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1851",
@@ -3147,7 +3147,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1855",
@@ -3184,7 +3184,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1227",
@@ -3223,7 +3223,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1229",
@@ -3262,7 +3262,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1228",
@@ -3297,7 +3297,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1859",
@@ -3337,7 +3337,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     },
     {
       "id": "terres-de-cafe-p1844",
@@ -3375,7 +3375,44 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:05Z",
-      "lastSeenAt": "2026-09-07T05:13:41Z"
+      "lastSeenAt": "2026-09-14T05:14:22Z"
+    },
+    {
+      "id": "terres-de-cafe-p2107",
+      "name": "Café KSF Limmu Bedaye...",
+      "originCountry": "Ethiopie",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Heirloom",
+      "producer": "Khalid Shifa",
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": [
+        "pêches",
+        "épices douces",
+        "chocolat"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.terresdecafe.com/10461-medium_default/cafe-ksf-limmu-bedaye-washed-bio.webp",
+      "retailers": [
+        {
+          "site": "Terres de Café",
+          "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/2107-30776-cafe-ksf-limmu-bedaye-washed-bio-3700926146482.html",
+          "price": 16.8,
+          "currency": "EUR",
+          "unitWeightG": 75,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:14:22Z",
+      "lastSeenAt": "2026-09-14T05:14:22Z"
     }
   ]
 }

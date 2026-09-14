@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
   },
-  "scrapedAt": "2026-09-07T05:20:53Z",
+  "scrapedAt": "2026-09-14T05:22:14Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
@@ -34,7 +34,7 @@
         {
           "site": "Kultivar",
           "url": "https://www.kultivarcafe.fr/nos-cafes/colombie-gesha-lave/",
-          "price": 10.5,
+          "price": 9.5,
           "currency": "EUR",
           "unitWeightG": null,
           "priceNote": "à partir de",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-07T05:20:53Z"
+      "lastSeenAt": "2026-09-14T05:22:14Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-07T05:20:53Z"
+      "lastSeenAt": "2026-09-14T05:22:14Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
@@ -110,7 +110,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-07T05:20:53Z"
+      "lastSeenAt": "2026-09-14T05:22:14Z"
+    },
+    {
+      "id": "kultivar-los-nogales-lowcaf-typica",
+      "name": "COLOMBIE – TYPICA – LOW CAF",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/09/25_CS_CO_NOG_TYP_LAV-LOW_1.webp",
+      "retailers": [
+        {
+          "site": "Kultivar",
+          "url": "https://www.kultivarcafe.fr/nos-cafes/los-nogales-lowcaf-typica/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:22:14Z",
+      "lastSeenAt": "2026-09-14T05:22:14Z"
     }
   ]
 }

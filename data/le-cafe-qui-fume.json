@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
   },
-  "scrapedAt": "2026-09-07T05:21:26Z",
+  "scrapedAt": "2026-09-14T05:22:46Z",
   "products": [
     {
       "id": "le-cafe-qui-fume-cafe-du-salvador",
@@ -45,7 +45,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:50Z",
       "lastSeenAt": "2026-09-07T05:21:26Z"
     },
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-ephemere-du-ouganda",
@@ -113,13 +113,13 @@
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
@@ -149,13 +149,13 @@
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-decafeine-swisswater-du-perou",
@@ -188,7 +188,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-perou-ceranor",
@@ -226,7 +226,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-dethiopie-koke",
@@ -263,7 +263,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica-hermosa-copy",
@@ -301,7 +301,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-panier-garni-offre-speciale",
@@ -371,7 +371,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-vert-bio",
@@ -404,7 +404,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-honduras-finca-liquidambar",
@@ -437,7 +437,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica",
@@ -468,13 +468,13 @@
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-07T05:21:26Z"
+      "lastSeenAt": "2026-09-14T05:22:46Z"
     }
   ]
 }

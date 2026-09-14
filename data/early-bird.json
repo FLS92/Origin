@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://earlybirdcoffee.fr/wp-content/themes/1.6.1/images/2024-color-1.svg"
   },
-  "scrapedAt": "2026-09-07T05:17:05Z",
+  "scrapedAt": "2026-09-14T05:17:51Z",
   "products": [
     {
       "id": "early-bird-ethiopie-sidama",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-tanzania-songwe",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-colombia-3",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-colombia-huila-vanilla",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-costa-rica-4",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-guatemala-alta-verapaz",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-costa-rica",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-colombia",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-sumatra",
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-bresil-cerrado",
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-honduras-corquin",
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-07T05:17:05Z"
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     },
     {
       "id": "early-bird-ethiopie-guji-2",
@@ -573,6 +573,336 @@
       "available": false,
       "firstSeenAt": "2026-09-03T21:16:06Z",
       "lastSeenAt": "2026-09-04T14:54:05Z"
+    },
+    {
+      "id": "early-bird-tanzania-ngorongoro",
+      "name": "Tanzania",
+      "originCountry": "Tanzanie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2026/09/tanzania-packaging-1.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/boutique/tanzania-ngorongoro/",
+          "price": 14.1,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-sumatra-2",
+      "name": "Sumatra",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2026/09/aceh-pantan-packaging.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/en/shop/sumatra-2/",
+          "price": 26.7,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-sumatra-aceh-pantan",
+      "name": "Sumatra",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2026/09/aceh-pantan-packaging.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/boutique/sumatra-aceh-pantan/",
+          "price": 26.7,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-ethiopie-ayla-bombe-sidama",
+      "name": "Éthiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/sidama-packaging-1.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/boutique/ethiopie-ayla-bombe-sidama/",
+          "price": 19.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-ethiopia-ayla-bombe-sidama",
+      "name": "Ethiopia",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/sidama-packaging-1.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/en/shop/ethiopia-ayla-bombe-sidama/",
+          "price": 19.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-colombia-huila-pitalito",
+      "name": "Colombia",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2025/12/huila-packaging.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/en/shop/colombia-huila-pitalito/",
+          "price": 36.7,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-kenya-nyeri",
+      "name": "Kenya",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2024/06/kenya-nyeri-packaging.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/en/shop/kenya-nyeri/",
+          "price": 20.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-ethiopia-kaffa",
+      "name": "Ethiopia",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/kaffa-packaging-1.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/en/shop/ethiopia-kaffa/",
+          "price": 17.2,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-ethiopie-yirgacheffe",
+      "name": "Ethiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/yirgacheffe-packaging.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/boutique/ethiopie-yirgacheffe/",
+          "price": 17.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
+    },
+    {
+      "id": "early-bird-ethiopie-kaffa",
+      "name": "Ethiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2023/10/kaffa-packaging-1.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/boutique/ethiopie-kaffa/",
+          "price": 17.2,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:17:51Z",
+      "lastSeenAt": "2026-09-14T05:17:51Z"
     }
   ]
 }

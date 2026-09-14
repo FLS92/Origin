@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
   },
-  "scrapedAt": "2026-09-07T05:19:51Z",
+  "scrapedAt": "2026-09-14T05:20:59Z",
   "products": [
     {
       "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
@@ -108,7 +108,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:56Z",
       "lastSeenAt": "2026-09-07T05:19:51Z"
     },
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-07T05:19:51Z"
+      "lastSeenAt": "2026-09-14T05:20:59Z"
     },
     {
       "id": "la-fabrique-du-cafe-la-pradera-bio-honey-process-colombie-ship-by-sail",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-07T05:19:51Z"
+      "lastSeenAt": "2026-09-14T05:20:59Z"
     },
     {
       "id": "la-fabrique-du-cafe-boite-de-conservation-atmos-fellow-vide-dair-manuel",
@@ -209,7 +209,238 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:56Z",
-      "lastSeenAt": "2026-09-07T05:19:51Z"
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-el-toston-lave-nicaragua",
+      "name": "El Toston Lavé – Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": "Dipilto",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/06/Site_El-Toston-lave.jpg--scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/el-toston-lave-nicaragua/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-lenca-honduras-lave",
+      "name": "Lenca – Honduras – Lavé",
+      "originCountry": "Honduras",
+      "originDetail": "La Paz",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/03/Lenca_Site.jpg.--scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/lenca-honduras-lave/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-llama-bio-perou-lave",
+      "name": "Llama Bio – Pérou – Lavé",
+      "originCountry": "Pérou",
+      "originDetail": "Jaén",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/09/Llama_Site-scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/llama-bio-perou-lave/",
+          "price": 9.7,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-maya-lave-guatemala",
+      "name": "Maya Lavé – Guatemala",
+      "originCountry": "Guatemala",
+      "originDetail": "Huehuetanango",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/09/Maya_site-scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/maya-lave-guatemala/",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-limmu-kossa-bio-ethiopie-lave",
+      "name": "Limmu Kossa Bio – Ethiopie Lavé",
+      "originCountry": "Ethiopie",
+      "originDetail": "Jimma",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/09/Limmu_Site-scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/limmu-kossa-bio-ethiopie-lave/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-el-toston-nature-nicaragua-2",
+      "name": "El Toston Nature – Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": "Dipilto",
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/06/Site_El-Toston-nature.jpg.--scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/el-toston-nature-nicaragua-2/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
+    },
+    {
+      "id": "la-fabrique-du-cafe-gundira-shela-bio-ethiopie-nature",
+      "name": "Gundira Shela Bio – Ethiopie – Nature",
+      "originCountry": "Ethiopie",
+      "originDetail": "kAFFA",
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2026/07/Gundira_site-scaled.jpg",
+      "retailers": [
+        {
+          "site": "La Fabrique du Café",
+          "url": "https://lafabriqueducafe.fr/produit/gundira-shela-bio-ethiopie-nature/",
+          "price": 11.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:20:59Z",
+      "lastSeenAt": "2026-09-14T05:20:59Z"
     }
   ]
 }

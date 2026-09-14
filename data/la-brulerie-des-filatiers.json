@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
-  "scrapedAt": "2026-09-07T05:20:25Z",
+  "scrapedAt": "2026-09-14T05:21:43Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -108,7 +108,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-09-07T05:20:25Z"
     },
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p910",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p752",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -438,7 +438,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-09-07T05:20:25Z"
     },
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1903",
@@ -572,7 +572,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -605,7 +605,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -638,7 +638,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-14T05:21:43Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p1927",
+      "name": "BRÉSIL - Sergio Reis - Coimbra",
+      "originCountry": "Brésil",
+      "originDetail": null,
+      "process": null,
+      "variety": "Arabica - Blend de variétés",
+      "producer": "Sergio Reis",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1927/image_512/BR%C3%89SIL%20-%20Sergio%20Reis%20-%20Coimbra?unique=45a517e",
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/bresil-sergio-reis-coimbra-1927",
+          "price": 12.32,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:21:43Z",
+      "lastSeenAt": "2026-09-14T05:21:43Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p1901",
+      "name": "HONDURAS - Comayagua - Santa Lucia (Bio)",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Honey",
+      "variety": "Caturra & Typica ​​",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1901/image_512/HONDURAS%20-%20Comayagua%20-%20Santa%20Lucia%20%28Bio%29?unique=829c7ac",
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/honduras-comayagua-santa-lucia-bio-1901",
+          "price": 11.18,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:21:43Z",
+      "lastSeenAt": "2026-09-14T05:21:43Z"
     }
   ]
 }

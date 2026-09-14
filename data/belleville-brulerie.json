@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafesbelleville.com/cdn/shop/files/favicon-32_38695bbd-2bef-4117-97e3-1e69dd5d9c0b_32x32.png?v=1613730377"
   },
-  "scrapedAt": "2026-09-07T05:14:17Z",
+  "scrapedAt": "2026-09-14T05:15:01Z",
   "products": [
     {
       "id": "belleville-brulerie-benjamin-paz-honduras",
@@ -42,7 +42,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:09Z",
       "lastSeenAt": "2026-09-07T05:14:17Z"
     },
@@ -62,7 +62,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/files/banko-coffee-lacking-photo.jpg?v=1789103045",
       "retailers": [
         {
           "site": "Belleville Brûlerie",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-kieni-ab-cafe-kenya",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-kelloo-chelchele-washed",
@@ -141,7 +141,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:09Z",
       "lastSeenAt": "2026-09-07T05:14:17Z"
     },
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-selection-de-decouverte-cafe-filtre",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-selection-de-decouverte-espresso-3-x-250g",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-kg-la-pantoufle-assemblage-1kg",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-kg-la-fontaine-assemblage-1kg",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-kg-french-roast-assemblage-1kg",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-kg-body-builder-assemblage-1kg",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-body-builder-assemblage-cafe-belleville",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-chateau-belleville-assemblage-cafe-belleville",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     },
     {
       "id": "belleville-brulerie-la-pantoufle-assemblage-cafe-belleville",
@@ -473,7 +473,139 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:09Z",
-      "lastSeenAt": "2026-09-07T05:14:17Z"
+      "lastSeenAt": "2026-09-14T05:15:01Z"
+    },
+    {
+      "id": "belleville-brulerie-frinsa-java",
+      "name": "Frinsa Honey Tempe",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Honey",
+      "variety": "Ateng Super, P88, Borbor, Andungsari, Sigarar Utang, Lini S",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/files/frinsa-coffee-lacking-photo_6f655c4b-9078-40f5-89d7-cb66b0b0357e.jpg?v=1789103021",
+      "retailers": [
+        {
+          "site": "Belleville Brûlerie",
+          "url": "https://cafesbelleville.com/products/frinsa-java",
+          "price": 23.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:15:01Z",
+      "lastSeenAt": "2026-09-14T05:15:01Z"
+    },
+    {
+      "id": "belleville-brulerie-sl-28-benjamin-paz-dolmin-moreno",
+      "name": "La Salsa SL-28",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/LaSalsa-SantaBarbara-Honduras-Cafes-Belleville-Nouveaute.jpg?v=1639757514",
+      "retailers": [
+        {
+          "site": "Belleville Brûlerie",
+          "url": "https://cafesbelleville.com/products/sl-28-benjamin-paz-dolmin-moreno",
+          "price": 28.95,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:15:01Z",
+      "lastSeenAt": "2026-09-14T05:15:01Z"
+    },
+    {
+      "id": "belleville-brulerie-neptaly-bautista-honduras-cafe-belleville",
+      "name": "Neptaly Bautista Finca Jazmin",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Bellevill-Brulerie-Paris-Honduras-1.jpg?v=1615539150",
+      "retailers": [
+        {
+          "site": "Belleville Brûlerie",
+          "url": "https://cafesbelleville.com/products/neptaly-bautista-honduras-cafe-belleville",
+          "price": 21.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:15:01Z",
+      "lastSeenAt": "2026-09-14T05:15:01Z"
+    },
+    {
+      "id": "belleville-brulerie-neptaly-bautista-finca-dania",
+      "name": "Neptaly Bautista Finca Dania",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Bellevill-Brulerie-Paris-Honduras-1.jpg?v=1615539150",
+      "retailers": [
+        {
+          "site": "Belleville Brûlerie",
+          "url": "https://cafesbelleville.com/products/neptaly-bautista-finca-dania",
+          "price": 23.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-14T05:15:01Z",
+      "lastSeenAt": "2026-09-14T05:15:01Z"
     }
   ]
 }
