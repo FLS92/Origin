@@ -18,12 +18,12 @@
       "name": "Le mélange Espresso - Café en grain pour Espresso",
       "originCountry": "Brésil/Vietnam Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
-      "process": null,
+      "process": "séchage naturel et lavé",
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "pointe d'acidité",
+      "body": "rond, puissant",
       "method": "Espresso",
       "roastLevel": null,
       "flavors": [
@@ -31,7 +31,7 @@
         "cacahuète"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange d'arabica brésilien et de robusta vietnamien conçu pour l'espresso, offrant une base douce et veloutée avec des notes de cacao et une créma dense.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/368/image_1024/Le%20m%C3%A9lange%20Espresso%20-%C2%A0Caf%C3%A9%20en%20grain%20pour%20Espresso%20%28Grain%29?unique=473f470",
       "retailers": [
         {
@@ -53,20 +53,20 @@
       "id": "cafes-lecoeur-p175",
       "name": "The Click - Café en grain du Brésil, gourmand et équilibré",
       "originCountry": "Brésil Niveau de torréfaction Richesse aromatique",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Minas Gerais",
+      "process": "Séchage naturel",
+      "variety": "Catuai Rouge-Jaune",
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Fine et fraîche",
+      "body": "Rondeur",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Boisé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien pur origine de Minas Gerais, combinant gourmandise et équilibre avec des notes chocolatées et boisées rehaussées par une acidité délicate.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/354/image_1024/The%20Click%20-%20Caf%C3%A9%20en%20grain%20du%20Br%C3%A9sil%2C%20gourmand%20et%20%C3%A9quilibr%C3%A9%20%28Grain%29?unique=6bbc059",
       "retailers": [
         {
@@ -88,14 +88,14 @@
       "id": "cafes-lecoeur-p177",
       "name": "Huanuco - Café en grain du Pérou, fin et aromatique",
       "originCountry": "Pérou",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Huanuco, hautes terres andines",
+      "process": "Lavé",
+      "variety": "Arabica Typica Caturra",
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "fine et maîtrisée",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Végétal",
@@ -103,7 +103,7 @@
         "chocolaté"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien des terres andines offrant un profil végétal subtil avec des notes de thé vert et d'herbes, soutenu par une acidité fine et une complexité aromatique développée par la maturation lente en altitude.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/322/image_1024/Huanuco%20-%C2%A0Caf%C3%A9%20en%20grain%20du%20P%C3%A9rou%2C%20fin%20et%20aromatique%20%28Grain%29?unique=34f6a3c",
       "retailers": [
         {
@@ -126,20 +126,20 @@
       "name": "Éthiopie Décaféiné - Café en grain décaféiné, floral et élégant",
       "originCountry": "Ethiopie Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Décaféination sans solvant",
+      "variety": "Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Floral",
         "jasmin"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café décaféiné éthiopien conserve les qualités aromatiques d'un grand terroir grâce à un procédé de décaféination sans solvant, offrant des notes florales, fruitées et cacaotées avec une texture soyeuse en bouche.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/327/image_1024/%C3%89thiopie%20D%C3%A9caf%C3%A9in%C3%A9%20-%C2%A0Caf%C3%A9%20en%20grain%20d%C3%A9caf%C3%A9in%C3%A9%2C%20floral%20et%20%C3%A9l%C3%A9gant%20%28Grain%29?unique=c88f31f",
       "retailers": [
         {
@@ -161,14 +161,14 @@
       "id": "cafes-lecoeur-p179",
       "name": "Sidamo Bombe bona - Café en grain d’Éthiopie, floral et fruité",
       "originCountry": "Éthiopie Niveau de torréfaction Richesse aromatique",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Sidamo",
+      "process": "Séchage naturel",
+      "variety": "Heirloom",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeuse",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Floral",
@@ -176,7 +176,7 @@
         "chocolat"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien de la région Sidamo présente un profil floral et fruité caractérisé par des notes de jasmin, fraise et chocolat, avec une texture soyeuse et une douceur naturelle. Polyvalent, il s'adapte aussi bien à la préparation en espresso qu'en filtre.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/332/image_1024/Sidamo%20Bombe%20bona%20-%C2%A0Caf%C3%A9%20en%20grain%20d%E2%80%99%C3%89thiopie%2C%20floral%20et%20fruit%C3%A9%20%28Grain%29?unique=260c329",
       "retailers": [
         {
@@ -198,14 +198,14 @@
       "id": "cafes-lecoeur-p178",
       "name": "Linarco - Café en grain de Colombie, fermenté et complexe",
       "originCountry": "Colombie Niveau de torréfaction Richesse aromatique",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originDetail": "Région de Huila, ferme Linarco",
+      "process": "Fermentation anaérobie complexe",
+      "variety": "Castillo / Colombia",
+      "producer": "Linarco",
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Vive",
+      "body": "Ample",
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Fruité",
@@ -214,7 +214,7 @@
         "Colombia"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un arabica de la région de Huila traité par fermentation anaérobie complexe, développant des arômes fruités intenses et une tasse équilibrée et élégante.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/363/image_1024/Linarco%20-%C2%A0Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20ferment%C3%A9%20et%20complexe%20%28Grain%29?unique=f0f016a",
       "retailers": [
         {
@@ -237,13 +237,13 @@
       "name": "El Diviso - Café en grain de Colombie, fermentation maîtrisée",
       "originCountry": "Colombie Niveau de torréfaction Richesse aromatique",
       "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "process": "Oxydation contrôlée de 14 heures, dépulpage, 60 heures de fermentation anaérobie, 12 heures de fermentation immergée",
+      "variety": "Sidra",
+      "producer": "Nestor Lasso",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Floral",
@@ -252,7 +252,7 @@
         "litchi"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de spécialité produit par Nestor Lasso à partir de la variété Sidra, soumis à un processus de fermentation complexe combinant oxydation contrôlée et fermentations anaérobie et immergée. Le profil sensoriel se caractérise par des notes florales, fruitées et gourmandes.",
       "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/347/image_1024/El%20Diviso%20-%C2%A0Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20fermentation%20ma%C3%AEtris%C3%A9e%20%28Grain%29?unique=53b6f81",
       "retailers": [
         {

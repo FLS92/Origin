@@ -28,7 +28,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage de cafés d'Éthiopie et du Brésil, formulé pour offrir un café polyvalent et accessible à toute heure de la journée.",
       "imageUrl": "https://valini.fr/267-full_default/cafe-croco.jpg",
       "retailers": [
         {
@@ -49,7 +49,7 @@
     {
       "id": "valini-p77",
       "name": "Café décaféiné Pure Origine...",
-      "originCountry": null,
+      "originCountry": "Mexique",
       "originDetail": null,
       "process": "Mountain Water",
       "variety": "Blend",
@@ -59,9 +59,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cookie",
+        "Praline",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné d'origine mexicaine aux notes gourmandes de cookie, praline et chocolat, traité à l'eau.",
       "imageUrl": "https://valini.fr/269-full_default/cafe-decafeine-pure-origine-perou-manzanilla.jpg",
       "retailers": [
         {
@@ -92,9 +96,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Noisette",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien offre un profil gustatif gourmand avec des notes de chocolat, noisette et amande.",
       "imageUrl": "https://valini.fr/343-full_default/cafe-pure-origine-bresil-lilith.jpg",
       "retailers": [
         {
@@ -125,9 +133,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits Rouges",
+        "Jasmin",
+        "Oranges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café monoorigine d'Éthiopie présentant un profil aromatique fruité et floral.",
       "imageUrl": "https://valini.fr/369-full_default/cafe-ethiopie-nyala.jpg",
       "retailers": [
         {
@@ -158,9 +170,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Agrumes",
+        "Chocolat",
+        "Acacia"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de pure origine colombienne présentant des notes d'agrumes, de chocolat et d'acacia.",
       "imageUrl": "https://valini.fr/358-full_default/cafe-guatemala-pampojila.jpg",
       "retailers": [
         {
@@ -215,13 +231,13 @@
       "id": "valini-p104",
       "name": "Café Pure Origine Rwanda BAHO",
       "originCountry": "Rwanda – province Ouest, région du Lac Kivu",
-      "originDetail": null,
+      "originDetail": "Province Ouest, région du Lac Kivu",
       "process": "Anaérobie",
       "variety": "Bourbon",
       "producer": "Baho",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -233,7 +249,7 @@
         "raffiné"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce Rwanda de haute altitude offre un profil fruité et raffiné, caractérisé par des notes de melon, thé vert et raisin, avec une texture soyeuse et équilibrée.",
       "imageUrl": "https://valini.fr/426-full_default/cafe-ethiopie-nyala.jpg",
       "retailers": [
         {

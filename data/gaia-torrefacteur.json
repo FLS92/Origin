@@ -28,7 +28,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité brésilien sélectionné et torréfié en France, proposé en grains ou moulu.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/STARDUST.jpg?v=1697114683",
       "retailers": [
         {
@@ -49,19 +49,22 @@
     {
       "id": "gaia-torrefacteur-full-bloom",
       "name": "Full Bloom",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "Brésil",
+      "originDetail": "Cerrado, Ferme Daterra",
+      "process": "Naturel",
       "variety": null,
-      "producer": null,
+      "producer": "Daterra",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corsé",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruité",
+        "Caramélisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la ferme Daterra offre une expérience succulente et juteuse avec des notes fruitées et caramélisées, le tout dans un corps corsé et une finale élégante.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Full_Bloom.jpg?v=1759776421",
       "retailers": [
         {
@@ -160,7 +163,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité torréfié artisanalement en France, sélectionné pour sa qualité et sa traçabilité jusqu'à son origine, avec engagement envers des pratiques durables et équitables.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Kuzco_cafe.png?v=1738247221",
       "retailers": [
         {
@@ -391,7 +394,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café de spécialité provient de grains sélectionnés avec soin et torréfiés artisanalement selon un processus sur mesure pour exprimer ses arômes distinctifs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/files/Cafe_deca.jpg?v=1759778096",
       "retailers": [
         {
@@ -412,9 +415,9 @@
     {
       "id": "gaia-torrefacteur-chelchele",
       "name": "CHELCHELE",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": "Sidama Bona Zuria - Demeka Becha",
-      "process": null,
+      "process": "Lavé",
       "variety": "Chelchele",
       "producer": "Ayele Tulu",
       "score": 85,
@@ -428,7 +431,7 @@
         "en appellation Yirgacheffe"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien lavé d'altitude cultivé à Yirgacheffe par le producteur Metad, issu de l'agriculture biologique, présentant une complexité en tasse et une traçabilité soignée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0690/5947/7768/products/CAFE_CHELCHELE.jpg?v=1678979271",
       "retailers": [
         {

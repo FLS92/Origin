@@ -119,15 +119,17 @@
       "originDetail": "Guatemala, San Marcos",
       "process": "Lavé",
       "variety": "Bourbon, Caturra et Catuai",
-      "producer": null,
+      "producer": "ADEBIPROM (Asociación de Desarrollo Bienestar y Pro-Mejoramiento)",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café guatémaltèque cultivé en agriculture biologique à haute altitude se caractérise par une texture ronde et des arômes chocolatés, particulièrement adapté à l'extraction en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/Guapo_site_fond_transaprent.png?v=1759323887",
       "retailers": [
         {
@@ -152,15 +154,19 @@
       "originDetail": "Vallée de la Cauca, Colombie",
       "process": "Lavé",
       "variety": "Bourbon, Typica, Caturra",
-      "producer": null,
+      "producer": "Fondo Paez",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel",
+        "Nougat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café issu d'une coopérative indigène colombienne, offrant un profil gourmand aux saveurs chocolatées et caramélisées avec des notes de nougat et une texture équilibrée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/COSURCA_SITE_fond_transaprent.png?v=1759323849",
       "retailers": [
         {
@@ -185,15 +191,17 @@
       "originDetail": "Pérou, Jaén Cajamarca",
       "process": "Lavé",
       "variety": "Bourbon, Typica, Caturra",
-      "producer": null,
+      "producer": "Centrocafe",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien biologique de la coopérative Centrocafe, cultivé à haute altitude et traité par voie lavée, développant des arômes chocolatés adaptés à la préparation en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/BACAN_SITE_fond_transaprent.png?v=1759323851",
       "retailers": [
         {
@@ -218,15 +226,18 @@
       "originDetail": "Sidama, Ethiopie",
       "process": "Naturel",
       "variety": "Heirloom",
-      "producer": null,
+      "producer": "Coopérative Taramesa",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits tropicaux",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien traité naturellement provenant de la coopérative Taramesa à Sidama, biologique et certifié, offrant un profil doux et riche avec des arômes de fruits tropicaux et de chocolat.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/TAFACE_SITE_fond_transparent.png?v=1759323837",
       "retailers": [
         {
@@ -251,15 +262,19 @@
       "originDetail": "Sidama, Éthiopie",
       "process": "Lavé",
       "variety": "Heirloom",
-      "producer": null,
+      "producer": "Coopérative Shilicho (membre de Sidama Coffee Farmers Cooperative Union)",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bergamote",
+        "Jasmin",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien de Sidama, issu de la coopérative Shilicho, offre un profil aromatique complexe associant des notes florales et chocolatées, produit selon des méthodes de lavage traditionnelles à haute altitude.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/SIDAMA_SITE_fond_transparent.png?v=1759323841",
       "retailers": [
         {
@@ -284,15 +299,19 @@
       "originDetail": "Colombie - Tolima",
       "process": "Nature Anaérobique",
       "variety": "Mélange",
-      "producer": null,
+      "producer": "Asocanafi",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Framboise",
+        "Miel",
+        "Cacao"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien produit par la coopérative indigène Asocanafi en altitude, traité en anaérobie, offrant un profil aromatique dominé par la framboise et le miel avec des notes de cacao.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/fichier_corto_sachet_etquette_good_glisses_2_page-0001.jpg?v=1774343117",
       "retailers": [
         {
@@ -323,9 +342,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Boisé",
+        "Épicé",
+        "Iodé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café indonésien au caractère prononcé et sauvage, offrant un profil aromatique dominé par des notes boisées et épicées avec une touche iodée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/KOPI_site_web_fond_transparent.png?v=1759323853",
       "retailers": [
         {
@@ -353,12 +376,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramélisé",
+        "Boisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café décaféiné en provenance de Veracruz propose une tasse onctueuse aux notes caramélisées et boisées, issu d'une production biologique respectueuse de l'environnement.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0896/2788/5916/files/DECA_SITE_fond_transaprent_png.png?v=1759323799",
       "retailers": [
         {

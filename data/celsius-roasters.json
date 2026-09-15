@@ -17,8 +17,8 @@
       "id": "celsius-roasters-cafe-en-bean-to-bar-diggers-x-celsius-geisha-perou",
       "name": "Café en bean-to-bar | Diggers x Celsius | Geisha, Pérou",
       "originCountry": "Jaen, Pérou",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Jaen, Pérou",
+      "process": "Naturel",
       "variety": "Geisha",
       "producer": null,
       "score": null,
@@ -32,7 +32,7 @@
         "sirop d'agave"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha du Pérou transformé en tablette gourmande associant café, cacao et sucre, avec des notes florales et fruitées.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0626/6129/6297/files/Face_avec_carres.jpg?v=1778082177",
       "retailers": [
         {

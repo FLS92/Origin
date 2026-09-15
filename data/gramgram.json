@@ -17,20 +17,20 @@
       "id": "gramgram-cafe-honduras-copan",
       "name": "Café HONDURAS – COPAN",
       "originCountry": "Honduras",
-      "originDetail": null,
+      "originDetail": "Copan",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
       "body": "équilibré",
-      "method": null,
+      "method": "Omni",
       "roastLevel": "25%",
       "flavors": [
         "fruits à coques"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café hondurien aux profils aromatiques variés, combinant des notes de fruits jaunes et caramel avec une finale chocolatée et des nuances végétales, offrant une structure équilibrée.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2026/06/sachet_cafe_Honduras_Copan.jpg",
       "retailers": [
         {
@@ -52,7 +52,7 @@
       "id": "gramgram-cafe-ethiopie-choche",
       "name": "Café ETHIOPIE – CHOCHE",
       "originCountry": "Afrique",
-      "originDetail": null,
+      "originDetail": "Choche",
       "process": null,
       "variety": null,
       "producer": null,
@@ -65,7 +65,7 @@
         "Baies rouges"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien aux saveurs équilibrées associant des notes sucrées briochées et cacaotées avec une légère fruité et un corps léger.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2025/02/Ethiopie-Choche-1.jpg",
       "retailers": [
         {
@@ -89,18 +89,18 @@
       "originCountry": "Amérique centrale",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Geisha",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": "Léger",
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Blonde medium light",
       "flavors": [
         "Floral"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café péruvien de variété Geisha offrant un profil floral et agrumé, caractérisé par un corps léger et une grande longueur en bouche, torréfié en blonde medium light.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2025/02/Geisha.jpg",
       "retailers": [
         {
@@ -122,12 +122,12 @@
       "id": "gramgram-cafe-perou-amazonas",
       "name": "CAFé PéROU – AMAZONAS",
       "originCountry": "Amérique du Sud",
-      "originDetail": null,
+      "originDetail": "Amazonas",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Belle, non agressive",
       "body": "Léger, Equilibré",
       "method": null,
       "roastLevel": "50%",
@@ -135,7 +135,7 @@
         "Fruits à coques"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café péruvien combine des notes fruitées agrumées avec une crémosité chocolatée, présentant une acidité douce et une finale miellée.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2024/07/packshot-Amazonas.jpg",
       "retailers": [
         {
@@ -157,20 +157,20 @@
       "id": "gramgram-cafe-nicaragua-san-jose",
       "name": "Café NICARAGUA – San José",
       "originCountry": "Nicaragua",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "San José",
+      "process": "Macération carbonique",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
       "body": "medium",
       "method": null,
-      "roastLevel": null,
+      "roastLevel": "Medium light",
       "flavors": [
         "fruits exotiques"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café nicaraguayen offre un profil complexe alliant des notes fruitées exotiques à des saveurs de cacao et de poire, avec une texture crémeuse et une finale chocolatée prolongée.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2024/04/Nicaragua.jpg",
       "retailers": [
         {
@@ -192,7 +192,7 @@
       "id": "gramgram-cafe-rwanda-ubuki",
       "name": "Café RWANDA – UBUKI",
       "originCountry": "Afrique",
-      "originDetail": null,
+      "originDetail": "Ubuki",
       "process": null,
       "variety": null,
       "producer": null,
@@ -206,7 +206,7 @@
         "vanillé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café rwandais équilibré présentant un profil fruité avec des notes de caramel, vanille et agrumes, caractérisé par un corps mesuré et une finale délicate aux touches d'amandes et miel.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2023/01/etiquette-rwanda-UBUKI.jpg",
       "retailers": [
         {
@@ -235,14 +235,14 @@
       "score": null,
       "acidity": null,
       "body": "Equilibré, medium",
-      "method": null,
+      "method": "Espresso",
       "roastLevel": "75%",
       "flavors": [
         "Chocolat au lait",
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café guatémaltèque offre des notes de chocolat au lait et de cacao avec des touches épicées, présenté dans une tasse clean avec un corps medium soyeux et crémeux.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2022/09/Guatemala.jpg",
       "retailers": [
         {
@@ -264,18 +264,22 @@
       "id": "gramgram-cafe-bresil-santa-caete",
       "name": "Café BRESIL – SANTA CAETE",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Minas Gerais, Ferme Santa Monica",
+      "process": "Nature",
       "variety": "Arabicas Catuai",
-      "producer": null,
+      "producer": "Jean Vilhena Faleiros",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Équilibré",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noisette",
+        "Fruits à coques",
+        "Chocolat au lait"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de Minas Gerais offre un profil doux avec des notes prédominantes de noisette et une texture ronde et crémeuse. Il se distingue par sa sucrosité et sa finale gourmande au chocolat au lait.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2021/09/packshot-sante-caete-gravure.jpg",
       "retailers": [
         {
@@ -396,12 +400,12 @@
       "id": "gramgram-cafe-ethiopie-yrga",
       "name": "Café ETHIOPIE – YRGA",
       "originCountry": "Afrique",
-      "originDetail": null,
+      "originDetail": "Yirga Cheffe",
       "process": null,
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Légèrement acidulée",
       "body": "Léger",
       "method": null,
       "roastLevel": "50%",
@@ -409,7 +413,7 @@
         "Floral"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien aux caractéristiques douces et florales, offrant une attaque légèrement acidulée suivie de notes de noisettes, d'agrumes et de jasmin.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-ethiopie-yrga.jpg",
       "retailers": [
         {
@@ -433,7 +437,7 @@
       "originCountry": "Amérique centrale",
       "originDetail": null,
       "process": null,
-      "variety": null,
+      "variety": "Bourbon",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -444,7 +448,7 @@
         "Chocolat au lait"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Bourbon d'El Salvador aux notes chocolatées et fruitées, offrant un profil équilibré avec une finale caramélisée.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-el-salvador-rojos.jpg",
       "retailers": [
         {
@@ -479,7 +483,7 @@
         "Chocolat"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange 100% Arabica s'inspirant des traditions italiennes, offrant une tasse puissante et équilibrée aux notes de chocolat et cacao.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/71-Cafe-BLEND-ITALIANO.jpg",
       "retailers": [
         {
@@ -551,7 +555,7 @@
         "Céréales"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien au profil soyeux avec un corps puissant, présentant des arômes de sucre roux, cacao, malt et figue fraîche.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/69-Cafe-COLOMBIE-PANELA.jpg",
       "retailers": [
         {
@@ -573,18 +577,24 @@
       "id": "gramgram-cafe-bresil-guarani",
       "name": "Café BRESIL – GUARANI",
       "originCountry": "Brésil",
-      "originDetail": null,
+      "originDetail": "Mogiana",
       "process": null,
       "variety": "Arabicas Blend de variétés Notes de fruits rouges",
-      "producer": null,
+      "producer": "Guarani",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Léger",
       "method": null,
       "roastLevel": "25%",
-      "flavors": null,
+      "flavors": [
+        "Framboise",
+        "Groseille",
+        "Sucre de canne",
+        "Caramel",
+        "Mélasse"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la région de Mogiana offre un profil sucré et fruité avec des notes de fruits rouges et une finale rappelant le caramel et la mélasse, porté par un corps léger et équilibré.",
       "imageUrl": "https://gramgram.fr/wp-content/uploads/2020/01/cafe-gramgram-bresil-guarani.jpg",
       "retailers": [
         {

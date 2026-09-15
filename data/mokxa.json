@@ -51,7 +51,7 @@
       "name": "Saudade - Blend du Brésil",
       "originCountry": "Brésil",
       "originDetail": "Mantiqueira de Minas",
-      "process": null,
+      "process": "Nature, Honey",
       "variety": "Bourbon, Catuai",
       "producer": "Coopérative COCARIVE",
       "score": 84.5,
@@ -59,9 +59,14 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Fruits à coque",
+        "Caramel",
+        "Boisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce blend brésilien de la coopérative COCARIVE offre une tasse crémeuse aux notes de cacao, fruits secs et caramel, composé de microlots dont la sélection varie selon les récoltes annuelles pour maintenir un profil aromatique constant.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-bresil-saudade.png?v=1746543956",
       "retailers": [
         {
@@ -84,17 +89,21 @@
       "name": "Notorious Rob - Blend",
       "originCountry": "Blend",
       "originDetail": "Bresil & Inde",
-      "process": null,
+      "process": "Lavé & Nature",
       "variety": "Coffea Arabica 95% Coffea Canephora 5%",
       "producer": null,
       "score": 83,
       "acidity": null,
-      "body": null,
+      "body": "Soyeuse",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Boisé",
+        "Épicé",
+        "Chocolat noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage de café associant une majorité d'Arabica à un Robusta en faible proportion, révélant en tasse une texture corpulente aux arômes boisés et épicés avec des notes de chocolat noir.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-bresil-notorious-rob.png?v=1746544743",
       "retailers": [
         {
@@ -117,17 +126,21 @@
       "name": "Sitio da Torre - Café du Brésil",
       "originCountry": "Brésil",
       "originDetail": "Mantiqueira de Minas",
-      "process": null,
+      "process": "Nature",
       "variety": "Bourbon Jaune",
       "producer": "Álvaro Antônio Pereira",
       "score": 84,
       "acidity": null,
-      "body": null,
+      "body": "Corpulent",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Mélasse",
+        "Fruits jaunes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la ferme Sitio Da Torre offre un profil gourmand avec des notes de chocolat noir, mélasse et fruits jaunes, issu d'une production familiale respectueuse de l'environnement dans la région de Mantiqueira.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Sitio_Da_Torre_2025.jpg?v=1766055481",
       "retailers": [
         {
@@ -150,7 +163,7 @@
       "name": "Melting Cup - Blend BIO",
       "originCountry": "Blend",
       "originDetail": "Amérique Latine & Afrique",
-      "process": null,
+      "process": "Lavé",
       "variety": null,
       "producer": "Divers",
       "score": 84,
@@ -158,9 +171,16 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "noisette",
+        "cacao",
+        "framboise",
+        "caramel",
+        "chocolat blanc",
+        "fruits jaunes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage biologique aux profils aromatiques équilibrés, composé de cafés provenant d'Amérique Latine et d'Afrique, sélectionnés pour leur harmonie entre douceur et notes fruitées.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-blend-melting-cup.png?v=1746544242",
       "retailers": [
         {
@@ -183,17 +203,21 @@
       "name": "Santa Rosa - Café du Guatemala BIO",
       "originCountry": "Guatemala",
       "originDetail": "Cuilco, Huehuetenango",
-      "process": null,
+      "process": "Lavé",
       "variety": "Bourbon, Typica, Caturra, Catuai",
       "producer": "Mancomunidades Cafetaleras",
       "score": 84.5,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fève de cacao",
+        "Amande",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café guatémaltèque d'une coopérative regroupant 691 petits producteurs des hautes terres, cultivé à l'ombre et récolté manuellement, offrant un profil soyeux et sucré avec des notes de cacao, amande et agrumes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/GuatemalaSantaRosa03.png?v=1783931585",
       "retailers": [
         {
@@ -216,7 +240,7 @@
       "name": "Ayni - Café du Pérou",
       "originCountry": "Pérou",
       "originDetail": "Echarati, Cusco",
-      "process": null,
+      "process": "Lavé",
       "variety": "Bourbon, Geisha, Catuai, Caturra",
       "producer": "Coopérative Echarati",
       "score": 84,
@@ -224,9 +248,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Raisin",
+        "Caramel",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien cultivé en altitude selon les principes d'entraide ancestraux, traité par voie humide avec fermentation prolongée et séchage solaire, offrant un profil doux et équilibré.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/PerouAyni01_4a71a25a-408e-4b80-bd95-e87308ba2363.jpg?v=1779710661",
       "retailers": [
         {
@@ -249,7 +277,7 @@
       "name": "Taba - Café du Rwanda BIO",
       "originCountry": "Rwanda",
       "originDetail": "Taba, Province du Nord",
-      "process": null,
+      "process": "Nature",
       "variety": "Bourbon Rouge",
       "producer": "Coffee Village",
       "score": 85,
@@ -257,9 +285,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel de lavande",
+        "Fruits rouges",
+        "Réglisse"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café rwandais cultisé en altitude par Coffee Village développe un profil sucré et gourmand, enrichi par le terroir volcanique et le traitement naturel qui concentrent les saveurs fruitées et mielleuses.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/cafe-rwanda-taba.png?v=1750667922",
       "retailers": [
         {
@@ -281,18 +313,22 @@
       "id": "mokxa-decafeine-cafe-de-colombie",
       "name": "Décaféiné - Café de Colombie",
       "originCountry": "Colombie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Région de Cauca, hauts plateaux",
+      "process": "Décaféination canne à sucre",
       "variety": "Mélange",
       "producer": "Regroupement de producteurs",
       "score": 83,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné colombien provenant d'une communauté de producteurs des hauts plateaux de Cauca, offrant un profil sucré et équilibré aux notes de chocolat, caramel et amande.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/espresso.jpg?v=1742827976",
       "retailers": [
         {
@@ -315,7 +351,7 @@
       "name": "Coba - Café d'Éthiopie BIO",
       "originCountry": "Éthiopie",
       "originDetail": "Uraga, Guji",
-      "process": null,
+      "process": "Nature",
       "variety": "74112, 74110, Heirloom",
       "producer": "Habtamu Fekadu Aga",
       "score": 87,
@@ -323,9 +359,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Sirop d'érable",
+        "Fruits rouges",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de la station de Coba, traité à la méthode naturelle, présentant un profil sucré et fruité avec des notes de sirop d'érable et de chocolat.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/COBAAAA.jpg?v=1781619651",
       "retailers": [
         {
@@ -381,7 +421,7 @@
       "name": "Cold Brew Mokxa - 3L",
       "originCountry": "Colombie",
       "originDetail": "Pitalito, Huila",
-      "process": null,
+      "process": "Lavé Anaérobie",
       "variety": "Blend de variétés",
       "producer": "Oscar Ome Llanara",
       "score": 83,
@@ -389,9 +429,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramelisées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien de la région de Pitalito traité en lavé anaérobie, proposé sous forme de cold brew infusé 20 heures, offrant une tasse complexe aux saveurs caramélisées avec une sensation désaltérante.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/ColdBrewWebsite01.jpg?v=1783935290",
       "retailers": [
         {
@@ -414,17 +456,21 @@
       "name": "Los Lirios - Café du Nicaragua BIO",
       "originCountry": "Nicaragua",
       "originDetail": "San Juan del Río Coco",
-      "process": null,
+      "process": "Lavé",
       "variety": "Blend de variétés",
       "producer": "Coopérative Reina del Café (petits caféiculteurs)",
       "score": 84.5,
-      "acidity": null,
-      "body": null,
+      "acidity": "Acidulée",
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel",
+        "Chocolat au lait",
+        "Pomme verte"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café nicaraguayen issu d'une coopérative de petits producteurs, offrant un profil gourmand avec des notes de caramel et chocolat complétées par une légère acidité fruitée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Los_Lirios_Cafe_Mokxa_03.png?v=1788187521",
       "retailers": [
         {
@@ -447,7 +493,7 @@
       "name": "Don Lino - Café de Colombie",
       "originCountry": "Colombie",
       "originDetail": "Palestina, Huila",
-      "process": null,
+      "process": "Lavé Anaérobie",
       "variety": "Pink Bourbon",
       "producer": "Linarco Rodriguez Ospina",
       "score": 87,
@@ -455,9 +501,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "cassis",
+        "myrtille",
+        "mandarine"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien cultivé à 1800 m d'altitude, offrant des notes fruitées de cassis, myrtille et mandarine avec une texture beurrée. Le traitement anaérobie et le séchage au soleil lui confèrent son profil unique.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Don_Lino_Mokxa_03.png?v=1788426786",
       "retailers": [
         {
@@ -480,7 +530,7 @@
       "name": "El Silencio Geisha - Café de Colombie",
       "originCountry": "Colombie",
       "originDetail": "Huila, Palestina",
-      "process": null,
+      "process": "Lavé Anaérobie",
       "variety": "Geisha",
       "producer": "Linarco Rodriguez Ospina",
       "score": 88,
@@ -488,9 +538,12 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fleurs blanches",
+        "Graines de coriandre"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de Colombie aux caractéristiques délicates et florales, traité en fermentation anaérobie, qui conjugue finesse botanique et sélection minutieuse du fruit.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/ElSilencio02.jpg?v=1788528019",
       "retailers": [
         {
@@ -513,7 +566,7 @@
       "name": "La Independencia - Café du Salvador",
       "originCountry": "Salvador",
       "originDetail": "Ahuachapán",
-      "process": null,
+      "process": "Nature",
       "variety": "Bourbon, Catuai",
       "producer": "Familia Salaverria",
       "score": 85,
@@ -521,9 +574,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Baies noires",
+        "Pralin",
+        "Biscuit"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café sucré et enveloppant de la famille Salaverria, productrice salvadorienne de six générations engagée dans des pratiques durables et l'amélioration de ses terroirs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/LaIndependenciaMokxaCover.jpg?v=1788866453",
       "retailers": [
         {
@@ -544,7 +601,7 @@
     {
       "id": "mokxa-freestyle-batchs-blend-1",
       "name": "Freestyle Batchs - Blend #1",
-      "originCountry": null,
+      "originCountry": "Nicaragua, Rwanda",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -554,9 +611,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Oranges",
+        "Vanille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un blend expérimental issu du développement de recettes, associant des cafés du Nicaragua et du Rwanda pour un profil chocolaté avec des notes d'agrumes et de vanille.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/CHARLY.AUGAIS-412_714c33dd-226a-407d-ac56-b83ff5026678.jpg?v=1779782923",
       "retailers": [
         {

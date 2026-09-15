@@ -20,7 +20,7 @@
       "originDetail": null,
       "process": "Nature",
       "variety": "Maragogype",
-      "producer": null,
+      "producer": "Dipilto",
       "score": null,
       "acidity": null,
       "body": null,
@@ -28,7 +28,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café nicaraguayen de variété Maragogype cultivé en altitude, traité selon la méthode naturelle.",
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2025/12/Anbassa-artisan-torrefacteur-cafe-exception-dipilto-maragogype-nicaragua-min.jpg?fit=895%2C895&ssl=1",
       "retailers": [
         {
@@ -49,8 +49,8 @@
     {
       "id": "anbassa-cafe-exception-sidama-bombe-anaerobique",
       "name": "Café Sidama Bombe Anaerobique",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sidama, 1950m",
       "process": "Nature Anaérobique",
       "variety": "Moka Heirloom",
       "producer": null,
@@ -61,7 +61,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de la région de Sidama cultivé en altitude, traité selon un procédé naturel anaérobie qui développe un profil complexe.",
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2022/11/Anbassa-artisan-torrefacteur-cafe-exception-sidama-bombe-anaerobique-1-min.jpg?fit=895%2C895&ssl=1",
       "retailers": [
         {
@@ -83,7 +83,7 @@
       "id": "anbassa-cafe-exception-huehuetepan-mexique",
       "name": "Café Huehuetepan",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Huehuetepan, 1300-1350 m",
       "process": "Naturel",
       "variety": "Typica",
       "producer": null,
@@ -94,7 +94,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café de la région Huehuetepan cultivé en altitude, issu de plants Typica traité par voie naturelle.",
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2025/07/Anbassa-artisan-torrefacteur-cafe-exception-HUEHUETEPAN-mexique-center-min-min.jpg?fit=895%2C895&ssl=1",
       "retailers": [
         {
@@ -127,7 +127,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café ougandais cultivé en altitude, produit selon un traitement naturel avec les variétés SL14 et SL28.",
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2025/12/Anbassa-artisan-torrefacteur-cafe-exception-namisuni-ouganda-min.jpg?fit=895%2C895&ssl=1",
       "retailers": [
         {
@@ -160,7 +160,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café kényan d'altitude cultivé en variétés Batien et Ruiru11, traité par voie lavée.",
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2026/04/Anbassa-artisan-torrefacteur-cafe-exception-bahati-blue-kenya-center.jpg?fit=895%2C895&ssl=1",
       "retailers": [
         {
@@ -185,7 +185,7 @@
       "originDetail": null,
       "process": "Lavé",
       "variety": "Pacamara Rouge",
-      "producer": null,
+      "producer": "Lo de Morales",
       "score": null,
       "acidity": null,
       "body": null,
@@ -193,7 +193,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café guatémaltèque cultivé à haute altitude, issu de la variété Pacamara Rouge et traité par voie humide.",
       "imageUrl": "https://i0.wp.com/anbassa.fr/wp-content/uploads/2026/04/Anbassa-artisan-torrefacteur-cafe-exception-lo-de-morales.jpg?fit=895%2C895&ssl=1",
       "retailers": [
         {

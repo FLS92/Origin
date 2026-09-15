@@ -16,7 +16,7 @@
     {
       "id": "kaffa-torrefacteur-gaia",
       "name": "Café de la ferme Gaïa",
-      "originCountry": null,
+      "originCountry": "Honduras",
       "originDetail": "Honduras, Lempira",
       "process": "Honey",
       "variety": "Bourbons, catuai",
@@ -26,9 +26,11 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Chocolat"
+      ],
+      "harvestYear": "2026",
+      "description": "Café hondurien de la ferme Gaïa traité en honey, cultivé à 1650m d'altitude avec des notes de chocolat.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Honduras-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -49,7 +51,7 @@
     {
       "id": "kaffa-torrefacteur-colombie",
       "name": "Café de Jhon Muñoz",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": "Colombie, Nariño",
       "process": "Lavé (fermentation alcoolique)",
       "variety": "Caturra, castillo",
@@ -59,9 +61,11 @@
       "body": null,
       "method": "Toutes méhodes",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité"
+      ],
+      "harvestYear": "2025",
+      "description": "Café colombien de la région de Nariño cultivé en altitude, traité par voie humide avec fermentation alcoolique, proposant un profil fruité adapté à la préparation en espresso ou filtre.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Colombie-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -82,7 +86,7 @@
     {
       "id": "kaffa-torrefacteur-rwanda",
       "name": "Café du village de Rutabo",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": "Rwanda, Gakenke",
       "process": "Naturel",
       "variety": "Bourbons",
@@ -92,9 +96,11 @@
       "body": null,
       "method": "Toutes méthodes",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruitée"
+      ],
+      "harvestYear": "2025",
+      "description": "Café rwandais cultivé à haute altitude au village de Rutabo, présenté en traitement naturel avec des notes fruitées, adapté aux préparations en espresso ou filtre.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Rwanda-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -115,7 +121,7 @@
     {
       "id": "kaffa-torrefacteur-perou",
       "name": "Café de La Lima",
-      "originCountry": null,
+      "originCountry": "Pérou",
       "originDetail": "Pérou, San Ignácio",
       "process": "Lavé",
       "variety": "Typica, Caturra et Pache",
@@ -125,9 +131,11 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao"
+      ],
+      "harvestYear": "2025",
+      "description": "Café péruvien issu de trois variétés cultivées à 1800 m d'altitude, traité par voie lavée, aux notes de cacao.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Perou-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -148,7 +156,7 @@
     {
       "id": "kaffa-torrefacteur-mitiku-kebede",
       "name": "Café de Mitiku Kebede",
-      "originCountry": null,
+      "originCountry": "Ethiopie",
       "originDetail": "Ethiopie, Yirgacheffe",
       "process": "Naturel",
       "variety": "Jarc 74110, 74148",
@@ -158,9 +166,11 @@
       "body": null,
       "method": "Espresso, Filtre",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité"
+      ],
+      "harvestYear": "2026",
+      "description": "Un café éthiopien de Yirgacheffe traité naturellement, proposant des notes fruitées et adapté aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Ethiopie-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -181,19 +191,21 @@
     {
       "id": "kaffa-torrefacteur-cafe-amkeni",
       "name": "Café de Amkeni",
-      "originCountry": null,
+      "originCountry": "Tanzanie",
       "originDetail": "Tanzanie, Arusha",
       "process": "Lavé",
       "variety": "Bourbons",
-      "producer": null,
+      "producer": "Amkeni",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Espresso, Filtre",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Thé noir"
+      ],
+      "harvestYear": "2025",
+      "description": "Café tanzanien de la coopérative Amkeni, cultivé en altitude et traité par voie humide, présenté pour l'extraction en espresso avec des notes de thé noir.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/02/Tanzanie-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -214,19 +226,21 @@
     {
       "id": "kaffa-torrefacteur-kenya",
       "name": "Café de Gloria Gummerus",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": "Kenya, Kimini",
       "process": "Lavé",
       "variety": "SL28",
-      "producer": null,
+      "producer": "Gloria Gummerus",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Espresso, Filtre",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité"
+      ],
+      "harvestYear": "2026",
+      "description": "Un café kényan de la région de Kimini, cultivé en altitude à 1800m et traité par voie lavée, présenté comme fruité et adapté à la préparation en filtre.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/01/Kenya-cafe-de-specialite-carre.jpg",
       "retailers": [
         {
@@ -247,19 +261,21 @@
     {
       "id": "kaffa-torrefacteur-cascara-de-gloria-gummerus",
       "name": "Cascara de Gloria Gummerus",
-      "originCountry": null,
+      "originCountry": "Kenya",
       "originDetail": "Kenya, Kimini",
       "process": "Fermenté",
       "variety": "SL28",
-      "producer": null,
+      "producer": "Gloria Gummerus, Ferme Sabata",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Toutes méhodes",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité"
+      ],
+      "harvestYear": "2026",
+      "description": "Un café du Kenya cultivé à 1800 m d'altitude, traité par fermentation, aux notes fruitées, convenant aussi bien aux infusions chaudes que froides.",
       "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2026/09/fleur-cafe-petit.png",
       "retailers": [
         {

@@ -28,7 +28,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café présenté sous une narration fantaisiste sans détails techniques identifiables.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/08/IM1-MISS-WUSH.jpg",
       "retailers": [
         {
@@ -61,7 +61,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café proposé à la vente avec une réduction promotionnelle.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/08/IM1-JUNGLE-HALO.jpg",
       "retailers": [
         {
@@ -94,7 +94,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café vendu au kilo bénéficiant d'une réduction promotionnelle.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/07/IM1-VILLA-PASTORA2.jpg",
       "retailers": [
         {
@@ -125,9 +125,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Cranberry",
+        "Framboise",
+        "Melon"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café d'exception proposé en édition limitée par Piha, caractérisé par des notes d'amande, cranberry, framboise et melon.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/06/IM1-JOSPAPAYO.jpg",
       "retailers": [
         {
@@ -158,9 +163,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Agrumes",
+        "Fruits noirs",
+        "Prune"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Variété hybride créée par Café Granja La Esperanza, proposée en édition limitée avec des notes de chocolat noir, agrumes et fruits noirs.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/06/IM1-MANDELA-NATURE.jpg",
       "retailers": [
         {
@@ -191,9 +201,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Prune",
+        "Fraise"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'exception proposé en édition limitée par Piha, avec des notes de cacao, prune et fraise.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/03/IM1-MYSTIC-GEISHA.jpg",
       "retailers": [
         {
@@ -226,7 +240,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Une sélection de cafés proposée sous forme de box découverte.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/12/JDF00453.jpg",
       "retailers": [
         {
@@ -292,7 +306,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café commercialisé sous le nom Los Campos, proposé à la vente au kilo avec une réduction.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/09/IM1-LOS-CAMPOS.jpg",
       "retailers": [
         {
@@ -325,7 +339,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café au profil gustatif équilibré et harmonieux.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/07/IM1-LA-VICTORIA-HONEY2.jpg",
       "retailers": [
         {
@@ -358,7 +372,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Produit à base de pulpe de cerise de café à préparer en infusion, consommable aussi bien chaude que froide.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2024/05/cascara.jpg",
       "retailers": [
         {
@@ -391,7 +405,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Produit à base de fleurs de café offrant une boisson originale et légère.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2023/12/fleur-de-cafe-scaled-1.jpg",
       "retailers": [
         {
@@ -459,7 +473,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café au profil équilibré et harmonieux proposé à la vente au kilo.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/07/IM1-LA-VICTORIA-NATURE.jpg",
       "retailers": [
         {
@@ -490,9 +504,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noix",
+        "Cacao",
+        "Malte"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné proposant un profil équilibré avec des arômes de noix, cacao et malte.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/02/IM1V2-DECA.jpg",
       "retailers": [
         {
@@ -523,9 +541,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Fruits"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce mélange offre des notes de cacao avec une finale fruitée en bouche.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2018/10/IM1-ALL-BLACKS-1.jpg",
       "retailers": [
         {
@@ -558,7 +579,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café présente un profil gustatif équilibré et harmonieux.",
       "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/09/IM1-LA-VICTORIA-LAVE.jpg",
       "retailers": [
         {

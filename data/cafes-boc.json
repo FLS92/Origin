@@ -337,7 +337,9 @@
       "body": "Rond, soyeux",
       "method": null,
       "roastLevel": "1/5",
-      "flavors": null,
+      "flavors": [
+        "Sucré"
+      ],
       "harvestYear": null,
       "description": "Un café décaféiné de la région de Chiapas au Mexique, traité à l'eau sans solvants selon le procédé Mountain Water. Il se caractérise par un profil rond et soyeux avec des notes sucrées.",
       "imageUrl": "https://www.cafesboc.fr/wp-content/uploads/2022/04/boc-decafeine.png",
@@ -397,7 +399,7 @@
       "id": "cafes-boc-boc-n2-assemblage-maison-robusta-arabica",
       "name": "BOC N°2",
       "originCountry": "Assemblage Cafés BOC, Brésil, Éthiopie, Rwanda",
-      "originDetail": null,
+      "originDetail": "Rwanda, Éthiopie, Brésil",
       "process": null,
       "variety": "Robusta (Nganda), Arabica",
       "producer": null,

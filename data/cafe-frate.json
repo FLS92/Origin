@@ -19,18 +19,18 @@
       "originCountry": "Pérou",
       "originDetail": null,
       "process": "Lavé",
-      "variety": null,
+      "variety": "Arabica",
       "producer": "Cenfrocafé &amp; Rutas Del Inca",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Ample",
       "method": "Légère à Médium",
       "roastLevel": null,
       "flavors": [
         "Harmonieux & gourmand"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien biologique au profil gourmand et équilibré, offrant une texture soyeuse avec des saveurs de fruits secs et de caramel en finale douce.",
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2026/03/Le-Frangin-VFS1.png",
       "retailers": [
         {
@@ -54,18 +54,18 @@
       "originCountry": "Ethiopie",
       "originDetail": null,
       "process": "Lavé &amp; Nature",
-      "variety": null,
+      "variety": "Arabica",
       "producer": "Shilicho &amp; Taramesa",
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Équilibrée",
+      "body": "Doux",
       "method": "Légère",
       "roastLevel": null,
       "flavors": [
         "Fin & éclatant"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien 100% arabica biologique offre un profil floral et fruité avec des notes d'agrumes et de bergamote, développant une tasse douce et légèrement crémeuse avec une acidité bien équilibrée.",
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2026/03/La-Pitchoune-VFS1.png",
       "retailers": [
         {
@@ -122,7 +122,7 @@
       "originCountry": "Congo",
       "originDetail": null,
       "process": "Lavé",
-      "variety": null,
+      "variety": "Arabica",
       "producer": null,
       "score": null,
       "acidity": null,
@@ -133,7 +133,7 @@
         "Onctueux & Floral"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café congolais arabica biologique proposant un profil complexe et vif, caractérisé par des notes végétales, florales et épicées qui évoluent du citronné vers des nuances chocolatées en finale.",
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/Le-Minot-VFS1.png",
       "retailers": [
         {
@@ -161,14 +161,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Velouté",
       "method": "Poussée",
       "roastLevel": null,
       "flavors": [
         "Velouté & Parfumé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain d'intensité marquée offrant une texture onctueuse avec des notes de chocolat au lait et de praliné noisette, doté d'une bonne longueur en bouche.",
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/Le-pape-VFS1.png",
       "retailers": [
         {
@@ -192,10 +192,10 @@
       "originCountry": "Colombie",
       "originDetail": null,
       "process": "Lavé",
-      "variety": null,
+      "variety": "Arabica",
       "producer": "Cosurca &amp; Fono Paez",
       "score": null,
-      "acidity": null,
+      "acidity": "Légère",
       "body": null,
       "method": "Moyenne",
       "roastLevel": null,
@@ -203,7 +203,7 @@
         "Doux & fruité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien 100% arabica biologique au profil doux et équilibré, associant des notes fruitées et chocolatées avec une acidité légère qui en rehausse la finesse.",
       "imageUrl": "https://www.cafefrate.com/wp-content/uploads/2023/11/La-Daronne-VFS1.png",
       "retailers": [
         {

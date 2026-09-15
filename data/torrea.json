@@ -158,14 +158,14 @@
       "id": "torrea-cafe-capucas-honduras-commerce-equitable",
       "name": "Café CAPUCAS – HONDURAS, Commerce Équitable",
       "originCountry": "Honduras",
-      "originDetail": null,
+      "originDetail": "Copán et Marcala",
       "process": null,
-      "variety": null,
+      "variety": "Bourbon rouge et Catuaï",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "chocolat",
@@ -175,7 +175,7 @@
         "respectueux de l’environnement"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café hondurien associe les variétés Bourbon rouge et Catuaï cultivées à l'ombre dans les régions de Copán et Marcala. Puissant et équilibré, il développe des notes de chocolat, caramel et réglisse avec une bonne persistance en bouche.",
       "imageUrl": "https://torrea.fr/wp-content/uploads/2025/09/Honduras-Capucas-11.jpg",
       "retailers": [
         {

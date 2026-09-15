@@ -23,8 +23,8 @@
       "producer": "L'Arbre à Café",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Fleurs jaunes",
@@ -33,7 +33,7 @@
         "biscuit amandé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cultivé à haute altitude au Pérou, ce café de variété Java ancienne offre un profil floral et épicé avec des notes d'agrumes et de biscuit amandé, apprécié tant en filtre qu'en espresso pour son équilibre et sa complexité.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/mariposa-java-larbre-a-cafe-cafe-1263447.webp?v=1787920101",
       "retailers": [
         {
@@ -61,8 +61,8 @@
       "producer": "Familles paysanes",
       "score": 87.25,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Généreux",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Fruits rouges",
@@ -70,7 +70,7 @@
         "Sucre de canne"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien de micro-plantations offre une explosion aromatique avec un corps généreux et une texture soyeuse, présentant des notes de fruits rouges, vanille et sucre de canne.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/gedeo-larbre-a-cafe-cafe-689511.jpg?v=1719853911",
       "retailers": [
         {
@@ -99,7 +99,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Pamplemousse",
@@ -108,7 +108,7 @@
         "fruits jaunes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de variété Geisha cultivé au Pérou à la Finca Mariposa, présenté comme une preuve de la diversité de ce terroir, aux notes fruitées et florales.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/mariposa-cristal-coffee-globe-larbre-a-cafe-cafe-6952697.webp?v=1773336734",
       "retailers": [
         {
@@ -135,9 +135,9 @@
       "variety": "Arabica",
       "producer": "Graciano Cruz",
       "score": 92,
-      "acidity": null,
+      "acidity": "Acidulée",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Lavande",
@@ -146,7 +146,7 @@
         "cerise"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de spécialité panaméen cultivé en altitude sur une plantation écologique, proposant une tasse florale et fruitée caractérisée par sa pureté et sa complexité aromatique.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/los-lajones-bambu-larbre-a-cafe-cafe-5920776.webp?v=1779385514",
       "retailers": [
         {
@@ -175,7 +175,7 @@
       "score": 89,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Jasmin",
@@ -184,7 +184,7 @@
         "épices"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café panaméen issu d'une variété éthiopienne offre un profil aromatique floral et délicat, travaillé par une fermentation naturelle et un double séchage. Il se décline aussi bien en filtre qu'en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/chichogallo-larbre-a-cafe-cafe-6689715.webp?v=1780545561",
       "retailers": [
         {
@@ -209,10 +209,10 @@
       "originDetail": null,
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Ferme Mariposa",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -222,7 +222,7 @@
         "qualité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assortiment de cafés grands crus aux profils chocolatés provenant de producteurs engagés dans l'agriculture biologique et biodynamique, offrant une expérience gustative gourmande et profonde.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/assortiment-grands-crus-chocolates-larbre-a-cafe-cafe-9339407.webp?v=1773336734",
       "retailers": [
         {
@@ -250,8 +250,8 @@
       "producer": "L'Arbre à Café",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat noir",
@@ -259,7 +259,7 @@
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité du Honduras cultivé à Marcala par la famille Zelaya selon les principes de la biodynamie. Il offre un profil sucré et gourmand avec des notes de chocolat, amande et caramel.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/zelaya-larbre-a-cafe-cafe-4391786.webp?v=1781871312",
       "retailers": [
         {
@@ -288,7 +288,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -297,7 +297,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café hondurien originaire de la région Conejo 18, proposé en espresso pour révéler son profil chocolaté et ses notes de cacao, noix et amande.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/flhor-larbre-a-cafe-cafe-7797188.webp?v=1773916811",
       "retailers": [
         {
@@ -325,8 +325,8 @@
       "producer": "L'Arbre à Café",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cassis",
@@ -334,7 +334,7 @@
         "Chocolat blanc"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'assemblage péruvien cultivé à 1900 mètres d'altitude, combinant plusieurs variétés et fermentations pour un profil fruité et soyeux aux notes de cassis, agrumes et chocolat blanc.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/mariposa-isabelina-larbre-a-cafe-cafe-9886387.webp?v=1784688792",
       "retailers": [
         {
@@ -370,7 +370,7 @@
         "raisin"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha issu du terroir volcanique du Barù au Panama, cultivé en agriculture biologique et biodynamique, aux notes fruitées de framboise et raisin.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/autour-du-volcan-larbre-a-cafe-cafe-2839514.png?v=1760699085",
       "retailers": [
         {
@@ -398,8 +398,8 @@
       "producer": "L'Arbre à Café",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Fruits confits",
@@ -407,7 +407,7 @@
         "miel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café péruvien fruité aux notes de fruits confits et de pêche, offrant une texture soyeuse avec une fraîcheur appréciable, recommandé pour la préparation en filtre.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/mariposa-atlas-coffee-globe-larbre-a-cafe-cafe-3043356.webp?v=1773336734",
       "retailers": [
         {
@@ -436,7 +436,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -444,7 +444,7 @@
         "Noix de pécan"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café péruvien du producteur Chakra do Dago offre un profil aux notes noisettées avec des saveurs de cacao et de noix de pécan, caractérisé par une certaine légèreté et une aromatique délicate.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/chakra-do-dago-larbre-a-cafe-cafe-7365554.webp?v=1775822739",
       "retailers": [
         {
@@ -482,7 +482,7 @@
         "qualité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet assortiment découverte propose six paquets de 250g sélectionnés selon les trois gammes du torréfacteur, permettant d'explorer différentes origines et profils aromatiques.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/assortiment-decouverte-larbre-a-cafe-cafe-9806530.webp?v=1773833957",
       "retailers": [
         {
@@ -544,7 +544,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -553,7 +553,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café du Honduras cultivé selon les principes de l'agriculture biologique et biodynamique, caractérisé par un profil aromatique chocolaté avec des notes de cacao, noix, amande et vanille.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/flhor-en-dosettes-reniala-by-larbre-a-cafe-larbre-a-cafe-cafe-6922515.png?v=1769690896",
       "retailers": [
         {
@@ -582,7 +582,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Fleur d'oranger",
@@ -590,7 +590,7 @@
         "poire"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de Panama cultivé en agriculture biologique et biodynamie, proposé en dosettes pour machine espresso. Ce Catuaï offre un profil fruité avec des notes de fleur d'oranger, papaye et poire.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/amarillo-en-dosettes-reniala-by-larbre-a-cafe-larbre-a-cafe-cafe-9971046.png?v=1769690897",
       "retailers": [
         {
@@ -619,7 +619,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Fruits jaunes",
@@ -627,7 +627,7 @@
         "épices"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de première récolte provenant d'une ferme forêt bio certifiée Demeter, offrant un profil fruité et épicé de puissance légère.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/gera-en-dosettes-reniala-by-larbre-a-cafe-larbre-a-cafe-cafe-4678492.png?v=1769690897",
       "retailers": [
         {
@@ -655,8 +655,8 @@
       "producer": "Producteurs amis et plantations fidèles",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -665,7 +665,7 @@
         "Sucre brun"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café se caractérise par un profil aromatique chocolaté aux notes de cacao, noisette et caramel, avec une structure ronde et consensuelle adaptée à l'espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/origine-en-dosettes-reniala-by-larbre-a-cafe-larbre-a-cafe-cafe-4894625.png?v=1769690898",
       "retailers": [
         {
@@ -693,8 +693,8 @@
       "producer": "Fermiers, Coopératives",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Généreux",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
@@ -702,7 +702,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné biologique d'origine péruvienne traité par osmose inverse, proposé en dosettes pour machine espresso, offrant des notes de chocolat, cardamome et vanille avec un corps généreux.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe-larbre-a-cafe-cafe-2805077.png?v=1769690896",
       "retailers": [
         {
@@ -731,7 +731,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cerise",
@@ -740,7 +740,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce Bourbon Pointu réunionnais, ressuscité après sa disparition, offre un profil aromatique dominé par les fruits rouges avec des notes de cerise, framboise et abricot. C'est une variété peu caféinée réputée pour sa finesse et sa complexité.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/bourbon-pointu-larbre-a-cafe-cafe-1890997.webp?v=1773916989",
       "retailers": [
         {
@@ -768,8 +768,8 @@
       "producer": "Famille Marin, Mustefa Abakeno",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond et corsé",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat noir",
@@ -777,7 +777,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café rond et corsé aux notes de chocolat noir, fruits secs et vanille, commercialisé en capsules biodégradables. Produit bio certifié, issu du commerce équitable avec compensation carbone intégrale.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/canopee-en-capsules-bio-degradables-larbre-a-cafe-cafe-9011744.webp?v=1773833901",
       "retailers": [
         {
@@ -805,7 +805,7 @@
       "producer": "Producteurs amis et plantations fidèles",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -815,7 +815,7 @@
         "Sucre brun"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café au profil rond et consensuel, marqué par des notes chocolatées, cacaotées et sucrées, disponible en capsules biodégradables et cultivé selon les standards de l'agriculture biologique et biodynamique.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/origine-en-capsules-bio-degradables-larbre-a-cafe-cafe-4782170.webp?v=1773833901",
       "retailers": [
         {
@@ -843,8 +843,8 @@
       "producer": "L'Arbre à Café",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
@@ -852,7 +852,7 @@
         "fruits cuits"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café guatémaltèque d'Huehuetenango offrant un profil rond et chocolaté avec des notes d'amande et de fruits cuits, adapté à la préparation en filtre comme en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/saquelew-larbre-a-cafe-cafe-3468691.webp?v=1775822604",
       "retailers": [
         {
@@ -881,7 +881,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat blanc",
@@ -889,7 +889,7 @@
         "amande fraîche"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café signature d'une ferme péruvienne, caractérisé par son onctuosité et sa longueur en bouche, offrant un profil aromatique chocolaté avec des notes de fruits jaunes et d'amande fraîche.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/blue-mariposa-larbre-a-cafe-cafe-8148438.webp?v=1775822607",
       "retailers": [
         {
@@ -918,7 +918,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
@@ -926,7 +926,7 @@
         "mirabelle"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien cultivé en altitude, traité naturellement, offrant un profil fruité avec des notes de chocolat au lait, pamplemousse et mirabelle.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/timana-larbre-a-cafe-cafe-6394799.png?v=1773253872",
       "retailers": [
         {
@@ -957,9 +957,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "notes florales"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret composé de quatre cafés traités selon la méthode Coffee Globe, un procédé inspiré de techniques de vinification conçu pour sublimer les arômes et révéler des profils gustatifs intenses et précis.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/coffret-illumination-larbre-a-cafe-cafe-7230017.png?v=1772508225",
       "retailers": [
         {
@@ -982,17 +984,17 @@
       "name": "Coffret Métamorphose",
       "originCountry": "Pérou",
       "originDetail": "Oxapampa",
-      "process": null,
+      "process": "Fermentations inédites en Coffee Globe ou en Cuves Ovoïdes",
       "variety": "Arabica",
       "producer": "Hippolyte Courty",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret composé de trois cafés single-origin provenant de la propre ferme du torréfacteur au Pérou, cultivés selon des pratiques biologiques et biodynamiques, avec des fermentations innovantes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/coffret-metamorphose-larbre-a-cafe-cafe-5284250.png?v=1763808116",
       "retailers": [
         {
@@ -1021,7 +1023,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Citrus",
@@ -1031,7 +1033,7 @@
         "raisin"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café panaméen à base de Catuaï aux notes fruitées de citrus, papaye et mangue, présenté comme une création du torréfacteur recommandée en V60.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/au-coeur-de-la-foret-larbre-a-cafe-cafe-1671116.png?v=1762439459",
       "retailers": [
         {
@@ -1059,8 +1061,8 @@
       "producer": "Producteurs amis et plantations fidèles",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Onctueux",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Caramel",
@@ -1068,7 +1070,7 @@
         "Datte"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage biodynamique équilibré présenté comme signature de la maison, aux notes chocolatées et de caramel avec une touche de fruits à coque, torréfié pour obtenir un corps onctueux et une aromatique riche.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/source-larbre-a-cafe-cafe-8617786.webp?v=1773916813",
       "retailers": [
         {
@@ -1096,8 +1098,8 @@
       "producer": "Producteurs amis et plantations fidèles",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond, corsé",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat noir",
@@ -1105,7 +1107,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café corsé et puissant offre un profil aromatique épicé avec des notes de chocolat noir, fruits secs et vanille, particulièrement adapté à la préparation en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/canopee-larbre-a-cafe-cafe-133482.jpg?v=1719925052",
       "retailers": [
         {
@@ -1134,7 +1136,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Pêche",
@@ -1143,7 +1145,7 @@
         "agrumes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien cultivé en jardins, présenté comme fruité et vivifiant, avec des notes de pêche et de thé noir.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/saio-larbre-a-cafe-cafe-719455.png?v=1750390540",
       "retailers": [
         {
@@ -1171,7 +1173,7 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -1181,7 +1183,7 @@
         "qualité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assortiment de cafés biologiques destiné à l'initiation à la spécialité, proposant des profils accessibles et équilibrés issus de relations commerciales directes avec les producteurs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/assortiment-initiation-larbre-a-cafe-cafe-5873266.webp?v=1773833955",
       "retailers": [
         {
@@ -1209,7 +1211,7 @@
       "producer": "Fermiers, Coopératives",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Généreux",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -1218,7 +1220,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné biologique du Mexique traité par osmose inverse, présenté en capsules biodégradables, offrant des arômes épicés avec des notes de chocolat, cardamome et vanille.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/gramo-de-oro-en-capsules-bio-degradables-larbre-a-cafe-cafe-2527358.png?v=1763393575",
       "retailers": [
         {
@@ -1246,8 +1248,8 @@
       "producer": "Producteurs amis et plantations fidèles",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -1256,7 +1258,7 @@
         "Sucre brun"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café accessible et équilibré aux notes chocolatées et caramélisées, apprécié pour sa polyvalence et particulièrement recommandé en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/origine-larbre-a-cafe-cafe-1089786.webp?v=1773916811",
       "retailers": [
         {
@@ -1285,7 +1287,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
@@ -1293,7 +1295,7 @@
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café du Pérou décaféiné offre un profil épicé avec des arômes de chocolat au lait, cardamome et vanille, présenté comme particulièrement adapté à la préparation en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/gramo-de-oro-decafeine-larbre-a-cafe-cafe-8600033.png?v=1763393694",
       "retailers": [
         {
@@ -1322,7 +1324,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Floral",
@@ -1331,7 +1333,7 @@
         "chocolat au lait"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café péruvien issu d'une ferme partenaire en direct allie des notes fruitées et florales avec des saveurs de pêche, raisin et chocolat au lait, offrant une expérience gourmande et aromatiquement intense recommandée en espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/mariposa-monarca-coffee-globe-larbre-a-cafe-cafe-5371553.webp?v=1773253869",
       "retailers": [
         {
@@ -1360,7 +1362,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Jasmin",
@@ -1369,7 +1371,7 @@
         "citrus"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de variété Geisha du Panama aux notes aromatiques complexes mêlant jasmin, fleurs et agrumes, cultivé en agriculture biologique selon les principes de la biodynamie Demeter.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/reserve-agua-coffee-globe-larbre-a-cafe-cafe-8131204.png?v=1766045051",
       "retailers": [
         {
@@ -1398,7 +1400,7 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Jasmin",
@@ -1406,7 +1408,7 @@
         "pêche"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café panaméen de la Morgan Estate, cultivé en agriculture biologique et biodynamie Demeter, offrant un profil aromatique floral avec des notes délicates de jasmin, bergamote et pêche.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/echo-coffee-globe-larbre-a-cafe-cafe-4531429.webp?v=1773336735",
       "retailers": [
         {
@@ -1434,8 +1436,8 @@
       "producer": "Jamison Savage",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Nectarine",
@@ -1443,7 +1445,7 @@
         "thé noir"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café panaméen travaillé selon la méthode Coffee Globe offre un profil aromatique cristallin marqué par des notes florales, avec des saveurs de fruits mûrs et de thé noir, adapté tant à la préparation filtre qu'à l'espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/radiance-coffee-globe-larbre-a-cafe-cafe-8079566.png?v=1763808106",
       "retailers": [
         {
@@ -1466,8 +1468,12 @@
       "name": "Assortiment Coffee Globe",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
-      "variety": null,
+      "process": "Double fermentation",
+      "variety": [
+        "Geisha",
+        "Java",
+        "Arara Jaune"
+      ],
       "producer": null,
       "score": null,
       "acidity": null,
@@ -1481,7 +1487,7 @@
         "qualité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assortiment de trois cafés d'exception présentant différentes variétés botaniques et profils aromatiques, dont un traité par double fermentation.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/assortiment-coffee-globe-larbre-a-cafe-cafe-9495337.png?v=1788997287",
       "retailers": [
         {

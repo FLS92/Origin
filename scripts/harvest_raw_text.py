@@ -24,7 +24,11 @@ OUT_PATH = "scratch/raw_text_dump.jsonl"
 
 
 def needs_enrichment(product):
-    return all(product.get(f) is None for f in FIELDS_TO_CHECK)
+    # any() rather than all(): a product with e.g. method already set (from a
+    # platform tag or the title) but no description/process/flavors/etc. still
+    # needs the LLM pass -- requiring every field to be empty silently skipped
+    # ~1000 partially-filled products that genuinely had more to extract.
+    return any(product.get(f) is None for f in FIELDS_TO_CHECK) or product.get("description") is None
 
 
 def harvest_shopify(meta):

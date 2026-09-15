@@ -22,13 +22,17 @@
       "variety": "Arabica",
       "producer": "Murambi",
       "score": 84,
-      "acidity": null,
-      "body": null,
+      "acidity": "Douce",
+      "body": "Généreux",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Sucre brun",
+        "Toasté"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité rwandais cultivé en altitude sur les plaines de l'Est, présentant un profil équilibré associant une acidité douce à un corps généreux. Traité selon un protocole minutieux de tri, fermentation et séchage prolongé, il exprime des notes de chocolat et toasté.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Rwanda_Murambi.png?v=1787921283",
       "retailers": [
         {
@@ -59,9 +63,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Prune",
+        "Cerise",
+        "Cassis"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité ougandais issu d'une microstation regroupant plus de 300 petits producteurs, traité en anaérobie avec fermentation contrôlée et séchage au soleil.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Ouganda_Jukia.png?v=1784664507",
       "retailers": [
         {
@@ -84,17 +92,21 @@
       "name": "EQUATEUR - TULIPE",
       "originCountry": "Équateur",
       "originDetail": "Pichincha",
-      "process": null,
+      "process": "Lavé",
       "variety": "Arabica",
-      "producer": null,
+      "producer": "Projet Café 1600 (Mateo Patiño, Gilda Carrascal, Andrés Dávalos)",
       "score": 84,
       "acidity": null,
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Agrumes",
+        "Amandes",
+        "Pain grillé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café d'Équateur cultivé en altitude dans la région de Pichincha présente un profil expressif et équilibré, avec des notes d'agrumes, d'amandes et de pain grillé, bénéficiant de conditions climatiques unique en forêt de nuages.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Equateur.png?v=1784061231",
       "retailers": [
         {
@@ -125,9 +137,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits des bois",
+        "Fraise confite",
+        "Fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité colombien issu d'une double fermentation contrôlée et d'un séchage mécanique, offrant une expression aromatique riche aux notes de fruits rouges et fruits des bois.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Colombie_Comuneros.png?v=1773222937",
       "retailers": [
         {
@@ -154,13 +170,17 @@
       "variety": "arabica",
       "producer": null,
       "score": 83,
-      "acidity": null,
-      "body": null,
+      "acidity": "Acidulée",
+      "body": "Doux et velouté",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel",
+        "Noisettes",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange de cafés arabica de spécialité certifiés biologiques aux arômes de caramel, noisettes et agrumes, présentant une légère acidité et un corps doux.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetArlo_scoffee_5c655b6d-6e6a-47b2-9695-963688728a1d.png?v=1721314409",
       "retailers": [
         {
@@ -191,9 +211,12 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits jaunes",
+        "Amandes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité en provenance de Colombie, région de Tolima, cultivé en agriculture biologique. Exprime des notes naturelles de fruits jaunes et d'amandes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetColombie-tolima_c594b711-7bfc-49b2-a02c-f48bf56e1fae.png?v=1721314907",
       "retailers": [
         {
@@ -224,9 +247,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pêche",
+        "Sucre brun",
+        "Noisettes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité éthiopien certifié biologique et équitable, offrant des notes naturelles de fruits secs et de noisettes. Torréfié artisanalement par Arlo's Coffee.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuelsachetethiopie-Ali_aa6896b2-c1e6-4d92-b07e-69410a57fba8.png?v=1721314980",
       "retailers": [
         {
@@ -254,12 +281,16 @@
       "producer": "Fazenda Ambiental Fortaleza",
       "score": 82,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Espresso",
-      "roastLevel": null,
-      "flavors": null,
+      "roastLevel": "Classique",
+      "flavors": [
+        "Chocolat",
+        "Caramel",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité brésilien 100% arabica aux saveurs naturelles de chocolat, caramel et amande, avec un corps rond et équilibré.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetBresil-Sylvia_64368f8f-282c-42c7-b114-963135cddedb.png?v=1721314615",
       "retailers": [
         {
@@ -289,10 +320,12 @@
       "acidity": null,
       "body": null,
       "method": "Espresso",
-      "roastLevel": null,
-      "flavors": null,
+      "roastLevel": "Classique",
+      "flavors": [
+        "cuisson"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange conçu pour l'espresso, proposé en torréfaction classique équilibrée ou très foncée aux notes fumées intenses, disponible en grains ou moulu.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_l_espresso_click.png?v=1748099004",
       "retailers": [
         {
@@ -314,7 +347,7 @@
       "id": "arlo-s-coffee-honduras-marco",
       "name": "HONDURAS - MARCO BIO",
       "originCountry": "Honduras",
-      "originDetail": null,
+      "originDetail": "Marcala, département de La Paz",
       "process": "Lavé",
       "variety": "Arabica",
       "producer": null,
@@ -323,9 +356,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Citrus",
+        "Miel",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café hondurien biologique cultivé à Marcala, présentant des notes naturelles d'agrumes, de miel et de caramel, issu d'une agriculture respectueuse de l'environnement.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetHonduras-Marco_a5a34f5f-173c-4ad3-8d0e-8dfad612d580.png?v=1721315226",
       "retailers": [
         {
@@ -358,7 +395,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Coffret de dégustation contenant quatre cafés de spécialité pur arabica de la gamme éphémère, proposés en sachets de 100 grammes, disponibles en grain ou moulu.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Coffret_cadeau_gamme_ephemere_Arlo_s_Coffee_Torrefacteur_Rambouillet.jpg?v=1770653816",
       "retailers": [
         {
@@ -389,9 +426,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Fruits rouges",
+        "Sucre de canne"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien décaféiné par procédé naturel à la canne à sucre, présenté en arabica pur avec des notes de chocolat et de fruits rouges.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/VisuelsachetColombie-deca_0944cdb0-5d1f-420b-918c-c9e741316179.png?v=1721314795",
       "retailers": [
         {

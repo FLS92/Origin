@@ -22,13 +22,17 @@
       "variety": "Bourbon Jaune, Catuaí, Catucaí",
       "producer": "Fazenda Recreio",
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Extrêmement basse",
+      "body": "Très crémeux",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Cookies",
+        "Noisettes grillées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien d'exception réputé pour sa rondeur remarquable, associant des notes intenses de chocolat et de noisettes grillées avec une acidité très faible et un corps crémeux. Particulièrement adapté à l'extraction en machine espresso.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Recreio-02.png?fit=1536%2C1454&ssl=1",
       "retailers": [
         {
@@ -53,15 +57,15 @@
       "originDetail": "Suaza, Huila",
       "process": "Lavé, Décaféiné à l’Acétate d’Éthyle (EA) en Colombie",
       "variety": "Caturra, Castillo, Colombia",
-      "producer": null,
+      "producer": "Arnulfo Losada, Oliverio Losada, Henry Santanilla, Luz Mary Hurtado, Angelina Gomez (Coopérative Divino Niño / ASOCAFOR)",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné de Colombie proposant un profil lavé équilibré avec un corps rond et une douceur naturelle, recommandé en espresso pour sa densité ou en méthode douce pour sa clarté.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Divino-Nino-02.png?fit=1537%2C1454&ssl=1",
       "retailers": [
         {
@@ -88,13 +92,16 @@
       "variety": "Arabica – JARC 74112 & 74110",
       "producer": "Haider Abamecha",
       "score": null,
-      "acidity": null,
+      "acidity": "florale et vive",
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "thé noir",
+        "agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de haute altitude aux caractéristiques florales marquées, offrant une tasse claire avec une acidité prononcée et des finales nettes.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Kebena-02.png?fit=1536%2C1454&ssl=1",
       "retailers": [
         {
@@ -119,15 +126,15 @@
       "originDetail": "Montagnes de Rwenzori (District de Kasese)",
       "process": "Anaérobie Naturel (60h de fermentation)",
       "variety": "SL28",
-      "producer": null,
+      "producer": "Lunar Coffee Washing Station",
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Brillante mais maîtrisée",
+      "body": "Sirupeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café ougandais des Montagnes de Rwenzori au process anaérobie naturel, caractérisé par une acidité brillante et un corps sirupeux, adapté aussi bien aux extractions douces qu'à l'espresso.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/El-lunatico-02.png?fit=1536%2C1454&ssl=1",
       "retailers": [
         {
@@ -152,11 +159,11 @@
       "originDetail": "Huila — San Agustín",
       "process": "Lavé",
       "variety": "Pink Bourbon",
-      "producer": null,
+      "producer": "Iván Sebay",
       "score": 88,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Vivacité épicée",
+      "body": "Soyeuse",
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Fruits rouges",
@@ -164,7 +171,7 @@
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café colombien cultivé en haute altitude dans le Huila combine une fermentation maîtrisée et un traitement lavé pour offrir un profil aromatique complexe mêlant fruits rouges, fleurs et épices avec une texture soyeuse.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/05/Resiliencia-02.png?fit=1537%2C1454&ssl=1",
       "retailers": [
         {
@@ -191,9 +198,9 @@
       "variety": "Caturra, Colombia, Castillo",
       "producer": null,
       "score": 83,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Modérée",
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat",
@@ -202,7 +209,7 @@
         "réconfortante"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café colombien lavé du Huila offre un profil équilibré et accessible, caractérisé par une douceur naturelle et un corps rond, convenant aussi bien à l'espresso qu'aux méthodes de filtration.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/12/Guarapito-WEB-02.png?fit=1537%2C1454&ssl=1",
       "retailers": [
         {
@@ -230,8 +237,8 @@
       "producer": null,
       "score": 86,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cerise",
@@ -240,7 +247,7 @@
         "maîtrisé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de spécialité traité en naturel, offrant un profil doux et gourmand avec des notes de cerise et cacao, adapté aussi bien à l'espresso qu'aux méthodes de filtration.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/12/Bocadillo-WEB-02-02.png?fit=1537%2C1454&ssl=1",
       "retailers": [
         {
@@ -263,20 +270,20 @@
       "name": "Pura Vida, Mae! – Café de Costa Rica (250g – 1Kg)",
       "originCountry": "Costa Rica",
       "originDetail": "Tarrazú, Costa Rica",
-      "process": null,
+      "process": "Anaerobic Natural (fermentation 72h en sacs hermétiques + 19 jours sur lits africains)",
       "variety": "Red Catuai",
-      "producer": null,
+      "producer": "Iván Solís",
       "score": 85.75,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Fraise",
         "Vanille"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café de fermentation anaérobie exprime une complexité aromatique marquée par des notes fruitées et vanillées, avec une texture ronde et enveloppante. Versant un profil sirupeux en espresso ou vibrant en filtre, il séduira les amateurs de cafés à forte personnalité.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/11/Pura-Vida-WOO-02-02.png?fit=1536%2C1454&ssl=1",
       "retailers": [
         {
@@ -299,13 +306,13 @@
       "name": "Komothai – Café du Kenya (250g – 1Kg)",
       "originCountry": "Kenya",
       "originDetail": "Kiambu",
-      "process": null,
+      "process": "Lavé",
       "variety": "SL28, SL34, Ruiru 11",
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Bergamote",
@@ -315,7 +322,7 @@
         "confiture de framboise"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café kényan de spécialité provient d'un terroir volcanique où sont cultivées les variétés SL28, SL34 et Ruiru 11. Il se distingue par son profil aromatique fruité et complexe, avec une acidité vive et des notes florales persistantes.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/09/Komathai-Web-02.jpg?fit=769%2C727&ssl=1",
       "retailers": [
         {
@@ -338,17 +345,21 @@
       "name": "Quilombo – Café du Brésil (250g – 1Kg)",
       "originCountry": "Brésil",
       "originDetail": "Sud de Minas Gerais",
-      "process": null,
+      "process": "Naturel",
       "variety": "Catuai",
-      "producer": null,
+      "producer": "Pieter Keijsers",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits Secs",
+        "Fruits Jaunes",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de spécialité provient d'une ferme du Sud de Minas Gerais et combine l'expertise locale avec les standards de qualité européens. Il offre des notes de fruits secs, fruits jaunes et caramel.",
       "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2025/12/Quilombo-02.png?fit=1536%2C1454&ssl=1",
       "retailers": [
         {

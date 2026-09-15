@@ -22,13 +22,17 @@
       "variety": "100% Canephora ·",
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Absente",
+      "body": "Soyeux",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Épicé",
+        "Chocolat au lait",
+        "Boisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café composé exclusivement de Canephora proposé en capsules, caractérisé par une texture veloutée, une crema persistante et des notes de chocolat au lait et d'épices avec une finale puissante.",
       "imageUrl": "https://shop.cafes-goneo.fr/3962-large_default/canephora-capsules-nespresso.jpg",
       "retailers": [
         {
@@ -50,18 +54,22 @@
       "id": "cafes-goneo-p692",
       "name": "Capsules café BIO Pérou Palma Central compatibles Nespresso® | x 40",
       "originCountry": "Pérou",
-      "originDetail": null,
+      "originDetail": "Palma Central",
       "process": null,
       "variety": "100% Arabica ·",
       "producer": null,
-      "score": null,
+      "score": 83,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat praliné",
+        "Orange",
+        "Miel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique péruvien aux notes chocolatées et fruitées, offrant une tasse charnue et veloutée avec des touches d'agrumes et de fruits secs.",
       "imageUrl": "https://shop.cafes-goneo.fr/3991-large_default/perou-palma-central-capsules-nespresso.jpg",
       "retailers": [
         {
@@ -222,19 +230,24 @@
     {
       "id": "cafes-goneo-p701",
       "name": "Capsules café décaféiné compatibles Nespresso® | x 40",
-      "originCountry": null,
+      "originCountry": "Colombie",
       "originDetail": null,
       "process": "Lavé, décaféiné par solvant naturel ·",
       "variety": "100% Arabica ·",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Délicat",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel",
+        "Malté",
+        "Lacté",
+        "Sucre roux"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné colombien traité au solvant naturel de canne à sucre, présenté en capsules Nespresso®, avec un profil gustatif de caramel, malt et fruits secs.",
       "imageUrl": "https://shop.cafes-goneo.fr/3969-large_default/decafeine-capsules-nespresso.jpg",
       "retailers": [
         {
@@ -262,12 +275,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Pack découverte contenant deux cafés en capsules compatibles Nespresso : l'un aux notes chocolatées et équilibrées, l'autre caractérisé par sa texture veloutée et sa crema persistante.",
       "imageUrl": "https://shop.cafes-goneo.fr/4090-large_default/pack-capsules-nespresso-2-x-40.jpg",
       "retailers": [
         {
@@ -288,19 +303,24 @@
     {
       "id": "cafes-goneo-p597",
       "name": "Café en grains Souvenir de Goma | Blend 100% Arabica",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": "Nature-Honey ·",
       "variety": "100% Arabica ·",
       "producer": null,
-      "score": null,
+      "score": 85,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits noirs",
+        "Miel",
+        "Orange",
+        "Chocolat blanc"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage éthiopien créé pour le Paris Coffee Show 2022, combinant des notes de fruits noirs, miel, orange et chocolat blanc avec un équilibre entre sucrosité et douceur.",
       "imageUrl": "https://shop.cafes-goneo.fr/3496-large_default/souvenir-de-goma.jpg",
       "retailers": [
         {
@@ -326,14 +346,18 @@
       "process": "Lavé – Nature",
       "variety": "100% Arabica ·",
       "producer": null,
-      "score": null,
+      "score": 82,
       "acidity": null,
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Coing",
+        "Praline"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce blend espresso 100% arabica se caractérise par un profil doux et équilibré, révélant des arômes de chocolat, praline et coing avec une sensation persistante en bouche.",
       "imageUrl": "https://shop.cafes-goneo.fr/3506-large_default/barista-25.jpg",
       "retailers": [
         {
@@ -361,12 +385,17 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Onctueux",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "épices douces",
+        "cacao",
+        "malt",
+        "boisé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage signature italien composé d'arabica et de robusta, conçu pour l'espresso, offrant une tasse onctueuse avec des notes de cacao, malt et épices.",
       "imageUrl": "https://shop.cafes-goneo.fr/3507-large_default/stivale-espresso.jpg",
       "retailers": [
         {

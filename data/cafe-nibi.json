@@ -16,22 +16,22 @@
     {
       "id": "cafe-nibi-mystique-arabica-peruvien",
       "name": "Le Mystique - Arabica Péruvien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "originCountry": "Pérou",
+      "originDetail": "Région de Junin, coopérative ACPC Pichanaki",
+      "process": "Lavé",
+      "variety": "Caturra, Catai, Typica",
+      "producer": "ACPC Pichanaki",
+      "score": 87,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "cacao",
         "légèrement fruité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica péruvien de la coopérative ACPC Pichanaki issu d'un assemblage de trois variétés, traité par voie humide et cultivé à haute altitude, offrant des notes de cacao et de fruit avec un profil rond.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/e901efac-c4a1-48d5-b49a-6f2a245e82db/Design+sans+titre+%2811%29.png",
       "retailers": [
         {
@@ -52,21 +52,21 @@
     {
       "id": "cafe-nibi-meneur-arabica-bresil-specialtycoffee",
       "name": "Le Meneur - Arabica Brésilien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originCountry": "Brésil",
+      "originDetail": "Minas Gerais, Cerrado",
+      "process": "Naturel",
+      "variety": "Mundo Novo, Catuai",
       "producer": null,
-      "score": null,
+      "score": 82,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "praliné"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet arabica brésilien de spécialité provient de la région du Cerrado à Minas Gerais, issu d'un assemblage de mundo novo et catuai cultivés en altitude. Équilibré et gourmand, il offre des notes de praliné et peut être préparé selon diverses méthodes.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718704691806-UANSVAE1UER3TL7EO0F1/Packshot-Le-meneur-200g-Transp.png",
       "retailers": [
         {
@@ -87,22 +87,22 @@
     {
       "id": "cafe-nibi-jovial-arabica-bresilien-grain-moulu",
       "name": "Le Jovial -  Arabica Brésilien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
+      "originCountry": "Brésil",
+      "originDetail": "Minas Gerais, 970 m d'altitude",
+      "process": "Nature",
+      "variety": "Acaia, Mundo Novo",
+      "producer": "Famille Reis",
+      "score": 83.5,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "cacao",
         "pain grillé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica brésilien produit par la Famille Reis en traitement naturel, issu d'un assemblage de deux variétés cultivées à haute altitude.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1718736058663-E7AZ8T0CIXU53KRA8U3T/Packshot-Le-jovial-200g-Transp.png",
       "retailers": [
         {
@@ -159,21 +159,21 @@
     {
       "id": "cafe-nibi-arabica-indonesie-cafe-specialite-amln8",
       "name": "Le Subtil - Arabica Indonésien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originCountry": "Indonésie",
+      "originDetail": "Java",
+      "process": "Honey",
+      "variety": "Typica, Catimor, Line S",
+      "producer": "Klasik Beans",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "agrumes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Cet arabica indonésien de la coopérative Klasik Beans, cultivé à Java entre 1200 et 1500 mètres d'altitude, est un assemblage de trois variétés traité en honey. En tasse, il déploie des notes fruitées et d'agrumes.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/1aad921e-3df9-423b-90f4-9c2bc9590bf6/Design+sans+titre+%286%29.png",
       "retailers": [
         {
@@ -379,7 +379,7 @@
       "score": 84,
       "acidity": "Belle",
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Fruité"
@@ -611,22 +611,22 @@
     {
       "id": "cafe-nibi-etui-de-10-capsules-eclaireur-ethiopien",
       "name": "Etui de 10 Capsules L'Eclaireur - Arabica Ethiopien",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originCountry": "Ethiopie",
+      "originDetail": "Région de Sidama, altitude 1900-2100 m",
+      "process": "Lavé, séchage sur lit africain",
+      "variety": "Heirloom",
       "producer": null,
-      "score": null,
+      "score": 84.5,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "fruits jaunes",
         "miel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Arabica éthiopien de la région de Sidama cultivé en altitude, traité par lavage et séchage traditionnel, offrant des notes de fruits jaunes et de miel.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/42cfd744-492a-4e45-8c69-b95a2eff5157/Eclaireur.png",
       "retailers": [
         {

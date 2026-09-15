@@ -16,19 +16,24 @@
     {
       "id": "tanat-coffee-muthuaini-aa-washed",
       "name": "Muthuaini AA [Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Kenya",
+      "originDetail": "Nyeri, station Muthuaini, Mutheka Farmers Cooperative Society",
       "process": "Lavé",
       "variety": "Batian, Ruiru 11, SL28, SL34",
       "producer": "Mutheka Farmers Cooperative Society",
       "score": 87,
-      "acidity": null,
-      "body": null,
+      "acidity": "Fruitée et franche",
+      "body": "Fondant",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Mangue",
+        "Poire",
+        "Groseille",
+        "Fruit exotique"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kenyan issu d'une coopérative de petits producteurs, traité en méthode lavée. En tasse, il exprime des notes de mangue, poire et groseille avec une acidité fruitée caractéristique et une texture fondante.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-MuthuaniAA.png",
       "retailers": [
         {
@@ -82,19 +87,25 @@
     {
       "id": "tanat-coffee-ngacha-estate-yellow-honey",
       "name": "Ngacha Estate [Yellow Honey]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Kenya",
+      "originDetail": "Ngacha Estate, hauts plateaux de Kirinyaga",
       "process": "Yellow Honey",
       "variety": "SL28, SL34",
       "producer": "Martin Muriuki",
       "score": 88,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Groseille",
+        "Petit fruit rouge",
+        "Kumquat",
+        "Agrume",
+        "Pêche jaune"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café kényan cultive une harmonie entre l'acidité franche des petits fruits rouges, la finesse des agrumes et la douceur de la pêche, pour un profil équilibré et élégant.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-ngachaestateyh.png",
       "retailers": [
         {
@@ -116,7 +127,7 @@
       "id": "tanat-coffee-elida-falda-crd-gw0403",
       "name": "Elida [Falda CRD GW0403]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Parcelle Falda, Ferme Elida Estate",
       "process": "Lavé CRD",
       "variety": "Geisha",
       "producer": "Elida Estate, Wilford Lamastus",
@@ -125,9 +136,14 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin",
+        "Raisin blanc",
+        "Citron",
+        "Canneberge"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha d'exception cultivé sur la parcelle Falda de la ferme Elida Estate, traité selon la méthode innovante CRD Washed associant lavage classique et séchage lent en chambre froide, produisant une tasse d'une pureté et clarté remarquables aux arômes élégants.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/PAQUETWEB-Panama-–-Elida-Falda-CRD-GW0403.png",
       "retailers": [
         {
@@ -149,7 +165,7 @@
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-4fb",
       "name": "Hacienda la Esmeralda [Lino 4FB]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Ferme Cañas Verdes, Hacienda La Esmeralda",
       "process": "Anaérobie Lavée",
       "variety": "Geisha",
       "producer": "Hacienda la Esmeralda",
@@ -158,9 +174,14 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "thé vert",
+        "citron",
+        "jasmin",
+        "miel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce Geisha lavé provenant de la ferme Cañas Verdes bénéficie d'un traitement par fermentation froide et séchage lent qui développe des notes délicates de thé vert, citron, jasmin et miel.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/05/PAQUETWEB-HLE-Lino-4FB_100g-qrcode.png",
       "retailers": [
         {
@@ -181,19 +202,23 @@
     {
       "id": "tanat-coffee-chibor-gw97",
       "name": "Chibor [GW97]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Parcelle Chibor, projet Mi Finquita",
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Ratibor Hartmann",
       "score": 91,
-      "acidity": null,
+      "acidity": "Légèrement acidulée",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin",
+        "Pêche",
+        "Goyave rose"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café panaméen de variété Geisha, traité en lavé, caractérisé par des notes florales et fruitées marquées par le jasmin, la pêche et la goyave rose, offrant une tasse lumineuse et précise.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-Chibor97.png",
       "retailers": [
         {
@@ -214,8 +239,8 @@
     {
       "id": "tanat-coffee-los-lajones-bambu-gn10265",
       "name": "Los Lajones Bambu [GN10265]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Région de Boquete, ferme Los Lajones, parcelle Bambu",
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Graciano Cruz",
@@ -224,9 +249,14 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Orange sanguine",
+        "Jasmin",
+        "Lavande",
+        "Fruit de la passion"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un Geisha panaméen cultivé en altitude dans la parcelle Bambu de la ferme Los Lajones, offrant un profil naturel aux notes d'agrume, floral et tropical.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-bambu10265.png",
       "retailers": [
         {
@@ -247,19 +277,24 @@
     {
       "id": "tanat-coffee-hacienda-la-esmeralda-lino-6hc",
       "name": "Hacienda la Esmeralda [Lino 6HC]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Région de Boquete, Hacienda la Esmeralda",
       "process": "Controlled Honey",
       "variety": "Geisha",
       "producer": "Hacienda la Esmeralda",
       "score": 91,
-      "acidity": null,
+      "acidity": "Gourmande",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Nectarine",
+        "Framboise",
+        "Ananas séché",
+        "Rose"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de la région de Boquete cultivé à altitude élevée, traité en honey avec séchage maîtrisé pour préserver la complexité aromatique. Ce Geisha panaméen exprime le terroir avec des notes florales, fruitées et lumineuses.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/Lino6HC_BOX.jpg",
       "retailers": [
         {
@@ -280,19 +315,24 @@
     {
       "id": "tanat-coffee-gathaithi-aa-washed",
       "name": "Gathaithi AA [Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Kenya",
+      "originDetail": "Comté de Nyeri, hauts plateaux, station de lavage Gathaithi",
       "process": "Lavé",
       "variety": "Batian, Ruiru 11, SL28, SL34",
       "producer": "Gathaithi Cooperative",
       "score": 87,
-      "acidity": null,
+      "acidity": "Nette, juteuse et précise",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Groseille",
+        "Petits fruits rouges",
+        "Thé sencha",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kényan produit par la Gathaithi Cooperative, caractérisé par une acidité nette et précise avec des notes de fruits rouges, thé sencha et orange, offrant une sensation de clarté en tasse.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-GathaithiAA.png",
       "retailers": [
         {
@@ -313,19 +353,23 @@
     {
       "id": "tanat-coffee-hellen-mora-caturra-natural",
       "name": "Hellen Mora [Anaerobic Natural]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Costa Rica",
+      "originDetail": "Tarrazu, 1 700 mètres d'altitude",
       "process": "Anaérobie Naturelle",
       "variety": "Caturra",
       "producer": "Hellen Mora",
       "score": 88,
       "acidity": null,
-      "body": null,
+      "body": "Crémeuse",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cerise noire",
+        "Cacao",
+        "Panela"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café costaricain en fermentation anaérobie naturelle provenant de la ferme Agro-Hellena, présentant un profil fruité et fermenté avec des notes de cerise noire, cacao et panela, enrobé d'une texture crémeuse.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/09/PAQUETWEB-HellenMoraAN2026.png",
       "retailers": [
         {
@@ -346,8 +390,8 @@
     {
       "id": "tanat-coffee-panama-hacienda-la-esmeralda-lino-8fc",
       "name": "Hacienda la Esmeralda [Lino 8FC]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Cañas Verdes, parcelle Tumaco, Hacienda La Esmeralda",
       "process": "Fermentation à froid, Lavé",
       "variety": "Geisha",
       "producer": "Hacienda la Esmeralda",
@@ -356,9 +400,12 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité",
+        "Floral"
+      ],
+      "harvestYear": "2026",
+      "description": "Un Geisha cultivé à haute altitude dans le terroir réputé de Cañas Verdes, traité par fermentation à froid et séchage contrôlé, offrant un profil fruité et floral.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-lino8FC.png",
       "retailers": [
         {
@@ -379,19 +426,23 @@
     {
       "id": "tanat-coffee-janson-hacienda-gn115",
       "name": "Janson [Hacienda GN115]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Hacienda Janson, région de Tizingal, Chiriqui",
       "process": "Natural",
       "variety": "Geisha",
       "producer": "Kaï Janson",
       "score": 90,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vive mais parfaitement équilibrée",
+      "body": "Rond",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Goyave rose",
+        "Groseilles blanches",
+        "Zeste de citron"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un Geisha naturel du Panama aux caractéristiques aromatiques complexes, alliant des notes sucrées et fruitées à une acidité équilibrée.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-JansonHacienda115.png",
       "retailers": [
         {
@@ -412,8 +463,8 @@
     {
       "id": "tanat-coffee-abu-gh4135",
       "name": "Abu [GH4135]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Canas Verde, région de Boquete, Chiriqui",
       "process": "Honey",
       "variety": "Geisha",
       "producer": "Abu Coffee, José Luttrell",
@@ -422,9 +473,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Thé noir",
+        "Framboises",
+        "Zeste d'orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de variété Geisha traité en honey, cultivé au Panama par Abu Coffee en association avec José Luttrell. Il se distingue par un profil aromatique équilibré mêlant notes de thé noir, fruits rouges et agrumes, avec une structure florale et fruitée maîtrisée.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-abu4135.png",
       "retailers": [
         {
@@ -478,19 +533,24 @@
     {
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-40",
       "name": "Finca Sophia [RW4 – Colibri-Poro  40 GW] – Auction Lot",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Rwanda",
+      "originDetail": "Finca Sophia",
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "David Pohl, Kelly Hartmann, Willem Boot",
       "score": 92,
-      "acidity": null,
+      "acidity": "Douce et vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Mandarine",
+        "Nectarine",
+        "Bonbon au citron",
+        "Bergamote"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café Geisha de Rwanda issu d'une vente aux enchères, traité par lavage avec soin pour préserver la pureté variétale et offrir un profil sensoriel aux notes d'agrumes et de fruits.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/Finca-Sophia-RW4-Colibri-40GW.png",
       "retailers": [
         {
@@ -512,18 +572,25 @@
       "id": "tanat-coffee-finca-sophia-auction-lot-colibri-poro-37",
       "name": "Finca Sophia [RW2 – Colibrí-Poro 37 GW] – Auction Lot",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Finca Sophia",
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "David Pohl, Kelly Hartmann, Willem Boot",
       "score": 92,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vibrante",
+      "body": "Crémeuse",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Violette",
+        "Jasmin",
+        "Bergamote",
+        "Fraise",
+        "Ananas",
+        "Fruits noirs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha lavé d'exception provenant d'une vente aux enchères, offrant un profil intensément floral et fruité avec une acidité vibrante et une texture crémeuse.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/Finca-Sophia-RW2-Colibri-37GW.png",
       "retailers": [
         {
@@ -544,19 +611,24 @@
     {
       "id": "tanat-coffee-abu-gn6265",
       "name": "Abu [GN6265]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Canas Verde, région de Boquete",
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Abu Coffee, José Luttrell",
       "score": 91,
-      "acidity": null,
+      "acidity": "Forte",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jus de cerise",
+        "Fruit rouge mûr",
+        "Ananas",
+        "Rose"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café géisha panaméen cultivé en altitude, traité naturellement, offrant une expression aromatique complexe évoluant du jus de cerise vers des notes tropicales puis florales en refroidissant.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/08/PAQUETWEB-abu6265gnnatural.png",
       "retailers": [
         {
@@ -610,8 +682,8 @@
     {
       "id": "tanat-coffee-santa-elena-obata-washed",
       "name": "Santa Elena [Obata Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Boquete, province de Chiriqui",
       "process": "Lavé",
       "variety": "Obata",
       "producer": "Cafelino - Santa Elena Estate",
@@ -620,9 +692,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noix du Brésil",
+        "Caramel",
+        "Figues séchées"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café de la ferme Santa Elena cultive la variété Obata à haute altitude à Panama selon des méthodes durables. Après un lavage soigné, il exprime une tasse douce et équilibrée avec des notes de fruits secs et de caramel.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-santaelenaobatawashed.png",
       "retailers": [
         {
@@ -709,19 +785,25 @@
     {
       "id": "tanat-coffee-bambito-geisha-washed",
       "name": "Bambito [Geisha Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Région de Bambito, entre 1600 et 1800 mètres d'altitude, pentes du volcan Baru",
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Bambito Estate, Priscilla Amar de Gonzále",
       "score": 90,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Thé vert",
+        "Jasmin",
+        "Citron",
+        "Abricot",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce Geisha panaméen traité par voie humide exprime une pureté aromatique remarquable, mariant des notes florales et fruitées avec une fraîcheur citronnée sur une base d'amande délicate.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-bambitogwashed2026v2.png",
       "retailers": [
         {
@@ -742,19 +824,23 @@
     {
       "id": "tanat-coffee-elto-elora-blood-yeast",
       "name": "Elto [Elora Blood Yeast]",
-      "originCountry": null,
+      "originCountry": "Éthiopie",
       "originDetail": null,
       "process": "Anaérobie Naturelle 72h - Blood Yeast",
       "variety": "74158",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
       "score": 89,
-      "acidity": null,
+      "acidity": "Tropicale bien intégrée",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Pamplemousse",
+        "Fruit de la passion"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien fermenté avec des levures sélectionnées offre une tasse équilibrée alliant douceur florale, fraîcheur d'agrumes et notes juteuses de fruits tropicaux, tout en conservant l'expression du terroir.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-eltoeloreabloodyeast.png",
       "retailers": [
         {
@@ -775,8 +861,8 @@
     {
       "id": "tanat-coffee-elto-hamasho-96h",
       "name": "Elto [Hamasho 96h]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Hauts plateaux de Bensa",
       "process": "Anaerobic Natural 96h",
       "variety": "74158",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
@@ -785,9 +871,15 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Myrtille",
+        "Mûre",
+        "Cerise noire",
+        "Earl Grey",
+        "Notes florales"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de Bensa issu d'une fermentation prolongée de 96 heures, développant un profil aromatique complexe allant des fruits noirs aux notes de thé et de fleurs.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-hamasho96helto.png",
       "retailers": [
         {
@@ -808,8 +900,8 @@
     {
       "id": "tanat-coffee-alo-digs-project-mosto-natural-72h",
       "name": "Alo [DIGS Project Mosto Natural 72h]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Hauts plateaux de Bensa, village d'Alo",
       "process": "Naturel - 72h de Fermentation Mosto",
       "variety": "74158",
       "producer": "Tamiru Tadesse",
@@ -818,9 +910,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "bonbon au citron",
+        "groseille",
+        "thé à la pêche"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien d'Alo traité en Natural Mosto 72h, sélectionné par DIGS Project auprès du producteur Tamiru Tadesse. Ce café présente un profil gourmand aux arômes intenses de fruits et de fleurs.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-ALOXDIGSMostoNatural72h.png",
       "retailers": [
         {
@@ -841,19 +937,23 @@
     {
       "id": "tanat-coffee-alo-digs-project-anaerobic-honey-48h",
       "name": "Alo [Digs Project Anaerobic Honey 48h]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Hauts plateaux de Bensa, village d'Alo",
       "process": "Anaérobie Honey ; 48h de fermentation",
       "variety": "74158",
       "producer": "Tamiru Tadesse",
       "score": 88,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Mirabelle",
+        "Bergamote",
+        "Zeste d'orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien produit par Tamiru Tadesse selon un procédé innovant de fermentation anaérobie en environnement contrôlé, suivi d'un séchage lent. Il développe des arômes de fruits et d'agrumes avec une acidité vive équilibrée par une douceur caractéristique.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-aloxdigsanaerohoney48.png",
       "retailers": [
         {
@@ -874,8 +974,8 @@
     {
       "id": "tanat-coffee-finca-la-riviera-pink-bourbon",
       "name": "Finca la Riviera [Pink Bourbon]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Finca la Riviera",
       "process": "Bioreactor Inoculation, Lavé",
       "variety": "Pink Bourbon",
       "producer": "Julio Madrid",
@@ -884,9 +984,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pêche",
+        "Fleur d'oranger",
+        "Groseille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien élaboré selon un procédé de fermentation contrôlée en bioréacteur. Il offre une tasse élégante et équilibrée, marquée par des notes fruitées et florales avec une belle longueur en bouche.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-fincalariviera_PB_2026.png",
       "retailers": [
         {
@@ -907,19 +1011,25 @@
     {
       "id": "tanat-coffee-gesha-village-surma-semi-anaerobic-26-e22",
       "name": "Gesha Village [Surma Semi Anaerobic 26/E22]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Hauts plateaux, Geisha Village, parcelle Surma",
       "process": "Semi Anaerobic",
       "variety": "Gesha 1931",
       "producer": "Gesha Village",
       "score": 90,
-      "acidity": null,
-      "body": null,
+      "acidity": "Élégante",
+      "body": "Soyeux",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Ananas",
+        "Citron",
+        "Fruits rouges",
+        "Fruits exotiques",
+        "Fruits tropicaux"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien issu de la ferme Geisha Village, traité en semi-anaérobie, qui offre une tasse fruitée et florale marquée par une acidité vive et une texture soyeuse, avec des notes tropicales dominantes.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-GVSemiAnaerobic26E22.png",
       "retailers": [
         {
@@ -940,8 +1050,8 @@
     {
       "id": "tanat-coffee-arauca-geisha-washed",
       "name": "Arauca [Geisha Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Arauca",
       "process": "Lavé",
       "variety": "Gesha",
       "producer": "Jimy Muñoz",
@@ -950,9 +1060,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Citron",
+        "Thé vert",
+        "Jasmin"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de la région d'Arauca en Colombie cultivé en variété Geisha et traité par lavage, offrant une tasse aux notes de citron, thé vert et jasmin avec une finale florale délicate.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-AraucaGW.png",
       "retailers": [
         {
@@ -1006,19 +1120,23 @@
     {
       "id": "tanat-coffee-gesha-village-oma-anaerobic-natural-26-e-24",
       "name": "Gesha Village [Oma Anaerobic Natural 26/E24]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Geisha Village, West Omo, bloc Oma",
       "process": "Anaérobie Naturelle",
       "variety": "Gesha 1931",
       "producer": "Gesha Village",
       "score": 89,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Coquelicot",
+        "Myrtille",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien cultivé à Geisha Village, traité en fermentation anaérobie naturelle, offrant une tasse aérienne avec des notes florales, fruitées et d'agrumes, marquée par une acidité vive et une finale élégante.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-oma26e24.png",
       "retailers": [
         {
@@ -1040,7 +1158,7 @@
       "id": "tanat-coffee-finca-sophia-gw2-estacion",
       "name": "Finca Sophia [GW2 Estación]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Parcelle Estación, Finca Sophia",
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Kelly Hartmann",
@@ -1049,9 +1167,14 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pamplemousse",
+        "Pêche",
+        "Jasmin",
+        "Camomille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha cultivé à haute altitude qui se distingue par sa grande finesse et sa pureté en tasse, avec un profil aromatique complexe dominé par des notes fruitées et florales.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/FincaSophiaGW2Estacionbox.png",
       "retailers": [
         {
@@ -1106,7 +1229,7 @@
       "id": "tanat-coffee-elida-falda-gn0503",
       "name": "Elida [Falda GN0503]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Ferme Elida Estate, parcelle Falda",
       "process": "Natural",
       "variety": "Geisha",
       "producer": "Elida Estate, Wilford Lamastus",
@@ -1115,9 +1238,14 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "poire",
+        "fraise",
+        "bergamote",
+        "fleurs roses"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha traité naturellement, provenant de la ferme Elida Estate et cultivé sur la parcelle Falda, caractérisé par un profil aromatique complexe et délicat aux notes de fruits et de fleurs.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/PAQUETWEB-Panama-–-Elida-Falda-GN-0503.png",
       "retailers": [
         {
@@ -1171,19 +1299,22 @@
     {
       "id": "tanat-coffee-janson-hacienda-gw121",
       "name": "Janson [Hacienda GW121]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Région de Chiriqui, hauts plateaux de Volcan",
       "process": "Washed - 48h fermentation with Mosto",
       "variety": "Geisha",
       "producer": "Kaï Janson",
       "score": 90,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chèvrefeuille",
+        "Abricot"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café panaméen de haute altitude cultivé à Hacienda Janson, offrant une belle douceur avec une texture soyeuse et des notes florales délicates associées à des saveurs d'abricot en finale.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-JANSON121.png",
       "retailers": [
         {
@@ -1204,8 +1335,8 @@
     {
       "id": "tanat-coffee-rumudamo-washed",
       "name": "Rumudamo [Natural]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Station de Rumudamo, Sidama",
       "process": "Naturel",
       "variety": "74112",
       "producer": "Rumudamo Station",
@@ -1214,9 +1345,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pêche",
+        "Fruits rouges",
+        "Mangue"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien issu de la variété 74112, traité en naturel, qui développe des notes fruitées de pêche, fruits rouges et mangue.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-RumudamoNat.png",
       "retailers": [
         {
@@ -1237,19 +1372,23 @@
     {
       "id": "tanat-coffee-alobore-washed",
       "name": "Alo Bore [Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Guji",
       "process": "Lavé",
       "variety": "74158",
       "producer": "Tamiru Tadesse",
       "score": 88,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fleurs blanches",
+        "Pêche",
+        "Pamplemousse"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien de haute altitude aux notes florales et fruitées, avec une acidité prononcée et une finale marquée par les agrumes.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/Ethiopie-ALO-Bore-600x600-2.png",
       "retailers": [
         {
@@ -1303,8 +1442,8 @@
     {
       "id": "tanat-coffee-colombia-zarza-pacamara-advanced-washed",
       "name": "Finca Zarza [Pacamara Advanced Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Finca Zarza, Huila",
       "process": "Advanced Washed",
       "variety": "Pacamara",
       "producer": "Jhonatan &amp; Johan Gasca",
@@ -1315,7 +1454,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de la ferme Zarza situé dans la région du Huila, traité par voie humide. Il s'agit d'un Pacamara réputé pour avoir été sélectionné par un champion du monde de barista.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/COL-Zarza-Pacamara.png",
       "retailers": [
         {
@@ -1336,19 +1475,24 @@
     {
       "id": "tanat-coffee-lost-origin-abu-x-tanat-lot-232",
       "name": "Lost Origin [Abu x Tanat Lot 232]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Région de Boquete, Chiriquí, 1 600 m d'altitude",
       "process": "Natural Yeast Innoculation",
       "variety": "Geisha",
       "producer": "José Luttrell",
       "score": 92,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Limonade",
+        "Bonbon à l'orange",
+        "Orange sanguine",
+        "Jasmin séché"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de spécialité panégoënien issu d'une fermentation contrôlée avec levure spécifique, offrant une tasse acidulée et complexe aux notes d'agrumes et de fleurs.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/ABUXTANAT232-MOCKUP.png",
       "retailers": [
         {
@@ -1369,19 +1513,23 @@
     {
       "id": "tanat-coffee-la-union-gesha-anaerobic-washed",
       "name": "La Unión [Geisha Anaerobic Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Nariño, La Unión Crop Management, 2100 mètres d'altitude",
       "process": "Anaérobie lavé",
       "variety": "Geisha",
       "producer": "Esencia Pura Cooperative",
       "score": 88,
-      "acidity": null,
+      "acidity": "Vivacité",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Abricot sec",
+        "Jasmin",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café Geisha de Colombie issu d'une fermentation anaérobie suivie d'un lavage, cultivé en haute altitude dans un terroir volcanique. La tasse exprime des notes d'abricot sec, de jasmin et d'agrumes avec une acidité vive.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/LaUnionGWA.png",
       "retailers": [
         {
@@ -1402,8 +1550,8 @@
     {
       "id": "tanat-coffee-finca-1890-catuai-rojo-yeast-washed",
       "name": "Finca 1890 [Catuaí Rojo Yeast Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "États-Unis",
+      "originDetail": "Californie, Finca 1890",
       "process": "Yeast Washed",
       "variety": "Red Catuai",
       "producer": "Frinj Coffee",
@@ -1414,7 +1562,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café cultivé en Californie à très basse altitude par Frinj Coffee, utilisant une variété Catuaí Rojo et un traitement par fermentation aux levures contrôlées pour développer une complexité et une clarté exceptionnelles.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/06/USA-FINCA1890-MOCKUP.png",
       "retailers": [
         {
@@ -1436,18 +1584,23 @@
       "id": "tanat-coffee-finca-sophia-gn51-geisha-natural",
       "name": "Finca Sophia [GN51 Colibrí]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Parcelle Colibrí, 2026m d'altitude",
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Kelly Hartmann",
       "score": 90,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vive",
+      "body": "Ample",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits rouges",
+        "Citron vert",
+        "Bergamote",
+        "Thé noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un Geisha de haut niveau offrant une tasse juteuse et structurée, marquée par une acidité vive et des notes fruitées complexes allant des fruits rouges à la bergamote, avec une finale délicate rappelant le thé noir.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/01/SOPHIAGN5-BOX.png",
       "retailers": [
         {
@@ -1469,7 +1622,7 @@
       "id": "tanat-coffee-finca-sophia-gw93-geisha-washed",
       "name": "Finca Sophia [GW93 Colibri]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Parcelle Colibrí, 2026m d'altitude",
       "process": "Lavé",
       "variety": "Geisha",
       "producer": "Kelly Hartmann",
@@ -1478,9 +1631,17 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Camomille",
+        "Fleur de sureau",
+        "Poire",
+        "Vanille",
+        "Jasmin",
+        "Fleurs blanches",
+        "Fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un Geisha de grande qualité produit à la parcelle Colibrí de Finca Sophia, caractérisé par une clarté remarquable, une sucrosité notable et un équilibre entre notes fruitées et nuances florales délicates.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/12/FincaSophiaGW93.jpg",
       "retailers": [
         {
@@ -1502,18 +1663,23 @@
       "id": "tanat-coffee-cgle-potosi-sidra-naturel",
       "name": "CGLE Potosi [Sidra Natural]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Ferme Potosí, Granja La Esperanza",
       "process": "Naturel",
       "variety": "Sidra",
       "producer": "Cafe Granja La Esperanza, Rigoberto Herrera",
       "score": 88,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vineuse et structurée",
+      "body": "Crémeux",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cerise sauvage",
+        "Prune rouge",
+        "Mûre",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café Sidra traité naturellement provient de la ferme Potosí de Granja La Esperanza et présente un profil intensément fruité avec une acidité vineuse équilibrée par une sucrosité marquée, accompagné de notes de cerise, prune et chocolat en finale.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/10/PAQUETWEBMICROLOT_PotosiSidra.png",
       "retailers": [
         {
@@ -1535,18 +1701,23 @@
       "id": "tanat-coffee-elto-elora-anaerobic-72h",
       "name": "Elto Elora [Anaerobic 72h]",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "2 200 mètres d'altitude",
       "process": "Anaérobie naturelle ; 72h de fermentation",
       "variety": "74110, 74112",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
       "score": 88,
-      "acidity": null,
+      "acidity": "Brillante et juteuse",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Mandarine",
+        "Carambole",
+        "Fleur de fraise",
+        "Pomelo"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café produit par Eliyas Dukamo et Atiklit Dejene en altitude offre une tasse fruitée marquée par des notes de mandarine, carambole et pomelo, avec une acidité brillante et une finale zestée.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/09/PAQUETWEB_Elora72H.png",
       "retailers": [
         {
@@ -1577,9 +1748,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Ananas",
+        "Fraise lacto-fermenté",
+        "Noix de Coco"
+      ],
+      "harvestYear": "2024",
+      "description": "Un café issu d'une fermentation anaérobie de 96 heures en mosto, présentant une complexité aromatique marquée par des notes de fruits tropicaux et fermentés.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/08/PAQUETWEB-AloMosto-AnaerobicNat.png",
       "retailers": [
         {
@@ -1600,19 +1775,23 @@
     {
       "id": "tanat-coffee-alo-bombe-washed",
       "name": "Alo Bombe [ZFWA]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Village de Bombe, Bensa",
       "process": "Lavé, Zero Fermentation",
       "variety": "JARC 74158",
       "producer": "Tamiru Tadesse",
       "score": 88,
-      "acidity": null,
+      "acidity": "Nette et équilibrée",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Jasmin",
+        "Pêche blanche",
+        "Thé sencha"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de haute altitude cultivé à Bensa, traité par voie lavée sans fermentation pour préserver la pureté du terroir. La tasse offre une acidité nette avec des arômes floraux et des notes de fruits blancs et thé.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/08/PAQUETWEB-Alo-Bombe.png",
       "retailers": [
         {
@@ -1633,8 +1812,8 @@
     {
       "id": "tanat-coffee-alo-chilaka-natural",
       "name": "Alo Chilaka [Natural]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Région de Bensa, 2300 m d'altitude",
       "process": "Naturel",
       "variety": "JARC 74158",
       "producer": "Tamiru Tadesse",
@@ -1643,9 +1822,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Myrtille",
+        "Raisin blanc",
+        "Jasmin séché"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de haute altitude cultivé à Bensa, traité en naturel, caractérisé par un profil fruité et floral avec des notes délicates de myrtille, raisin blanc et jasmin.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/01/PAQUETWEB-AloChilaka.png",
       "retailers": [
         {
@@ -1699,8 +1882,8 @@
     {
       "id": "tanat-coffee-cafe-decafeine-el-sueno-mexique",
       "name": "Déca [El Sueño]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Mexique",
+      "originDetail": "Chiapas",
       "process": "Lavé",
       "variety": "Bourbon, Caturra, Typica",
       "producer": null,
@@ -1709,9 +1892,12 @@
       "body": null,
       "method": "Espresso, Machine auto",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café du Chiapas mexicain décaféiné par trempage aqueux, offrant une tasse équilibrée aux saveurs chocolatées et caramélisées.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_DECA.png",
       "retailers": [
         {
@@ -1732,8 +1918,8 @@
     {
       "id": "tanat-coffee-cafe-moka-lekempti-ethiopie",
       "name": "Moka Lekempti",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Lekempti",
       "process": "Naturel",
       "variety": "Heirloom",
       "producer": null,
@@ -1742,9 +1928,13 @@
       "body": null,
       "method": "Espresso, Machine auto",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Épicé",
+        "Citron",
+        "Floral"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien d'origine Lekempti traité par méthode naturelle, offrant un profil épicé et citronné avec des notes florales, adapté aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_MOKA.png",
       "retailers": [
         {
@@ -1765,19 +1955,23 @@
     {
       "id": "tanat-coffee-cafe-todosantarita-guatemala",
       "name": "Todosantarita",
-      "originCountry": null,
+      "originCountry": "Guatemala",
       "originDetail": null,
       "process": "Lavé",
       "variety": "Caturra, Pache, Typica",
-      "producer": null,
+      "producer": "Todosantarita",
       "score": 84,
       "acidity": null,
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Cacao",
+        "Fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café guatémaltèque issu d'une coopérative de longue date propose un profil complexe dominé par des notes de chocolat noir et de cacao, avec des touches fruitées en arrière-plan.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_TODOSANTARITA.png",
       "retailers": [
         {
@@ -1799,18 +1993,20 @@
       "id": "tanat-coffee-cafe-blend-kawa-espresso",
       "name": "Blend Kawa",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Guatemala, Pérou et Honduras",
       "process": "Lavé, Naturel",
       "variety": "Caturra, Mundo Novo, Typica, Yellow Catuaí",
       "producer": null,
       "score": 83,
-      "acidity": null,
+      "acidity": "Équilibrée",
       "body": null,
       "method": "Espresso, Machine auto",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce mélange signature combine des cafés d'Amérique centrale et du Sud, caractérisé par son équilibre sucré et ses profils chocolatés, adapté aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_BLENDKAWA.png",
       "retailers": [
         {
@@ -1831,19 +2027,21 @@
     {
       "id": "tanat-coffee-blend-espresso-bio",
       "name": "Blend Espresso [Bio]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Guatemala, Honduras",
+      "originDetail": "Cultivées en altitude",
       "process": "Lavé",
       "variety": "Catuai, Caturra, Typica",
       "producer": null,
       "score": 82,
-      "acidity": null,
+      "acidity": "Faible",
       "body": null,
       "method": "Espresso, Machine auto",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage biologique de trois variétés d'Amérique centrale offrant un profil équilibré avec une acidité modérée et des notes de chocolat, particulièrement adapté à l'extraction en espresso.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_Blend-Espresso-Bio.png",
       "retailers": [
         {
@@ -1871,12 +2069,14 @@
       "producer": null,
       "score": 81,
       "acidity": null,
-      "body": null,
+      "body": "Avec du corps",
       "method": "Espresso, Machine auto",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage d'arabicas et robusta aux notes intenses de chocolat noir, conçu pour les préparations espresso italiennes en machine automatique ou cafetière moka.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/02/PAQUETWEB_ROSA_800.png",
       "retailers": [
         {
@@ -1903,13 +2103,16 @@
       "variety": "Caturra, Yellow &amp; Red Catuaí",
       "producer": null,
       "score": 83,
-      "acidity": null,
-      "body": null,
+      "acidity": "Faible",
+      "body": "Rond",
       "method": "Espresso, Machine auto",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel",
+        "Noisette"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage biologique composé de cafés brésiliens et honduriens, présenté comme un espresso au profil doux et facile d'accès.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/PAQUETWEB_Blend_189.png",
       "retailers": [
         {
@@ -1930,19 +2133,21 @@
     {
       "id": "tanat-coffee-cafe-boa-esperanca-bresil",
       "name": "Boa Esperança",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": "Naturel",
       "variety": "Yellow Catuaí, Mundo Novo",
       "producer": null,
       "score": 84,
-      "acidity": null,
-      "body": null,
+      "acidity": "maîtrisée",
+      "body": "rond",
       "method": "Espresso, Machine auto",
-      "roastLevel": null,
-      "flavors": null,
+      "roastLevel": "Légère",
+      "flavors": [
+        "noisette"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien issu d'une collaboration de longue date offre un profil équilibré avec une acidité contrôlée et une sucrosité marquée, caractérisé par des notes de noisette.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2025/01/PAQUETWEB_BOA.png",
       "retailers": [
         {
@@ -1963,19 +2168,23 @@
     {
       "id": "tanat-coffee-santa-elena-geisha-aura",
       "name": "Santa Elena [Geisha Aura]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Vallée de Boquete, pentes du Cerro Piedra de Lino, ferme Santa Elena, 1200-1550 mètres d'altitude",
       "process": "Naturel - Fermentation Basse",
       "variety": "Geisha",
       "producer": "Cafelino - Santa Elena Estate",
       "score": 91,
-      "acidity": null,
-      "body": null,
+      "acidity": "Douce",
+      "body": "Rond",
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Citron confit",
+        "Pêche",
+        "Rose"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un Geisha cultivé en altitude dans la vallée de Boquete au Panama, traité naturellement avec une fermentation basse. Le profil en tasse équilibre des notes de fruits confits et d'agrumes avec une dimension florale élégante et une acidité douce.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-santaelena-geishaaura.png",
       "retailers": [
         {
@@ -1996,19 +2205,23 @@
     {
       "id": "tanat-coffee-jamison-savage-caturra-washed",
       "name": "Jamison Savage [Caturra Washed]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Volcan, Finca Deborah",
       "process": "Lavé",
       "variety": "Caturra",
       "producer": "Jamison Savage",
       "score": 88,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vive",
+      "body": "Rond",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Prune rouge",
+        "Noisette"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce Caturra panaméen traité par lavage offre un profil gourmand et équilibré, combinant des notes de chocolat au lait et de fruits rouges avec une finale sur la noisette. Le traitement met l'accent sur la précision et la clarté tout en préservant les caractéristiques fruitées du cépage.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-jamisonsavage-caturrawashed-esp.png",
       "retailers": [
         {
@@ -2029,19 +2242,23 @@
     {
       "id": "tanat-coffee-lost-origin-santa-teresa-gw-289",
       "name": "Lost Origin [Santa Teresa GW #289]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Boquete",
       "process": "Yeast Inoculation",
       "variety": "Geisha",
       "producer": "Ezequiel Batista",
       "score": 90,
-      "acidity": null,
+      "acidity": "Vive et fraîche",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Rose",
+        "Mirabelle",
+        "Pêche blanche"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café panaméen d'altitude élaboré par Lost Origin selon un processus de fermentation contrôlée, révélant des notes florales, fruitées et délicates en tasse.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-lostorigin-santateresa-289.png",
       "retailers": [
         {
@@ -2062,8 +2279,8 @@
     {
       "id": "tanat-coffee-los-lajones-geisha-peaberry-natural-23109",
       "name": "Los Lajones Porton [GN #23109]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Panama",
+      "originDetail": "Los Lajones, région de Boquete",
       "process": "Naturel",
       "variety": "Geisha",
       "producer": "Graciano Cruz",
@@ -2072,9 +2289,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fraise",
+        "Myrtille",
+        "Bonbon au citron"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café Geisha naturel panaméen provenant de la ferme Los Lajones, caractérisé par des notes fruitées de fraise et myrtille complétées par des touches d'agrume, offrant une tasse équilibrée et sucrée.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-lajonesportongn23109.png",
       "retailers": [
         {
@@ -2101,13 +2322,17 @@
       "variety": "74158",
       "producer": "Tamiru Tadesse",
       "score": 89,
-      "acidity": null,
+      "acidity": "Acidulée, précise",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Thé blanc",
+        "Cerise",
+        "Citron"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café lavé sans fermentation cherche à exprimer la variété et le terroir sans intervention de la fermentation. À la dégustation, il offre une texture légère avec des notes de thé blanc et de cerise fraîche, suivies d'une acidité précise rappelant le citron.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-alozerofermentationwashed.png",
       "retailers": [
         {
@@ -2138,9 +2363,14 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cerise",
+        "Sucrosité fruitée",
+        "Rose séchée",
+        "Bubblegum"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café naturel fermente en sacs immergés puis sèche lentement pour développer sa complexité aromatique. En tasse, il exprime une succession de notes fruitées, florales et gourmandes avec une douceur dominante.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-ELORARF8NAT.png",
       "retailers": [
         {
@@ -2167,13 +2397,17 @@
       "variety": "74158",
       "producer": "Eliyas Dukamo &amp; Atiklit Dejene",
       "score": 89,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bergamote",
+        "Yuzu",
+        "Thé noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café traité selon le protocole River Flow développe une tasse lumineuse avec des notes florales de bergamote et d'agrumes acidulés, complétées par des touches de thé noir apportant de la structure.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/09/PAQUETWEB-ELORARF8WASH.png",
       "retailers": [
         {
@@ -2194,8 +2428,8 @@
     {
       "id": "tanat-coffee-finca-la-riviera-anaerobic",
       "name": "Finca la Riviera [Anaerobic]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Finca la Riviera",
       "process": "Anaérobie - Culturing",
       "variety": "Caturra",
       "producer": "Julio Madrid",
@@ -2204,9 +2438,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Litchi",
+        "Mangue",
+        "Fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café colombien de Finca la Riviera bénéficie d'une fermentation anaérobie contrôlée qui développe une complexité aromatique marquée par des notes de litchi, mangue et fruits rouges, avec une texture juteuse et équilibrée.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/07/PAQUETWEB-Finclariviera_MaypopAna-2026.png",
       "retailers": [
         {
@@ -2227,8 +2465,8 @@
     {
       "id": "tanat-coffee-monteblanco-strawberry",
       "name": "Monteblanco [Strawberry]",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Pitalito, Finca Monteblanco, 1730 mètres d'altitude",
       "process": "Red Fruits Co-Fermentation",
       "variety": "Caturra",
       "producer": "Rodrigo Sanchez",
@@ -2237,9 +2475,12 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fraise",
+        "Myrtille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien produit à la Finca Monteblanco par fermentation innovante avec fruits rouges et levures, offrant des saveurs intenses de baies et une texture crémeuse.",
       "imageUrl": "https://tanat.coffee/wp-content/uploads/2026/04/PAQUETWEB-Colombie-Monteblanco-Strawberry.png",
       "retailers": [
         {

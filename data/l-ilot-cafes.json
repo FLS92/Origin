@@ -17,7 +17,7 @@
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
       "name": "Café pure origine Mexique – Majomut / Café indigène",
       "originCountry": "Mexique",
-      "originDetail": null,
+      "originDetail": "Majomut",
       "process": "Lavé",
       "variety": "Bourbon, Garnica, Mundo Novo, Typica",
       "producer": null,
@@ -26,9 +26,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "vanille",
+        "chocolat noir",
+        "caramel",
+        "fruits rouges"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain fruité d'origine Majomut, certifié biologique et équitable, avec des notes de vanille, chocolat noir, caramel et fruits rouges.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2025/11/LIlot-Cafes-Produits_MEXIQUE-Majomut_specialite-qualite-premium.png",
       "retailers": [
         {
@@ -50,7 +55,7 @@
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
       "name": "Café pure origine Colombie – Sud du Cauca",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "Sud du Cauca",
       "process": "Lavé",
       "variety": "Bourbon, Catuaï, Caturra, Gran Colombia",
       "producer": null,
@@ -59,9 +64,13 @@
       "body": null,
       "method": null,
       "roastLevel": "Corsé",
-      "flavors": null,
+      "flavors": [
+        "Agrumes",
+        "Miel",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien puissant et gourmand, certifié biologique et équitable, présenté en grains ou moulu.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2025/11/LIlot-Cafes-Colombie-bio-equitable-Premium.png",
       "retailers": [
         {
@@ -83,7 +92,7 @@
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
       "name": "Café pure origine Pérou – Pangoa / Gardien de la Forêt",
       "originCountry": "Pérou",
-      "originDetail": null,
+      "originDetail": "Pangoa",
       "process": "Lavé",
       "variety": "Bourbon, Caturra, Typica",
       "producer": null,
@@ -92,9 +101,14 @@
       "body": null,
       "method": null,
       "roastLevel": "Corsé",
-      "flavors": null,
+      "flavors": [
+        "boisées",
+        "chocolatées",
+        "fruits secs",
+        "cerise"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café péruvien de Pangoa aux caractéristiques puissantes et aromatiques, certifié biologique et équitable, présentant des notes boisées, chocolatées, fruitées et de cerise.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/04/LIlot-Cafes-Perou-Pangoa-bio-equitable-cafe-de-foret.png",
       "retailers": [
         {
@@ -116,7 +130,7 @@
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
       "name": "Café pure origine Décaféiné Mexique – Veracruz",
       "originCountry": "Mexique",
-      "originDetail": null,
+      "originDetail": "Veracruz",
       "process": "Lavé",
       "variety": "Bourbon, Caturra, Mundo Novo, Typica",
       "producer": null,
@@ -125,9 +139,13 @@
       "body": null,
       "method": null,
       "roastLevel": "Léger",
-      "flavors": null,
+      "flavors": [
+        "sucre roux",
+        "noisette",
+        "chocolat au lait"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné de Veracruz au Mexique, certifié biologique et équitable, caractérisé par un profil sucré et gourmand avec des notes de noisette et chocolat.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/04/Mexique-Veracruz-Decafeine-a-leau-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -158,9 +176,12 @@
       "body": null,
       "method": null,
       "roastLevel": "Léger",
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Fruits noirs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage maison certifié biologique et équitable, caractérisé par un profil suave et doux avec des notes chocolatées et de fruits noirs.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/DOLA-FAMI-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -188,12 +209,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": "Moyenne",
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Fruits secs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage maison certifié biologique et équitable, offrant un profil équilibré avec des notes de cacao et de fruits secs.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/CUILCO-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -215,18 +239,21 @@
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
       "name": "Café pure origine Nicaragua – Jinotega",
       "originCountry": "Nicaragua",
-      "originDetail": null,
+      "originDetail": "Jinotega",
       "process": "Lavé",
       "variety": "Bourbon, Caturra, Typica",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": "Moyenne",
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café nicaraguayen de Jinotega offre une tasse au profil doux avec des notes de chocolat et caramel. Il est certifié biologique et équitable.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/Nicaragua-Jinotega-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -248,18 +275,22 @@
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
       "name": "Café pure origine Pérou – El Palomar",
       "originCountry": "Pérou",
-      "originDetail": null,
+      "originDetail": "El Palomar",
       "process": "Lavé",
       "variety": "Bourbon, Caturra, Pache, Typica",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": "Moyenne",
-      "flavors": null,
+      "flavors": [
+        "Fruits secs",
+        "Noisette",
+        "Cacao grillé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique et équitable d'origine péruvienne offrant un profil ample et équilibré avec des notes de fruits secs, noisette et cacao grillé.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-El-Palomar_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -281,18 +312,23 @@
       "id": "l-ilot-cafes-cafe-pure-origine-perou-santa-rosa",
       "name": "Café micro-lot pure origine Pérou – Santa Rosa",
       "originCountry": "Pérou",
-      "originDetail": null,
+      "originDetail": "Santa Rosa",
       "process": "Nature",
       "variety": "Bourbon, Caturra, Pache, Typica",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corsé",
       "method": null,
       "roastLevel": "Corsé",
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Figue",
+        "Raisin",
+        "Mangue"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique et équitable d'origine péruvienne présentant un corps corsé avec des notes de fruits secs et de mangue.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-Santa-Rosa_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -314,18 +350,22 @@
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
       "name": "Café pure origine Mexique – Chiapas",
       "originCountry": "Mexique",
-      "originDetail": null,
+      "originDetail": "Chiapas",
       "process": "Lavé",
       "variety": "Bourbon, Mundo Novo, Typica",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": "Moyenne",
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Cannelle",
+        "Vanille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique et équitable du Chiapas mexicain offrant un profil aromatique riche dominé par des notes de cacao, cannelle et vanille.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Mexique-Chiapas-cafe-pour-restaurateur-dans-le-Gers.png",
       "retailers": [
         {
@@ -347,7 +387,7 @@
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
       "name": "Café pure origine Honduras – Capucas",
       "originCountry": "Honduras",
-      "originDetail": null,
+      "originDetail": "Capucas",
       "process": "Lavé",
       "variety": "Bourbon rouge, Catuaï, Lempira",
       "producer": null,
@@ -356,9 +396,12 @@
       "body": null,
       "method": null,
       "roastLevel": "Léger",
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Fruits secs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique et équitable d'Honduras présentant un profil sucré et fruité avec des notes de cacao et fruits secs.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/HONDURAS-Capucas_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {
@@ -380,7 +423,7 @@
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
       "name": "Café pure origine Guatemala – Kitché",
       "originCountry": "Guatemala",
-      "originDetail": null,
+      "originDetail": "Kitché",
       "process": "Lavé",
       "variety": "Bourbon rouge, Catuaï, Caturra",
       "producer": null,
@@ -389,9 +432,13 @@
       "body": null,
       "method": null,
       "roastLevel": "Corsé",
-      "flavors": null,
+      "flavors": [
+        "Floral",
+        "Cerise noire",
+        "Mirabelle"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique et équitable originaire de Kitché au Guatemala, caractérisé par des arômes floraux et fruités de cerise noire et mirabelle.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Guatemala-Kitche-cafe-de-specialite-torrefie-dans-le-Gers.png",
       "retailers": [
         {
@@ -413,18 +460,23 @@
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
       "name": "Café pure origine Equateur – Palanda",
       "originCountry": "Équateur",
-      "originDetail": null,
+      "originDetail": "Palanda",
       "process": "Lavé",
       "variety": "Catuaï, Caturra, Pache",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": "Moyenne",
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Caramel",
+        "Miel",
+        "Malt"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café équatorien de Palanda offre un profil gustatif doux et sucré avec des notes de chocolat, caramel, miel et malt. Il est certifié biologique et équitable.",
       "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/EQUATEUR-Palanda_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
       "retailers": [
         {

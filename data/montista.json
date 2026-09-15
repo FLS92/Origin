@@ -26,9 +26,13 @@
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "abricot",
+        "thé noir",
+        "chocolat"
+      ],
+      "harvestYear": "2025",
+      "description": "Un café de spécialité salvadorien traité en naturel anaérobie, produisant des notes fruitées et chocolatées caractéristiques de la variété Geisha cultivée en altitude.",
       "imageUrl": "https://montista.com/wp-content/uploads/2026/07/San-Antonio-Cafe-Paquet-1-scaled.jpg",
       "retailers": [
         {
@@ -50,7 +54,7 @@
       "id": "montista-papa-blend",
       "name": "Papa Blend",
       "originCountry": "Papouasie",
-      "originDetail": null,
+      "originDetail": "Kilimanjaro & Arusha",
       "process": "Lavé ☕️",
       "variety": "Arusha, Bourbon, Typica ☀️",
       "producer": null,
@@ -64,7 +68,7 @@
         "boisé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange de cafés d'Afrique de l'Est aux variétés classiques, traité par lavage, offrant un profil aromatique marqué par le chocolat, le bois et le malt avec une persistance en bouche.",
       "imageUrl": "https://montista.com/wp-content/uploads/2026/06/papa-blend-cafe-coffee-montista-1.jpg",
       "retailers": [
         {
@@ -89,7 +93,7 @@
       "originDetail": "Santo Antonio do Amparo 📍Ferme &",
       "process": "Naturel 🍃",
       "variety": "Catucai Jaune ☀️",
-      "producer": null,
+      "producer": "Ferme Guariroba",
       "score": 84.5,
       "acidity": null,
       "body": null,
@@ -100,7 +104,7 @@
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de la ferme Guariroba, traité naturellement, offrant un profil crémeux avec des notes de céréales, caramel et sucre brun.",
       "imageUrl": "https://montista.com/wp-content/uploads/2026/05/pack-front-card-outside-copy-scaled.jpg",
       "retailers": [
         {
@@ -124,16 +128,21 @@
       "originCountry": "Colombie",
       "originDetail": "Cundinamarca, Andes Occidentales 📍",
       "process": "Lavé 🍃",
-      "variety": null,
+      "variety": "Supremo",
       "producer": "Racafe 🍒 Variétés/",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Caramel",
+        "Écorce d'orange",
+        "Tabac blond"
+      ],
+      "harvestYear": "2025",
+      "description": "Café colombien de Cundinamarca proposant un profil aromatique gourmand mêlant notes chocolatées, caramélisées et d'agrumes.",
       "imageUrl": "https://montista.com/wp-content/uploads/2026/02/DSCF4320.JPG-1-scaled.jpg",
       "retailers": [
         {
@@ -161,12 +170,15 @@
       "producer": "Iriani Farmers Cooperative Society ⛰️",
       "score": 87.5,
       "acidity": null,
-      "body": null,
+      "body": "Crémeux",
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Agrumes",
+        "Épices"
+      ],
+      "harvestYear": "2025",
+      "description": "Un café kényan lavé provenant de la coopérative Iriani, situé à 1790 mètres d'altitude en province de Nyeri, offrant des notes d'agrumes et d'épices avec une texture crémeuse.",
       "imageUrl": "https://montista.com/wp-content/uploads/2026/01/DSCF4323.JPG-scaled.jpg",
       "retailers": [
         {
@@ -194,12 +206,16 @@
       "producer": "Asociacion de Productores Agropecuarios Perfiles ⛰️",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Crémeuse",
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Amande",
+        "Chocolat",
+        "Boisé"
+      ],
+      "harvestYear": "2025",
+      "description": "Ce café péruvien de montagne offre un profil gourmand dominé par des notes d'amande et de chocolat, complétées par des touches boisées et une texture riche et crémeuse.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/12/DSCF4366.JPG-scaled.jpg",
       "retailers": [
         {
@@ -230,9 +246,13 @@
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Pêche",
+        "Thé noir",
+        "Sucre brun"
+      ],
+      "harvestYear": "2025",
+      "description": "Un café rwandais de montagne cultivé par une coopérative de femmes, offrant des notes fruitées et épicées avec une douce sensation sucrée.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/12/DSCF4333.JPG-scaled.jpg",
       "retailers": [
         {
@@ -263,9 +283,13 @@
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Myrtille",
+        "Cacao",
+        "Raisin rouge"
+      ],
+      "harvestYear": "2025",
+      "description": "Un café éthiopien de Sidamo traité naturellement, offrant des notes de myrtille, cacao et raisin rouge avec une complexité caractéristique des Heirloom.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/11/DSCF4337.JPG-scaled.jpg",
       "retailers": [
         {
@@ -296,9 +320,13 @@
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "fruits exotiques",
+        "fraise",
+        "cacao"
+      ],
+      "harvestYear": "2023",
+      "description": "Café mexicain traité en macération carbonique, offrant un profil aromatique combinant des notes de fruits exotiques, de fraise et de cacao.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/11/DSCF4342.JPG-scaled.jpg",
       "retailers": [
         {
@@ -326,12 +354,15 @@
       "producer": "Ladslaus Alfred & Makiidi RCS ⛰️",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corpulent",
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao",
+        "Anis"
+      ],
+      "harvestYear": "2025",
+      "description": "Café tanzanien de Kilimanjaro et Arusha aux variétés Bourbon et Kent, traité par voie lavée. Il offre des notes de cacao et d'anis avec un profil corsé adapté à l'espresso.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/11/DSCF4329.JPG-scaled.jpg",
       "retailers": [
         {
@@ -362,9 +393,11 @@
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Noisette"
+      ],
+      "harvestYear": "2024",
+      "description": "Café lavé ougandais de la ferme Clark, cultivé en altitude à Katambale. Il offre des notes de noisette avec une texture ronde et une persistance en bouche.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/10/Site-Photos-Cafes-20.png",
       "retailers": [
         {
@@ -389,7 +422,7 @@
       "originDetail": "Simbu 📍Ferme &",
       "process": "Lavé 🍃",
       "variety": "Arusha, Bourbon, Typica ☀️",
-      "producer": null,
+      "producer": "Kongo Coffee Limited",
       "score": 81,
       "acidity": null,
       "body": null,
@@ -401,8 +434,8 @@
         "malt",
         "qui a une belle longueur"
       ],
-      "harvestYear": null,
-      "description": null,
+      "harvestYear": "2024",
+      "description": "Café de Papouasie Nouvelle Guinée produit par Kongo Coffee Limited en province de Simbu, traité par voie lavée. Il développe des arômes de cuir, bois et malt avec une finale persistante.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/07/DSCF4354.JPG-scaled.jpg",
       "retailers": [
         {
@@ -433,9 +466,14 @@
       "body": null,
       "method": "Filtres et Méthodes Douces",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Vanille",
+        "Caramel",
+        "Céréales",
+        "Crémeux"
+      ],
+      "harvestYear": "2025",
+      "description": "Un café mexicain de Chiapas produit par Juan Carlos Calderon, issu de variétés Bourbon et Sarchimor traitées par voie lavée, offrant des notes de vanille, caramel et céréales avec une texture crémeuse.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/07/DSCF4346.JPG-scaled.jpg",
       "retailers": [
         {
@@ -462,7 +500,7 @@
       "variety": "SL34, SL28, Ruiru 11, Batian ☀️",
       "producer": "Baragwi Farmers Coop ⛰️",
       "score": null,
-      "acidity": null,
+      "acidity": "Moyenne",
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
@@ -470,7 +508,7 @@
         "dates mais surtout de caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kényan cultivé sur les pentes du Mont Kenya par la coopérative Baragwi, présenté en traitement lavé avec une acidité moyenne et des saveurs de datte et caramel.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/07/Baragwi-KENYA.png",
       "retailers": [
         {
@@ -501,9 +539,12 @@
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "chocolat noir",
+        "cerise griotte"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café costaricain de la coopérative CoopeAgri offre un équilibre entre des notes de chocolat noir et de cerise griotte, issu d'une récolte traitée naturellement.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/04/DSCF4358.JPG-scaled.jpg",
       "retailers": [
         {
@@ -535,8 +576,8 @@
       "method": null,
       "roastLevel": null,
       "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "harvestYear": "2024",
+      "description": "Café guatemaltèque cultivé à haute altitude par la coopérative Amankaya, associant un traitement anaerobique et naturel pour un profil sensoriel singulier.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/01/Amankaya_pic.jpg",
       "retailers": [
         {
@@ -561,15 +602,19 @@
       "originDetail": "Penas Blancas, Jinotega 📍Finca : Monte Cristo ⛰️",
       "process": "Lavé 🍃",
       "variety": "Java ☀️",
-      "producer": null,
+      "producer": "Monte Cristo",
       "score": 84.5,
       "acidity": null,
       "body": null,
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Raisins secs",
+        "Mandarine",
+        "Thé noir"
+      ],
+      "harvestYear": "2024",
+      "description": "Ce café nicaraguayen de la ferme Monte Cristo offre un profil aux notes de raisins secs, mandarine et thé noir, issu d'une récolte sélective.",
       "imageUrl": "https://montista.com/wp-content/uploads/2025/01/11.png",
       "retailers": [
         {
@@ -594,7 +639,7 @@
       "originDetail": "Karnataka, Inde & Katambale, Ouganda 📍",
       "process": "Lavé & Naturel",
       "variety": "Bourbon & Drugar ☀️",
-      "producer": null,
+      "producer": "Bababudangiri (Inde) & Clark Farm (Ouganda)",
       "score": null,
       "acidity": null,
       "body": null,
@@ -606,7 +651,7 @@
         "puissant"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage équilibré associant un bourbon lavé indien à un drugar naturel ougandais, offrant des saveurs de chocolat et caramel avec une présence affirmée en bouche.",
       "imageUrl": "https://montista.com/wp-content/uploads/2024/10/Blend5-Cafe-Paquet-1-scaled.jpg",
       "retailers": [
         {
@@ -631,7 +676,7 @@
       "originDetail": "Marcala & Masaguara 📍",
       "process": "Extended Natural 🍃",
       "variety": "Catuai rouge ☀️",
-      "producer": null,
+      "producer": "El Puente",
       "score": 88,
       "acidity": null,
       "body": null,
@@ -642,8 +687,8 @@
         "orange sanguine",
         "chocolat au lait"
       ],
-      "harvestYear": null,
-      "description": null,
+      "harvestYear": "2025",
+      "description": "Café hondurien de montagne au traitement natural prolongé, présentant un profil aromatique fruité et chocolaté.",
       "imageUrl": "https://montista.com/wp-content/uploads/2024/09/DSCF4350.JPG-scaled.jpg",
       "retailers": [
         {
@@ -671,12 +716,15 @@
       "producer": "Thageini ⛰️",
       "score": 88.5,
       "acidity": null,
-      "body": null,
+      "body": "corpulent",
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "cassis",
+        "thé noir"
+      ],
+      "harvestYear": "2023",
+      "description": "Café kényan de la région de Nyeri produit par la coopérative Thageini selon un traitement lavé, offrant un profil corpulent avec des notes de cassis et thé noir.",
       "imageUrl": "https://montista.com/wp-content/uploads/2024/07/16.png",
       "retailers": [
         {
@@ -708,8 +756,8 @@
       "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
       "roastLevel": null,
       "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "harvestYear": "2022-2023",
+      "description": "Café naturel mexicain de la région de Soconusco cultivé en altitude sur des sols volcaniques, récolté manuellement et sélectivement entre octobre et février.",
       "imageUrl": "https://montista.com/wp-content/uploads/2023/10/Site-Photos-Cafes-3.png",
       "retailers": [
         {
@@ -767,10 +815,10 @@
       "id": "montista-c-huehuetepan-lave",
       "name": "Huehuetepan Lavé | Mexique",
       "originCountry": "Mexique",
-      "originDetail": null,
+      "originDetail": "Veracruz, région montagneuse du centre",
       "process": "Lavé",
       "variety": "Typica",
-      "producer": null,
+      "producer": "Maria del Rosario",
       "score": null,
       "acidity": null,
       "body": null,
@@ -778,7 +826,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain cultivé en altitude dans les montagnes de Veracruz par Maria del Rosario, traité par voie lavée selon les méthodes de récolte manuelle et sélective.",
       "imageUrl": "https://montista.com/wp-content/uploads/2022/11/Huehuetepan-Wet-Web.jpg",
       "retailers": [
         {
@@ -800,10 +848,10 @@
       "id": "montista-huehuetepan",
       "name": "Huehuetepan Naturel | Mexique",
       "originCountry": "Mexique",
-      "originDetail": null,
+      "originDetail": "Veracruz, région montagneuse du centre",
       "process": "Naturel",
       "variety": "Typica",
-      "producer": null,
+      "producer": "Maria del Rosario",
       "score": null,
       "acidity": null,
       "body": null,
@@ -811,7 +859,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café mexicain cultivé en altitude à Veracruz par Maria del Rosario, traité selon un processus naturel avec une fermentation prolongée et un séchage soigné.",
       "imageUrl": "https://montista.com/wp-content/uploads/2022/11/Huehuetepan-Nat-Web.jpg",
       "retailers": [
         {

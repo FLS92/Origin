@@ -25,12 +25,12 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Foncée",
       "flavors": [
         "Chocolat Citron Epices"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de spécialité associant deux variétés, torréfié généreusement pour offrir un profil intense aux arômes profonds.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-gourmand-6078122.jpg?v=1761739748",
       "retailers": [
         {
@@ -52,20 +52,20 @@
       "id": "dose-assemblage-de-max",
       "name": "Café Assemblage de Max",
       "originCountry": "Brésil Guatemala Éthiopie",
-      "originDetail": null,
+      "originDetail": "Brésil, Guatemala, Éthiopie",
       "process": null,
-      "variety": null,
+      "variety": "Catuai rouge, Mundo Novo, Bourbon rouge, Heirloom",
       "producer": null,
       "score": 85,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vivacité",
+      "body": "Équilibré",
       "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat Pain d’épice Agrumes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage de maison conçu pour l'espresso et les boissons à lait, combinant des cafés de trois origines pour offrir un profil fruité et équilibré avec des notes de chocolat, d'épices et d'agrumes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-assemblage-de-max-1062722.jpg?v=1756278814",
       "retailers": [
         {
@@ -86,19 +86,23 @@
     {
       "id": "dose-bresil-rio-de-janeiro",
       "name": "Café Rio de Janeiro",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Cerrado Mineiro, Fazenda Rio Brilhante",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Fazenda Rio Brilhante",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Noix",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café brésilien cultivé à la Fazenda Rio Brilhante, caractérisé par des notes de chocolat, noix et orange, offrant rondeur et équilibre en tasse.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-rio-de-janeiro-7996748.jpg?v=1756278608",
       "retailers": [
         {
@@ -119,8 +123,8 @@
     {
       "id": "dose-ethiopie-guji-dose-addis-abeba",
       "name": "Café Addis Abeba",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Guji",
       "process": null,
       "variety": null,
       "producer": null,
@@ -129,9 +133,14 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Miel",
+        "Fleurs blanches",
+        "Fraise",
+        "Ananas"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de la région de Guji aux profils floraux et fruités, présentant un équilibre élégant et une expressivité remarquable.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-addis-abeba-6588094.jpg?v=1770750972",
       "retailers": [
         {
@@ -161,10 +170,12 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
-      "flavors": null,
+      "roastLevel": "Foncée",
+      "flavors": [
+        "Fruité"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café à torréfaction poussée conçu pour les extractions espresso, particulièrement adapté aux machines automatiques, offrant une intensité maximale.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-fruite-2148905.jpg?v=1761822666",
       "retailers": [
         {
@@ -185,19 +196,22 @@
     {
       "id": "dose-cafe-perou-dose-lima",
       "name": "Café Lima",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Pérou",
+      "originDetail": "Palma Central, 2 100 mètres d'altitude",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Coopagro",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café équilibré provenant d'une coopérative péruvienne de haute altitude, présentant des notes d'amande et de caramel avec une légère épice.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-lima-2208143.jpg?v=1756278659",
       "retailers": [
         {
@@ -297,12 +311,19 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Ample et onctueux",
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Bois frais",
+        "Noisettes",
+        "Amandes",
+        "Caramel",
+        "Fruits secs",
+        "Abricot"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Trio de cafés assemblés comprenant une sélection biologique du Pérou, un brésilien harmonieux au corps ample, et un mélange maison fruité et équilibré aux notes de fruits secs et d'abricot.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-trio-espresso-4428741.jpg?v=1756276213",
       "retailers": [
         {
@@ -323,19 +344,19 @@
     {
       "id": "dose-indonesie-jakarta",
       "name": "Café Jakarta",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Indonésie",
+      "originDetail": "Région de Gayo, île de Sumatra",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Fahman",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Crémeuse",
       "method": "Omni",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café de la région montagneuse de Gayo à Sumatra, cultivé en agroforesterie par Fahman et ses voisins. Le barista le décrit comme un café dense et profond aux notes crémeuses.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-jakarta-1951360.jpg?v=1756278317",
       "retailers": [
         {
@@ -356,19 +377,22 @@
     {
       "id": "dose-cafe-guatemala-dose-la-aurora",
       "name": "Café La Aurora",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
-      "producer": null,
+      "originCountry": "Guatemala",
+      "originDetail": "Huehuetenango, ferme El Rincón",
+      "process": "Lavé",
+      "variety": "Caturra, Bourbon, Catuai",
+      "producer": "El Rincón",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruité",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de haute altitude cultivé à Huehuetenango, offrant un profil léger et fruité avec des notes d'amande. Produit par la ferme El Rincón selon des méthodes traditionnelles de lavage.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-la-aurora-3246656.jpg?v=1775814071",
       "retailers": [
         {
@@ -390,8 +414,8 @@
       "id": "dose-mexico-city",
       "name": "Café Mexico City - Décaféiné",
       "originCountry": "Mexique",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Chiapas",
+      "process": "Décaféiné à l'eau par osmose, sans solvant",
       "variety": null,
       "producer": null,
       "score": null,
@@ -401,7 +425,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café décaféiné provient du Chiapas au Mexique et est traité à l'eau par osmose sans solvant. Malgré l'absence de caféine, il conserve un profil aromatique riche.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-mexico-city-decafeine-2797547.jpg?v=1756278707",
       "retailers": [
         {
@@ -434,7 +458,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Assortiment de trois cafés distincts : un guatémaltèque à l'arôme intense et à la texture crémeuse, un micro-lot du Salvador traité en anaérobie, et un éthiopien sauvage aux notes de fruits tropicaux et finales florales.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-trio-filtre-8124131.jpg?v=1756276260",
       "retailers": [
         {
@@ -456,18 +480,21 @@
       "id": "dose-salvador",
       "name": "Café San Salvador",
       "originCountry": "Salvador",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Villa Galicia, région d'Apaneca Ilamatepec",
+      "process": "Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Villa Galicia",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits exotiques",
+        "Ananas"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café originaire d'une ancienne ferme salvadorienne, traité par voie naturelle et caractérisé par sa pureté en tasse, sa douceur et son profil fruité accessible.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-san-salvador-7564295.jpg?v=1756278738",
       "retailers": [
         {
@@ -587,7 +614,7 @@
     {
       "id": "dose-cafe-gourmand-pro",
       "name": "Café Gourmand (Pro)",
-      "originCountry": null,
+      "originCountry": "Brésil",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -596,10 +623,10 @@
       "acidity": null,
       "body": null,
       "method": "Filtre",
-      "roastLevel": null,
+      "roastLevel": "Foncée",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de spécialité issu d'un achat direct producteur, composé de deux variétés et torréfié plus foncé pour offrir une intensité maximale.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-gourmand-4872061.jpg?v=1761735431",
       "retailers": [
         {
@@ -629,10 +656,10 @@
       "acidity": null,
       "body": null,
       "method": "Filtre",
-      "roastLevel": null,
+      "roastLevel": "Foncée",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café torréfié plus foncé que la normale, conçu principalement pour les préparations en espresso, offrant une intensité maximale.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-fruite-1824113.jpg?v=1761744357",
       "retailers": [
         {
@@ -653,19 +680,23 @@
     {
       "id": "dose-rio-de-janeiro-pro",
       "name": "Café Rio de Janeiro (Pro)",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Rio de Janeiro, ferme d'Inacio Carlos Urban",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Inacio Carlos Urban",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Noix",
+        "Orange"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café brésilien destiné à l'espresso, présentant des saveurs de chocolat, noix et orange, issu d'une ferme soucieuse d'enjeux environnementaux et sociaux.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-rio-de-janeiro-2103862.jpg?v=1756278627",
       "retailers": [
         {
@@ -803,9 +834,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Pains d'épices",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage signature destiné aux espressos et boissons lactées, proposant un profil fruité et équilibré avec des notes de chocolat, pains d'épices et agrumes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-assemblage-de-max-9602170.jpg?v=1756278826",
       "retailers": [
         {
@@ -826,19 +861,21 @@
     {
       "id": "dose-addis-adeba-pro",
       "name": "Café Addis Abeba (Pro)",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Guji, station d'Hangadhi",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Petits producteurs",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'altitude cultivé manuellement par de petits producteurs de la région de Guji et séché à la station d'Hangadhi, offrant un profil fruité avec des notes d'agrumes.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-addis-abeba-5660231.jpg?v=1769511234",
       "retailers": [
         {
@@ -861,7 +898,7 @@
       "name": "Café Mexico City - Décaféiné (Pro)",
       "originCountry": "Mexique",
       "originDetail": null,
-      "process": null,
+      "process": "Décaféiné à l'eau sans solvant",
       "variety": null,
       "producer": null,
       "score": null,
@@ -871,7 +908,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café décaféiné mexicain est traité à l'eau par la méthode Descamex, sans recours à des solvants, et présenté avec une intensité modérée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-mexico-city-decafeine-7384487.jpg?v=1756278224",
       "retailers": [
         {
@@ -893,18 +930,21 @@
       "id": "dose-la-aurora-pro",
       "name": "Café La Aurora (Pro)",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Ferme El Rincón",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "El Rincón",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café provient d'une ferme réputée pour ses pratiques soignées et offre un profil léger en bouche avec des notes fruitées et une subtile touche d'amande.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-la-aurora-9102298.jpg?v=1761744298",
       "retailers": [
         {
@@ -935,9 +975,12 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café se caractérise par un profil équilibré avec des notes d'amande et de caramel, provenant d'une coopérative de producteurs établie.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-lima-3942477.jpg?v=1756278671",
       "retailers": [
         {
@@ -959,18 +1002,20 @@
       "id": "dose-san-salvador-pro",
       "name": "Café San Salvador (Pro)",
       "originCountry": "Salvador",
-      "originDetail": null,
+      "originDetail": "Finca Himalaya",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Finca Himalaya",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "fruits exotiques"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'une grande finesse aromatique originaire d'une ferme historique salvadorienne, caractérisé par des notes de fruits exotiques et une intensité modérée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-san-salvador-7435437.jpg?v=1756278750",
       "retailers": [
         {
@@ -991,11 +1036,11 @@
     {
       "id": "dose-jakarta-pro",
       "name": "Café Jakarta (Pro)",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Indonésie",
+      "originDetail": "Jakarta",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Fahman",
       "score": null,
       "acidity": null,
       "body": null,
@@ -1003,7 +1048,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café cultivé en agroforesterie à Jakarta par Fahman et des producteurs voisins, bénéficiant d'une ombre naturelle qui apporte caractère et profondeur.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-jakarta-2224756.jpg?v=1756278329",
       "retailers": [
         {
@@ -1324,7 +1369,7 @@
       "id": "dose-anemos-boite-x10-capsules",
       "name": "Capsules - Bogota (boîte x 10)",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "Bogota",
       "process": null,
       "variety": null,
       "producer": null,

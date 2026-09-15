@@ -17,18 +17,22 @@
       "id": "clinton-hill-bresil-san-antonio-torrefaction-espresso",
       "name": "Brésil – San Antonio – Torréfaction espresso",
       "originCountry": "Brésil",
-      "originDetail": null,
+      "originDetail": "San Antonio",
       "process": "Nature",
       "variety": "Blend catuai",
       "producer": null,
       "score": "83,5+",
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Amandes caramélisées",
+        "Fruits secs"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café brésilien traité naturellement, caractérisé par son équilibre et sa sucrosité en tasse, avec des notes de chocolat, amandes caramélisées et fruits secs.",
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/12/Bresil-San-Antonio.jpg",
       "retailers": [
         {
@@ -59,9 +63,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Sangria",
+        "Vin rouge",
+        "Compote de fraise"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien aux caractéristiques winées et funky, proposant un profil aromatique complexe dominé par des notes de fruits rouges et de vin.",
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2026/08/Colombie-Vino-Microlot.jpg",
       "retailers": [
         {
@@ -83,7 +91,7 @@
       "id": "clinton-hill-colombie-el-tambo-torrefaction-espresso",
       "name": "Colombie – El Tambo – Torréfaction espresso",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "El Tambo",
       "process": "Lavé",
       "variety": "Castillo",
       "producer": null,
@@ -92,9 +100,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits rouges",
+        "Agrumes",
+        "Confiture"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien lavé de la région El Tambo, caractérisé par des saveurs fruitées et sucrées avec des notes d'agrumes et de confiture, offrant une tasse nette et profonde.",
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/10/products.webp",
       "retailers": [
         {
@@ -116,18 +128,22 @@
       "id": "clinton-hill-mexique-bella-vista-omniroast",
       "name": "Mexique – Bella Vista – Omniroast (filtre et espresso)",
       "originCountry": "Mexique",
-      "originDetail": null,
+      "originDetail": "Chiapas",
       "process": "Lavé",
       "variety": "Caturra, Catuai et Bourbon",
-      "producer": null,
+      "producer": "Bella Vista",
       "score": 85,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Caramel",
+        "Citron"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café mexicain de la région du Chiapas offre un profil gourmand et équilibré, convenable pour la préparation en filtre comme en espresso.",
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2026/01/Clinton-Hill-cafe-mexicain-chiapas-bella-vista.jpg.webp",
       "retailers": [
         {
@@ -149,7 +165,7 @@
       "id": "clinton-hill-colombie-el-tambo-torrefaction-filtre",
       "name": "Colombie – El Tambo – Torréfaction filtre",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "El Tambo",
       "process": "Lavé",
       "variety": "Castillo",
       "producer": null,
@@ -158,9 +174,13 @@
       "body": null,
       "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits rouges",
+        "Agrumes",
+        "Confiture"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café colombien lavé offre un profil fruité et sucré avec des notes de fruits rouges, agrumes et confiture, caractérisé par une tasse nette et profonde.",
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2024/10/products.webp",
       "retailers": [
         {
@@ -182,18 +202,23 @@
       "id": "clinton-hill-ethiopie-yirgacheffe",
       "name": "Ethiopie – Yirgacheffe Beloya – Omniroast (filtre et espresso)",
       "originCountry": "Ethiopie",
-      "originDetail": null,
+      "originDetail": "Yirgacheffe Beloya",
       "process": "Lavé",
       "variety": "Heirloom",
       "producer": null,
       "score": 87,
-      "acidity": null,
+      "acidity": "Douce",
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Jasmin",
+        "Abricot",
+        "Pêche"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien offre un profil complexe combinant des notes épicées et fruitées avec une acidité douce et une persistance en bouche.",
       "imageUrl": "https://clintonhill.fr/wp-content/uploads/2020/08/products.jpg",
       "retailers": [
         {

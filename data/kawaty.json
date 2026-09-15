@@ -126,14 +126,14 @@
       "id": "kawaty-bridazul-nicaragua",
       "name": "BRIDAZUL Nicaragua",
       "originCountry": "Nicaragua",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Dipilto, región de Nueva Segovia",
+      "process": "SuperNatural",
       "variety": null,
-      "producer": null,
+      "producer": "Bridazul",
       "score": null,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "fraise",
@@ -144,7 +144,7 @@
         "chocolat noir"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café nicaraguayen de spécialité traité selon un procédé naturel exclusif combinant fermentation contrôlée et séchage prolongé à l'ombre, révélant un profil fruité intense aux notes de fruits rouges et de litchi, avec une acidité vive et une grande sucrosité.",
       "imageUrl": "https://media.cdnws.com/_i/154691/770/1654/72/micro-lots-bridazul-super-natural.png",
       "retailers": [
         {
@@ -278,11 +278,14 @@
       "score": 84,
       "acidity": null,
       "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
+      "method": "Omni",
+      "roastLevel": "Light Roast",
+      "flavors": [
+        "fruits rouges",
+        "prune"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien cultivé en altitude aux variétés Bourbon et Caturra, traité par voie lavée et torréfié légèrement. Il développe un profil gourmand et fruité avec des notes de fruits rouges et de prune.",
       "imageUrl": "https://media.cdnws.com/_i/154691/754/354/56/origines-paquets-55x140mm-2.png",
       "retailers": [
         {
@@ -304,14 +307,14 @@
       "id": "kawaty-guatemala-los-volcanes",
       "name": "GUATEMALA LOS VOLCANES",
       "originCountry": "Guatemala",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Huehuetenango, montagnes entre 1 400 et 1 850 mètres d'altitude",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
+      "producer": "Coopérative Todos Santos ASODIETT",
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Fine",
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "chocolat",
@@ -319,7 +322,7 @@
         "agrumes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café guatémaltèque de spécialité provient de la coopérative Todos Santos en région de Huehuetenango, cultivé en altitude. Il offre un profil équilibré alliant notes gourmandes de chocolat et caramel avec une légère fraîcheur d'agrumes, adapté aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://media.cdnws.com/_i/154691/758/1221/60/origines-paquets-55x140mm-4.png",
       "retailers": [
         {
@@ -341,14 +344,14 @@
       "id": "kawaty-honduras-lenca",
       "name": "HONDURAS LENCA",
       "originCountry": "Marcala. Café lavé. Torréfié artisanalement en Berry",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Marcala, hauts plateaux, 1 200-1 700 mètres d'altitude",
+      "process": "Lavé",
       "variety": null,
-      "producer": null,
+      "producer": "Coopérative COMSA",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "chocolat au lait",
@@ -357,7 +360,7 @@
         "agrumes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité hondurien cultivé à haute altitude dans la région de Marcala, traité par voie lavée pour préserver ses arômes. Il se distingue par une tasse équilibrée aux notes de chocolat et caramel, avec un corps soyeux et une finale délicate.",
       "imageUrl": "https://media.cdnws.com/_i/154691/757/3345/59/origines-paquets-55x140mm-3.png",
       "retailers": [
         {
@@ -529,11 +532,13 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
-      "roastLevel": null,
-      "flavors": null,
+      "method": "Espresso",
+      "roastLevel": "Medium Roast",
+      "flavors": [
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de profil puissant avec des notes de chocolat, cultivé en altitude et traité par voie naturelle.",
       "imageUrl": "https://media.cdnws.com/_i/154691/760/931/62/origines-paquets-55x140mm-6.png",
       "retailers": [
         {
@@ -554,22 +559,22 @@
     {
       "id": "kawaty-sidamo-moka",
       "name": "Moka Sidamo",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Sidamo, au nord d'Yirgacheffe",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Légère",
+      "body": "Subtil",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "fruits rouges Corps subtil",
         "acidité légère"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Éthiopie de la région de Sidamo, traité par voie lavée et torréfié artisanalement. Il présente un profil délicat avec des notes d'abricot et florales, s'exprimant avec finesse et élégance tant en filtre qu'en espresso.",
       "imageUrl": "https://media.cdnws.com/_i/154691/762/2104/64/origines-paquets-55x140mm-8.png",
       "retailers": [
         {
@@ -661,14 +666,14 @@
       "id": "kawaty-costarica-san-rafael-tarrazu",
       "name": "San Rafael Costa Rica",
       "originCountry": "Costa Rica",
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originDetail": "Tarrazú, altitude 1 200-2 000 mètres",
+      "process": "Lavé",
+      "variety": "Caturra et Catuai",
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Vive",
+      "body": "Généreux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "fleurs blanches",
@@ -677,7 +682,7 @@
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café de spécialité costaricain de la région de Tarrazú, traité par voie lavée, qui présente un profil équilibré entre notes florales et acidité vive, avec un corps généreux et une finale soyeuse.",
       "imageUrl": "https://media.cdnws.com/_i/154691/769/3964/71/origines-paquets-55x140mm-10.png",
       "retailers": [
         {
@@ -699,14 +704,14 @@
       "id": "kawaty-ethiopie-chancho-sidama",
       "name": "SIDAMA Chancho Ethiopie",
       "originCountry": "Bensa, Sidama",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Sidama, région de Bensa, station de lavage Chancho",
+      "process": "Naturel",
       "variety": null,
-      "producer": null,
+      "producer": "Dukale Wakayo Dakola (DWD)",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "miel",
@@ -717,7 +722,7 @@
         "citron vert"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café éthiopien cultivé en altitude dans la région de Sidama est traité selon la méthode naturelle, offrant une tasse riche en fruits rouges et miel avec un corps soyeux et une finale persistante.",
       "imageUrl": "https://media.cdnws.com/_i/154691/768/1207/70/microlots-paquets-90x140mm-noir-2.png",
       "retailers": [
         {

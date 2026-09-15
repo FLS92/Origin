@@ -20,9 +20,9 @@
       "originDetail": "Province de l’Ouest, Gatare",
       "process": "Lavé",
       "variety": "Bourbon Mayaguez 139",
-      "producer": null,
+      "producer": "Mibirizi",
       "score": null,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
       "method": null,
       "roastLevel": null,
@@ -32,7 +32,7 @@
         "thé noir"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café rwandais cultivé en altitude bénéficie d'un traitement lavé qui révèle une tasse claire avec une acidité marquée et des notes florales complexes.",
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/RWANDA-Bourbon-Lave.jpeg",
       "retailers": [
         {
@@ -70,7 +70,7 @@
         "prune"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité nicaraguayen cultivé en altitude en agroforesterie, traité en anaérobie par macération carbonique pour développer des arômes floraux et fruités complexes.",
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/NICARAGUA-Geisha-Anaerobique.jpeg",
       "retailers": [
         {
@@ -144,7 +144,7 @@
         "vin de pêche"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité costaricien cultivé à altitude élevée et traité par un procédé honey anaérobie qui développe une aromatique complexe aux notes sucrées et fruitées.",
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2026/03/Sachet-Costa-Rica-Tres-Rios.jpg",
       "retailers": [
         {
@@ -181,7 +181,7 @@
         "amande"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de montagne traité en pulped natural, offrant une tasse douce et équilibrée avec des arômes gourmands de fruits secs et caramel.",
       "imageUrl": "https://lapellecafe.com/wp-content/uploads/2023/06/BR_CASTANHAS.png",
       "retailers": [
         {

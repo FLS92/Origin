@@ -452,12 +452,16 @@
       "producer": "Fazenda Pinheiro, Fazenda Matao, Fazenda Sao Domingos",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao",
+        "Praliné",
+        "Confiture de lait"
+      ],
+      "harvestYear": "2025",
+      "description": "Un café brésilien de la région de Mogiana au profil rond et gourmand, travaillé en méthode naturelle et marqué par des saveurs de cacao et de fruits sucrés.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA1KG_927127ee-6356-4533-9016-6b2c733dbad1.png?v=1783613949",
       "retailers": [
         {
@@ -485,12 +489,16 @@
       "producer": "Fazenda Pinheiro, Fazenda Matao, Fazenda Sao Domingos",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao",
+        "Praliné",
+        "Confiture de lait"
+      ],
+      "harvestYear": "2025",
+      "description": "Café brésilien de la région de São José de Rio Pardo, traité en naturel, offrant un profil rond et gourmand avec des saveurs de cacao et praliné, adapté à une consommation quotidienne.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA250G.png?v=1783614075",
       "retailers": [
         {
@@ -555,12 +563,16 @@
       "producer": "Filadelfia",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Soyeux",
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Orange",
+        "Fruits jaunes",
+        "Sucre de canne"
+      ],
+      "harvestYear": "2025",
+      "description": "Ce café colombien provient de la région d'Huila et se distingue par un traitement lavé qui développe des arômes fruités et sucrés. Son profil soyeux et élégant le rend particulièrement apprécié en préparation filtre.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/FILADELFIA1Kg_8990eeb2-2782-4a29-ac17-0dd938544889.png?v=1781510485",
       "retailers": [
         {
@@ -588,12 +600,16 @@
       "producer": "Filadelfia",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Orange",
+        "Fruits jaunes",
+        "Sucre de canne"
+      ],
+      "harvestYear": "2025",
+      "description": "Café de spécialité colombien lavé cultivé à 1750 mètres d'altitude, exprimant des saveurs d'agrumes et de fruits jaunes avec une texture soyeuse.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/FILADELFIA250g.png?v=1781510053",
       "retailers": [
         {
@@ -654,16 +670,19 @@
       "originCountry": "Colombie",
       "originDetail": "Huila",
       "process": "Naturel",
-      "variety": null,
-      "producer": null,
+      "variety": "Tabi",
+      "producer": "Collectif de producteurs La Cristalina",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité",
+        "Exotique"
+      ],
+      "harvestYear": "2023",
+      "description": "Ce café colombien de spécialité combine une variété Tabi cultivée en altitude dans le Huila avec un traitement naturel pour produire un profil fruité et exotique marqué par une belle clarté en tasse.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/CRISTALINA1Kg.png?v=1783680950",
       "retailers": [
         {
@@ -687,16 +706,19 @@
       "originCountry": "Colombie",
       "originDetail": "Huila",
       "process": "Naturel",
-      "variety": null,
-      "producer": null,
+      "variety": "Tabi",
+      "producer": "Collectif de producteurs La Cristalina",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Fruité",
+        "Exotique"
+      ],
+      "harvestYear": "2023",
+      "description": "Café colombien de spécialité cultivé en altitude dans le Huila, travaillé en méthode naturelle pour un profil fruité et exotique avec une clarté remarquable en tasse.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/CRISTALINA250G.png?v=1783680915",
       "retailers": [
         {
@@ -720,16 +742,18 @@
       "originCountry": "Mexique",
       "originDetail": "Chiapas",
       "process": "Lavé",
-      "variety": null,
+      "variety": "Marsellesa, Caturra, Starmaya",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Enveloppant",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao"
+      ],
+      "harvestYear": "2025",
+      "description": "Café décaféiné de spécialité en provenance du Chiapas au Mexique, élaboré à partir d'un mélange de trois variétés et traité en méthode lavée pour une tasse équilibrée. Il se caractérise par des notes de cacao qui en font un café gourmand accessible au quotidien.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO1KG.png?v=1783681103",
       "retailers": [
         {
@@ -753,16 +777,18 @@
       "originCountry": "Mexique",
       "originDetail": "Chiapas",
       "process": "Lavé",
-      "variety": null,
+      "variety": "Marsellesa, Caturra, Starmaya",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Enveloppant",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao"
+      ],
+      "harvestYear": "2025",
+      "description": "Ce café décaféiné mexicain du Chiapas allie plusieurs variétés travaillées en lavé pour offrir une tasse équilibrée aux notes de cacao, conçu pour une consommation quotidienne accessible.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO250G.png?v=1783680991",
       "retailers": [
         {
@@ -825,12 +851,16 @@
       "producer": "Bedaye",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Onctueux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Myrtille",
+        "Raisin",
+        "Abricot"
+      ],
+      "harvestYear": "2025",
+      "description": "Café d'Éthiopie traité en naturel, provenant de la ferme Bedaye, proposant un profil fruité avec des notes de myrtille, raisin et abricot dans une tasse douce et onctueuse.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE1KG.png?v=1785244488",
       "retailers": [
         {
@@ -858,12 +888,16 @@
       "producer": "Bedaye",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Onctueux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Myrtille",
+        "Raisin",
+        "Abricot"
+      ],
+      "harvestYear": "2025",
+      "description": "Café de spécialité éthiopien traité en naturel, issu de la ferme Bedaye et offrant un profil aromatique fruité avec des notes de myrtille, raisin et abricot.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE250G_2938df86-8975-456e-a1bb-f51b1663580f.png?v=1785244459",
       "retailers": [
         {
@@ -961,16 +995,20 @@
       "originCountry": "Colombie",
       "originDetail": "Antigua",
       "process": "Lavé",
-      "variety": null,
+      "variety": "Geisha",
       "producer": "Maranatha",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Thym",
+        "Jasmin",
+        "Raisin blanc"
+      ],
+      "harvestYear": "2024",
+      "description": "Café de spécialité colombien cultivé à 1910 mètres d'altitude, présenté comme un grand cru aux arômes floraux et fruités développés par un traitement lavé.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/Maranatha-2.png?v=1784646487",
       "retailers": [
         {
@@ -1001,9 +1039,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao"
+      ],
+      "harvestYear": "2025",
+      "description": "Ce café guatémaltèque cultivé en altitude sur des sols volcaniques propose un profil équilibré et gourmand avec des notes de cacao, adapté à la consommation quotidienne.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION1KG.png?v=1783680871",
       "retailers": [
         {
@@ -1029,14 +1069,16 @@
       "process": "Lavé",
       "variety": null,
       "producer": "Bendiction",
-      "score": null,
+      "score": 83,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Cacao"
+      ],
+      "harvestYear": "2025",
+      "description": "Café de spécialité guatémaltèque cultivé en altitude sur sols volcaniques, traité par voie lavée pour une tasse équilibrée et gourmande dominée par les notes de cacao.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION250G.png?v=1783613794",
       "retailers": [
         {
@@ -1099,12 +1141,16 @@
       "producer": "San Marcos",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corpulent",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Caramel",
+        "Vanille"
+      ],
+      "harvestYear": "2025",
+      "description": "Ce café guatémaltèque de montagne offre une tasse équilibrée et généreuse marquée par des notes de chocolat, caramel et vanille.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO1Kg.png?v=1781172439",
       "retailers": [
         {
@@ -1130,14 +1176,18 @@
       "process": "Lavé",
       "variety": null,
       "producer": "San Marcos",
-      "score": null,
+      "score": 83,
       "acidity": null,
-      "body": null,
+      "body": "Corpulent",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
-      "harvestYear": null,
-      "description": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Caramel",
+        "Vanille"
+      ],
+      "harvestYear": "2025",
+      "description": "Ce café guatémaltèque traité en lavé propose un profil équilibré et corsé avec des notes de chocolat au lait, caramel et vanille.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO250g.png?v=1781172251",
       "retailers": [
         {

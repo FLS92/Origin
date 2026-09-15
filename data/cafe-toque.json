@@ -16,19 +16,24 @@
     {
       "id": "cafe-toque-p941",
       "name": "West village - Assemblage signature  - l'Expresso selon Café Toqué",
-      "originCountry": null,
-      "originDetail": null,
-      "process": null,
-      "variety": null,
+      "originCountry": "Colombie, Brésil",
+      "originDetail": "Colombie: Quindio (1800m) ; Brésil: Minas Gerais (1100m)",
+      "process": "Lavé (Colombie), Pulped (Brésil)",
+      "variety": "Castillo, Caturra (Colombie) ; Yellow Catuai (Brésil)",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Velouté",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Noisette",
+        "Pâte d'amande",
+        "Fruits"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage signature combinant des arabicas de Colombie et du Brésil, conçu pour offrir un espresso équilibré avec des arômes gourmands, du moelleux et une persistance en bouche agréable.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/941/image_512/West%20village%20-%20Assemblage%20signature%C2%A0%20-%20l%27Expresso%20selon%20Caf%C3%A9%20Toqu%C3%A9?unique=22e1e09",
       "retailers": [
         {
@@ -61,7 +66,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'une machine à espresso et non d'un café; ce texte décrit un équipement de préparation.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/318/image_512/Machine%20expresso%20De%20Longhi%203515B?unique=a956ff3",
       "retailers": [
         {
@@ -89,12 +94,12 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Corsé",
       "method": "Espresso",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage d'arabica et de robusta conçu pour l'espresso à l'italienne, offrant intensité et complexité aromatique.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/435/image_512/Vitalit%C3%A9%20-%20Assemblage%20pour%20expresso%20italien%20Caf%C3%A9%20Toqu%C3%A9?unique=fa1107d",
       "retailers": [
         {
@@ -127,7 +132,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ceci est une machine à espresso, non un café.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/407/image_512/Machine%20expresso%20De%20Longhi%203535SB?unique=a956ff3",
       "retailers": [
         {
@@ -160,7 +165,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Ce texte concerne une machine à expresso De Longhi et non un café ; aucune information sur un produit de café n'y est présente.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/406/image_512/Machine%20expresso%20De%20Longhi%203795T?unique=a956ff3",
       "retailers": [
         {
@@ -314,18 +319,22 @@
       "id": "cafe-toque-p434",
       "name": "Cumbia - Colombie - Café expresso Café Toqué",
       "originCountry": "Colombie",
-      "originDetail": null,
+      "originDetail": "Altitude 1400-2100m",
       "process": null,
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 84,
       "acidity": null,
-      "body": null,
+      "body": "Juteux",
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat au lait",
+        "Fleur de sureau",
+        "Agrumes"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien d'altitude présentant un profil gourmand avec des notes de chocolat au lait, de fleur de sureau et d'agrumes, doté d'un corps juteux.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/434/image_512/Cumbia%20-%20Colombie%20-%20Caf%C3%A9%20expresso%20Caf%C3%A9%20Toqu%C3%A9?unique=45dafac",
       "retailers": [
         {
@@ -558,7 +567,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Il s'agit d'une infusion de plantes et fruits, non d'un café. Ce produit n'entre pas dans les catégories de café à analyser.",
       "imageUrl": "https://lecafetoque.fr/web/image/product.template/263/image_512/%22Herbs%20%26%20Honey%22%20-%20Infusion%20aux%20plantes%20et%20aux%20fruits%20-%20TeaHouse%20%28bo%C3%AEte%20de%2015%20sachets%29?unique=2d0f9dd",
       "retailers": [
         {

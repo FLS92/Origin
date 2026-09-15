@@ -34,7 +34,7 @@
         "Canne à sucre"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien de la région du Guji, cultivé à haute altitude sur la ferme Gerba Dogo selon des méthodes biologiques. Il offre un profil aromatique complexe mêlant notes de thé noir, bergamote et fruits secs, avec une finale chocolatée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/Gerbadogoomni250g.png?v=1788445363",
       "retailers": [
         {
@@ -62,15 +62,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": "Espresso",
-      "roastLevel": null,
+      "roastLevel": "Foncée",
       "flavors": [
         "Chocolat noir",
         "fruits secs"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Blend 100% arabica bio combinant des cafés du Rwanda et du Honduras, torréfié foncé pour l'espresso. Équilibré et gourmand, il déploie des notes de chocolat noir et de fruits secs avec une bonne consistance.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/EB1KG.png?v=1773241975",
       "retailers": [
         {
@@ -98,15 +98,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
         "Fruits rouges confits"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage saisonnier combinant des cafés de Colombie et du Pérou, caractérisé par des notes de cacao et de fruits rouges confits, convenant aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0007-6382109101746055815.png?v=1783159731",
       "retailers": [
         {
@@ -134,8 +134,8 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
@@ -143,7 +143,7 @@
         "Pamplemousse"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage printanier mariant des cafés de Colombie et du Pérou, offrant des notes de cacao, myrtille et pamplemousse, adapté aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/Spring26250g_1.png?v=1777757341",
       "retailers": [
         {
@@ -168,11 +168,11 @@
       "originDetail": "Province de l’Ouest",
       "process": "Nature Anaérobique",
       "variety": "Bourbon rouge",
-      "producer": null,
+      "producer": "Ferme Ruronzi",
       "score": 86.5,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": [
         "Fleur d’oranger",
@@ -180,7 +180,7 @@
         "Ananas"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café rwandais cultivé à la ferme Ruronzi selon un process naturel anaérobie, présentant un profil floral et fruité avec des notes de fleur d'oranger, mûre et ananas.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0015-5610867154303701029.png?v=1782730000",
       "retailers": [
         {
@@ -207,8 +207,8 @@
       "variety": "Castillo, Caturra, Colombia",
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Vivacité",
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -217,7 +217,7 @@
         "Épices"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien traité à sec, cultivé en altitude dans la région du Huila, offrant un profil fruité avec des notes de pamplemousse et d'ananas, complété par une texture soyeuse et une finale douce.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/0021-732341003351847629.png?v=1781179154",
       "retailers": [
         {
@@ -246,7 +246,7 @@
       "score": 87.5,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cerise rouge",
@@ -255,7 +255,7 @@
         "Rose sombre"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café rwandais produit par Emmanuel Rusatira de Baho Coffee dans la région de Kizi Rift, issu de la variété Bourbon rouge et traité en naturel Sleeping Bag. Il présente un profil fruité et floral intense, mêlant cerise, fruits tropicaux et notes florales.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/CIHEMAR250g.png?v=1777382507",
       "retailers": [
         {
@@ -282,9 +282,9 @@
       "variety": "Caturra, Castillo",
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Vive",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Peche",
@@ -292,7 +292,7 @@
         "Raisin sec"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien cultivé en montagne volcanique dans la région de Nariño, offrant un profil aromatique complexe alliant fruits et caramel avec une acidité vive. Traité par lavage, il présente une tasse nette et équilibrée, adaptée aux préparations douces et à l'espresso.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/LACOCHA250g.png?v=1773225584",
       "retailers": [
         {
@@ -314,21 +314,21 @@
       "id": "la-torref-ico-the-dark-sip-perou-ico-torrefaction",
       "name": "The Dark Sip - Rwanda - Icö Torréfaction",
       "originCountry": "Pérou (Cajamarca)",
-      "originDetail": null,
+      "originDetail": "Province du nord",
       "process": "Lavé Score SCA : 83.5",
       "variety": "Catimor, Caturra, Typica",
       "producer": null,
       "score": 83.25,
       "acidity": null,
-      "body": null,
-      "method": null,
-      "roastLevel": null,
+      "body": "Puissant",
+      "method": "Espresso",
+      "roastLevel": "Foncée",
       "flavors": [
         "Cacao",
         "fruits à coque"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café rwandais 100 % Arabica bio torréfié très foncé qui développe un profil intense aux notes de cacao et de fruits secs, avec un corps puissant et une amertume affirmée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/DS1kg.png?v=1788609302",
       "retailers": [
         {
@@ -356,15 +356,15 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
         "Cerise noire"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage bio équilibré associant des cafés lavés du Honduras à des lots naturels d'Éthiopie, offrant une tasse ronde aux notes de chocolat et cerise noire.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/HB_1KG.png?v=1773179334",
       "retailers": [
         {
@@ -392,12 +392,18 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Caramel",
+        "Chocolat",
+        "Malt",
+        "Noix",
+        "Noisette"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné biologique péruvien de la région de Junin, traité à l'eau selon le procédé Swiss Water, offrant un profil gourmand et équilibré avec des notes de caramel, chocolat et fruits secs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0829/4229/6410/files/DK_250g.png?v=1773179335",
       "retailers": [
         {

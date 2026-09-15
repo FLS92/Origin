@@ -17,21 +17,21 @@
       "id": "lomi-cafe-jai-deux-amours",
       "name": "J’ai deux amours",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Parcelles Lomi",
       "process": "Lavé/Nature",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait",
         "Noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage équilibré aux notes de chocolat au lait et noisette, présentant un corps rond avec des saveurs fruitées, formulé pour l'espresso et l'accompagnement au lait.",
       "imageUrl": "https://cdn.swell.store/lomi/6a01938d93b0fe001271793b/dc9c095a62ba6b24f970d8db1779a14c/J'ai%20deux%20Amours%20(1).jpg",
       "retailers": [
         {
@@ -58,17 +58,17 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Douce",
       "body": null,
-      "method": null,
-      "roastLevel": null,
+      "method": "Espresso",
+      "roastLevel": "Foncée",
       "flavors": [
         "Chocolat noir",
         "Intense",
         "Cassonade"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café fortement torréfié développant des notes de chocolat noir et caramel, avec une acidité douce et une profondeur aromatique marquée.",
       "imageUrl": "https://cdn.swell.store/lomi/689a038e1a94880012f0df4f/a4b2ad73474c3a8851ec10550f00434e/PICCOLO_PETIT.jpg",
       "retailers": [
         {
@@ -103,7 +103,7 @@
         "Equilibré - Gourmand - Cacao"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café personnalisé propose un profil aromatique riche combinant des notes sucrées et gourmandes avec des touches d'agrumes et de biscuit.",
       "imageUrl": "https://cdn.swell.store/lomi/662b947ef3cae30012c37ca1/9d9b8fb37f934bb6a87a1414e67761e1/BigMamma-2kg.jpg",
       "retailers": [
         {
@@ -131,14 +131,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat au lait - Noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage biologique équilibré combinant des notes de chocolat au lait et noisette, formulé spécifiquement pour l'espresso et la préparation avec du lait.",
       "imageUrl": "https://cdn.swell.store/lomi/692983f90608cc0012e8b620/a9465d26731afc805b5d0a50dab2892e/Shakespear.jpg",
       "retailers": [
         {
@@ -163,17 +163,17 @@
       "originDetail": null,
       "process": "Lavé/Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Bob's",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Doux - Chocolat - Noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café développé en collaboration avec Bob's, pensé pour offrir de la douceur et de l'équilibre, avec des profils aromatiques distincts selon le mode de préparation choisi.",
       "imageUrl": "https://cdn.swell.store/lomi/692983ebfe7eef00124a0ee4/c018499e90ed246b0dfc8ff3ac7a9051/Bobs.jpg",
       "retailers": [
         {
@@ -195,20 +195,20 @@
       "id": "lomi-assemblage-s-mesure-land-monkeys",
       "name": "Assemblage s/mesure - Land&Monkeys",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Brésil et Ethiopie",
       "process": "Lavé/Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Land&Monkeys",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Doux - Chocolat - Noisette torréfiée"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage de deux parcelles issues du Brésil et d'Éthiopie, combinant des notes chocolatées et de fruits secs pour un profil doux et équilibré.",
       "imageUrl": "https://cdn.swell.store/lomi/69ca4fcc8b129e0012b4802f/4c30bda4039d63a4e55c8547c3d5699b/2.%20Production%20Land%20%26%20Monkeys%202kg.jpg",
       "retailers": [
         {
@@ -243,7 +243,7 @@
         "Chocolat au lait - caramel doux - fruits à noyaux"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage composé de trois origines différentes avec des traitements variés, destiné à la préparation en cold drip.",
       "imageUrl": "https://cdn.swell.store/lomi/692983be549a3a0012d773cc/e531367caa3c612c55125c84961fb64b/Coldrip.jpg",
       "retailers": [
         {
@@ -268,17 +268,17 @@
       "originDetail": null,
       "process": "Lavé",
       "variety": null,
-      "producer": null,
+      "producer": "Machefert",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Caramel -  Noisette - Amande - Miel - Raisin - Citron"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien élaboré en collaboration avec le groupe Machefert, offrant un profil équilibré aux notes chocolatées et noisettées, apprécié tant en espresso qu'avec du lait.",
       "imageUrl": "https://cdn.swell.store/lomi/692983a9736f750012aa6b65/ba347e158bf361e1699873e2e83dec86/Machefert.jpg",
       "retailers": [
         {
@@ -373,15 +373,15 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Faible",
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Constant - Convivial"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage créé pour l'espresso, caractérisé par sa rondeur et sa douceur, avec une acidité faible et une finale sucrée.",
       "imageUrl": "https://cdn.swell.store/lomi/66058b71cafab60012455899/569197d9e8b870fd07c5649bf7ad3f5a/Ecklo-2kg.jpg",
       "retailers": [
         {
@@ -403,20 +403,20 @@
       "id": "lomi-assemblage-s-mesure-beaumier",
       "name": "Assemblage s/mesure - Beaumier",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Colombie, Honduras, Ethiopie",
       "process": "Lavé/Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Beaumier",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Doux - Chocolat - Noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un assemblage de trois origines conçu spécifiquement pour les hôtels Beaumier, offrant des saveurs chocolatées, fruitées et caramélisées avec une structure équilibrée en espresso.",
       "imageUrl": "https://cdn.swell.store/lomi/6929830a2b807b001201f6f5/d7ca8c3332b3e94af00ea1c9969ff841/Beaumier.jpg",
       "retailers": [
         {
@@ -438,20 +438,20 @@
       "id": "lomi-assemblage-s-mesure-maison-dimanche",
       "name": "Assemblage s/mesure - Maison Dimanche",
       "originCountry": null,
-      "originDetail": null,
+      "originDetail": "Colombie, Honduras, Ethiopie",
       "process": "Lavé/Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Maison Dimanche",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Doux - Chocolat - Noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage de trois origines combinant des notes de chocolat et de fruits secs avec un profil doux et équilibré, particulièrement adapté à la préparation en espresso.",
       "imageUrl": "https://cdn.swell.store/lomi/692982c5b1b848001170c3a4/600a21a07e2c9e17b14ee451095a9a30/Maison%20Dimanche.jpg",
       "retailers": [
         {
@@ -546,10 +546,10 @@
       "originDetail": null,
       "process": "Lavé/Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Lomi",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Rond",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -558,7 +558,7 @@
         "Fruits jaunes"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage de trois terroirs créé en collaboration avec Lomi, offrant un profil équilibré et gourmand avec des notes chocolatées, caramélisées et fruitées, conçu pour accompagner les pâtisseries.",
       "imageUrl": "https://cdn.swell.store/lomi/692982b13c6c3300124b9768/69341504070ff79cfabab3e26e4b701a/Le%20Ritz.jpg",
       "retailers": [
         {
@@ -651,17 +651,17 @@
       "originDetail": null,
       "process": "Lavé/Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Othman Café",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Doux - Chocolat - Noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage signature équilibré associant des notes de chocolat au lait et noisette fraîche à un profil rond et fruité, spécialement conçu pour l'espresso et les préparations avec du lait.",
       "imageUrl": "https://cdn.swell.store/lomi/68d6aa79c8ddf2001267cc27/5d3454a024467c27989c4e96cbd9006a/Othman%20personnalise%CC%81.png",
       "retailers": [
         {
@@ -719,21 +719,21 @@
     {
       "id": "lomi-caf-jimma-gomma-slection-caf-des-carmes",
       "name": "Café Jimma Gomma - sélection Café des Carmes",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Jimma",
       "process": "Nature",
       "variety": null,
-      "producer": null,
+      "producer": "Mustafa Mohamed Ali",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Confiture de Fraises - Cacao"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de Jimma cultivé par la famille de Mustafa Mohamed Ali depuis les années 1950, traité naturellement et présentant des notes de fruits rouges et de cacao.",
       "imageUrl": "https://cdn.swell.store/lomi/69fb0d246726ff0013a74c82/d121c1cedc7ae945c8f0af77dbb15f01/Cafe%CC%81%20des%20Carmes%20Packshot%20250%20(1).jpg",
       "retailers": [
         {
@@ -754,15 +754,15 @@
     {
       "id": "lomi-don-alejo",
       "name": "Don Alejo BIO",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Colombie",
+      "originDetail": "Département du Cauca, Cajibío (FCC)",
       "process": "Voie lavée",
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica, Castillo",
+      "producer": "FCC",
       "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "acidity": "Fruitée",
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Espresso : Abricot",
@@ -772,7 +772,7 @@
         "Mandarine"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café cultivé en agroforesterie en Colombie, offrant un profil équilibré avec des notes fruitées et chocolatées, adapté aussi bien à l'espresso qu'au filtre.",
       "imageUrl": "https://cdn.swell.store/lomi/6a3e2a850b4d9500121ea5e5/ad425544b1eaaf79789a176be1ec11aa/DON%20ALEJO%20ESPRESSO%20250.png",
       "retailers": [
         {
@@ -793,22 +793,22 @@
     {
       "id": "lomi-jimma-gomma",
       "name": "Jimma Gomma BIO",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Jimma, forêts de Jimma",
       "process": "Nature",
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica Heirloom",
+      "producer": "Mustafa Mohammed Ali",
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Doux",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Confiture de fraises",
         "Cacao"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café naturel d'Éthiopie cultivé à l'ombre en région de Jimma, offrant un profil gourmand et équilibré avec des notes de fruits et de cacao, caractérisé par une texture douce.",
       "imageUrl": "https://cdn.swell.store/lomi/6925717948c5410011daef15/686cb20c00cd34380d04c4c672543db5/Jimma%20Gomma.jpg",
       "retailers": [
         {
@@ -829,15 +829,15 @@
     {
       "id": "lomi-capucas-bio",
       "name": "Marcala BIO",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Honduras",
+      "originDetail": "Marcala",
       "process": "Voie lavée",
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica, Catimor, Catuai",
+      "producer": "COMSA (Café Orgánico Marcala)",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat Noir",
@@ -845,7 +845,7 @@
         "Caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café hondurien cultivé en altitude par une coopérative biologique certifiée, offrant un profil équilibré avec des notes de chocolat, caramel et fruits selon la méthode de préparation.",
       "imageUrl": "https://cdn.swell.store/lomi/69957767f46953001244b694/d64703826dac23d64cee21a4edd23c47/New%20Honduras%20(1).jpg",
       "retailers": [
         {
@@ -866,11 +866,11 @@
     {
       "id": "lomi-gera-forest-honey-bio",
       "name": "Gera Forest Honey BIO",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Gera Forest",
       "process": "Honey process",
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica SL 74140, SL 74110",
+      "producer": "Mustafa Mohamed Ali",
       "score": null,
       "acidity": null,
       "body": null,
@@ -881,7 +881,7 @@
         "Mandarine"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien cultivé en agroforesterie à la forêt de Gera, traité en honey process, offrant un profil fruité avec des notes de fruits rouges et d'agrumes.",
       "imageUrl": "https://cdn.swell.store/lomi/693bea5d7b55ad00127454cc/a0d34d15a7f1c4d29ca5ca1057c5e6c4/Gera%20Forest%20(1).jpg",
       "retailers": [
         {
@@ -902,11 +902,11 @@
     {
       "id": "lomi-cafe-bresil-dois-irmaos",
       "name": "Dois Irmãos",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Cerrado Mineiro, 1300 mètres d'altitude",
       "process": "Pulped Natural",
-      "variety": null,
-      "producer": null,
+      "variety": "Arabica Bourbon Jaune",
+      "producer": "Antônio José de Vilas Boas",
       "score": null,
       "acidity": null,
       "body": null,
@@ -918,7 +918,7 @@
         "Cerise Amarena"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café d'origine brésilienne cultivé en altitude dans le Cerrado Mineiro, traité naturellement par une famille de producteurs attachée à la qualité. Produit en hommage aux enfants du cultivateur, il incarne une tradition familiale de savoir-faire.",
       "imageUrl": "https://cdn.swell.store/lomi/693bd8bf4afc92001225df36/7ecdbf0ad80a051fbf15c75e7001c183/Dois%20Irmaos%20Espresso.jpg",
       "retailers": [
         {
@@ -939,11 +939,11 @@
     {
       "id": "lomi-daterra",
       "name": "Daterra",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Cerrado Mineiro, sud-est du Brésil",
       "process": "Voie Sèche & Semi-lavée",
-      "variety": null,
-      "producer": null,
+      "variety": "Bourbon, Mundo Novo",
+      "producer": "Daterra",
       "score": null,
       "acidity": null,
       "body": null,
@@ -956,7 +956,7 @@
         "Orange"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien produit par Daterra au Cerrado Mineiro, combinant des saveurs chocolatées et fruitées avec une douceur remarquable et un équilibre caractéristique de la région.",
       "imageUrl": "https://cdn.swell.store/lomi/69451e50f0fdf90011c25be4/123e0b95711c25c1620f02f009d1c4c2/Daterra%20Espresso%20(1).jpg",
       "retailers": [
         {
@@ -985,13 +985,13 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Doux - Equilibré"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café décaféiné cultivé en agriculture biologique, traité par voie lavée et présenté comme un café de spécialité à déguster à tout moment.",
       "imageUrl": "https://cdn.swell.store/lomi/693be75adab338001250cfc1/e774e8b8eefd422a305d023cf8add380/De%CC%81cafe%CC%81ine%CC%81.jpg",
       "retailers": [
         {
@@ -1012,11 +1012,11 @@
     {
       "id": "lomi-kinini",
       "name": "Kinini",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Rwanda",
+      "originDetail": "District de Rulindo, station Kinini",
       "process": "Nature",
-      "variety": null,
-      "producer": null,
+      "variety": "BM139, BM71, Jackson",
+      "producer": "Kinini",
       "score": null,
       "acidity": null,
       "body": null,
@@ -1029,7 +1029,7 @@
         "Citron"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café rwandais cultivé en altitude à la station Kinini, présenté comme très fruité et juteux avec des notes tropicales marquées, issu de variétés Arabica spécifiques et traité par voie naturelle.",
       "imageUrl": "https://cdn.swell.store/lomi/6a968db6a901430012ea64d7/5a8ddc5f614e21cc8f2d92393148dc59/Kinini%20250.png",
       "retailers": [
         {
@@ -1050,11 +1050,11 @@
     {
       "id": "lomi-cocatu",
       "name": "Cocatu",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Rwanda",
+      "originDetail": "District de Rulindo, montagnes de Tumba, station de lavage Kinini",
       "process": "Lavé",
-      "variety": null,
-      "producer": null,
+      "variety": "BM139, BM71, Jackson",
+      "producer": "COCATU",
       "score": null,
       "acidity": null,
       "body": null,
@@ -1067,7 +1067,7 @@
         "Abricot"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café aromatique produit par une coopérative rwandaise regroupant 260 petits producteurs en montagne, traité à la station de lavage Kinini et cultivé à partir de variétés Arabica spécifiques.",
       "imageUrl": "https://cdn.swell.store/lomi/6a968dec6d126a00123d0e1f/6a06b56f5789e83489944bbd6f94537d/Cocatu.png",
       "retailers": [
         {
@@ -1131,13 +1131,13 @@
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "À découvrir pour chaque café"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café moulu et tassé en dosettes ESE conçu pour extraire le profil aromatique complet sous pression et reproduire le goût authentique de l'espresso.",
       "imageUrl": "https://cdn.swell.store/lomi/67adf802592129001236d9d6/b6d09a2bef1d7734af01c70889a5f7ed/VISUELS%20DOSETTES%20J2A%203.jpg",
       "retailers": [
         {
@@ -1172,7 +1172,7 @@
         "Chocolat au lait - Noisette fraîche"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Capsules compostables contenant un assemblage signature disponible en version classique et décaféinée, compatibles avec les machines à capsules standard.",
       "imageUrl": "https://cdn.swell.store/lomi/6a9135a7309f3400122d214d/3ef47f013884396e2c5e51a8c2c3eead/Boite%2050%20capsules%20J2A%20NEW.png",
       "retailers": [
         {

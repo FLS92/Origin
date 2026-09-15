@@ -17,14 +17,14 @@
       "id": "cafe-plume-colombie-yuppie-100-arabica",
       "name": "Colombie – Yuppie 100% Arabica",
       "originCountry": "Colombie Tolima Resguardo Indigena de Paez",
-      "originDetail": null,
+      "originDetail": "Tolima, Resguardo Indigena de Paez",
       "process": "75% lavé / 25% nature – Séchoir mécanique",
       "variety": "Arabica Blend",
       "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "method": null,
+      "score": 85,
+      "acidity": "Belle acidité",
+      "body": "Rondeur",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Vanille",
@@ -34,7 +34,7 @@
         "Cerise"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café fruité colombien aux notes d'orange acidulée équilibrées par la douceur de la cerise, avec des touches de vanille et chocolat qui lui confèrent de la rondeur.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/05/Yuppie-paquet-scaled.jpg",
       "retailers": [
         {
@@ -56,14 +56,14 @@
       "id": "cafe-plume-perou-cataratas-100-arabica-bio",
       "name": "Pérou – Cataratas 100% Arabica BIO",
       "originCountry": "Pérou – Amazonas – Palma Central",
-      "originDetail": null,
+      "originDetail": "Amazonas – Palma Central",
       "process": "Lavé – Patios",
       "variety": "Bourbon, Tabi, Typica, Caturra",
       "producer": null,
-      "score": null,
+      "score": 84,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Caramel",
@@ -72,7 +72,7 @@
         "Beurre"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café péruvien d'altitude développe une texture ronde en bouche avec des notes de caramel, noisette et chocolat noir rehaussées par une touche beurrée.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/02/Cataratas-01-paquet-scaled.jpg",
       "retailers": [
         {
@@ -94,14 +94,14 @@
       "id": "cafe-plume-guatemala-panama-100-robusta",
       "name": "Guatemala – Panama 100% Robusta",
       "originCountry": "Guatemala – Atitlan – Solola – Panama",
-      "originDetail": null,
+      "originDetail": "Atitlan, Solola, Panama, 1400-1500m",
       "process": "Lavé – Patios",
       "variety": "Robusta Coffea Canephora",
       "producer": null,
-      "score": null,
+      "score": 82,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Epices",
@@ -110,7 +110,7 @@
         "Fruits"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Robusta guatémaltèque d'altitude au profil épicé et noisetté, apportant une sucrosité enveloppante particulièrement adaptée à l'espresso.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2025/10/Panama-paquet-scaled.jpg",
       "retailers": [
         {
@@ -132,21 +132,21 @@
       "id": "cafe-plume-nicaragua-jinotega-100-arabica",
       "name": "Nicaragua – Jinotega 100% Arabica",
       "originCountry": "Nicaragua – Jinotega",
-      "originDetail": null,
+      "originDetail": "Jinotega",
       "process": "Lavé – Lits de séchage",
       "variety": "Typica, Bourbon, Caturra",
       "producer": null,
-      "score": null,
+      "score": 82,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Rond",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
         "Caramel au beurre salé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café nicaraguayen de Jinotega aux notes de cacao et caramel, présenté comme rond et gourmand, adapté à tous les modes de préparation.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2025/10/Jinotega-paquet-scaled.jpg",
       "retailers": [
         {
@@ -168,14 +168,14 @@
       "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
       "name": "Vietnam – Dak Lak ROBUSTA 100% Robusta",
       "originCountry": "Vietnam – Dak Lak",
-      "originDetail": null,
+      "originDetail": "Dak Lak",
       "process": "Wet Polished",
       "variety": "Robusta Coffea Canephora",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Corsé",
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacahuète",
@@ -183,7 +183,7 @@
         "Cacao"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Robusta vietnamien du plateau de Dak Lak présenté comme un café vigoureux et puissant, adapté à toutes les méthodes de préparation.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2024/04/Dak-Lak-Paquet-scaled.jpg",
       "retailers": [
         {
@@ -205,21 +205,21 @@
       "id": "cafe-plume-ethiopie-moka-boji-wollega",
       "name": "Ethiopie – Moka Boji Wollega 100% Arabica",
       "originCountry": "Ethiopie Wollega",
-      "originDetail": null,
+      "originDetail": "Wollega",
       "process": "Nature",
       "variety": "Arabica Moka Boji",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Cacao",
         "Céréales"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café d'Éthiopie aux aromas prononcés de cacao et de céréales, traité par séchage naturel et adapté à tous les modes de préparation.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/12/Moka-Boji-Paquet-1-scaled.jpg",
       "retailers": [
         {
@@ -240,8 +240,8 @@
     {
       "id": "cafe-plume-inde-bresil-le-melange-corse",
       "name": "Le Mélange Corsé 50% Arabica / 50% Robusta",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Vietnam et Ethiopie",
+      "originDetail": "Vietnam Dak Lak Robusta / Ethiopie Boji Arabica",
       "process": null,
       "variety": "Blend",
       "producer": null,
@@ -250,9 +250,14 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Cacahuètes",
+        "Amande",
+        "Pain grillé"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce mélange associe un arabica aromatique avec un robusta caractérisé pour produire une tasse au profil corsé et gourmand.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/12/Melange-corse-04-paquet-scaled.jpg",
       "retailers": [
         {
@@ -274,20 +279,20 @@
       "id": "cafe-plume-bresil-espirito-santo-vanille",
       "name": "Le VANILLE 100% Arabica",
       "originCountry": "Ethiopie Wollega",
-      "originDetail": null,
+      "originDetail": "Wollega",
       "process": "Nature",
       "variety": "Arabica Moka Boji",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Chocolat noir"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien aux notes de chocolat, amande et vanille de Madagascar, aux caractéristiques douces et polyvalent en préparation.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2023/07/Le-Vanille-3-paquet-scaled.jpg",
       "retailers": [
         {
@@ -309,14 +314,14 @@
       "id": "cafe-plume-ethiopie-jebena",
       "name": "Ethiopie – Jebena 100% Arabica",
       "originCountry": "Ethiopie Jimma BIO",
-      "originDetail": null,
+      "originDetail": "Jimma",
       "process": "Nature – Lits africains",
       "variety": "Heirloom",
       "producer": null,
-      "score": null,
+      "score": 80,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
       "flavors": [
         "Fruits jaunes",
@@ -325,7 +330,7 @@
         "Caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Éthiopie aux notes de fruits jaunes et caramel, offrant une sucrosité naturelle avec des arômes de noix et brioche, adapté à toutes les méthodes de préparation.",
       "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2022/09/Jebena-01-Paquet-scaled.jpg",
       "retailers": [
         {

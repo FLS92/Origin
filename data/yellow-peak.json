@@ -16,19 +16,22 @@
     {
       "id": "yellow-peak-cafe-doradito",
       "name": "Café Doradito",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Patrocinio, Minas Gerais",
       "process": "Nature",
       "variety": "Catuai rouge, Mundo novo",
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Doux et rond",
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de la région de Patrocinio offrant un profil sensoriel caractérisé par des saveurs de chocolat noir et d'amande, adapté à la préparation en espresso.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/02/cafe-doradito-chocolat-noir-amande-minas-gerais-bresil-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "retailers": [
         {
@@ -49,19 +52,22 @@
     {
       "id": "yellow-peak-cafe-alapi-honey-du-bresil",
       "name": "Café Alapi",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Brésil",
+      "originDetail": "Minas Gerais, ferme des frères Dutra, 900-1300m",
       "process": "Honey",
       "variety": "Catuai",
-      "producer": null,
+      "producer": "Frères Dutra",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Noix",
+        "Chocolat noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de montagne issu d'une fermentation honey, développant des saveurs de noix et de chocolat noir, particulièrement adapté à la préparation espresso.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/02/cafe-alapi-noix-chocolat-noir-minas-gerais-bresil-yellow-peak-cafe-de-specialite.png",
       "retailers": [
         {
@@ -82,8 +88,8 @@
     {
       "id": "yellow-peak-cafe-coucal",
       "name": "Café Coucal",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Gediyo, sud de l'Éthiopie",
       "process": "Nature",
       "variety": "Jarc varieties (74110)",
       "producer": null,
@@ -92,9 +98,12 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Florales",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien issu de la région de Gediyo, traité en fermentation naturelle pour développer des caractéristiques florales et caramélisées.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/07/cafe-coucal-floral-caramel-yirgacheffe-ethiopie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "retailers": [
         {
@@ -115,19 +124,22 @@
     {
       "id": "yellow-peak-cafe-monterita",
       "name": "Café Monterita",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Pérou",
+      "originDetail": "Ferme Chanta Peña, 1750m d'altitude",
       "process": "Lavé",
       "variety": "Caturra, Bourbon, Typica, Castillo et Catimor",
-      "producer": null,
+      "producer": "Chanta Peña",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Pâte d'amande",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café péruvien cultivé en altitude à la ferme Chanta Peña, traité par lavage et développant des arômes de pâte d'amande et chocolat.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2025/04/cafe-monterita-pate-d-amande-chocolat-cajamarca-perou-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "retailers": [
         {
@@ -160,7 +172,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café décaféiné utilisant une méthode basée sur une molécule de canne à sucre, sans solvants chimiques, destiné aux personnes sensibles à la caféine.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/12/cafe-decafeine-roupillon-caramel-vanille-caldas-colombie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "retailers": [
         {
@@ -181,8 +193,8 @@
     {
       "id": "yellow-peak-cafe-papou",
       "name": "Café Papou",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Papouasie",
+      "originDetail": "hauts plateaux de l'Ouest",
       "process": "Lavé",
       "variety": null,
       "producer": null,
@@ -191,9 +203,11 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café cultivé en altitude sur sols volcaniques, présentant un profil équilibré avec des notes de chocolat noir.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/cafe-papou-cacao-equilibre-wahgi-valley-papouasie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "retailers": [
         {
@@ -214,19 +228,23 @@
     {
       "id": "yellow-peak-cafe-drongo",
       "name": "Café Drongo",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Kenya",
+      "originDetail": "Nyeri, hauts-plateaux, 1600-1900m",
       "process": "Lavé",
       "variety": "SL28, SL34, Ruiu 11, Batian",
-      "producer": null,
+      "producer": "Coopérative",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Cassis",
+        "Caramel"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kényan cultivé en altitude par une coopérative de petits producteurs, présentant un profil aromatique marqué par des notes de chocolat, cassis et caramel, avec une complexité particulière en infusion filtrée.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/08/cafe-drongo-cassis-caramel-nyeri-kenya-yellow-peak-cafe-de-specialite.png",
       "retailers": [
         {
@@ -247,19 +265,23 @@
     {
       "id": "yellow-peak-cafe-senegali",
       "name": "Café Sénégali",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Éthiopie",
+      "originDetail": "Station Benti Nenka, région d'Oromia",
       "process": "Nature",
       "variety": "JARC varieties",
-      "producer": null,
+      "producer": "Station Benti Nenka",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Floral",
+        "Fruité",
+        "Myrtille"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Éthiopie traité en naturel, issu de la station Benti Nenka en Oromia, offrant des arômes floraux et fruités avec des notes de myrtille, adapté à plusieurs méthodes de préparation.",
       "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/08/cafe-senegali-floral-myrtille-west-guji-ethiopie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "retailers": [
         {

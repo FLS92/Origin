@@ -22,7 +22,7 @@
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Tranquille",
       "body": null,
       "method": null,
       "roastLevel": null,
@@ -31,7 +31,7 @@
         "néanmoins légèrement boisé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Boîte regroupant quatre assemblages maison de cafés arabicas et robustas, chacun offrant un profil gustatif distinct allant de la douceur à l'équilibre avec des notes de chocolat, boisé et fruité.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -66,7 +66,7 @@
         "Une attaque douce"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Assemblage maison proposant une attaque douce avec des notes de chocolat et boisé, accompagné d'une finale sucrée aux arômes de moka, particulièrement recommandé pour le café du matin.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -123,11 +123,11 @@
       "id": "pikaro-coffee-l-expresso-blend-cafe-de-specialite-du-salvador-importe-a-la-voile",
       "name": "L’Expresso Blend : Café de spécialité du Salvador importé à la voile",
       "originCountry": "Salvador",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Altitude 1400-1800 m",
+      "process": "75 % lavé, 25 % nature",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 83.25,
       "acidity": null,
       "body": null,
       "method": "Espresso",
@@ -140,7 +140,7 @@
         "Cerise"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité salvadorien issu d'une récolte manuelle en altitude, associant deux traitements post-récolte pour développer des profils aromatiques complexes.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -163,7 +163,7 @@
       "name": "Le Bahatie blue :  Café de spécialité du Kenya",
       "originCountry": "Kenya",
       "originDetail": null,
-      "process": null,
+      "process": "Récolte manuelle, lits de séchage",
       "variety": null,
       "producer": null,
       "score": null,
@@ -178,7 +178,7 @@
         "citron"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kényan de spécialité aux notes épicées, florales et chocolatées, cultivé en altitude et préparé par séchage en lits.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -200,11 +200,11 @@
       "id": "pikaro-coffee-le-greengo-cafe-de-specialite-du-rwanda-bio",
       "name": "Le Greengo : Café de spécialité du Rwanda Bio",
       "originCountry": "Rwanda",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Région du Nord - Gakenke",
+      "process": "Lavé",
       "variety": "Bourbon rouge Score SCA de 83",
       "producer": null,
-      "score": null,
+      "score": 83,
       "acidity": null,
       "body": null,
       "method": null,
@@ -215,7 +215,7 @@
         "cannelle"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de spécialité rwandais cultivé en altitude dans la région de Gakenke, certifié biologique et traité par voie humide, offrant des notes aromatiques d'écorce d'orange, de noix et de cannelle.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -237,11 +237,11 @@
       "id": "pikaro-coffee-le-guarani-cafe-du-bresil",
       "name": "Le Guarani : Café de spécialité du Brésil",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Mogiana",
+      "process": "Nature",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 82,
       "acidity": null,
       "body": null,
       "method": null,
@@ -252,7 +252,7 @@
         "chocolat au lait"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café brésilien de spécialité provenant de la région de Mogiana, traité à sec et récolté mécaniquement entre 900 et 1100 mètres d'altitude.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -273,14 +273,14 @@
     {
       "id": "pikaro-coffee-indes-plantation-aa",
       "name": "Le Kanartaka : Café des Indes",
-      "originCountry": null,
+      "originCountry": "Inde",
       "originDetail": null,
-      "process": null,
+      "process": "Voie humide et séchage naturel au soleil",
       "variety": null,
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Très faible",
+      "body": "Moyen",
       "method": null,
       "roastLevel": null,
       "flavors": [
@@ -290,7 +290,7 @@
         "Préparation : par voie humide"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café indien au corps moyen et à l'acidité très faible, traité par voie humide avec séchage naturel, présentant des notes légères d'épice.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {
@@ -312,11 +312,11 @@
       "id": "pikaro-coffee-le-limon-cafe-de-colombie-importe-a-la-voile",
       "name": "Le Limon : Café de spécialité de Colombie importé à la voile",
       "originCountry": "Colombie",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Région de Huila, territoire de Pitalito",
+      "process": "Lavé",
       "variety": null,
       "producer": null,
-      "score": null,
+      "score": 83.5,
       "acidity": null,
       "body": null,
       "method": null,
@@ -328,7 +328,7 @@
         "noix"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café colombien de spécialité en provenance de Huila, cultivé en altitude et traité par voie humide, offrant un profil aromatique complexe alliant notes épicées et chocolatées.",
       "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
       "retailers": [
         {

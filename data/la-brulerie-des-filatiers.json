@@ -60,7 +60,7 @@
       "score": null,
       "acidity": null,
       "body": "Rond",
-      "method": null,
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Noix",
@@ -172,9 +172,13 @@
       "body": null,
       "method": "Espresso",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Sucre brun",
+        "Noisette",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un mélange espresso d'El Salvador combinant intensité et équilibre, avec des profils aromatiques de sucre brun, noisette et chocolat.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/800/image_512/Boite%20de%20capsules%20%28x10%29%20SALVADOR%20-%20Espresso%20Blend?unique=28c108b",
       "retailers": [
         {
@@ -237,15 +241,19 @@
       "originDetail": null,
       "process": "CO2 décaféiné",
       "variety": "100 % arabica - Mélange de variétés ​​",
-      "producer": null,
+      "producer": "Dulces suenos",
       "score": null,
       "acidity": null,
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Amande",
+        "Orange",
+        "Chocolat"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café décaféiné brésilien présente un profil sucré et équilibré, obtenu par décaféination au CO2 qui préserve ses caractéristiques aromatiques originelles.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/906/image_512/Br%C3%A9sil%20-%20Dulces%20suenos%20-%20d%C3%A9caf%C3%A9in%C3%A9?unique=7c39199",
       "retailers": [
         {
@@ -267,18 +275,21 @@
       "id": "la-brulerie-des-filatiers-p910",
       "name": "Brésil - Mogiana - Fazenda Aliança",
       "originCountry": "Brésil",
-      "originDetail": null,
+      "originDetail": "Mogiana, Fazenda Aliança",
       "process": "Nature",
       "variety": "Catuai jaune ​ ​",
-      "producer": null,
+      "producer": "Fazenda Aliança",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Soyeux",
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Praline"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la région de Mogiana offre un profil rond et confortable avec des notes de chocolat et praline, caractérisé par son équilibre et sa texture veloutée.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/910/image_512/Br%C3%A9sil%20-%20Mogiana%20-%20Fazenda%20Alian%C3%A7a?unique=7ddab15",
       "retailers": [
         {
@@ -299,7 +310,7 @@
     {
       "id": "la-brulerie-des-filatiers-p752",
       "name": "Chicorée - L'originale - Nourée",
-      "originCountry": null,
+      "originCountry": "France",
       "originDetail": null,
       "process": null,
       "variety": null,
@@ -471,7 +482,7 @@
       "id": "la-brulerie-des-filatiers-p1904",
       "name": "ETHIOPIE - Sidama - Bombe G1",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Sidama",
       "process": "Nature - fermentation aux levures",
       "variety": "Arabica - Heirloom ​​",
       "producer": null,
@@ -482,7 +493,7 @@
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'exception de Sidama en Éthiopie, classé Grade 1, traité en nature avec fermentation aux levures et cultivé en altitude, torréfié artisanalement.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1904/image_512/ETHIOPIE%20-%20Sidama%20-%20Bombe%20G1?unique=19c3081",
       "retailers": [
         {
@@ -579,18 +590,18 @@
       "id": "la-brulerie-des-filatiers-p1903",
       "name": "GUATEMALA - Huehuetenango - El Panal",
       "originCountry": "Guatemala",
-      "originDetail": null,
+      "originDetail": "Huehuetenango",
       "process": "Nature",
       "variety": "Bourbon, Caturra & Catuaï ​​",
-      "producer": null,
+      "producer": "Qawale Collective",
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Un café guatémaltèque de montagne traité par voie naturelle, issu d'une coopérative locale et torréfié artisanalement.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1903/image_512/GUATEMALA%20-%20Huehuetenango%20-%20El%20Panal?unique=f62e55e",
       "retailers": [
         {
@@ -678,8 +689,8 @@
       "id": "la-brulerie-des-filatiers-p1927",
       "name": "BRÉSIL - Sergio Reis - Coimbra",
       "originCountry": "Brésil",
-      "originDetail": null,
-      "process": null,
+      "originDetail": "Ferme Coimbra",
+      "process": "Nature",
       "variety": "Arabica - Blend de variétés",
       "producer": "Sergio Reis",
       "score": null,
@@ -687,9 +698,13 @@
       "body": null,
       "method": null,
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat noir",
+        "Cerise",
+        "Sirop d'érable"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café brésilien naturel de la ferme Coimbra produit par Sergio Reis, aux profils aromatiques de chocolat noir, cerise et sirop d'érable, offrant une tasse douce et gourmande.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1927/image_512/BR%C3%89SIL%20-%20Sergio%20Reis%20-%20Coimbra?unique=45a517e",
       "retailers": [
         {
@@ -711,18 +726,18 @@
       "id": "la-brulerie-des-filatiers-p1901",
       "name": "HONDURAS - Comayagua - Santa Lucia (Bio)",
       "originCountry": "Honduras",
-      "originDetail": null,
+      "originDetail": "Comayagua, Santa Lucia",
       "process": "Honey",
       "variety": "Caturra & Typica ​​",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Café biologique de Comayagua au Honduras, issu d'une collaboration de producteurs locaux et traité en honey process, torréfié artisanalement à Toulouse.",
       "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1901/image_512/HONDURAS%20-%20Comayagua%20-%20Santa%20Lucia%20%28Bio%29?unique=829c7ac",
       "retailers": [
         {

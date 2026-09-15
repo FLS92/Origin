@@ -18,13 +18,13 @@
       "name": "Magali",
       "originCountry": null,
       "originDetail": null,
-      "process": null,
+      "process": "Nature",
       "variety": null,
       "producer": null,
       "score": "80+",
       "acidity": null,
-      "body": null,
-      "method": null,
+      "body": "Velouté",
+      "method": "Espresso",
       "roastLevel": null,
       "flavors": [
         "Chocolat",
@@ -32,7 +32,7 @@
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange de cafés naturels originaires principalement du Brésil et d'Éthiopie, présentant un profil dense et velouté avec des notes de chocolat, noix et caramel.",
       "imageUrl": "https://www.cafesmagali.fr/wp-content/uploads/2021/10/MAGALI-scaled.jpeg",
       "retailers": [
         {

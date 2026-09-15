@@ -25,7 +25,7 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Raisin blanc",
         "sucre roux",
@@ -33,7 +33,7 @@
         "pamplemousse"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien de la région de Yirgacheffe, traité par voie humide, aux notes fruitées et sucrées. Torréfaction moyenne adaptée à l'espresso comme aux méthodes douces.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0500/7219/1169/files/Sachet_250g_CHELBESA.png?v=1774039860",
       "retailers": [
         {
@@ -54,7 +54,7 @@
     {
       "id": "coffee-makers-taba-rawnda-sachet-de-250g",
       "name": "TABA (Rawnda) sachet de 250g",
-      "originCountry": null,
+      "originCountry": "Rwanda",
       "originDetail": "Muhura",
       "process": "Nature",
       "variety": "Blend",
@@ -63,7 +63,7 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Abricot",
         "sucre roux",
@@ -71,7 +71,7 @@
         "pécan"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de Rwanda traité naturellement, proposant un profil polyvalent adapté à l'espresso comme aux méthodes de filtration douces, avec des notes d'abricot, chocolat et fruits secs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0500/7219/1169/files/TABA.png?v=1788877992",
       "retailers": [
         {
@@ -101,7 +101,7 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Citron",
         "chocolat au lait",
@@ -109,7 +109,7 @@
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de la région de La Paz au Honduras, traité par voie lavée et torréfié à degré moyen. Ce blend offre une palette aromatique associant agrumes, notes chocolatées et notes de fruits secs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0500/7219/1169/files/LENCA.png?v=1788877584",
       "retailers": [
         {

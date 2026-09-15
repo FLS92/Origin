@@ -19,16 +19,21 @@
       "originCountry": "Colombie",
       "originDetail": null,
       "process": "Lavé",
-      "variety": null,
+      "variety": "Geisha",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Lavande",
+        "Mandarine",
+        "Épices",
+        "Sucre de canne"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien de variété Geisha traité par voie lavée, caractérisé par des notes florales prononcées et des touches fruitées avec une belle sucrosité.",
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/03/LUIS-HERNANDO_PHOTO1.webp",
       "retailers": [
         {
@@ -50,18 +55,22 @@
       "id": "kultivar-ethiopie-guji-nature",
       "name": "ETHIOPIE – GUJI – NATURE",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Guji",
       "process": "Naturel",
       "variety": null,
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
-      "method": null,
+      "method": "Filtre",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fruits rouges",
+        "Floral",
+        "Thé noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien de la région de Guji traité en naturel, caractérisé par des notes de fruits rouges, florales et de thé noir, avec une structure équilibrée et délicate.",
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/03/OKOLUU_PHOTO2_1.webp",
       "retailers": [
         {
@@ -85,16 +94,20 @@
       "originCountry": "Colombie",
       "originDetail": null,
       "process": "Lavé",
-      "variety": null,
+      "variety": "Castillo",
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Basse",
       "body": null,
-      "method": null,
+      "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Chocolat",
+        "Vanille",
+        "Amande"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café colombien polyvalent aux arômes de chocolat, vanille et amande, offrant une sucrosité marquée et une acidité modérée.",
       "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2025/07/26_DR_CO_BTO_CAS_LAV_01-2.webp",
       "retailers": [
         {

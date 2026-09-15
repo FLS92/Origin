@@ -17,7 +17,7 @@
       "id": "colors-coffee-roasters-burundi-nemba-copie",
       "name": "BURUNDI - Butegana {Washed}",
       "originCountry": "Burundi",
-      "originDetail": null,
+      "originDetail": "Butegana",
       "process": "Lavé",
       "variety": null,
       "producer": null,
@@ -26,9 +26,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Raisin",
+        "Miel",
+        "Thé vert"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café du Burundi en provenance de Butegana, traité par voie lavée, aux profils aromatiques de raisin, miel et thé vert.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_BUR_1d24cd31-139d-4536-a5fa-ac6b192544cb.png?v=1785426570",
       "retailers": [
         {
@@ -50,7 +54,7 @@
       "id": "colors-coffee-roasters-ethiopie-guji",
       "name": "ÉTHIOPIE - Guji {Anaérobie}",
       "originCountry": "Éthiopie",
-      "originDetail": null,
+      "originDetail": "Guji",
       "process": "Anaérobie",
       "variety": null,
       "producer": null,
@@ -59,9 +63,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Kiwi",
+        "Cerise",
+        "Thé noir"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'Éthiopie issu de la région de Guji, traité en anaérobie, offrant des notes de kiwi, cerise et thé noir.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_ET_b7742357-3e31-40a5-a4f9-c2046e295742.png?v=1785426477",
       "retailers": [
         {
@@ -83,7 +91,7 @@
       "id": "colors-coffee-roasters-kenya-embu",
       "name": "KENYA - Embu {Washed}",
       "originCountry": "Kenya",
-      "originDetail": null,
+      "originDetail": "Embu",
       "process": "Lavé",
       "variety": null,
       "producer": null,
@@ -92,9 +100,13 @@
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Fraise",
+        "Hibiscus",
+        "Baies"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café kényan de la région d'Embu traité par voie lavée, présentant des notes de fruits rouges et de fleurs.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_KE_378fe66c-1beb-467a-8928-d4918044189d.png?v=1785426539",
       "retailers": [
         {
@@ -118,16 +130,20 @@
       "originCountry": "Salvador",
       "originDetail": null,
       "process": "Anaérobie",
-      "variety": null,
+      "variety": "Pacamara",
       "producer": null,
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
       "roastLevel": null,
-      "flavors": null,
+      "flavors": [
+        "Cacao",
+        "Ananas",
+        "Fruits tropicaux"
+      ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café salvadorien de variété Pacamara traité en anaérobie développe des notes de cacao, d'ananas et de fruits tropicaux.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_SAL_ee9e84c5-a039-4306-930f-60978fc47844.png?v=1785426510",
       "retailers": [
         {

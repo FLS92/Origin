@@ -22,15 +22,15 @@
       "variety": "100% Arabica",
       "producer": null,
       "score": null,
-      "acidity": null,
-      "body": null,
+      "acidity": "Très légère",
+      "body": "Corsé",
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "C orsé"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café costaricain des montagnes de Tarrazú, au corps corsé et à l'acidité très légère, offrant une tasse élégante avec des notes fruitées.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Costa_rica_fond_colorwebp.webp?v=1729627357",
       "retailers": [
         {
@@ -65,7 +65,7 @@
         "Equilibré"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange d'arabica et robusta torréfié en France de façon artisanale, conçu pour offrir une expérience d'espresso équilibré et intense.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Espresso_fond_color.webp?v=1729630126",
       "retailers": [
         {
@@ -93,14 +93,14 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Plein de corps",
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Chocolat noir"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café guatémaltèque de la région de Huehuetenango, corsé et doté d'une belle longueur en bouche avec des notes de chocolat noir et un profil aromatique équilibré.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Guatemala_fond_color.webp?v=1729630457",
       "retailers": [
         {
@@ -128,16 +128,16 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Velouté",
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Velouté",
         "chocolat",
         "noisette"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café mexicain d'altitude présentant un profil ample aux notes d'épices délicates, offrant une dégustation veloutée avec des saveurs de chocolat et noisette.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Mexique_fond_color.webp?v=1729631207",
       "retailers": [
         {
@@ -167,12 +167,12 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Cacao"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café d'origine nicaraguayenne présenté comme une sélection de paysages volcaniques, aux profils de chocolat et noisette, avec une torréfaction moyenne et une intensité légère.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Nicaragua_fond_color.webp?v=1729631722",
       "retailers": [
         {
@@ -197,12 +197,12 @@
       "originDetail": "Gayo",
       "process": null,
       "variety": "100% Arabica",
-      "producer": null,
+      "producer": "Coopérative de femmes à Gayo",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Fruits rouge",
         "Vanille",
@@ -211,7 +211,7 @@
         "chocolat"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café de Sumatra cultivé en altitude dans un terroir volcanique, présentant un profil aromatique équilibré aux notes de fruits rouges, pêche, miel et chocolat.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Sumatra_fond_color_1.webp?v=1729711297",
       "retailers": [
         {
@@ -236,19 +236,19 @@
       "originDetail": "Caparao",
       "process": "Nature",
       "variety": "100% Arabica",
-      "producer": null,
+      "producer": "Association de femmes de la région de Caparaó",
       "score": null,
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Chocolat",
         "noisette",
         "caramel"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien issu de sources biologiques offre un profil gourmand et équilibré avec des notes de chocolat, noisette et caramel. Il se distingue par sa finale élégante et son intensité modérée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Bob_o_Link_fond_color.webp?v=1729626894",
       "retailers": [
         {
@@ -278,10 +278,10 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": null,
       "harvestYear": null,
-      "description": null,
+      "description": "Assortiment découverte de huit cafés différents provenant de diverses origines, présenté en sachets de 125 grammes pour explorer une gamme de profils aromatiques variés.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/box-decouverte.webp?v=1712697619",
       "retailers": [
         {
@@ -309,9 +309,9 @@
       "producer": null,
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "Complet",
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Cacao",
         "noisette",
@@ -319,7 +319,7 @@
         "cacahuète"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café brésilien de la région de Bahia offre un profil gourmand avec des notes de cacao et de fruits secs, soutenu par un corps complet et une texture veloutée.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Bahia_fond_color.webp?v=1729626471",
       "retailers": [
         {
@@ -346,16 +346,16 @@
       "variety": "100% Arabica",
       "producer": null,
       "score": null,
-      "acidity": null,
+      "acidity": "Subtile",
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Cacao",
         "amande"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Un café éthiopien d'Yrgacheffe aux notes de cacao et amande, offrant une acidité subtile et un profil équilibré avec une persistance remarquable en bouche.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Yrgacheffe_fond_color.webp?v=1729629675",
       "retailers": [
         {
@@ -377,21 +377,21 @@
       "id": "au-cur-du-cafe-kenya",
       "name": "Kenya Chania Estate Caracoli",
       "originCountry": "Kenya",
-      "originDetail": null,
+      "originDetail": "Chania Estate",
       "process": null,
       "variety": "100% Arabica",
-      "producer": null,
+      "producer": "Chania Estate",
       "score": null,
       "acidity": null,
-      "body": null,
+      "body": "complet",
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Cacao",
         "fruits rouges"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café kényan présente un corps complet avec des notes de cacao, fruits rouges et fruits secs. Il offre un profil gourmand et fruité d'intensité moyenne.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Kenya-Chania-Estate-sans-fond-WEB.jpg?v=1774106103",
       "retailers": [
         {
@@ -421,12 +421,12 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Equilibré"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café éthiopien décaféiné par technique CO2 sans solvant, conservant un profil aromatique équilibré et une intensité moyenne.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/DK_Ethiopie_fond_color.webp?v=1729628588",
       "retailers": [
         {
@@ -448,7 +448,7 @@
       "id": "au-cur-du-cafe-blue-mountain-jamaique",
       "name": "Blue Mountain de Jamaïque",
       "originCountry": "Jamaïque",
-      "originDetail": null,
+      "originDetail": "Blue Mountain",
       "process": null,
       "variety": null,
       "producer": null,
@@ -462,7 +462,7 @@
         "cacao"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Ce café jamaïcain de la région Blue Mountain se distingue par son équilibre et son élégance, sans amertume, avec des notes florales et cacaotées.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Bluemountain-copiepdf.png?v=1734293145",
       "retailers": [
         {
@@ -483,11 +483,11 @@
     {
       "id": "au-cur-du-cafe-skybury",
       "name": "Skybury",
-      "originCountry": null,
-      "originDetail": null,
+      "originCountry": "Australie",
+      "originDetail": "Queensland",
       "process": null,
       "variety": null,
-      "producer": null,
+      "producer": "Skybury",
       "score": null,
       "acidity": null,
       "body": null,
@@ -497,7 +497,7 @@
         "Fruité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Café australien du Queensland présentant un profil fruité équilibré avec une belle structure en bouche.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/Skybury-copiepdf.png?v=1734292905",
       "retailers": [
         {
@@ -527,13 +527,13 @@
       "acidity": null,
       "body": null,
       "method": "Omni",
-      "roastLevel": null,
+      "roastLevel": "Moyenne",
       "flavors": [
         "Cacao",
         "légèrement fruité"
       ],
       "harvestYear": null,
-      "description": null,
+      "description": "Mélange 100% arabica d'origine nicaraguayenne traité par voie lavée, présentant un profil gourmand aux notes de cacao et de fruits légers.",
       "imageUrl": "https://cdn.shopify.com/s/files/1/0795/2010/4779/files/CoeurduBouchon1.png?v=1777734619",
       "retailers": [
         {
