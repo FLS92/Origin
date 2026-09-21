@@ -2,8 +2,21 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <title>Origin — Découvrez et notez vos cafés</title>
+
+<!-- PWA: lets "Partager → Sur l'écran d'accueil" install this as a
+     standalone, full-screen app on iOS -- see manifest.json's start_url
+     for how the installed app is told apart from a regular Safari visit. -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0d1b2e">
+<link rel="icon" href="icons/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="icons/favicon-16.png" sizes="16x16" type="image/png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Origin">
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -916,12 +929,17 @@ function na(v){ return (v===NA || v===undefined || v===null || v===''); }
 
 // Chargées au démarrage depuis coffees-data.json (généré par
 // scripts/build_app_data.py à partir des scrapers) — voir loadCoffeeData().
+// L'app installée en PWA (manifest.json's start_url) charge à la place
+// my-coffees.json, une liste personnelle qui démarre vide et n'est jamais
+// touchée par le scraping automatique -- voir scripts/add_coffee.py.
 let ROASTERS = {};
 let COFFEES = [];
+const PERSONAL_MODE = new URLSearchParams(location.search).get('source') === 'pwa';
+const COFFEE_DATA_PATH = PERSONAL_MODE ? 'my-coffees.json' : 'coffees-data.json';
 
 async function loadCoffeeData(){
-  const res = await fetch('coffees-data.json', {cache:'no-store'});
-  if(!res.ok) throw new Error('coffees-data.json introuvable ('+res.status+')');
+  const res = await fetch(COFFEE_DATA_PATH, {cache:'no-store'});
+  if(!res.ok) throw new Error(COFFEE_DATA_PATH+' introuvable ('+res.status+')');
   const data = await res.json();
   ROASTERS = data.roasters;
   COFFEES = data.coffees;
@@ -1736,7 +1754,9 @@ function renderGrid(filter){
   }
 
   if(items.length===0){
-    grid.innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Aucun résultat</h3><p>Essaie d'élargir tes filtres ou ta recherche.</p></div>`;
+    grid.innerHTML = PERSONAL_MODE && COFFEES.length===0
+      ? `<div class="empty" style="grid-column:1/-1;"><h3>Ta liste est vide pour l'instant</h3><p>Demande à Claude d'ajouter un café pour le voir apparaître ici.</p></div>`
+      : `<div class="empty" style="grid-column:1/-1;"><h3>Aucun résultat</h3><p>Essaie d'élargir tes filtres ou ta recherche.</p></div>`;
     return;
   }
   grid.innerHTML = items.map(c=>{
@@ -2682,7 +2702,7 @@ document.getElementById('export-csv').addEventListener('click', exportLibraryCSV
     await loadCoffeeData();
   }catch(e){
     console.error(e);
-    document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Impossible de charger les cafés</h3><p>coffees-data.json n'a pas pu être chargé. Si tu ouvres ce fichier directement (file://), sers-le plutôt via un petit serveur local (ex. <code>python3 -m http.server</code> depuis le dossier docs/).</p></div>`;
+    document.getElementById('coffee-grid').innerHTML = `<div class="empty" style="grid-column:1/-1;"><h3>Impossible de charger les cafés</h3><p>${COFFEE_DATA_PATH} n'a pas pu être chargé. Si tu ouvres ce fichier directement (file://), sers-le plutôt via un petit serveur local (ex. <code>python3 -m http.server</code> depuis le dossier docs/).</p></div>`;
     return;
   }
   renderFilterChips();
@@ -2700,6 +2720,12 @@ document.getElementById('export-csv').addEventListener('click', exportLibraryCSV
     openDetail(sharedId);
   }
 })();
+
+if('serviceWorker' in navigator){
+  window.addEventListener('load', ()=>{
+    navigator.serviceWorker.register('sw.js').catch(()=>{});
+  });
+}
 </script>
 </body>
 </html>
