@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg"
   },
-  "scrapedAt": "2026-09-14T05:20:39Z",
+  "scrapedAt": "2026-09-21T05:21:01Z",
   "products": [
     {
       "id": "cafe-piha-miss-wush",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-jungle-halo",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-villa-pastora-2",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-jos-papayo",
@@ -148,7 +148,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-mandela-100g",
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-mystic-geisha-cafe",
@@ -223,7 +223,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-box-decouverte-piha",
@@ -256,7 +256,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-petit-creme-chocolat-hasnaa",
@@ -289,7 +289,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-los-campos",
@@ -322,7 +322,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-la-victoria-honey",
@@ -355,7 +355,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-cascara",
@@ -388,7 +388,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-fleurs-de-cafe",
@@ -421,7 +421,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-blend-bio-haka",
@@ -441,7 +441,7 @@
       ],
       "harvestYear": null,
       "description": "Café biologique 100% arabica au profil rond et chocolaté, conçu pour être utilisé dans une cafetière automatique en tant que café de consommation quotidienne.",
-      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/01/IM1-HAKA.jpg",
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2018/10/IM1-HAKA.jpg",
       "retailers": [
         {
           "site": "Café Piha",
@@ -456,7 +456,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-cafe-bio-honduras-la-victoria-nature",
@@ -489,7 +489,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-decafeine-la-belle-endormie",
@@ -526,7 +526,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-melange-cafes-grains-blend-all-blacks",
@@ -562,7 +562,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     },
     {
       "id": "cafe-piha-la-victoria-lave",
@@ -595,7 +595,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:20:39Z"
+      "lastSeenAt": "2026-09-21T05:21:01Z"
+    },
+    {
+      "id": "cafe-piha-edema",
+      "name": "Edema",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": "Heirloom",
+      "producer": "Oboleyan",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/09/IM1-EDEMA.jpg",
+      "retailers": [
+        {
+          "site": "Café Piha",
+          "url": "https://www.cafepiha.com/e-boutique/edema/",
+          "price": 17.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:21:01Z",
+      "lastSeenAt": "2026-09-21T05:21:01Z"
+    },
+    {
+      "id": "cafe-piha-bourbon-sidra",
+      "name": "Bourbon Sidra",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": "Bourbon Sidra",
+      "producer": "Jhonatan Zúñiga",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2025/08/IM1-BOURBON-SIDRA.jpg",
+      "retailers": [
+        {
+          "site": "Café Piha",
+          "url": "https://www.cafepiha.com/e-boutique/bourbon-sidra/",
+          "price": 25.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:21:01Z",
+      "lastSeenAt": "2026-09-21T05:21:01Z"
     }
   ]
 }

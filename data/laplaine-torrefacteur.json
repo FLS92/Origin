@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://laplaine.fr/cdn/shop/files/LAPLAINE2_5591cc07-0f87-4069-bcdb-9c10bffd82c3.png?v=1727858394&width=600"
   },
-  "scrapedAt": "2026-09-14T05:17:23Z",
+  "scrapedAt": "2026-09-21T05:17:23Z",
   "products": [
     {
       "id": "laplaine-torrefacteur-boreta-ethiopie",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-14T05:17:23Z"
+      "lastSeenAt": "2026-09-21T05:17:23Z"
     },
     {
       "id": "laplaine-torrefacteur-ruli-rwanda",
@@ -85,7 +85,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-14T05:17:23Z"
+      "lastSeenAt": "2026-09-21T05:17:23Z"
     },
     {
       "id": "laplaine-torrefacteur-el-mirador-colombie",
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-14T05:17:23Z"
+      "lastSeenAt": "2026-09-21T05:17:23Z"
     },
     {
       "id": "laplaine-torrefacteur-santa-isabel",
@@ -159,7 +159,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-14T05:17:23Z"
+      "lastSeenAt": "2026-09-21T05:17:23Z"
     },
     {
       "id": "laplaine-torrefacteur-city-blend",
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:52Z",
-      "lastSeenAt": "2026-09-14T05:17:23Z"
+      "lastSeenAt": "2026-09-21T05:17:23Z"
     }
   ]
 }

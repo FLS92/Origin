@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
-  "scrapedAt": "2026-09-14T05:22:23Z",
+  "scrapedAt": "2026-09-21T05:25:15Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -41,13 +41,13 @@
           "currency": "EUR",
           "unitWeightG": 200,
           "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-14T05:22:23Z"
+      "lastSeenAt": "2026-09-21T05:25:15Z"
     },
     {
       "id": "cafe-1802-gasharu-rwanda-washed",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-14T05:22:23Z"
+      "lastSeenAt": "2026-09-21T05:25:15Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -119,7 +119,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-14T05:22:23Z"
+      "lastSeenAt": "2026-09-21T05:25:15Z"
+    },
+    {
+      "id": "cafe-1802-buena-vista-colombie",
+      "name": "RIGOBERTO - Colombie - fermentation  oxydative",
+      "originCountry": "Colombie",
+      "originDetail": "Salando Blanco, Huila",
+      "process": "Fermentation oxydative",
+      "variety": "Pacamara",
+      "producer": null,
+      "score": 87,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/ribogerto.png?v=1789638823",
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/buena-vista-colombie",
+          "price": 14.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:25:15Z",
+      "lastSeenAt": "2026-09-21T05:25:15Z"
     }
   ]
 }

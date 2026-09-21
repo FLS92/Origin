@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
   },
-  "scrapedAt": "2026-09-14T05:22:46Z",
+  "scrapedAt": "2026-09-21T05:25:34Z",
   "products": [
     {
       "id": "le-cafe-qui-fume-cafe-du-salvador",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-ephemere-du-ouganda",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-decafeine-swisswater-du-perou",
@@ -190,7 +190,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-perou-ceranor",
@@ -228,7 +228,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-dethiopie-koke",
@@ -265,7 +265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica-hermosa-copy",
@@ -303,7 +303,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-panier-garni-offre-speciale",
@@ -373,7 +373,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-vert-bio",
@@ -408,7 +408,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-honduras-finca-liquidambar",
@@ -447,7 +447,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica",
@@ -484,7 +484,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:46Z"
+      "lastSeenAt": "2026-09-21T05:25:34Z"
+    },
+    {
+      "id": "le-cafe-qui-fume-cafe-guatemala",
+      "name": "Café Pena Roja du Guatemala",
+      "originCountry": "Guatemala",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0052/0562/2833/files/Guatemala.png?v=1686735943",
+      "retailers": [
+        {
+          "site": "Le Café qui Fume",
+          "url": "https://lecafequifume.com/products/cafe-guatemala",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 500,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:25:34Z",
+      "lastSeenAt": "2026-09-21T05:25:34Z"
     }
   ]
 }

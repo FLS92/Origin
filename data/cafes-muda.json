@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
   },
-  "scrapedAt": "2026-09-14T05:23:18Z",
+  "scrapedAt": "2026-09-21T05:26:05Z",
   "products": [
     {
       "id": "cafes-muda-andy-llanos-gesha-perou",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-andy-llanos-sidra-perou",
@@ -87,7 +87,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-daanissa-ethiopie",
@@ -125,7 +125,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-cafe-mexique-juba",
@@ -156,7 +156,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T07:04:13Z",
       "lastSeenAt": "2026-09-14T05:23:18Z"
     },
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-sitio-cordilheiras-honey",
@@ -267,7 +267,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-cafe-arara-sitio-cordilheiras-bresil",
@@ -305,7 +305,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-cafe-perou-roger-chilcon",
@@ -375,7 +375,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-cascara-pulpe-cerise-cafe-infusion",
@@ -411,7 +411,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-coffret-filtre-decouverte",
@@ -447,7 +447,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-coffret-filtre-classique",
@@ -480,7 +480,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-coffret-espresso-classique",
@@ -516,7 +516,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-coffret-espresso-decouverte",
@@ -552,7 +552,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-mont-deca-decafeine",
@@ -589,7 +589,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-paddo-cafe",
@@ -626,7 +626,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-tropikawa",
@@ -662,7 +662,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-ca-passe-creme",
@@ -699,7 +699,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:13Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-las-brisas-nature-el-salvador",
@@ -736,7 +736,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:23:18Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-chelbesa-lave",
@@ -773,7 +773,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:23:18Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-andy-llanos-tabi",
@@ -811,7 +811,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:23:18Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     },
     {
       "id": "cafes-muda-cafe-bio-rushashi-honey-espresso",
@@ -849,7 +849,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:23:18Z",
-      "lastSeenAt": "2026-09-14T05:23:18Z"
+      "lastSeenAt": "2026-09-21T05:26:05Z"
     }
   ]
 }

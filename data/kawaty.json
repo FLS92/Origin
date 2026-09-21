@@ -11,7 +11,7 @@
     "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
     "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg"
   },
-  "scrapedAt": "2026-09-14T05:23:28Z",
+  "scrapedAt": "2026-09-21T05:26:15Z",
   "products": [
     {
       "id": "kawaty-1982",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-alta-mogiana",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-bresil-mogiana",
@@ -120,7 +120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-bridazul-nicaragua",
@@ -160,7 +160,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-cafe-aromatise-caramel",
@@ -195,7 +195,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-cafe-aromatise-noisette",
@@ -230,7 +230,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-cafe-aromatise-vanille",
@@ -265,7 +265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-colombie-sofia",
@@ -301,7 +301,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-guatemala-los-volcanes",
@@ -338,7 +338,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-honduras-lenca",
@@ -376,7 +376,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-kawaty-blend",
@@ -412,7 +412,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-melange-italien",
@@ -447,7 +447,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-mexique-chocaman",
@@ -483,7 +483,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-perou-sueno-decafeine",
@@ -519,7 +519,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-mokaharrar",
@@ -554,7 +554,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-sidamo-moka",
@@ -590,7 +590,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-nicaragua",
@@ -625,7 +625,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-perou-palomar",
@@ -660,7 +660,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-costarica-san-rafael-tarrazu",
@@ -698,7 +698,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     },
     {
       "id": "kawaty-ethiopie-chancho-sidama",
@@ -738,7 +738,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-14T05:23:28Z"
+      "lastSeenAt": "2026-09-21T05:26:15Z"
     }
   ]
 }

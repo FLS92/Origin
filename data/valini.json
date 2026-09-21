@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
   },
-  "scrapedAt": "2026-09-07T05:20:14Z",
+  "scrapedAt": "2026-09-21T05:24:23Z",
   "products": [
     {
       "id": "valini-p2",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     },
     {
       "id": "valini-p77",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     },
     {
       "id": "valini-p91",
@@ -118,7 +118,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     },
     {
       "id": "valini-p94",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     },
     {
       "id": "valini-p93",
@@ -192,7 +192,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     },
     {
       "id": "valini-p105",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     },
     {
       "id": "valini-p104",
@@ -265,7 +265,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-09-07T05:20:14Z"
+      "lastSeenAt": "2026-09-21T05:24:23Z"
+    },
+    {
+      "id": "valini-p103",
+      "name": "Café Pure Origine Pérou...",
+      "originCountry": "Pérou",
+      "originDetail": null,
+      "process": "Extended Fermentation",
+      "variety": "Bourbon",
+      "producer": "Timbuyacu",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/420-full_default/cafe-pure-origine-el-salvador-oasis.jpg",
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/103-1002-cafe-pure-origine-el-salvador-oasis.html",
+          "price": 12.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:24:23Z",
+      "lastSeenAt": "2026-09-21T05:24:23Z"
+    },
+    {
+      "id": "valini-p106",
+      "name": "Café Pure Origine OUGANDA",
+      "originCountry": "Ouganda",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "SL28",
+      "producer": "Mont Rwenzori",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/445-full_default/cafe-ethiopie-nyala.jpg",
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/cafe/106-1032-cafe-ethiopie-nyala.html",
+          "price": 11.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:24:23Z",
+      "lastSeenAt": "2026-09-21T05:24:23Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
   },
-  "scrapedAt": "2026-09-14T05:22:17Z",
+  "scrapedAt": "2026-09-21T05:25:09Z",
   "products": [
     {
       "id": "tinto-recreio-cafe-du-bresil-250g-1kg",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-paz-decafeine-250g-1-kg-2",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-kebena-cafe-dethiopie-250-g-1-kg",
@@ -117,7 +117,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-lunatico-cafe-ouganda-250g-1kg-copie",
@@ -150,7 +150,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-resiliencia-cafe-de-colombie-250g-1kg",
@@ -187,7 +187,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-guarapito-cafe-de-colombie",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-bocadillo-cafe-colombie-250g-1kg",
@@ -263,7 +263,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-pura-vida-mae-cafe-de-costa-rica-250g-1kg",
@@ -299,7 +299,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-komothai-cafe-du-kenya-250g-1kg",
@@ -338,7 +338,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     },
     {
       "id": "tinto-quilombo-cafe-bresilien-250g-1kg",
@@ -375,7 +375,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-14T05:22:17Z"
+      "lastSeenAt": "2026-09-21T05:25:09Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": "Commerce Squarespace, catalogue accessible via ?format=json sur la page e-boutique. Poids/conditionnement embarqué dans le libellé de la variante (ex: \"200g - 9.90 €\"), a parser.",
     "logoUrl": "https://images.squarespace-cdn.com/content/v1/60f6b1ab7c2d995d4346436b/fcc0a887-ec4d-4765-b916-ac2d9765be01/Logo+Nibi+fin3.png?format=1500w"
   },
-  "scrapedAt": "2026-09-14T05:16:32Z",
+  "scrapedAt": "2026-09-21T05:16:39Z",
   "products": [
     {
       "id": "cafe-nibi-mystique-arabica-peruvien",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-meneur-arabica-bresil-specialtycoffee",
@@ -82,7 +82,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-jovial-arabica-bresilien-grain-moulu",
@@ -118,7 +118,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-arabica-gesha-cafe-de-specialite",
@@ -154,7 +154,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-arabica-indonesie-cafe-specialite-amln8",
@@ -189,7 +189,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-arabica-kenya-cafe-specialite",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-costaud-blend-arabica-robusta-cafe-grain-moulu",
@@ -258,7 +258,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-distingue-arabica-colombien-grain-moulu",
@@ -294,7 +294,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-aventurier-arabica-guatemala",
@@ -330,7 +330,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-eclaireur-par-arabica-ethiopie-grain-",
@@ -366,7 +366,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-magnifique-arabica-colombien-grain-moulu",
@@ -401,7 +401,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-audacieux-arabica-assemblage",
@@ -437,7 +437,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-deca-arabica-mexicain-mountainwater-",
@@ -470,7 +470,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-le-robuste",
@@ -505,7 +505,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-coffret-cafe",
@@ -538,7 +538,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-coffret-cafe-exception",
@@ -571,7 +571,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-arabica-colombie",
@@ -606,7 +606,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-etui-de-10-capsules-eclaireur-ethiopien",
@@ -642,7 +642,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-arabica-colombien",
@@ -678,7 +678,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-arabica-guatemala",
@@ -711,7 +711,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-le-costaud-blend-assemblage",
@@ -744,7 +744,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-capsule-compatible-deca-sanssolvant-decac02",
@@ -777,7 +777,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-coffret-cafe-capsules",
@@ -813,7 +813,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-th-noir-assam-100-gr",
@@ -849,7 +849,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-th-vert-genmaicha-100-gr",
@@ -882,7 +882,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-the-vert-kukicha-100-gr",
@@ -918,7 +918,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-th-noir-pu-erh",
@@ -951,7 +951,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-the-milky-oolong-100-gr",
@@ -988,7 +988,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-rooibos-100-gr",
@@ -1023,7 +1023,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     },
     {
       "id": "cafe-nibi-totebag-cafenibi",
@@ -1056,7 +1056,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:27Z",
-      "lastSeenAt": "2026-09-14T05:16:32Z"
+      "lastSeenAt": "2026-09-21T05:16:39Z"
     }
   ]
 }

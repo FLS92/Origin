@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://earlybirdcoffee.fr/wp-content/themes/1.6.1/images/2024-color-1.svg"
   },
-  "scrapedAt": "2026-09-14T05:17:51Z",
+  "scrapedAt": "2026-09-21T05:17:50Z",
   "products": [
     {
       "id": "early-bird-ethiopie-sidama",
@@ -114,7 +114,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-tanzania-songwe",
@@ -151,7 +151,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-colombia-3",
@@ -189,7 +189,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-colombia-huila-vanilla",
@@ -227,7 +227,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-costa-rica-4",
@@ -331,7 +331,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-guatemala-alta-verapaz",
@@ -369,7 +369,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-costa-rica",
@@ -438,7 +438,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-colombia",
@@ -474,7 +474,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-sumatra",
@@ -511,7 +511,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-bresil-cerrado",
@@ -544,7 +544,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-honduras-corquin",
@@ -580,7 +580,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:06Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-ethiopie-guji-2",
@@ -650,7 +650,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-sumatra-2",
@@ -686,7 +686,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-sumatra-aceh-pantan",
@@ -722,7 +722,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-ethiopie-ayla-bombe-sidama",
@@ -758,7 +758,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-ethiopia-ayla-bombe-sidama",
@@ -794,7 +794,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-colombia-huila-pitalito",
@@ -833,7 +833,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-kenya-nyeri",
@@ -869,7 +869,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-ethiopia-kaffa",
@@ -902,7 +902,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-ethiopie-yirgacheffe",
@@ -935,7 +935,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     },
     {
       "id": "early-bird-ethiopie-kaffa",
@@ -968,7 +968,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:51Z",
-      "lastSeenAt": "2026-09-14T05:17:51Z"
+      "lastSeenAt": "2026-09-21T05:17:50Z"
+    },
+    {
+      "id": "early-bird-china",
+      "name": "China",
+      "originCountry": "Chine",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://earlybirdcoffee.fr/wp-content/uploads/2024/06/china-packaging-1.png",
+      "retailers": [
+        {
+          "site": "Early Bird",
+          "url": "https://earlybirdcoffee.fr/en/shop/china/",
+          "price": 14.4,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:17:50Z",
+      "lastSeenAt": "2026-09-21T05:17:50Z"
     }
   ]
 }

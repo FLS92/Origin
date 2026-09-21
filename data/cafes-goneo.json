@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://shop.cafes-goneo.fr/img/logo-17712465632.jpg"
   },
-  "scrapedAt": "2026-09-14T05:20:00Z",
+  "scrapedAt": "2026-09-21T05:20:30Z",
   "products": [
     {
       "id": "cafes-goneo-p693",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p692",
@@ -85,7 +85,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p639",
@@ -118,7 +118,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p652",
@@ -151,7 +151,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p685",
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p727",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p701",
@@ -261,7 +261,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:32Z",
       "lastSeenAt": "2026-09-14T05:20:00Z"
     },
@@ -298,7 +298,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p597",
@@ -336,7 +336,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p592",
@@ -373,7 +373,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     },
     {
       "id": "cafes-goneo-p591",
@@ -411,7 +411,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:32Z",
-      "lastSeenAt": "2026-09-14T05:20:00Z"
+      "lastSeenAt": "2026-09-21T05:20:30Z"
+    },
+    {
+      "id": "cafes-goneo-p588",
+      "name": "Café du Brésil en grains Samba | 100% Arabica",
+      "originCountry": "Brésil",
+      "originDetail": null,
+      "process": "Nature, Pulped Natural",
+      "variety": "100% Arabica ·",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://shop.cafes-goneo.fr/3510-large_default/samba.jpg",
+      "retailers": [
+        {
+          "site": "Cafés Gonéo",
+          "url": "https://shop.cafes-goneo.fr/nos-cafes/588-1390-samba-3760330053011.html",
+          "price": 18.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:20:30Z",
+      "lastSeenAt": "2026-09-21T05:20:30Z"
     }
   ]
 }

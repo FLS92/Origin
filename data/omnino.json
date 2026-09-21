@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe.omnino.fr/cdn/shop/files/omnino-logo_200x.png?v=1613694607"
   },
-  "scrapedAt": "2026-09-14T05:22:49Z",
+  "scrapedAt": "2026-09-21T05:25:37Z",
   "products": [
     {
       "id": "omnino-cascara-150g",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:49Z"
+      "lastSeenAt": "2026-09-21T05:25:37Z"
     },
     {
       "id": "omnino-chaie-25cl",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:49Z"
+      "lastSeenAt": "2026-09-21T05:25:37Z"
     },
     {
       "id": "omnino-cafe-infuse-a-froid-concentre-25cl",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:49Z"
+      "lastSeenAt": "2026-09-21T05:25:37Z"
     },
     {
       "id": "omnino-cafe-infuse-a-froid-concentre-5-litres",
@@ -152,7 +152,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-09-14T05:22:49Z"
+      "lastSeenAt": "2026-09-21T05:25:37Z"
     },
     {
       "id": "omnino-haru-cafe-infuse-a-froid-dethiopie-cold-brew",
@@ -185,7 +185,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:20:01Z",
-      "lastSeenAt": "2026-09-14T05:22:49Z"
+      "lastSeenAt": "2026-09-21T05:25:37Z"
     }
   ]
 }

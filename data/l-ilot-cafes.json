@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
   },
-  "scrapedAt": "2026-09-14T05:21:49Z",
+  "scrapedAt": "2026-09-21T05:24:45Z",
   "products": [
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
@@ -124,7 +124,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafes-maison-dola-fami",
@@ -197,7 +197,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafe-maison-cuilco",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
@@ -306,7 +306,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-santa-rosa",
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
@@ -381,7 +381,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
@@ -417,7 +417,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
@@ -454,7 +454,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
@@ -492,7 +492,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-14T05:21:49Z"
+      "lastSeenAt": "2026-09-21T05:24:45Z"
     }
   ]
 }

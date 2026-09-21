@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe-corto.fr/cdn/shop/files/CAFE-CORTO-Logo-rouge_2a40c653-fdfb-4935-b471-fa88a5fa82dd.png?v=1774947910&width=600"
   },
-  "scrapedAt": "2026-09-14T05:21:55Z",
+  "scrapedAt": "2026-09-21T05:24:51Z",
   "products": [
     {
       "id": "cafe-corto-boite-atmos",
@@ -145,7 +145,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-cosurca-colombie",
@@ -182,7 +182,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-bacan-perou",
@@ -217,7 +217,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-tafacce-ethiopie",
@@ -253,7 +253,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-sidama-ethiopie",
@@ -290,7 +290,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-cafe-a-la-voile-colombie",
@@ -327,7 +327,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-kopi-indonesie",
@@ -364,7 +364,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-deca-mexique",
@@ -400,7 +400,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-grains-gourmand",
@@ -433,7 +433,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     },
     {
       "id": "cafe-corto-tablette-de-chocolat-mistre",
@@ -466,7 +466,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:26Z",
-      "lastSeenAt": "2026-09-14T05:21:55Z"
+      "lastSeenAt": "2026-09-21T05:24:51Z"
     }
   ]
 }

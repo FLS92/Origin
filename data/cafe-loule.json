@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe-loule.fr/cdn/shop/files/Cafe_LouLe_Logo.svg?v=1756610202"
   },
-  "scrapedAt": "2026-09-14T05:22:09Z",
+  "scrapedAt": "2026-09-21T05:25:04Z",
   "products": [
     {
       "id": "cafe-loule-cold-brew-palermo-1",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:31Z",
-      "lastSeenAt": "2026-09-14T05:22:09Z"
+      "lastSeenAt": "2026-09-21T05:25:04Z"
     },
     {
       "id": "cafe-loule-pack-decouverte-loule",
@@ -80,7 +80,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:31Z",
-      "lastSeenAt": "2026-09-14T05:22:09Z"
+      "lastSeenAt": "2026-09-21T05:25:04Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://dose.paris/cdn/shop/files/logo-dose.png?v=1746034301&width=200"
   },
-  "scrapedAt": "2026-09-14T05:16:15Z",
+  "scrapedAt": "2026-09-21T05:16:20Z",
   "products": [
     {
       "id": "dose-gourmand",
@@ -46,7 +46,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-assemblage-de-max",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-bresil-rio-de-janeiro",
@@ -118,7 +118,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-ethiopie-guji-dose-addis-abeba",
@@ -156,7 +156,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-fruite",
@@ -191,7 +191,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cafe-perou-dose-lima",
@@ -227,7 +227,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-assemblage-de-max-vrac-x300-capsules-copy",
@@ -247,7 +247,7 @@
       ],
       "harvestYear": null,
       "description": "Assemblage d'espresso présenté comme rond et gourmand, proposé en capsules biodégradables compatibles Nespresso. Café fraîchement torréfié issu d'une filière traçable et de spécialité.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-en-vrac-assemblage-de-max-x300-5900809.jpg?v=1765194786",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-capsules-en-vrac-assemblage-de-max-8413299.jpg?v=1789734788",
       "retailers": [
         {
           "site": "Dose",
@@ -262,7 +262,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-assemblage-de-max-boite-x10-capsules",
@@ -299,7 +299,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cafe-trio-espresso",
@@ -339,7 +339,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-indonesie-jakarta",
@@ -372,7 +372,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cafe-guatemala-dose-la-aurora",
@@ -408,7 +408,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-mexico-city",
@@ -441,7 +441,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cafe-decouverte-trio-filtre",
@@ -474,7 +474,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-salvador",
@@ -510,7 +510,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-gourde-isotherme-kinto-travel-tumbler-350-ml-beige-ou-noir-dose-family",
@@ -543,7 +543,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-bouilloire-buono-1",
@@ -576,7 +576,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-bouilloire-electrique-stagg-ekg-noir-mat-zf-fellow",
@@ -609,7 +609,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cafe-gourmand-pro",
@@ -642,7 +642,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cafe-fruite-pro",
@@ -675,7 +675,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-rio-de-janeiro-pro",
@@ -712,7 +712,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-300-capsules-en-vrac-assemblage-de-max",
@@ -749,7 +749,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-boite-de-10-capsules-assemblage-de-max",
@@ -786,7 +786,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-boite-de-10-capsules-sueno-decafeine-pro",
@@ -819,7 +819,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-assemblage-de-max-pro",
@@ -856,7 +856,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-addis-adeba-pro",
@@ -891,7 +891,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-mexico-city-decafeine-pro",
@@ -924,7 +924,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-la-aurora-pro",
@@ -960,7 +960,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-lima-pro",
@@ -996,7 +996,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-san-salvador-pro",
@@ -1031,7 +1031,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-jakarta-pro",
@@ -1064,7 +1064,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-boite-de-10-capsules-anemos-pro",
@@ -1097,7 +1097,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-b2b-cup-a-emporter-espresso-dose-8cl-50-unites",
@@ -1130,7 +1130,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cup-a-emporter-espresso-dose-8cl-50-unites-copie",
@@ -1163,7 +1163,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cup-a-emporter-double-wall-dose-25cl-50-unites-copie",
@@ -1196,7 +1196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-buchette-de-sucre-blond-bio-carton-de-1000",
@@ -1229,7 +1229,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-detartrant-ecologique-mini-delonghi-dlsc200-2x100-ml",
@@ -1262,7 +1262,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-cartouche-filtrante-pour-delonghi-pro",
@@ -1295,7 +1295,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-detartrant-ecologique-delonghi-dlsc500-500-ml",
@@ -1328,7 +1328,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-capsules-sueno-deca-boite-x-10",
@@ -1363,7 +1363,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-anemos-boite-x10-capsules",
@@ -1396,7 +1396,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-trio-decouverte-capsules",
@@ -1414,7 +1414,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Coffret découverte contenant trois assortiments de capsules biodégradables compatibles Nespresso, torréfiés à Paris, dont un assemblage signature, un décaféiné et un café colombien transporté en voilier cargo.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-coffret-trio-boites-x-30-7521052.jpg?v=1756277742",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-capsules-coffret-trio-boites-x-30-6853369.png?v=1789555634",
       "retailers": [
         {
           "site": "Dose",
@@ -1429,7 +1429,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-coffret-200-capsules",
@@ -1447,7 +1447,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Coffret de 200 capsules biodégradables compatibles Nespresso regroupant plusieurs assemblages et décaféinés torréfiés à Paris, dont l'Assemblage de Max, Bogota et un décaféiné à l'eau.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-capsules-coffret-trio-boites-x-30-7521052.jpg?v=1756277742",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-capsules-coffret-trio-boites-x-30-6853369.png?v=1789555634",
       "retailers": [
         {
           "site": "Dose",
@@ -1462,7 +1462,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-09-14T05:16:15Z"
+      "lastSeenAt": "2026-09-21T05:16:20Z"
     },
     {
       "id": "dose-delonghi-dinamica-feb-3535-sb",

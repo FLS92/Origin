@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
   },
-  "scrapedAt": "2026-09-14T05:22:00Z",
+  "scrapedAt": "2026-09-21T05:24:56Z",
   "products": [
     {
       "id": "moka-maritza-nicaragua",
@@ -43,13 +43,13 @@
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-lonya-perou",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-zocapa-mexique",
@@ -117,7 +117,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-shanga-rwanda",
@@ -150,7 +150,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-julio-cesar-colombie",
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-misadhi-kenya",
@@ -221,7 +221,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-edilberto-colombie",
@@ -254,7 +254,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-cerrado-bresil",
@@ -291,7 +291,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-alma-guatemala",
@@ -328,7 +328,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-copanito-honduras",
@@ -361,7 +361,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-hadama-ethiopie",
@@ -394,7 +394,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-negele-ethiopie",
@@ -427,7 +427,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-melaku-ethiopie",
@@ -463,7 +463,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-palestina-colombie",
@@ -496,7 +496,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-lucha-libre-mexique",
@@ -529,7 +529,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-rosa-colombie-bio",
@@ -564,7 +564,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-decaf-colombie",
@@ -597,7 +597,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-nobo-nicaragua",
@@ -630,7 +630,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-blanca-nieve-nicaragua",
@@ -663,7 +663,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-lino-colombie",
@@ -696,7 +696,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-nubia-colombie",
@@ -729,7 +729,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-baya-nicaragua",
@@ -762,7 +762,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-mumbi-kenya",
@@ -797,7 +797,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-zapote-honduras",
@@ -830,7 +830,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-ayoub-yemen",
@@ -865,7 +865,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-romero-honduras",
@@ -898,7 +898,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-othaya-kenya",
@@ -933,7 +933,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-ochoa-honduras",
@@ -966,7 +966,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-yello-nicaragua",
@@ -1002,7 +1002,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-mi-pana-colombie",
@@ -1035,7 +1035,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-carmen-salvador",
@@ -1068,7 +1068,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-mulugeta-ethiopie",
@@ -1101,7 +1101,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-damba-el-salvador",
@@ -1134,7 +1134,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-bernal-colombie",
@@ -1167,7 +1167,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-lalo-ethiopie",
@@ -1203,7 +1203,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-kivu-congo-bio",
@@ -1239,7 +1239,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-glenda-honduras",
@@ -1272,7 +1272,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-cafe-kaffa-ethiopie",
@@ -1310,7 +1310,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-gitega-rwanda",
@@ -1343,7 +1343,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-urubamba-perou",
@@ -1383,7 +1383,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-kabira-ethiopie",
@@ -1416,7 +1416,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-del-micay-colombie",
@@ -1449,7 +1449,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-chevere-perou-bio",
@@ -1482,7 +1482,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-la-palma-perou",
@@ -1517,7 +1517,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-sidamo-ethiopie",
@@ -1553,7 +1553,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-tata-nahual-guatemala",
@@ -1586,7 +1586,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-isabelia-nicaragua",
@@ -1619,7 +1619,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-cafe-lahuerta-nicaragua",
@@ -1652,7 +1652,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-piendamo-colombie",
@@ -1690,7 +1690,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-rancho-bresil",
@@ -1728,7 +1728,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-zebigi-ouganda",
@@ -1761,7 +1761,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-bwenda-rwanda",
@@ -1799,7 +1799,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-san-ignacio-costa-rica",
@@ -1842,7 +1842,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-gayuku-ini-kenya",
@@ -1879,7 +1879,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-alero-honduras",
@@ -1912,7 +1912,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-don-ricardo-salvador",
@@ -1945,7 +1945,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-san-antonio-salvador",
@@ -1982,7 +1982,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-wolichu-wachu-ethiopie",
@@ -2018,7 +2018,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-aba-kika-ethiopie",
@@ -2054,7 +2054,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-santa-fe-mexique",
@@ -2087,7 +2087,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     },
     {
       "id": "moka-ibisi-rwanda",
@@ -2120,7 +2120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-09-14T05:22:00Z"
+      "lastSeenAt": "2026-09-21T05:24:56Z"
     }
   ]
 }

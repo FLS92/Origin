@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
   },
-  "scrapedAt": "2026-09-14T05:22:14Z",
+  "scrapedAt": "2026-09-21T05:25:06Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-14T05:22:14Z"
+      "lastSeenAt": "2026-09-21T05:25:06Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-14T05:22:14Z"
+      "lastSeenAt": "2026-09-21T05:25:06Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
@@ -123,7 +123,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-09-14T05:22:14Z"
+      "lastSeenAt": "2026-09-21T05:25:06Z"
     },
     {
       "id": "kultivar-los-nogales-lowcaf-typica",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:22:14Z",
-      "lastSeenAt": "2026-09-14T05:22:14Z"
+      "lastSeenAt": "2026-09-21T05:25:06Z"
     }
   ]
 }

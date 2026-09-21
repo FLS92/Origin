@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
   },
-  "scrapedAt": "2026-09-14T05:20:07Z",
+  "scrapedAt": "2026-09-21T05:20:41Z",
   "products": [
     {
       "id": "kaffa-torrefacteur-gaia",
@@ -46,7 +46,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     },
     {
       "id": "kaffa-torrefacteur-colombie",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     },
     {
       "id": "kaffa-torrefacteur-rwanda",
@@ -116,7 +116,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     },
     {
       "id": "kaffa-torrefacteur-perou",
@@ -149,7 +149,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:36Z",
       "lastSeenAt": "2026-09-14T05:20:07Z"
     },
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:14:49Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     },
     {
       "id": "kaffa-torrefacteur-cafe-amkeni",
@@ -221,7 +221,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:14:49Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     },
     {
       "id": "kaffa-torrefacteur-kenya",
@@ -256,7 +256,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:14:49Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     },
     {
       "id": "kaffa-torrefacteur-cascara-de-gloria-gummerus",
@@ -291,7 +291,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:20:07Z",
-      "lastSeenAt": "2026-09-14T05:20:07Z"
+      "lastSeenAt": "2026-09-21T05:20:41Z"
     }
   ]
 }

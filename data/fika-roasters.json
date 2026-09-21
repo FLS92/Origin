@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png"
   },
-  "scrapedAt": "2026-09-14T05:18:11Z",
+  "scrapedAt": "2026-09-21T05:18:11Z",
   "products": [
     {
       "id": "fika-roasters-cafe-perou-perlamayo",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-el-silencio",
@@ -89,7 +89,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-indonesie-tuang",
@@ -130,7 +130,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-ouganda-mukuru-west",
@@ -169,7 +169,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-attia",
@@ -207,7 +207,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-nicaragua-los-papales",
@@ -245,7 +245,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-costa-rica-las-lajas",
@@ -282,7 +282,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-ethiopie-wamena",
@@ -322,7 +322,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-decafeine-mexique",
@@ -355,7 +355,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-suukala",
@@ -393,7 +393,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     },
     {
       "id": "fika-roasters-cafe-bresil-san-rafael",
@@ -430,7 +430,106 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:11Z"
+      "lastSeenAt": "2026-09-21T05:18:11Z"
+    },
+    {
+      "id": "fika-roasters-el-recreo",
+      "name": "EL RECREO",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": 86.5,
+      "acidity": null,
+      "body": null,
+      "method": "Claire",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/08/Design-sans-titre-1.png",
+      "retailers": [
+        {
+          "site": "Fika Roasters",
+          "url": "https://www.fikaroasters.fr/produit/el-recreo",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:18:11Z",
+      "lastSeenAt": "2026-09-21T05:18:11Z"
+    },
+    {
+      "id": "fika-roasters-cafe-ethiopie-ayla",
+      "name": "AYLA",
+      "originCountry": "Ethiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": "Claire",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/08/Design-sans-titre.png",
+      "retailers": [
+        {
+          "site": "Fika Roasters",
+          "url": "https://www.fikaroasters.fr/produit/cafe-ethiopie-ayla",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:18:11Z",
+      "lastSeenAt": "2026-09-21T05:18:11Z"
+    },
+    {
+      "id": "fika-roasters-cafe-guatemala-jacinta",
+      "name": "JACINTO",
+      "originCountry": "Guatemala",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": 85,
+      "acidity": null,
+      "body": null,
+      "method": "Médium",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/08/Design-sans-titre-2.png",
+      "retailers": [
+        {
+          "site": "Fika Roasters",
+          "url": "https://www.fikaroasters.fr/produit/cafe-guatemala-jacinta",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:18:11Z",
+      "lastSeenAt": "2026-09-21T05:18:11Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
-  "scrapedAt": "2026-09-14T05:21:43Z",
+  "scrapedAt": "2026-09-21T05:24:39Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -105,7 +105,7 @@
       ],
       "harvestYear": null,
       "description": "Un café du Honduras au profil aromatique complexe, offrant des saveurs de fruits à coque, citron et cacao.",
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/803/image_512/Boite%20de%20capsules%20%28x10%29%20HONDURAS%20-%20Al%C3%A9gria%20?unique=f295425",
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/803/image_512/Boite%20de%20capsules%20%28x10%29%20HONDURAS%20-%20Al%C3%A9gria%20?unique=f53f6af",
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -118,9 +118,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -157,7 +157,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -194,7 +194,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -232,7 +232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p910",
@@ -303,7 +303,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-09-14T05:21:43Z"
     },
@@ -340,7 +340,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -377,7 +377,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -410,7 +410,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -428,7 +428,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/930/image_512/ETHIOPIE%20-%20Beloya%20-%20Yirgacheffe?unique=d5a3971",
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/930/image_512/ETHIOPIE%20-%20Beloya%20-%20Yirgacheffe?unique=464f18c",
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -443,7 +443,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -461,7 +461,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/814/image_512/ETHIOPIE%20-%20Oromia%20?unique=45e4438",
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/814/image_512/ETHIOPIE%20-%20Oromia%20?unique=8914490",
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -474,9 +474,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-07T05:20:25Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1904",
@@ -509,7 +509,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -544,7 +544,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -584,7 +584,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1903",
@@ -617,7 +617,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -650,7 +650,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -681,7 +681,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-09-14T05:21:43Z"
     },
@@ -720,7 +720,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:21:43Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1901",
@@ -751,9 +751,42 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-14T05:21:43Z",
       "lastSeenAt": "2026-09-14T05:21:43Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p905",
+      "name": "Ethiopie - Tullu Demtu - Guji",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Nature​",
+      "variety": "Heirloom ​ ​",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/905/image_512/Ethiopie%20-%20Tullu%20Demtu%20-%20Guji?unique=7a50724",
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/ethiopie-tullu-demtu-guji-905",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:24:39Z",
+      "lastSeenAt": "2026-09-21T05:24:39Z"
     }
   ]
 }

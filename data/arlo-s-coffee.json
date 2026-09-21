@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
   },
-  "scrapedAt": "2026-09-14T05:17:14Z",
+  "scrapedAt": "2026-09-21T05:17:14Z",
   "products": [
     {
       "id": "arlo-s-coffee-rwanda-murambi-bio",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-ouganda-jukia",
@@ -85,7 +85,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-equateur-tulipe",
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
@@ -159,7 +159,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-arlos-coffee",
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-colombie-tolima",
@@ -232,7 +232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-ethiopie-ali-bio",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-bresil-silvia",
@@ -306,7 +306,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-cafeespresso",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-honduras-marco",
@@ -378,7 +378,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-coffret-cafe-gamme-ephemere",
@@ -411,7 +411,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     },
     {
       "id": "arlo-s-coffee-colombie-deca",
@@ -421,7 +421,7 @@
       "process": "Lavé",
       "variety": "Arabica",
       "producer": null,
-      "score": null,
+      "score": 84.25,
       "acidity": null,
       "body": null,
       "method": "Espresso",
@@ -448,7 +448,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-09-14T05:17:14Z"
+      "lastSeenAt": "2026-09-21T05:17:14Z"
     }
   ]
 }

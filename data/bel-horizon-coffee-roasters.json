@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
   },
-  "scrapedAt": "2026-09-14T05:17:29Z",
+  "scrapedAt": "2026-09-21T05:17:31Z",
   "products": [
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-1000-hills",
@@ -125,7 +125,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-cordillera-del-fuego",
@@ -160,13 +160,13 @@
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-el-porvenir",
@@ -227,7 +227,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/finca-los-primos",
-          "price": 28.0,
+          "price": 27.0,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -237,7 +237,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-finca-bella",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-04-coconut-co-ferment-espresso",
@@ -303,7 +303,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/superposition-2027-04-coconut-co-ferment-espresso",
-          "price": 14.0,
+          "price": 13.0,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
@@ -313,7 +313,106 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:29Z",
-      "lastSeenAt": "2026-09-14T05:17:29Z"
+      "lastSeenAt": "2026-09-21T05:17:31Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-superposition-2027-02-bright-yellow-co-ferment-filter",
+      "name": "SUPERPOSITION #2027·02 · Bright Yellow · Co-Ferment · Filter",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/brightyelloxsite.jpg?v=1786809259",
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/superposition-2027-02-bright-yellow-co-ferment-filter",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:17:31Z",
+      "lastSeenAt": "2026-09-21T05:17:31Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-superposition-2027-03-watermelon-co-ferment-filter",
+      "name": "SUPERPOSITION #2027·03 · Watermelon · Co-Ferment · Filter",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/watermelonsite.jpg?v=1786809235",
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/superposition-2027-03-watermelon-co-ferment-filter",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:17:31Z",
+      "lastSeenAt": "2026-09-21T05:17:31Z"
+    },
+    {
+      "id": "bel-horizon-coffee-roasters-superposition-2027-01-peach-co-ferment-filter",
+      "name": "SUPERPOSITION #2027·01 · Peach · Co-Ferment · Filter",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0697/7876/8138/files/Peachsite.jpg?v=1786809282",
+      "retailers": [
+        {
+          "site": "Bel Horizon Coffee Roasters",
+          "url": "https://belhorizon.coffee/products/superposition-2027-01-peach-co-ferment-filter",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:17:31Z",
+      "lastSeenAt": "2026-09-21T05:17:31Z"
     }
   ]
 }

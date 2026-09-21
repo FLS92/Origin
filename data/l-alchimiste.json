@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2021/01/instagram-header.svg"
   },
-  "scrapedAt": "2026-09-14T05:20:36Z",
+  "scrapedAt": "2026-09-21T05:20:58Z",
   "products": [
     {
       "id": "l-alchimiste-gesha",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-laleona",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-taba",
@@ -116,7 +116,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-githembe",
@@ -149,7 +149,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-blend",
@@ -182,7 +182,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-campestre",
@@ -215,7 +215,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-phoenix",
@@ -248,7 +248,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-chevere-decafeine",
@@ -281,7 +281,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-leonamicrolot",
@@ -314,7 +314,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-coffret-decouverte",
@@ -337,7 +337,7 @@
         {
           "site": "L'Alchimiste",
           "url": "https://www.alchimiste-cafes.com/produit/coffret-decouverte/",
-          "price": 36.5,
+          "price": 39.5,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -347,7 +347,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-how-to-make-the-best-coffee",
@@ -380,7 +380,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     },
     {
       "id": "l-alchimiste-le-cafe-cest-pas-sorcier",
@@ -413,7 +413,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:40Z",
-      "lastSeenAt": "2026-09-14T05:20:36Z"
+      "lastSeenAt": "2026-09-21T05:20:58Z"
+    },
+    {
+      "id": "l-alchimiste-alakanature",
+      "name": "Alaka nature",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "Heirloom",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.alchimiste-cafes.com/wp-content/uploads/2025/09/alakanature1.png",
+      "retailers": [
+        {
+          "site": "L'Alchimiste",
+          "url": "https://www.alchimiste-cafes.com/produit/alakanature/",
+          "price": 14.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-21T05:20:58Z",
+      "lastSeenAt": "2026-09-21T05:20:58Z"
     }
   ]
 }
