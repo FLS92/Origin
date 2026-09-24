@@ -144,8 +144,16 @@ def fetch_kofio(s, url):
     availability_text = soup.select_one(".product_availability")
     in_stock = "sold out" not in (availability_text.get_text(strip=True).lower() if availability_text else "")
 
+    # kofio.co bakes the roastery's name into the product title itself
+    # ("Kaffa Colombia INDIAN SUMMER") -- redundant once that roastery is
+    # also the card's own roaster label, so strip it back off.
+    name = ld.get("name") or specs.get("name") or ""
+    roastery_name = specs.get("Roastery")
+    if roastery_name and name.lower().startswith(roastery_name.lower()):
+        name = name[len(roastery_name):].strip(" -–—")
+
     return {
-        "name": ld.get("name") or specs.get("name"),
+        "name": name,
         "raw_description_html": str(desc_div) if desc_div else None,
         "image_url": ld.get("image"),
         "price": price,
