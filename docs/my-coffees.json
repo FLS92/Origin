@@ -1,15 +1,8 @@
 {
-  "generatedAt": "2026-09-24T19:03:21Z",
-  "roasterCount": 10,
-  "coffeeCount": 13,
+  "generatedAt": "2026-09-24T20:24:06Z",
+  "roasterCount": 9,
+  "coffeeCount": 12,
   "roasters": {
-    "cafes-muda": {
-      "name": "Cafés Muda",
-      "city": "Lille",
-      "url": "https://cafesmuda.fr/",
-      "domain": "cafesmuda.fr",
-      "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
-    },
     "kaffa": {
       "name": "Kaffa",
       "city": null,
@@ -75,33 +68,6 @@
     }
   },
   "coffees": [
-    {
-      "id": "cafes-muda-chelbesa-lave",
-      "roasterId": "cafes-muda",
-      "name": "CHELBESA - ÉTHIOPIE",
-      "origin": "Éthiopie · Yirgacheffe, village de Chelbesa",
-      "originCountry": "Éthiopie",
-      "process": "Lavé",
-      "usage": "Filtre",
-      "variety": null,
-      "producer": "Wubit",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": "Légère",
-      "flavors": "Pêche, Pamplemousse, Jasmin",
-      "desc": "Un café éthiopien d'exception au profil fruité et floral prononcé, issu d'une petite structure dirigée par une productrice engagée dans des pratiques éthiques et sociales.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20240926-Muda-Packshot-Filtre-Chelbesa.jpg?v=1727447961",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés Muda",
-          "url": "https://cafesmuda.fr/products/chelbesa-lave",
-          "price": "14,90 €",
-          "note": ""
-        }
-      ]
-    },
     {
       "id": "kaffa-21784",
       "roasterId": "kaffa",
