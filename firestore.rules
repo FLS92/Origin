@@ -12,6 +12,12 @@ service cloud.firestore {
     match /settings/{uid} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
     }
+    // Coffees added by hand from the personal PWA's "Ajouter un café" form
+    // (docs/index.html's addMyCoffee) — merged into the app's catalog
+    // alongside my-coffees.json at runtime, never touched by any scraper.
+    match /myCoffees/{uid}/coffees/{coffeeId} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+    }
 
     // Community ratings — publicly readable (everyone's "Communauté" tab
     // aggregates across all of these), but each entry is only writable by

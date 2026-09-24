@@ -86,6 +86,11 @@
   body.personal-mode nav.tabs.nav-open{ display:flex; width:100%; margin-top:10px; }
   body.personal-mode #nav-toggle{ display:flex; }
 
+  /* Personal-mode-only: manual "add a coffee" entry point, since this app
+     has no scraper/API access from the phone -- see openAddCoffeeModal(). */
+  #add-coffee-btn{ display:none; width:100%; justify-content:center; margin-bottom:16px; }
+  body.personal-mode #add-coffee-btn{ display:flex; }
+
   /* margin-left:auto pushes it to the far right of the pill with a clear
      gap from the other tabs (rather than sitting flush next to Communauté
      like just one more tab) -- and since auto margins resolve per flex
@@ -630,6 +635,10 @@
   </div>
 
   <div id="view-explore" style="display:none;">
+    <button id="add-coffee-btn" class="filters-toggle">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+      <span>Ajouter un café</span>
+    </button>
     <div class="search-row">
       <div class="search">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -901,6 +910,10 @@
   <div class="detail" id="auth-content" style="max-width:400px;"></div>
 </div>
 
+<div class="overlay" id="add-coffee-overlay">
+  <div class="detail" id="add-coffee-content" style="max-width:520px;"></div>
+</div>
+
 <div class="overlay" id="onboarding-overlay">
   <div class="detail onboarding-card">
     <button class="close" id="onboarding-close">✕</button>
@@ -955,12 +968,31 @@ const PERSONAL_MODE = new URLSearchParams(location.search).get('source') === 'pw
 const COFFEE_DATA_PATH = PERSONAL_MODE ? 'my-coffees.json' : 'coffees-data.json';
 document.body.classList.toggle('personal-mode', PERSONAL_MODE);
 
+// STATIC_DATA (my-coffees.json / coffees-data.json) and MY_FIRESTORE_COFFEES
+// (personal-mode only, coffees added by hand from the phone via the "+
+// Ajouter un café" form -- see openAddCoffeeModal()) load independently and
+// on their own schedule (one's a fetch, the other waits on Firebase auth).
+// rebuildCoffeeState() is the single place that combines whichever of the
+// two has loaded so far into ROASTERS/COFFEES, so neither load can clobber
+// the other regardless of which finishes first.
+let STATIC_DATA = null;
+let MY_FIRESTORE_COFFEES = [];
+
 async function loadCoffeeData(){
   const res = await fetch(COFFEE_DATA_PATH, {cache:'no-store'});
   if(!res.ok) throw new Error(COFFEE_DATA_PATH+' introuvable ('+res.status+')');
-  const data = await res.json();
-  ROASTERS = data.roasters;
-  COFFEES = data.coffees;
+  STATIC_DATA = await res.json();
+  rebuildCoffeeState();
+}
+
+function rebuildCoffeeState(){
+  if(!STATIC_DATA) return;
+  ROASTERS = {...STATIC_DATA.roasters};
+  COFFEES = [...STATIC_DATA.coffees];
+  for(const c of MY_FIRESTORE_COFFEES){
+    if(!ROASTERS[c.roasterId]) ROASTERS[c.roasterId] = c.__roaster;
+    COFFEES.push(c);
+  }
 }
 
 function updateDataFooter(){
@@ -1066,6 +1098,7 @@ function processCategory(process){
 
 function cheapestLabel(c){
   const prices = c.retailers.map(r=>r.price);
+  if(prices.length===0) return 'Prix indisponible';
   if(prices.length===1) return prices[0];
   return prices[0] + ' – ' + prices[prices.length-1];
 }
@@ -1176,6 +1209,166 @@ async function toggleWishlist(id){
     else{ wishlist.add(id); await ref.set({ addedAt: firebase.firestore.FieldValue.serverTimestamp() }); }
   }catch(e){ console.error(e); }
 }
+
+// Personal-mode "Ajouter un café" form (see openAddCoffeeModal below): a
+// free, no-terminal, no-scraping way to keep growing my-coffees.json's
+// content without ever running add_coffee.py again. Entries are typed in
+// by hand from the phone and stored per-account in Firestore (myCoffees/
+// {uid}/coffees/{id} -- see firestore.rules), then merged into COFFEES/
+// ROASTERS alongside the static my-coffees.json data by rebuildCoffeeState().
+function slugify(s){
+  return (s||'').toString().normalize('NFD').replace(/[̀-ͯ]/g,'')
+    .toLowerCase().trim().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'') || 'cafe';
+}
+
+function firestoreDocToCoffee(id, d){
+  const hasRetailer = d.productUrl || d.price;
+  return {
+    id,
+    roasterId: d.roasterId,
+    __roaster: { name: d.roasterName, city: d.roasterCity||null, url: d.roasterUrl||null, domain: null, logoUrl: d.roasterLogoUrl||null },
+    __fromMyCoffees: true,
+    name: d.name,
+    origin: d.origin || null,
+    originCountry: d.originCountry || null,
+    process: d.process || null,
+    usage: d.usage || null,
+    variety: null, producer: null, score: null, acidity: null, body: null,
+    roast: d.roast || null,
+    flavors: d.flavors || null,
+    desc: d.desc || null,
+    imageUrl: d.imageUrl || null,
+    available: true,
+    retailers: hasRetailer ? [{ site: d.roasterName, url: d.productUrl || d.roasterUrl || '#', price: d.price || 'Prix non renseigné', note:'' }] : []
+  };
+}
+
+async function loadMyCoffees(){
+  if(!PERSONAL_MODE || !currentUser){ MY_FIRESTORE_COFFEES = []; return; }
+  try{
+    const snap = await db.collection('myCoffees').doc(currentUser.uid).collection('coffees').get();
+    MY_FIRESTORE_COFFEES = snap.docs.map(doc=> firestoreDocToCoffee(doc.id, doc.data()));
+  }catch(e){ console.error(e); }
+  rebuildCoffeeState();
+}
+
+async function addMyCoffee(fields){
+  if(!currentUser) return null;
+  let roasterId = null;
+  const existing = Object.entries(ROASTERS).find(([,r])=> slugify(r.name)===slugify(fields.roasterName));
+  roasterId = existing ? existing[0] : slugify(fields.roasterName);
+  const roaster = existing ? existing[1] : {};
+  const coffeeId = `${roasterId}-${slugify(fields.name)}`;
+  const doc = {
+    roasterId,
+    roasterName: fields.roasterName,
+    roasterCity: fields.roasterCity || roaster.city || null,
+    roasterUrl: fields.roasterUrl || roaster.url || null,
+    roasterLogoUrl: roaster.logoUrl || null,
+    name: fields.name,
+    origin: fields.origin || null,
+    originCountry: fields.originCountry || null,
+    process: fields.process || null,
+    usage: fields.usage || null,
+    roast: fields.roast || null,
+    flavors: fields.flavors || null,
+    desc: fields.desc || null,
+    price: fields.price || null,
+    productUrl: fields.productUrl || null,
+    imageUrl: fields.imageUrl || null,
+    createdAt: firebase.firestore.FieldValue.serverTimestamp()
+  };
+  await db.collection('myCoffees').doc(currentUser.uid).collection('coffees').doc(coffeeId).set(doc, {merge:true});
+  MY_FIRESTORE_COFFEES = MY_FIRESTORE_COFFEES.filter(c=>c.id!==coffeeId).concat([firestoreDocToCoffee(coffeeId, doc)]);
+  rebuildCoffeeState();
+  return coffeeId;
+}
+
+async function deleteMyCoffee(id){
+  if(!currentUser) return;
+  try{ await db.collection('myCoffees').doc(currentUser.uid).collection('coffees').doc(id).delete(); }catch(e){ console.error(e); }
+  MY_FIRESTORE_COFFEES = MY_FIRESTORE_COFFEES.filter(c=>c.id!==id);
+  rebuildCoffeeState();
+}
+
+function openAddCoffeeModal(){
+  if(!requireAuth('Connecte-toi pour ajouter un café à ta liste.')) return;
+  renderAddCoffeeForm();
+  document.getElementById('add-coffee-overlay').classList.add('open');
+}
+function closeAddCoffeeModal(){ document.getElementById('add-coffee-overlay').classList.remove('open'); }
+document.getElementById('add-coffee-btn').addEventListener('click', openAddCoffeeModal);
+document.getElementById('add-coffee-overlay').addEventListener('click', (e)=>{ if(e.target.id==='add-coffee-overlay') closeAddCoffeeModal(); });
+
+function renderAddCoffeeForm(){
+  const content = document.getElementById('add-coffee-content');
+  content.innerHTML = `
+    <button class="close" id="add-coffee-close">✕</button>
+    <h2 style="margin-top:0;">Ajouter un café</h2>
+    <p style="color:var(--muted); font-size:13px; margin-top:-8px;">Recopie les infos depuis la page du torréfacteur — pas besoin de coller un lien, rien n'est récupéré automatiquement.</p>
+    <div class="auth-error" id="add-coffee-error"></div>
+    <form id="add-coffee-form">
+      <div class="field" style="margin-bottom:12px;"><label>Nom du café *</label><input type="text" id="ac-name" required></div>
+      <div class="field" style="margin-bottom:12px;"><label>Torréfacteur *</label><input type="text" id="ac-roaster" required></div>
+      <div class="field" style="margin-bottom:12px;"><label>Ville du torréfacteur</label><input type="text" id="ac-roaster-city"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Site du torréfacteur</label><input type="text" id="ac-roaster-url" placeholder="https://…"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Origine (pays)</label><input type="text" id="ac-country" placeholder="ex. Éthiopie"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Origine (détail)</label><input type="text" id="ac-origin" placeholder="ex. Yirgacheffe, village de Chelbesa"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Process</label><input type="text" id="ac-process" placeholder="ex. Lavé, Naturel…"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Méthode</label>
+        <select id="ac-usage"><option value="">—</option><option>Filtre</option><option>Espresso</option><option>Omni</option></select>
+      </div>
+      <div class="field" style="margin-bottom:12px;"><label>Niveau de torréfaction</label>
+        <select id="ac-roast"><option value="">—</option><option>Légère</option><option>Moyenne</option><option>Foncée</option></select>
+      </div>
+      <div class="field" style="margin-bottom:12px;"><label>Notes aromatiques</label><input type="text" id="ac-flavors" placeholder="ex. Pêche, Pamplemousse, Jasmin"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Description / notes perso</label><textarea id="ac-desc"></textarea></div>
+      <div class="field" style="margin-bottom:12px;"><label>Prix</label><input type="text" id="ac-price" placeholder="ex. 14,90 €"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Lien vers la fiche produit</label><input type="text" id="ac-product-url" placeholder="https://…"></div>
+      <div class="field" style="margin-bottom:16px;"><label>Photo (lien image)</label><input type="text" id="ac-image-url" placeholder="https://…"></div>
+      <button type="submit" class="primary" style="width:100%;" id="add-coffee-submit">Ajouter</button>
+    </form>
+  `;
+  document.getElementById('add-coffee-close').onclick = closeAddCoffeeModal;
+  const errEl = document.getElementById('add-coffee-error');
+  document.getElementById('add-coffee-form').addEventListener('submit', async (e)=>{
+    e.preventDefault();
+    const name = document.getElementById('ac-name').value.trim();
+    const roasterName = document.getElementById('ac-roaster').value.trim();
+    if(!name || !roasterName){ errEl.textContent = 'Le nom du café et le torréfacteur sont obligatoires.'; errEl.classList.add('show'); return; }
+    const btn = document.getElementById('add-coffee-submit');
+    btn.disabled = true;
+    try{
+      const id = await addMyCoffee({
+        name, roasterName,
+        roasterCity: document.getElementById('ac-roaster-city').value.trim(),
+        roasterUrl: document.getElementById('ac-roaster-url').value.trim(),
+        originCountry: document.getElementById('ac-country').value.trim(),
+        origin: document.getElementById('ac-origin').value.trim(),
+        process: document.getElementById('ac-process').value.trim(),
+        usage: document.getElementById('ac-usage').value,
+        roast: document.getElementById('ac-roast').value,
+        flavors: document.getElementById('ac-flavors').value.trim(),
+        desc: document.getElementById('ac-desc').value.trim(),
+        price: document.getElementById('ac-price').value.trim(),
+        productUrl: document.getElementById('ac-product-url').value.trim(),
+        imageUrl: document.getElementById('ac-image-url').value.trim()
+      });
+      closeAddCoffeeModal();
+      renderFilterChips();
+      renderGrid(document.getElementById('search-input').value);
+      updateDataFooter();
+      renderHome();
+      if(id) openDetail(id);
+    }catch(err){
+      console.error(err);
+      errEl.textContent = "Une erreur est survenue, réessaie.";
+      errEl.classList.add('show');
+      btn.disabled = false;
+    }
+  });
+}
+
 async function syncShared(id, entry){
   if(!currentUser) return;
   const uid = currentUser.uid;
@@ -1637,8 +1830,14 @@ auth.onAuthStateChanged(async (user)=>{
   }
   await loadLibrary();
   await loadWishlist();
+  await loadMyCoffees();
   if(document.getElementById('view-home').style.display !== 'none'){
     renderHome();
+  }
+  if(document.getElementById('view-explore') && document.getElementById('view-explore').style.display !== 'none'){
+    renderFilterChips();
+    renderGrid(document.getElementById('search-input').value);
+    updateDataFooter();
   }
   if(document.getElementById('view-library').style.display !== 'none'){
     renderLibrary(document.getElementById('library-search-input') ? document.getElementById('library-search-input').value : '');
@@ -1901,8 +2100,20 @@ async function openDetail(id){
 
     <button class="primary" id="add-lib-btn" ${inLib?'disabled':''} style="width:100%;">${inLib?'Déjà dans ma bibliothèque':'Ajouter à ma bibliothèque'}</button>
     <button class="wishlist-btn ${wishlist.has(id)?'active':''}" id="wishlist-btn">${wishlist.has(id)?'★ Dans ma liste à essayer':'☆ Ajouter à ma liste à essayer'}</button>
+    ${c.__fromMyCoffees ? `<button class="danger-link" id="delete-my-coffee-btn" style="width:100%; margin-top:14px; background:none; border:none; cursor:pointer;">Supprimer ce café de ma liste</button>` : ''}
   `;
   document.getElementById('close-detail').onclick = closeDetail;
+  if(c.__fromMyCoffees){
+    document.getElementById('delete-my-coffee-btn').addEventListener('click', async ()=>{
+      if(!confirm(`Supprimer « ${c.name} » de ta liste ?`)) return;
+      await deleteMyCoffee(id);
+      closeDetail();
+      renderFilterChips();
+      renderGrid(document.getElementById('search-input').value);
+      updateDataFooter();
+      renderHome();
+    });
+  }
   wireShareRow(id);
   const addBtn = document.getElementById('add-lib-btn');
   addBtn.onclick = async ()=>{
