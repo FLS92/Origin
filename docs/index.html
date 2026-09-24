@@ -1314,7 +1314,7 @@ function openAddCoffeeModal(existingCoffee){
   lockBodyScroll();
 }
 function closeAddCoffeeModal(){ document.getElementById('add-coffee-overlay').classList.remove('open'); unlockBodyScroll(); }
-document.getElementById('add-coffee-btn').addEventListener('click', openAddCoffeeModal);
+document.getElementById('add-coffee-btn').addEventListener('click', ()=> openAddCoffeeModal());
 document.getElementById('add-coffee-overlay').addEventListener('click', (e)=>{ if(e.target.id==='add-coffee-overlay') closeAddCoffeeModal(); });
 
 // Curated list of coffee-producing countries (French names), extended with
