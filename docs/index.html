@@ -190,6 +190,10 @@
   .empty h3{ color:var(--cream); margin-bottom:8px; }
 
   .overlay{ position:fixed; inset:0; background:rgba(15,10,7,.72); display:none; align-items:flex-start; justify-content:center; padding:40px 16px; overflow-y:auto; z-index:200; }
+  /* Any overlay open (detail sheet, auth, add-coffee form, onboarding)
+     locks the page behind it so dragging inside the overlay's own scroll
+     area doesn't also scroll the page underneath -- see lockBodyScroll(). */
+  body.scroll-locked{ overflow:hidden; }
   .overlay.open{ display:flex; }
   .detail{ background:var(--panel); border:1px solid var(--line); border-radius:18px; max-width:640px; width:100%; padding:32px; position:relative; }
   .onboarding-card{ max-width:460px; animation:onboarding-pop .25s ease-out; }
@@ -957,6 +961,13 @@ let currentUser = null;
 const NA = 'Indisponible';
 function na(v){ return (v===NA || v===undefined || v===null || v===''); }
 
+// Counter (not a bool) so a modal opened from inside another one -- e.g. the
+// auth modal opened from the add-coffee form's requireAuth check -- doesn't
+// unlock the page the moment the inner one closes while the outer is still up.
+let openOverlayCount = 0;
+function lockBodyScroll(){ openOverlayCount++; document.body.classList.add('scroll-locked'); }
+function unlockBodyScroll(){ openOverlayCount = Math.max(0, openOverlayCount-1); if(openOverlayCount===0) document.body.classList.remove('scroll-locked'); }
+
 // Chargées au démarrage depuis coffees-data.json (généré par
 // scripts/build_app_data.py à partir des scrapers) — voir loadCoffeeData().
 // L'app installée en PWA (manifest.json's start_url) charge à la place
@@ -1233,7 +1244,7 @@ function firestoreDocToCoffee(id, d){
     originCountry: d.originCountry || null,
     process: d.process || null,
     usage: d.usage || null,
-    variety: null, producer: null, score: null, acidity: null, body: null,
+    variety: d.variety || null, producer: d.producer || null, score: d.score || null, acidity: null, body: null,
     roast: d.roast || null,
     flavors: d.flavors || null,
     desc: d.desc || null,
@@ -1252,13 +1263,15 @@ async function loadMyCoffees(){
   rebuildCoffeeState();
 }
 
-async function addMyCoffee(fields){
+async function addMyCoffee(fields, forceId){
   if(!currentUser) return null;
-  let roasterId = null;
   const existing = Object.entries(ROASTERS).find(([,r])=> slugify(r.name)===slugify(fields.roasterName));
-  roasterId = existing ? existing[0] : slugify(fields.roasterName);
+  const roasterId = existing ? existing[0] : slugify(fields.roasterName);
   const roaster = existing ? existing[1] : {};
-  const coffeeId = `${roasterId}-${slugify(fields.name)}`;
+  // forceId keeps editing an existing entry's Firestore doc even if the
+  // name/roaster (its usual id source) changed -- otherwise a rename would
+  // silently create a second entry instead of updating the first.
+  const coffeeId = forceId || `${roasterId}-${slugify(fields.name)}`;
   const doc = {
     roasterId,
     roasterName: fields.roasterName,
@@ -1272,6 +1285,9 @@ async function addMyCoffee(fields){
     usage: fields.usage || null,
     roast: fields.roast || null,
     flavors: fields.flavors || null,
+    variety: fields.variety || null,
+    producer: fields.producer || null,
+    score: fields.score ? parseFloat(fields.score) : null,
     desc: fields.desc || null,
     price: fields.price || null,
     productUrl: fields.productUrl || null,
@@ -1291,42 +1307,76 @@ async function deleteMyCoffee(id){
   rebuildCoffeeState();
 }
 
-function openAddCoffeeModal(){
+function openAddCoffeeModal(existingCoffee){
   if(!requireAuth('Connecte-toi pour ajouter un café à ta liste.')) return;
-  renderAddCoffeeForm();
+  renderAddCoffeeForm(existingCoffee);
   document.getElementById('add-coffee-overlay').classList.add('open');
+  lockBodyScroll();
 }
-function closeAddCoffeeModal(){ document.getElementById('add-coffee-overlay').classList.remove('open'); }
+function closeAddCoffeeModal(){ document.getElementById('add-coffee-overlay').classList.remove('open'); unlockBodyScroll(); }
 document.getElementById('add-coffee-btn').addEventListener('click', openAddCoffeeModal);
 document.getElementById('add-coffee-overlay').addEventListener('click', (e)=>{ if(e.target.id==='add-coffee-overlay') closeAddCoffeeModal(); });
 
-function renderAddCoffeeForm(){
+// Curated list of coffee-producing countries (French names), extended with
+// any originCountry value already present in the data (translated entries,
+// less common origins) so the datalist suggestion covers what's actually
+// in use, not just the curated baseline.
+const COFFEE_ORIGIN_COUNTRIES = [
+  'Éthiopie','Kenya','Colombie','Brésil','Guatemala','Costa Rica','Honduras','Salvador','Nicaragua',
+  'Panama','Mexique','Pérou','Bolivie','Équateur','Rwanda','Burundi','Tanzanie','Ouganda',
+  'République démocratique du Congo','Yémen','Inde','Indonésie','Vietnam','Chine','Papouasie-Nouvelle-Guinée',
+  'Timor oriental','Jamaïque','Cuba','République dominicaine','Haïti','Malawi','Zambie','Zimbabwe'
+];
+function countryOptionsHTML(){
+  const fromData = COFFEES.map(c=>c.originCountry).filter(v=> v && v!==NA);
+  const all = [...new Set([...COFFEE_ORIGIN_COUNTRIES, ...fromData])].sort((a,b)=> a.localeCompare(b));
+  return all.map(c=> `<option value="${c}">`).join('');
+}
+
+function renderAddCoffeeForm(existingCoffee){
   const content = document.getElementById('add-coffee-content');
+  const c = existingCoffee || null;
+  const r = c ? ROASTERS[c.roasterId] : null;
+  const rt = c && c.retailers[0] ? c.retailers[0] : null;
+  const v = (x)=> na(x) ? '' : x;
   content.innerHTML = `
     <button class="close" id="add-coffee-close">✕</button>
-    <h2 style="margin-top:0;">Ajouter un café</h2>
+    <h2 style="margin-top:0;">${c?'Modifier ce café':'Ajouter un café'}</h2>
     <p style="color:var(--muted); font-size:13px; margin-top:-8px;">Recopie les infos depuis la page du torréfacteur — pas besoin de coller un lien, rien n'est récupéré automatiquement.</p>
     <div class="auth-error" id="add-coffee-error"></div>
     <form id="add-coffee-form">
-      <div class="field" style="margin-bottom:12px;"><label>Nom du café *</label><input type="text" id="ac-name" required></div>
-      <div class="field" style="margin-bottom:12px;"><label>Torréfacteur *</label><input type="text" id="ac-roaster" required></div>
-      <div class="field" style="margin-bottom:12px;"><label>Ville du torréfacteur</label><input type="text" id="ac-roaster-city"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Site du torréfacteur</label><input type="text" id="ac-roaster-url" placeholder="https://…"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Origine (pays)</label><input type="text" id="ac-country" placeholder="ex. Éthiopie"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Origine (détail)</label><input type="text" id="ac-origin" placeholder="ex. Yirgacheffe, village de Chelbesa"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Process</label><input type="text" id="ac-process" placeholder="ex. Lavé, Naturel…"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Nom du café *</label><input type="text" id="ac-name" required value="${v(c&&c.name)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Torréfacteur *</label><input type="text" id="ac-roaster" required value="${v(r&&r.name)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Ville du torréfacteur</label><input type="text" id="ac-roaster-city" value="${v(r&&r.city)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Site du torréfacteur</label><input type="text" id="ac-roaster-url" placeholder="https://…" value="${v(r&&r.url)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Origine (pays)</label><input type="text" id="ac-country" list="ac-country-list" placeholder="ex. Éthiopie" value="${v(c&&c.originCountry)}"><datalist id="ac-country-list">${countryOptionsHTML()}</datalist></div>
+      <div class="field" style="margin-bottom:12px;"><label>Origine (détail)</label><input type="text" id="ac-origin" placeholder="ex. Yirgacheffe, village de Chelbesa" value="${v(c&&c.origin)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Process</label><input type="text" id="ac-process" placeholder="ex. Lavé, Naturel…" value="${v(c&&c.process)}"></div>
       <div class="field" style="margin-bottom:12px;"><label>Méthode</label>
-        <select id="ac-usage"><option value="">—</option><option>Filtre</option><option>Espresso</option><option>Omni</option></select>
+        <select id="ac-usage">
+          <option value="" ${!c||na(c.usage)?'selected':''}>—</option>
+          <option ${c&&c.usage==='Filtre'?'selected':''}>Filtre</option>
+          <option ${c&&c.usage==='Espresso'?'selected':''}>Espresso</option>
+          <option ${c&&c.usage==='Omni'?'selected':''}>Omni</option>
+        </select>
       </div>
       <div class="field" style="margin-bottom:12px;"><label>Niveau de torréfaction</label>
-        <select id="ac-roast"><option value="">—</option><option>Légère</option><option>Moyenne</option><option>Foncée</option></select>
+        <select id="ac-roast">
+          <option value="" ${!c||na(c.roast)?'selected':''}>—</option>
+          <option ${c&&c.roast==='Légère'?'selected':''}>Légère</option>
+          <option ${c&&c.roast==='Moyenne'?'selected':''}>Moyenne</option>
+          <option ${c&&c.roast==='Foncée'?'selected':''}>Foncée</option>
+        </select>
       </div>
-      <div class="field" style="margin-bottom:12px;"><label>Notes aromatiques</label><input type="text" id="ac-flavors" placeholder="ex. Pêche, Pamplemousse, Jasmin"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Description / notes perso</label><textarea id="ac-desc"></textarea></div>
-      <div class="field" style="margin-bottom:12px;"><label>Prix</label><input type="text" id="ac-price" placeholder="ex. 14,90 €"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Lien vers la fiche produit</label><input type="text" id="ac-product-url" placeholder="https://…"></div>
-      <div class="field" style="margin-bottom:16px;"><label>Photo (lien image)</label><input type="text" id="ac-image-url" placeholder="https://…"></div>
-      <button type="submit" class="primary" style="width:100%;" id="add-coffee-submit">Ajouter</button>
+      <div class="field" style="margin-bottom:12px;"><label>Variété</label><input type="text" id="ac-variety" placeholder="ex. Heirloom, Bourbon, Typica…" value="${v(c&&c.variety)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Producteur</label><input type="text" id="ac-producer" placeholder="ex. Wubit" value="${v(c&&c.producer)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Score SCA</label><input type="number" step="0.1" min="0" max="100" id="ac-score" placeholder="ex. 86.5" value="${v(c&&c.score)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Notes aromatiques</label><input type="text" id="ac-flavors" placeholder="ex. Pêche, Pamplemousse, Jasmin" value="${v(c&&c.flavors)}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Description / notes perso</label><textarea id="ac-desc">${v(c&&c.desc)}</textarea></div>
+      <div class="field" style="margin-bottom:12px;"><label>Prix</label><input type="text" id="ac-price" placeholder="ex. 14,90 €" value="${rt&&rt.price!=='Prix non renseigné'?v(rt.price):''}"></div>
+      <div class="field" style="margin-bottom:12px;"><label>Lien vers la fiche produit</label><input type="text" id="ac-product-url" placeholder="https://…" value="${rt&&rt.url!=='#'?v(rt&&rt.url):''}"></div>
+      <div class="field" style="margin-bottom:16px;"><label>Photo (lien image)</label><input type="text" id="ac-image-url" placeholder="https://…" value="${v(c&&c.imageUrl)}"></div>
+      <button type="submit" class="primary" style="width:100%;" id="add-coffee-submit">${c?'Enregistrer les modifications':'Ajouter'}</button>
     </form>
   `;
   document.getElementById('add-coffee-close').onclick = closeAddCoffeeModal;
@@ -1348,12 +1398,15 @@ function renderAddCoffeeForm(){
         process: document.getElementById('ac-process').value.trim(),
         usage: document.getElementById('ac-usage').value,
         roast: document.getElementById('ac-roast').value,
+        variety: document.getElementById('ac-variety').value.trim(),
+        producer: document.getElementById('ac-producer').value.trim(),
+        score: document.getElementById('ac-score').value.trim(),
         flavors: document.getElementById('ac-flavors').value.trim(),
         desc: document.getElementById('ac-desc').value.trim(),
         price: document.getElementById('ac-price').value.trim(),
         productUrl: document.getElementById('ac-product-url').value.trim(),
         imageUrl: document.getElementById('ac-image-url').value.trim()
-      });
+      }, c ? c.id : null);
       closeAddCoffeeModal();
       renderFilterChips();
       renderGrid(document.getElementById('search-input').value);
@@ -1743,8 +1796,9 @@ document.getElementById('settings-delete-confirm-yes').addEventListener('click',
 function openAuthModal(mode, promptMessage){
   renderAuthModal(mode||'login', promptMessage);
   document.getElementById('auth-overlay').classList.add('open');
+  lockBodyScroll();
 }
-function closeAuthModal(){ document.getElementById('auth-overlay').classList.remove('open'); }
+function closeAuthModal(){ document.getElementById('auth-overlay').classList.remove('open'); unlockBodyScroll(); }
 
 // Shown once per account, right after auth.onAuthStateChanged confirms
 // settings has loaded and found no onboardingSeen flag yet -- persisted
@@ -1752,9 +1806,11 @@ function closeAuthModal(){ document.getElementById('auth-overlay').classList.rem
 // never shows it again.
 function showOnboarding(){
   document.getElementById('onboarding-overlay').classList.add('open');
+  lockBodyScroll();
 }
 function dismissOnboarding(){
   document.getElementById('onboarding-overlay').classList.remove('open');
+  unlockBodyScroll();
   if(!currentUser || settings.onboardingSeen) return;
   settings.onboardingSeen = true;
   db.collection('settings').doc(currentUser.uid).set(settings).catch(e=> console.error(e));
@@ -2100,10 +2156,17 @@ async function openDetail(id){
 
     <button class="primary" id="add-lib-btn" ${inLib?'disabled':''} style="width:100%;">${inLib?'Déjà dans ma bibliothèque':'Ajouter à ma bibliothèque'}</button>
     <button class="wishlist-btn ${wishlist.has(id)?'active':''}" id="wishlist-btn">${wishlist.has(id)?'★ Dans ma liste à essayer':'☆ Ajouter à ma liste à essayer'}</button>
-    ${c.__fromMyCoffees ? `<button class="danger-link" id="delete-my-coffee-btn" style="width:100%; margin-top:14px; background:none; border:none; cursor:pointer;">Supprimer ce café de ma liste</button>` : ''}
+    ${c.__fromMyCoffees ? `
+      <button class="btn-small ghost" id="edit-my-coffee-btn" style="width:100%; margin-top:14px;">Modifier cette fiche</button>
+      <button class="danger-link" id="delete-my-coffee-btn" style="width:100%; margin-top:10px; background:none; border:none; cursor:pointer;">Supprimer ce café de ma liste</button>
+    ` : ''}
   `;
   document.getElementById('close-detail').onclick = closeDetail;
   if(c.__fromMyCoffees){
+    document.getElementById('edit-my-coffee-btn').addEventListener('click', ()=>{
+      closeDetail();
+      openAddCoffeeModal(c);
+    });
     document.getElementById('delete-my-coffee-btn').addEventListener('click', async ()=>{
       if(!confirm(`Supprimer « ${c.name} » de ta liste ?`)) return;
       await deleteMyCoffee(id);
@@ -2135,6 +2198,7 @@ async function openDetail(id){
     wishlistBtn.classList.toggle('active', wishlist.has(id));
   };
   document.getElementById('overlay').classList.add('open');
+  lockBodyScroll();
 
   const community = await fetchCommunityData(id);
   const avgEl = document.getElementById('avg-rating');
@@ -2212,7 +2276,7 @@ function wireShareRow(id){
   });
 }
 
-function closeDetail(){ document.getElementById('overlay').classList.remove('open'); resetBrewTimer(); }
+function closeDetail(){ document.getElementById('overlay').classList.remove('open'); unlockBodyScroll(); resetBrewTimer(); }
 document.getElementById('overlay').addEventListener('click', (e)=>{ if(e.target.id === 'overlay') closeDetail(); });
 
 let brewTimer = { id:null, running:false, startTs:0, elapsedMs:0, intervalId:null };
@@ -2622,6 +2686,7 @@ function openLibraryDetail(id){
   document.getElementById('remove-from-lib').addEventListener('click', async ()=>{ await removeEntry(id); closeDetail(); });
   wireBrewHistoryActions(id);
   document.getElementById('overlay').classList.add('open');
+  lockBodyScroll();
 }
 
 function renderBrewHistoryHTML(e, id, editIndex){
