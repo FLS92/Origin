@@ -72,6 +72,20 @@
   nav.tabs button.active{ background:var(--gold); color:#0d1b2e; }
   nav.tabs button:not(.active):hover{ color:var(--cream); }
 
+  /* Personal-mode-only (the installed PWA): the tab bar is replaced by a
+     single toggle button, since on a phone the always-open bar was taking
+     up too much of the screen. nav.tabs itself is unchanged -- just hidden
+     until opened -- so the same markup still works on the public site. */
+  #nav-toggle{
+    display:none; align-items:center; justify-content:center; width:40px; height:40px;
+    border-radius:10px; border:1px solid var(--line); background:var(--panel); color:var(--cream);
+    cursor:pointer; flex-shrink:0;
+  }
+  #nav-toggle:hover{ border-color:var(--gold); }
+  body.personal-mode nav.tabs{ display:none; }
+  body.personal-mode nav.tabs.nav-open{ display:flex; width:100%; margin-top:10px; }
+  body.personal-mode #nav-toggle{ display:flex; }
+
   /* margin-left:auto pushes it to the far right of the pill with a clear
      gap from the other tabs (rather than sitting flush next to Communauté
      like just one more tab) -- and since auto margins resolve per flex
@@ -528,6 +542,9 @@
       <span class="mark">Ori<span>gi</span>n</span>
       <span class="tag">votre bibliothèque de cafés</span>
     </div>
+    <button id="nav-toggle" aria-label="Menu" title="Menu">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
     <nav class="tabs">
       <button id="tab-home" class="active">Accueil</button>
       <button id="tab-about">Qui sommes-nous</button>
@@ -936,6 +953,7 @@ let ROASTERS = {};
 let COFFEES = [];
 const PERSONAL_MODE = new URLSearchParams(location.search).get('source') === 'pwa';
 const COFFEE_DATA_PATH = PERSONAL_MODE ? 'my-coffees.json' : 'coffees-data.json';
+document.body.classList.toggle('personal-mode', PERSONAL_MODE);
 
 async function loadCoffeeData(){
   const res = await fetch(COFFEE_DATA_PATH, {cache:'no-store'});
@@ -1264,6 +1282,9 @@ function updateUserStatusUI(){
     loginBtn.style.display = '';
   }
 }
+document.getElementById('nav-toggle').addEventListener('click', ()=>{
+  document.querySelector('nav.tabs').classList.toggle('nav-open');
+});
 document.getElementById('btn-header-login').addEventListener('click', ()=> openAuthModal('login'));
 document.getElementById('tab-account').addEventListener('click', (e)=>{
   e.stopPropagation();
@@ -2559,6 +2580,7 @@ document.getElementById('reset-filters').addEventListener('click', ()=>{
 });
 document.getElementById('library-search-input').addEventListener('input', (e)=> renderLibrary(e.target.value));
 function showView(view){
+  if(PERSONAL_MODE) document.querySelector('nav.tabs').classList.remove('nav-open');
   const tabs = {home:'tab-home', explore:'tab-explore', library:'tab-library', community:'tab-community', about:'tab-about'};
   // 'settings' and 'faq' have no button of their own in nav.tabs (reached
   // via the account menu instead), so their visibility is handled
