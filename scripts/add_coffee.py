@@ -341,7 +341,15 @@ def add_one(url, roasters_by_domain, my_coffees, s):
 
     existing_ids = [c["id"] for c in my_coffees["coffees"]]
     if product["id"] in existing_ids:
-        my_coffees["coffees"][existing_ids.index(product["id"])] = product
+        # Merge rather than replace: re-running without ANTHROPIC_API_KEY
+        # (see load_env_file) still refreshes price/stock and whatever the
+        # free platform-native + label extraction finds, but must not wipe
+        # out a field (desc, above all -- LLM-only, no free equivalent)
+        # that an earlier run with the key already filled in.
+        existing = my_coffees["coffees"][existing_ids.index(product["id"])]
+        for k, v in product.items():
+            if v not in (None, "", []) or k not in existing:
+                existing[k] = v
         print(f"  -> mis à jour : {product['name']}")
     else:
         my_coffees["coffees"].append(product)
