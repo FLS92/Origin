@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-21T21:09:24Z",
-  "roasterCount": 1,
-  "coffeeCount": 1,
+  "generatedAt": "2026-09-24T15:38:33Z",
+  "roasterCount": 10,
+  "coffeeCount": 13,
   "roasters": {
     "cafes-muda": {
       "name": "Cafés Muda",
@@ -9,6 +9,69 @@
       "url": "https://cafesmuda.fr/",
       "domain": "cafesmuda.fr",
       "logoUrl": "https://cafesmuda.fr/cdn/shop/files/CafesMuda-Logo_140x.png?v=1643640229"
+    },
+    "kaffa": {
+      "name": "Kaffa",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "people-possession": {
+      "name": "People Possession",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "coffeein": {
+      "name": "Coffeein",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "concept-coffee-roasters": {
+      "name": "Concept Coffee Roasters",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "paloma-coffee-roastery": {
+      "name": "Paloma Coffee Roastery",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "tanat-coffee": {
+      "name": "Tanat Coffee",
+      "city": "Paris",
+      "url": "https://tanat.coffee/",
+      "domain": "tanat.coffee",
+      "logoUrl": "https://tanat.coffee/wp-content/uploads/2024/12/tanat-logo.svg"
+    },
+    "boo": {
+      "name": "Boo!",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "jedno-kafe": {
+      "name": "Jedno Kafe",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "oh-my-bean-roastery": {
+      "name": "Oh My Bean Roastery",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
     }
   },
   "coffees": [
@@ -35,6 +98,330 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/chelbesa-lave",
           "price": "14,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "kaffa-21784",
+      "roasterId": "kaffa",
+      "name": "Kaffa Colombia INDIAN SUMMER",
+      "origin": "Colombia · Tolima",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra, Colombia",
+      "producer": "San Agustín Coffee Producers",
+      "score": 87.5,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Jablečná šťáva, Caramel, Kumquat, Raspberries, Blackberries",
+      "desc": "Un café expérimental issu d'une coopérative de petits producteurs colombiens, élaboré selon une technique de fermentation lactique qui enrichit son profil en notes fruitées et sucrées. Idéal en préparation filtre.",
+      "imageUrl": "https://st.kofio.co/img_product/HdLDupTN8RMBVEt/21784/sq_600_MkDvagFqfxA7mduRy8wL_125899.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Kaffa",
+          "url": "https://www.kofio.co/coffee/colombia-indian-summer-kaffa/21784",
+          "price": "19,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "people-possession-21823",
+      "roasterId": "people-possession",
+      "name": "People Possession BLACKBERRY & MINT blend",
+      "origin": "Ethiopia, Colombia",
+      "originCountry": "Ethiopia, Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Castillo",
+      "producer": "People Possession",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Black tea, Mint, Blackberry, Rosemary",
+      "desc": "Mélange de cafés colombien et éthiopien offrant un profil fruité et herbacé avec des notes de mûre, romarin, thé noir et menthe, alliant une fermentation au miel avec levure vinicole à la méthode lavée pour créer un café frais et aromatique.",
+      "imageUrl": "https://st.kofio.co/img_product/iCwY5HIDGapnjdJ/21823/sq_600_YvwMes3m5E8AVfRIUl2W_124642.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "People Possession",
+          "url": "https://www.kofio.co/coffee/blackberry-mint-blend-people-possession/21823",
+          "price": "19,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "kaffa-21496",
+      "roasterId": "kaffa",
+      "name": "Kaffa Colombia QUEBRADITAS PEACH - 200 g",
+      "origin": "Colombia · Huila",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra",
+      "producer": "Edison Argote et Ángela Rojas",
+      "score": 88.3,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Broskev, Yoghurt, Ice tea, Nektarinka",
+      "desc": "Ce café colombien de la ferme Quebraditas combine une douceur de pêche et de nectarine avec une texture crémeuse délicate, obtenue grâce à des fermentations contrôlées et un traitement spécialisé alliant fermentation avec culture de pêche et choc thermique.",
+      "imageUrl": "https://st.kofio.co/img_product/HdLDupTN8RMBVEt/21496/sq_600_ME1sLSUJPFqBk73QcDrd_125899.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Kaffa",
+          "url": "https://www.kofio.co/coffee/colombia-quebraditas-peach-200-g-kaffa/21496",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "coffeein-18704",
+      "roasterId": "coffeein",
+      "name": "Coffeein Vietnam LANG BIANG LAVENDER - co-ferment with lavender",
+      "origin": "Vietnam · Langbiang",
+      "originCountry": "Vietnam",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra, Typical, Catimor, Bourbon",
+      "producer": "ZanYa processing station, Ko'Ho tribe families",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Milk chocolate, Cinnamon, Lavender, Demerara sugar, Cardamom",
+      "desc": "Un café vietnamien au profil non conventionnel marqué par des notes de cacao, sucre de canne et épices, enrichi par une co-fermentation à la lavande qui accentue son caractère sucré et aromatique plutôt que d'imprimer un goût floral direct.",
+      "imageUrl": "https://st.kofio.co/img_product/zV7W4XZcywLn3rG/18704/sq_600_tZo9VqY8ESk4Tgehyvb3_375.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Coffeein",
+          "url": "https://www.kofio.co/coffee/vietnam-lang-biang-lavender-co-ferment-with-lavender-coffeein/18704",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "concept-coffee-roasters-20423",
+      "roasterId": "concept-coffee-roasters",
+      "name": "Concept Coffee Roasters Colombia STRAWBERRY ICECREAM",
+      "origin": "Colombia · Huila",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Colombia, Catura",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": "Rond",
+      "roast": "Light to Medium Light",
+      "flavors": "Strawberries, Red fruits, Citrus, Whipped cream",
+      "desc": "Un café colombien cultivé en haute altitude dans la région de Huila, traité selon une méthode expérimentale impliquant une fermentation anaérobie avec fraises qui confère des notes distinctes de fraise, crème et chocolat au lait. Le profil sensoriel est riche et sucré, avec un corps rond et juteux.",
+      "imageUrl": "https://st.kofio.co/img_product/vuPScN1b6GtDrUY/20423/sq_600_EC1GW0IOchk8mJfSpeDt_100240.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Concept Coffee Roasters",
+          "url": "https://www.kofio.co/coffee/colombia-strawberry-icecream-concept-coffee-roasters/20423",
+          "price": "19,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "paloma-coffee-roastery-20992",
+      "roasterId": "paloma-coffee-roastery",
+      "name": "Paloma Coffee Roastery JUICY&JOY blend",
+      "origin": "Colombia · Colombia Lychee",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra, Castillo",
+      "producer": "Paloma Coffee Roastery",
+      "score": 88.0,
+      "acidity": "Vive",
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Lychee, Chewing gums, Elderflower, Coffee flower",
+      "desc": "Ce mélange colombien combine des lots lavés et fermentés pour offrir un profil fruité et floral complexe, caractérisé par une acidité vive, une grande clarté et des notes exotiques rappelant le litchi et les bonbons fruités.",
+      "imageUrl": "https://st.kofio.co/img_product/Tun1LDVEwWGNPSF/20992/sq_600_xYSyahRwQPoKuDMNIEAV_138071.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Paloma Coffee Roastery",
+          "url": "https://www.kofio.co/coffee/juicy-amp-joy-blend-paloma-coffee-roastery/20992",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "concept-coffee-roasters-20754",
+      "roasterId": "concept-coffee-roasters",
+      "name": "Concept Coffee Roasters Colombia JUNGLE JUICE #5",
+      "origin": "Colombia · San Augustín",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Colombia, Catura",
+      "producer": "Smallholder Farmers’ Cooperative",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Lime, Hops, Green apple, Kiwi, Cocoa beans, Lulo",
+      "desc": "Café colombien issu d'une fermentation innovante associant fruits tropicaux et cultures microbiennes, offrant un profil vif et sucré dominé par des notes de lulo, kiwi et citron vert, complété par des touches de pomme verte et de cacao.",
+      "imageUrl": "https://st.kofio.co/img_product/vuPScN1b6GtDrUY/20754/sq_600_8kpl3HcLzqyhXIDmA1JQ_100240.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Concept Coffee Roasters",
+          "url": "https://www.kofio.co/coffee/colombia-jungle-juice-5-concept-coffee-roasters/20754",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-20746",
+      "roasterId": "tanat-coffee",
+      "name": "Tanat Coffee Colombia MONTEBLANCO",
+      "origin": "Colombia · Pitalito",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra",
+      "producer": "Rodrigo Sanchez, Finca Monteblanco",
+      "score": null,
+      "acidity": "Moyenne",
+      "body": "Crémeux",
+      "roast": "Light to Medium Light",
+      "flavors": "Blueberries, Jahoda, Yoghurt",
+      "desc": "Un café colombien de fermentation spéciale infusant des notes intenses de fruits rouges et de yaourt dans une tasse crémeuse et sucrée, conçu pour la préparation par percolation.",
+      "imageUrl": "https://st.kofio.co/img_product/fk9e2DVGEqMJvhP/20746/sq_600_Qy6OEYejPXN3fwqxTHWl_111006.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://www.kofio.co/coffee/colombia-monteblanco-tanat-coffee/20746",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "boo-20153",
+      "roasterId": "boo",
+      "name": "Boo! Colombia CHERRY FIZZ - Spring Refreshing Edition - 200g",
+      "origin": "Colombia · Pitalito",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra, Castillo, Colombia, Sidra, Bourbon Aji",
+      "producer": "Small farmers CATA Lab",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Cerise, Citron pétillant, Melon, Framboise, Cacao",
+      "desc": "Café colombien édition limitée aux saveurs printanières, associant des notes de cerise et de fruits rouges avec une finale cacao sucrée. Issu de micro-lots de petits producteurs soigneusement sélectionnés et fermentés de manière avancée pour développer intensité et douceur.",
+      "imageUrl": "https://st.kofio.co/img_product/x9kGSl6nEzwu4H7/20153/sq_600_Y8fH0Uqv4Enj3NuV7mQo_130214.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Boo!",
+          "url": "https://www.kofio.co/coffee/colombia-cherry-fizz-spring-refreshing-edition-200g-boo/20153",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "jedno-kafe-20518",
+      "roasterId": "jedno-kafe",
+      "name": "Jedno Kafe Colombia RON MANDARINA",
+      "origin": "Colombia · Caldas",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Tabi",
+      "producer": "Diego Bedoya",
+      "score": null,
+      "acidity": "Agréable, agrumée",
+      "body": "Rond, plein",
+      "roast": "Light to Medium Light",
+      "flavors": "Dark Bitter chocolate, Mandarinka, Rum",
+      "desc": "Ce café colombien se distingue par un profil aromatique complexe alliant des notes d'agrumes, de rhum et de chocolat, obtenu grâce à une fermentation co-cultivée avec des mandarines et un vieillissement en fûts de rhum. La variété Tabí cultivée en altitude contribue à un équilibre entre clarté et rondeur, avec une acidité citronnée plaisante et des nuances boisées en finale.",
+      "imageUrl": "https://st.kofio.co/img_product/B13bu8ViHTSZOyq/20518/sq_600_WJ7cltZELTjN6kAqaP12_101424.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Jedno Kafe",
+          "url": "https://www.kofio.co/coffee/colombia-ron-mandarina-jedno-kafe/20518",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "concept-coffee-roasters-19043",
+      "roasterId": "concept-coffee-roasters",
+      "name": "Concept Coffee Roasters Colombia JUNGLE JUICE #4",
+      "origin": "Colombia · Huila",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Purple Caturra",
+      "producer": "Finca Monteblanco, Rodrigo Sanchez Valencia",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Cocoa nibs, Lychee, Mango, Passion fruit, Roses",
+      "desc": "Un café colombien issu d'une fermentation anaérobie innovante enrichie à la passion fruit, offrant un profil sucré et tropical dominé par des notes de fruits exotiques et des nuances délicates de cacao.",
+      "imageUrl": "https://st.kofio.co/img_product/vuPScN1b6GtDrUY/19043/sq_600_zFYMsiW5bxq1CBhjQyRc_100240.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Concept Coffee Roasters",
+          "url": "https://www.kofio.co/coffee/colombia-jungle-juice-4-concept-coffee-roasters/19043",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "oh-my-bean-roastery-19824",
+      "roasterId": "oh-my-bean-roastery",
+      "name": "Oh My Bean Roastery Costa Rica ROBERTO MATA NARANJO",
+      "origin": "Costa Rica · Tarrazú",
+      "originCountry": "Costa Rica",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Caturra",
+      "producer": "Roberto Mata Naranjo",
+      "score": 89.0,
+      "acidity": null,
+      "body": "Rond, sirupeux",
+      "roast": "Light to Medium Light",
+      "flavors": "Chocolate, Tropical fruit, Cherries, Wine",
+      "desc": "Café costaricain au profil distinctif mêlant fermentation contrôlée et traitement innovant, offrant une palette complexe dominée par les fruits tropicaux et une douceur de cerise, avec un corps rond et une longueur en bouche persistante.",
+      "imageUrl": "https://st.kofio.co/img_product/DmrLNIUfPubHvsC/19824/sq_600_RFH7ti5IVu9Q40YXj31g_131924.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Oh My Bean Roastery",
+          "url": "https://www.kofio.co/coffee/costa-rica-roberto-mata-naranjo-oh-my-bean-roastery/19824",
+          "price": "17,90 €",
           "note": ""
         }
       ]

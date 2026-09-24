@@ -57,6 +57,105 @@ def find_roaster_by_domain(domain, by_domain):
     return None
 
 
+def find_roaster_by_name(name, roasters_by_domain, my_coffees):
+    """For marketplaces (kofio.co) that sell many roasters' coffee: the
+    product's real roaster is named on the page, not the marketplace
+    domain. Reuse the existing roaster entry (by name, case-insensitive)
+    from either the main config or this file's own roasters if one
+    already exists, so e.g. a Tanat Coffee bag bought via kofio still
+    lands under the same roaster_id as Tanat's own scraped catalog."""
+    name_norm = name.strip().lower()
+    for r in roasters_by_domain.values():
+        if r["name"].strip().lower() == name_norm:
+            return r["id"], r
+    for rid, r in my_coffees["roasters"].items():
+        if r["name"].strip().lower() == name_norm:
+            return rid, None
+    return slugify(name), None
+
+
+_KOFIO_ROAST_TYPE_TO_METHOD = {"filter": "Filtre", "espresso": "Espresso", "omni": "Omni"}
+
+
+def fetch_kofio(s, url):
+    """kofio.co is a Czech marketplace reselling many roasters' coffee, not
+    a roaster's own shop -- see find_roaster_by_name for how the real
+    roaster (read off this page, not the kofio.co domain) gets attributed.
+    Its product pages carry a clean schema.org JSON-LD block plus a
+    "Product Specs" table (real Label/Value pairs, not free-text prose),
+    both far more reliable than the generic fallback -- worth a dedicated
+    parser rather than leaving this only to title/label/LLM guessing."""
+    resp = get(s, url)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    ld_tag = soup.find("script", type="application/ld+json")
+    ld = json.loads(ld_tag.string) if ld_tag and ld_tag.string else {}
+    offers = ld.get("offers", {})
+
+    specs = {}
+    for row in soup.select("table.table-hover tr.product_parameter_item"):
+        cells = row.find_all("td")
+        if len(cells) < 2:
+            continue
+        label = cells[0].get_text(strip=True)
+        value_cell = cells[1]
+        title_div = value_cell.select_one(".xs_product_parameter_item_title")
+        if title_div:
+            title_div.extract()
+        # Multi-value cells (Variety, Flavour Profile, ...) are a run of
+        # <a> tags with literal ", " text nodes already between them in the
+        # markup -- get_text(", ") would add a SECOND separator on top of
+        # those and produce "Caturra, ,, Colombia". Read the links' own
+        # text directly instead; cells with no links (Roast Date, Cupping
+        # Score) have none, so this falls back to the plain cell text.
+        links = value_cell.find_all("a")
+        specs[label] = ", ".join(a.get_text(strip=True) for a in links) if links else value_cell.get_text(strip=True)
+
+    method = _KOFIO_ROAST_TYPE_TO_METHOD.get((specs.get("Roast Type") or "").strip().lower())
+    score = None
+    score_raw = (specs.get("Cupping Score") or "").split("/")[0].strip().replace(",", ".")
+    if score_raw:
+        try:
+            score = float(score_raw)
+        except ValueError:
+            pass
+
+    extracted = {}
+    if specs.get("Coffee Origin"): extracted["originCountry"] = specs["Coffee Origin"]
+    if specs.get("Region"): extracted["originDetail"] = specs["Region"]
+    if specs.get("Variety"): extracted["variety"] = specs["Variety"]
+    if specs.get("Process"): extracted["process"] = specs["Process"]
+    if method: extracted["method"] = method
+    if specs.get("Roast Level"): extracted["roastLevel"] = specs["Roast Level"]
+    if specs.get("Flavour Profile"):
+        extracted["flavors"] = [f.strip() for f in specs["Flavour Profile"].split(",") if f.strip()]
+    if score is not None: extracted["score"] = score
+
+    desc_div = soup.select_one(".product_description_body")
+    # JSON-LD's own price/availability are unreliable here -- a sold-out
+    # product still says "InStock" with price "0" there (confirmed on a
+    # genuinely sold-out listing). The visible availability badge and a
+    # non-zero price are what the page actually shows the shopper.
+    price_raw = offers.get("price")
+    price = float(price_raw) if price_raw else None
+    if not price:
+        price = None
+    availability_text = soup.select_one(".product_availability")
+    in_stock = "sold out" not in (availability_text.get_text(strip=True).lower() if availability_text else "")
+
+    return {
+        "name": ld.get("name") or specs.get("name"),
+        "raw_description_html": str(desc_div) if desc_div else None,
+        "image_url": ld.get("image"),
+        "price": price,
+        "currency": offers.get("priceCurrency", "EUR"),
+        "in_stock": in_stock,
+        "extracted": extracted,
+        "roastery_name": specs.get("Roastery"),
+    }
+
+
 def fetch_shopify(s, url):
     resp = get(s, url.rstrip("/") + ".json")
     resp.raise_for_status()
@@ -151,7 +250,7 @@ def build_raw_product(slug, fetched, url, site_name):
         "site": site_name,
         "url": url,
         "price": fetched["price"],
-        "currency": "EUR",
+        "currency": fetched.get("currency", "EUR"),
         "inStock": fetched["in_stock"],
     }
     return RawProduct(
@@ -160,6 +259,7 @@ def build_raw_product(slug, fetched, url, site_name):
         retailers=[retailer],
         raw_description_html=fetched["raw_description_html"],
         image_url=fetched["image_url"],
+        extracted=fetched.get("extracted"),
     )
 
 
@@ -177,10 +277,14 @@ def save_my_coffees(data):
         f.write("\n")
 
 
+MARKETPLACE_DOMAINS = {"kofio.co"}
+
+
 def add_one(url, roasters_by_domain, my_coffees, s):
     domain = urlparse(url).netloc
-    config_entry = find_roaster_by_domain(domain, roasters_by_domain)
-    platform = config_entry["platform"] if config_entry else None
+    is_marketplace = domain.lower().removeprefix("www.") in MARKETPLACE_DOMAINS
+    config_entry = None if is_marketplace else find_roaster_by_domain(domain, roasters_by_domain)
+    platform = config_entry["platform"] if config_entry else ("kofio" if is_marketplace else None)
     site_name = config_entry["name"] if config_entry else domain
 
     print(f"{url}")
@@ -192,11 +296,27 @@ def add_one(url, roasters_by_domain, my_coffees, s):
         fetched = fetch_woocommerce(s, url, domain)
     elif platform == "prestashop":
         fetched = fetch_prestashop(s, url)
+    elif platform == "kofio":
+        fetched = fetch_kofio(s, url)
     else:
         fetched = fetch_generic(s, url)
 
+    # Marketplaces resell many roasters' coffee -- the real roaster is named
+    # on the page itself (fetched["roastery_name"]), never the marketplace's
+    # own domain. Reuse an existing roaster entry by name when there is one
+    # (e.g. a roaster already in the main scraped catalog) instead of always
+    # minting a fresh id.
+    roastery_name = fetched.get("roastery_name") if is_marketplace else None
+    if roastery_name:
+        roaster_id, matched_config_entry = find_roaster_by_name(roastery_name, roasters_by_domain, my_coffees)
+        if matched_config_entry:
+            config_entry = matched_config_entry
+        site_name = roastery_name
+        print(f"  torréfacteur (lu sur la page) : {roastery_name} -> roaster_id={roaster_id}")
+    else:
+        roaster_id = config_entry["id"] if config_entry else slugify(domain.removeprefix("www."))
+
     slug = urlparse(url).path.rstrip("/").rsplit("/", 1)[-1] or slugify(fetched["name"])
-    roaster_id = config_entry["id"] if config_entry else slugify(domain.removeprefix("www."))
 
     raw = build_raw_product(slug, fetched, url, site_name)
     scraped = _new_product_dict(roaster_id, raw, now_iso())  # data/*.json shape
@@ -206,8 +326,8 @@ def add_one(url, roasters_by_domain, my_coffees, s):
         my_coffees["roasters"][roaster_id] = {
             "name": site_name,
             "city": config_entry.get("city") if config_entry else None,
-            "url": config_entry.get("url") if config_entry else f"https://{domain}/",
-            "domain": domain,
+            "url": config_entry.get("url") if config_entry else (None if is_marketplace else f"https://{domain}/"),
+            "domain": config_entry.get("domain") if config_entry else (None if is_marketplace else domain),
             "logoUrl": config_entry.get("logoUrl") if config_entry else None,
         }
 
