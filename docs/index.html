@@ -173,7 +173,15 @@
     border-radius:10px; cursor:pointer; flex-shrink:0; outline:none;
   }
   .sort-select:hover, .sort-select:focus{ border-color:var(--gold); }
-  @media (max-width:640px){ .search-row{ flex-wrap:wrap; } .sort-select{ flex:1; } }
+  @media (max-width:640px){
+    /* .search's flex:1/min-width:0 (from the desktop row) let it shrink
+       down to a sliver next to Filtres/Trier instead of ever wrapping --
+       flex-wrap alone doesn't force a wrap when a shrinkable item can
+       just keep shrinking. Force it onto its own full-width row instead. */
+    .search-row{ flex-wrap:wrap; }
+    .search-row .search{ flex-basis:100%; }
+    .sort-select{ flex:1; }
+  }
 
   .grid{ display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:16px; }
   .card{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:18px; cursor:pointer; transition:border-color .15s, transform .15s, box-shadow .2s; display:flex; flex-direction:column; gap:12px; }

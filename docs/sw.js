@@ -2,7 +2,7 @@
 // opens (with whatever data was last loaded) when offline, and always
 // prefers the network for the data JSON files so a connected user never
 // sees stale coffee data on purpose.
-const CACHE_NAME = "origin-shell-v4";
+const CACHE_NAME = "origin-shell-v5";
 const SHELL_FILES = [
   "./index.html",
   "./manifest.json",
