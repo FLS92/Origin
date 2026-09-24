@@ -414,6 +414,14 @@
   .field select:focus, .field textarea:focus, .field input:focus{ border-color:var(--gold); }
   .field textarea{ resize:vertical; min-height:64px; font-family:'Inter',sans-serif; }
   .field.full{ grid-column:1 / -1; }
+  /* Custom autocomplete dropdown for the "Ajouter un café" form's country
+     field -- not a native <datalist>, which iOS Safari doesn't render a
+     suggestion popup for at all. */
+  .autocomplete-wrap{ position:relative; }
+  .autocomplete-list{ display:none; position:absolute; top:calc(100% + 4px); left:0; right:0; z-index:10; background:var(--panel-light); border:1px solid var(--line); border-radius:8px; max-height:180px; overflow-y:auto; box-shadow:0 8px 20px rgba(0,0,0,.35); }
+  .autocomplete-list.open{ display:block; }
+  .autocomplete-item{ padding:9px 12px; font-size:13.5px; cursor:pointer; }
+  .autocomplete-item:hover{ background:var(--panel); color:var(--gold-soft); }
   .timer-card{
     display:flex; align-items:center; justify-content:center; gap:18px;
     background:var(--panel-light); border:1px solid var(--line); border-radius:14px;
@@ -1327,10 +1335,42 @@ const COFFEE_ORIGIN_COUNTRIES = [
   'République démocratique du Congo','Yémen','Inde','Indonésie','Vietnam','Chine','Papouasie-Nouvelle-Guinée',
   'Timor oriental','Jamaïque','Cuba','République dominicaine','Haïti','Malawi','Zambie','Zimbabwe'
 ];
-function countryOptionsHTML(){
+// <datalist> isn't reliably supported on iOS Safari (no dropdown shows up
+// at all on most versions), which is the only browser that matters for the
+// installed PWA -- so the country field gets its own small custom dropdown
+// instead (wired up in renderAddCoffeeForm) rather than relying on it.
+function allCountryOptions(){
   const fromData = COFFEES.map(c=>c.originCountry).filter(v=> v && v!==NA);
-  const all = [...new Set([...COFFEE_ORIGIN_COUNTRIES, ...fromData])].sort((a,b)=> a.localeCompare(b));
-  return all.map(c=> `<option value="${c}">`).join('');
+  return [...new Set([...COFFEE_ORIGIN_COUNTRIES, ...fromData])].sort((a,b)=> a.localeCompare(b));
+}
+
+// Strips accents for matching only (display keeps them) -- typing "eth"
+// on a phone keyboard should still find "Éthiopie", "perou" find "Pérou".
+function foldAccents(s){ return s.normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase(); }
+
+function wireCountryAutocomplete(){
+  const input = document.getElementById('ac-country');
+  const box = document.getElementById('ac-country-suggestions');
+  const options = allCountryOptions();
+  function render(){
+    const q = foldAccents(input.value.trim());
+    const matches = q ? options.filter(c=> foldAccents(c).includes(q)).slice(0,8) : options.slice(0,8);
+    if(matches.length===0){ box.classList.remove('open'); box.innerHTML=''; return; }
+    box.innerHTML = matches.map(c=> `<div class="autocomplete-item" data-v="${c}">${c}</div>`).join('');
+    box.classList.add('open');
+  }
+  input.addEventListener('input', render);
+  input.addEventListener('focus', render);
+  // blur fires before a tap on the list registers -- delay hiding it just
+  // long enough for the mousedown below to read the tapped value first.
+  input.addEventListener('blur', ()=> setTimeout(()=> box.classList.remove('open'), 150));
+  box.addEventListener('mousedown', (e)=>{
+    const item = e.target.closest('.autocomplete-item');
+    if(!item) return;
+    e.preventDefault();
+    input.value = item.dataset.v;
+    box.classList.remove('open');
+  });
 }
 
 function renderAddCoffeeForm(existingCoffee){
@@ -1349,7 +1389,7 @@ function renderAddCoffeeForm(existingCoffee){
       <div class="field" style="margin-bottom:12px;"><label>Torréfacteur *</label><input type="text" id="ac-roaster" required value="${v(r&&r.name)}"></div>
       <div class="field" style="margin-bottom:12px;"><label>Ville du torréfacteur</label><input type="text" id="ac-roaster-city" value="${v(r&&r.city)}"></div>
       <div class="field" style="margin-bottom:12px;"><label>Site du torréfacteur</label><input type="text" id="ac-roaster-url" placeholder="https://…" value="${v(r&&r.url)}"></div>
-      <div class="field" style="margin-bottom:12px;"><label>Origine (pays)</label><input type="text" id="ac-country" list="ac-country-list" placeholder="ex. Éthiopie" value="${v(c&&c.originCountry)}"><datalist id="ac-country-list">${countryOptionsHTML()}</datalist></div>
+      <div class="field autocomplete-wrap" style="margin-bottom:12px;"><label>Origine (pays)</label><input type="text" id="ac-country" autocomplete="off" placeholder="ex. Éthiopie" value="${v(c&&c.originCountry)}"><div class="autocomplete-list" id="ac-country-suggestions"></div></div>
       <div class="field" style="margin-bottom:12px;"><label>Origine (détail)</label><input type="text" id="ac-origin" placeholder="ex. Yirgacheffe, village de Chelbesa" value="${v(c&&c.origin)}"></div>
       <div class="field" style="margin-bottom:12px;"><label>Process</label><input type="text" id="ac-process" placeholder="ex. Lavé, Naturel…" value="${v(c&&c.process)}"></div>
       <div class="field" style="margin-bottom:12px;"><label>Méthode</label>
@@ -1380,6 +1420,7 @@ function renderAddCoffeeForm(existingCoffee){
     </form>
   `;
   document.getElementById('add-coffee-close').onclick = closeAddCoffeeModal;
+  wireCountryAutocomplete();
   const errEl = document.getElementById('add-coffee-error');
   document.getElementById('add-coffee-form').addEventListener('submit', async (e)=>{
     e.preventDefault();
