@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-24T20:24:06Z",
-  "roasterCount": 9,
-  "coffeeCount": 12,
+  "generatedAt": "2026-09-25T15:08:34Z",
+  "roasterCount": 14,
+  "coffeeCount": 25,
   "roasters": {
     "kaffa": {
       "name": "Kaffa",
@@ -13,8 +13,8 @@
     "people-possession": {
       "name": "People Possession",
       "city": null,
-      "url": null,
-      "domain": null,
+      "url": "https://peoplepossession.com/",
+      "domain": "peoplepossession.com",
       "logoUrl": null
     },
     "coffeein": {
@@ -64,6 +64,41 @@
       "city": null,
       "url": null,
       "domain": null,
+      "logoUrl": null
+    },
+    "dak-coffee-roasters": {
+      "name": "DAK Coffee Roasters",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "syra-coffee": {
+      "name": "Syra Coffee",
+      "city": null,
+      "url": null,
+      "domain": null,
+      "logoUrl": null
+    },
+    "liperli-fr": {
+      "name": "liperli.fr",
+      "city": null,
+      "url": "https://liperli.fr/",
+      "domain": "liperli.fr",
+      "logoUrl": null
+    },
+    "kimacoffee-com": {
+      "name": "kimacoffee.com",
+      "city": null,
+      "url": "https://kimacoffee.com/",
+      "domain": "kimacoffee.com",
+      "logoUrl": null
+    },
+    "voltcafebrulerie-com": {
+      "name": "www.voltcafebrulerie.com",
+      "city": null,
+      "url": "https://www.voltcafebrulerie.com/",
+      "domain": "www.voltcafebrulerie.com",
       "logoUrl": null
     }
   },
@@ -387,6 +422,357 @@
         {
           "site": "Oh My Bean Roastery",
           "url": "https://www.kofio.co/coffee/costa-rica-roberto-mata-naranjo-oh-my-bean-roastery/19824",
+          "price": "17,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-16957",
+      "roasterId": "tanat-coffee",
+      "name": "Kolumbie LOS PATIOS SCARLET - jahodový co-ferment",
+      "origin": "Colombia · Huila",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Castillo",
+      "producer": "Los Patios Scarlet",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Strawberries, Cherries, Blueberry muffin",
+      "desc": "Café colombien proposé par la torréfaction Tanat Coffee, traité en co-ferment fraise pour développer un profil aromatique particulier.",
+      "imageUrl": "https://st.kofio.co/img_product/fk9e2DVGEqMJvhP/16957/sq_600_nxlFvYoPbcf3WShgt78p_111006.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://www.kofio.co/coffee/kolumbie-los-patios-scarlet-jahodovy-co-ferment-tanat-coffee/16957",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "dak-coffee-roasters-9628",
+      "roasterId": "dak-coffee-roasters",
+      "name": "Colombia MILKY CAKE - filter",
+      "origin": "Colombia · Cauca",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Castillo",
+      "producer": "Diego Samuel Bermúdez",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Cardamom, Honey, Pistachio, Vanilla cake",
+      "desc": "Un café colombien issu d'une ferme spécialisée utilisant un procédé de fermentation anaérobie innovant avec choc thermique, révélant des saveurs vanillées et des notes de pistache et cardamome.",
+      "imageUrl": "https://st.kofio.co/img_product/boeV9yxzHn2OwWv/9628/sq_600_QKTn1qZovlkf5Y9DawGm_102573.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "DAK Coffee Roasters",
+          "url": "https://www.kofio.co/coffee/colombia-milky-cake-filter-dak-coffee-roasters/9628",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "peoplepossession-com-bpmblueberry-pie-magicblend",
+      "roasterId": "people-possession",
+      "name": "BPM Blueberry Pie Magic{Blend}",
+      "origin": "Éthiopie, Colombie",
+      "originCountry": "Éthiopie, Colombie",
+      "process": "Lavé / Co-fermenté avec fruits rouges",
+      "usage": "Filtre",
+      "variety": "74110, Caturra",
+      "producer": "Blend by us",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Tarte aux myrtilles, Coulis de framboise, Vanille",
+      "desc": "Ce mélange éthiopien et colombien combine des notes de tarte aux myrtilles, coulis de framboise et vanille, issu d'une fermentation co-fermentée avec fruits rouges.",
+      "imageUrl": "https://peoplepossession.com/wp-content/uploads/2025/08/NEW-BPM.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "peoplepossession.com",
+          "url": "https://peoplepossession.com/product/bpmblueberry-pie-magicblend/",
+          "price": "17,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "people-possession-18266",
+      "roasterId": "people-possession",
+      "name": "Colombia SENS COFFEE",
+      "origin": "Colombia · Qiundo",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Castillo, Caturra",
+      "producer": "Juan Puerta",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Banana, Blueberry pie, Maple syrup, Chewing gums",
+      "desc": "Ce café colombien issu d'un traitement innovant associant fermentation anaérobie et méthode honey offre un profil aromatique sucré et fruité avec des notes de dessert.",
+      "imageUrl": "https://st.kofio.co/img_product/iCwY5HIDGapnjdJ/18266/sq_600_RUnTKVx7mokBGFPyNOrA_124642.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "People Possession",
+          "url": "https://www.kofio.co/coffee/colombia-sens-coffee-people-possession/18266",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-16480",
+      "roasterId": "tanat-coffee",
+      "name": "Colombia NESTOR LASSO - ombligon",
+      "origin": "Colombia · Huila",
+      "originCountry": "Colombia",
+      "process": "Anaerobic",
+      "usage": "Filtre",
+      "variety": "Ombligon",
+      "producer": "Nestor Lasso",
+      "score": 88.75,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Peach, Strawberry jam, Raspberries",
+      "desc": "Café colombien du producteur Nestor Lasso, sélectionné par une torréfacterie parisienne réputée pour son approche qualitative et son travail direct auprès des producteurs.",
+      "imageUrl": "https://st.kofio.co/img_product/fk9e2DVGEqMJvhP/16480/sq_600_EdjqKzHibXcROQn6fZAk_111006.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://www.kofio.co/coffee/colombia-nestor-lasso-ombligon-kawa-coffee/16480",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-16830",
+      "roasterId": "tanat-coffee",
+      "name": "Colombia NESTOR LASSO - sidra",
+      "origin": "Colombia · Huila",
+      "originCountry": "Colombia",
+      "process": "Natural",
+      "usage": "Filtre",
+      "variety": "Sidra",
+      "producer": "Nestor Lasso",
+      "score": 89.0,
+      "acidity": null,
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Strawberries, Apricots, Cherries",
+      "desc": "Un café colombien produit par Nestor Lasso, torréfié par Tanat Coffee, une torréfaction française réputée pour son approche qualitative et son travail de précision auprès de producteurs sélectionnés.",
+      "imageUrl": "https://st.kofio.co/img_product/fk9e2DVGEqMJvhP/16830/sq_600_UW9MbgNhvoBm8xKLq2si_111006.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Tanat Coffee",
+          "url": "https://www.kofio.co/coffee/colombia-nestor-lasso-sidra-kawa-coffee/16830",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "people-possession-18895",
+      "roasterId": "people-possession",
+      "name": "WILD WATERMELON EXPERIENCE blend",
+      "origin": "Colombia, Kenya · Kirinyaga county",
+      "originCountry": "Colombia, Kenya",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Mix odrůd",
+      "producer": null,
+      "score": null,
+      "acidity": "Vive mais bien intégrée",
+      "body": "Moyen, soyeux",
+      "roast": "Light to Medium Light",
+      "flavors": "Yellow melon, Guava, Melounové bonbony",
+      "desc": "Blend équilibré combinant des lots kenyans et colombiens, caractérisé par des notes prononcées de fruits estivaux et une acidité vive intégrée dans un corps soyeux et sucré naturellement.",
+      "imageUrl": "https://st.kofio.co/img_product/iCwY5HIDGapnjdJ/18895/sq_600_HMW0l8hpfwocD6xdaQYX_124642.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "People Possession",
+          "url": "https://www.kofio.co/coffee/wild-watermelon-experience-blend-people-possession/18895",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "dak-coffee-roasters-19595",
+      "roasterId": "dak-coffee-roasters",
+      "name": "Colombia ELECTRIC LIME",
+      "origin": "Colombia · Risaralda",
+      "originCountry": "Colombia",
+      "process": "Experimental",
+      "usage": "Filtre",
+      "variety": "Castillo",
+      "producer": "Finca Milan, DAK Coffee Roasters",
+      "score": null,
+      "acidity": "Juicy",
+      "body": null,
+      "roast": "Light to Medium Light",
+      "flavors": "Flowers, Lemon grass, Eucalyptus",
+      "desc": "Un café colombien aux notes citronnées et herbacées marquées, issu d'une fermentation contrôlée innovante combinant levure et fruits tropicaux, offrant une tasse équilibrée entre pureté et aromatiques intenses.",
+      "imageUrl": "https://st.kofio.co/img_product/boeV9yxzHn2OwWv/19595/sq_600_BdbZkarMWY57QUnCHO2q_102573.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "DAK Coffee Roasters",
+          "url": "https://www.kofio.co/coffee/colombia-electric-lime-dak-coffee-roasters/19595",
+          "price": "Rupture de stock",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "syra-coffee-bukonzo-ana",
+      "roasterId": "syra-coffee",
+      "name": "Bukonzo Ana.",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": "Café commercialisé par Syra Coffee, sans informations détaillées disponibles.",
+      "imageUrl": "https://gtlipifdfyugiwpxvuse.supabase.co/storage/v1/object/public/assets/products/4b77c2df-71db-47c4-a010-332b724b640f/cca24f839770a5043b3def8bad331b3d.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Syra Coffee",
+          "url": "https://every.coffee/roaster/syra-coffee/bukonzo-ana",
+          "price": "1750,00 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "tanat-coffee-bright-yellow",
+      "roasterId": "tanat-coffee",
+      "name": "Bright Yellow",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": "TANAT COFFEE",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": "Un café commercialisé par TANAT COFFEE sous le nom Bright Yellow.",
+      "imageUrl": "https://gtlipifdfyugiwpxvuse.supabase.co/storage/v1/object/public/assets/products/94a2b1d5-a85e-4ff6-b3b7-576cfad9c159/081d8fe3b60d99aeeb4cb9ddb32b97aa.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "TANAT COFFEE",
+          "url": "https://every.coffee/roaster/tanat-coffee/bright-yellow",
+          "price": "17,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "liperli-fr-n-30-decaf-wilton-benitez-colombie",
+      "roasterId": "liperli-fr",
+      "name": "N°30 - Décaf Wilton Benitez - Colombie",
+      "origin": "Colombie · Piendamó, Cauca",
+      "originCountry": "Colombie",
+      "process": "Anaérobie + Décaféination à la canne à sucre",
+      "usage": "Omni",
+      "variety": "Bourbon rouge",
+      "producer": "Wilton Benitez",
+      "score": 87.5,
+      "acidity": "Précise",
+      "body": "Délicatement crémeux",
+      "roast": null,
+      "flavors": "Yuzu, Rose fraîche, Citronnelle",
+      "desc": "Un café décaféiné colombien produit par Wilton Benitez utilisant une fermentation anaérobie et une décaféination naturelle à la canne à sucre, offrant des notes de yuzu, rose fraîche et citronnelle avec une acidité précise et un corps crémeux.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0939/9127/2773/files/2-wilton-benitez-visuel-sachet-cafe_u-liperli-UGSVP_131fcfc5-1c02-4faa-8074-9e9065ec6f2c.jpg?v=1753352927",
+      "available": true,
+      "retailers": [
+        {
+          "site": "liperli.fr",
+          "url": "https://liperli.fr/products/n-30-decaf-wilton-benitez-colombie",
+          "price": "14,00 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "kimacoffee-com-campo-hermoso-cafe-de-colombia-tostado-por-kima-coffee",
+      "roasterId": "kimacoffee-com",
+      "name": "Campo Hermoso . Café de Colombia",
+      "origin": "Colombie · Quindio",
+      "originCountry": "Colombie",
+      "process": "Natural Maceración Carbonica",
+      "usage": null,
+      "variety": "Pink bourbon",
+      "producer": "Edwin Noreña",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Moras, Fresa, Arándanos, Floral",
+      "desc": "Café colombien produit à partir de cerises fermentées selon une technique innovante de macération carbonique et double fermentation, développée par un producteur expérimental de quatrième génération.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0483/6999/1837/files/FAF640EE-926D-4F11-8899-638B004C5B98.png?v=1742943275",
+      "available": true,
+      "retailers": [
+        {
+          "site": "kimacoffee.com",
+          "url": "https://kimacoffee.com/es-fr/products/campo-hermoso-cafe-de-colombia-tostado-por-kima-coffee",
+          "price": "21,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "voltcafebrulerie-com-ethiopie-shantawene",
+      "roasterId": "voltcafebrulerie-com",
+      "name": "ÉTHIOPIE · SHANTAWENE",
+      "origin": "Éthiopie · Sidama",
+      "originCountry": "Éthiopie",
+      "process": "Honey",
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Pamplemousse, Abricot, Miel",
+      "desc": "Café éthiopien de haute altitude traité en honey, aux notes fruitées et mielées caractéristiques des cafés forestiers de Sidama.",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0252/4076/4465/files/cd4fabde-1760-4b08-97eb-a1395d0b503d.png?v=1774273561",
+      "available": true,
+      "retailers": [
+        {
+          "site": "www.voltcafebrulerie.com",
+          "url": "https://www.voltcafebrulerie.com/products/ethiopie-shantawene",
           "price": "17,90 €",
           "note": ""
         }

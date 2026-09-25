@@ -164,6 +164,70 @@ def fetch_kofio(s, url):
     }
 
 
+def fetch_every_coffee(s, url, roasters_by_domain):
+    """every.coffee is another aggregator (like kofio.co) reselling many
+    roasters' coffee, but its schema.org Product node's AggregateOffer
+    carries a `url` straight back to the roaster's own product page. That
+    page is almost always richer than every.coffee's own generic
+    description ("X coffee from Y."), so when the target is a domain we
+    already know how to fetch structurally (Shopify/WooCommerce/
+    PrestaShop), redirect there entirely rather than settling for the
+    thin aggregator copy. Falls back to every.coffee's own data (still
+    attributed to the real roaster by name) if there's no usable
+    redirect, or if fetching it fails for any reason."""
+    resp = get(s, url)
+    resp.raise_for_status()
+    soup = BeautifulSoup(resp.text, "html.parser")
+
+    product = None
+    for tag in soup.find_all("script", type="application/ld+json"):
+        try:
+            data = json.loads(tag.string)
+        except (TypeError, ValueError):
+            continue
+        for node in data.get("@graph", [data]):
+            if node.get("@type") == "Product":
+                product = node
+        if product:
+            break
+    if not product:
+        raise ValueError("no Product JSON-LD found on every.coffee page")
+
+    offers = product.get("offers", {})
+    roastery_name = (product.get("brand") or {}).get("name")
+    redirect_url = offers.get("url")
+    redirect_domain = urlparse(redirect_url).netloc.lower().removeprefix("www.") if redirect_url else None
+
+    if redirect_domain and redirect_domain != "every.coffee":
+        target_roaster = find_roaster_by_domain(redirect_domain, roasters_by_domain)
+        platform = target_roaster["platform"] if target_roaster else None
+        try:
+            if platform == "shopify":
+                fetched = fetch_shopify(s, redirect_url)
+            elif platform == "woocommerce":
+                fetched = fetch_woocommerce(s, redirect_url, redirect_domain)
+            elif platform == "prestashop":
+                fetched = fetch_prestashop(s, redirect_url)
+            else:
+                fetched = fetch_generic(s, redirect_url)
+            fetched["roastery_name"] = roastery_name
+            fetched["resolved_url"] = redirect_url
+            return fetched
+        except Exception:
+            pass  # fall through to every.coffee's own (thinner) data below
+
+    price_raw = offers.get("lowPrice")
+    return {
+        "name": product.get("name") or "",
+        "raw_description_html": product.get("description"),
+        "image_url": product.get("image"),
+        "price": float(price_raw) if price_raw else None,
+        "currency": offers.get("priceCurrency", "EUR"),
+        "in_stock": "instock" in (offers.get("availability") or "").lower(),
+        "roastery_name": roastery_name,
+    }
+
+
 def fetch_shopify(s, url):
     resp = get(s, url.rstrip("/") + ".json")
     resp.raise_for_status()
@@ -186,9 +250,16 @@ def fetch_woocommerce(s, url, domain):
     resp = get(s, f"https://{domain}/wp-json/wc/store/v1/products", params={"slug": slug})
     resp.raise_for_status()
     results = decode_json_body(resp)
-    if not results:
+    # The Store API's `slug` param isn't a strict filter on every store --
+    # a slug that no longer exists (product renamed/removed) can come back
+    # with an unfiltered page of unrelated products instead of an empty
+    # list (confirmed on a stale every.coffee redirect: a coffee's dead
+    # slug returned a completely unrelated brewer product as results[0]).
+    # Only trust an exact slug match.
+    match = next((p for p in results if p.get("slug") == slug), None)
+    if not match:
         raise ValueError(f"no WooCommerce product found for slug {slug!r}")
-    p = results[0]
+    p = match
     price_data = p.get("prices", {})
     minor_unit = price_data.get("currency_minor_unit", 2)
     raw_price = price_data.get("price")
@@ -230,7 +301,10 @@ def fetch_generic(s, url):
     name = (h1.get_text(strip=True) if h1 else None) or meta("og:title") or (soup.title.string.strip() if soup.title else None)
     image_url = meta("og:image")
     price_raw = meta("product:price:amount") or meta("og:price:amount")
-    price = float(price_raw) if price_raw else None
+    # Some themes (seen on a French Shopify store) put a comma-decimal
+    # price in this meta tag ("14,00") despite the tag being meant for a
+    # plain float -- float() rejects that outright.
+    price = float(price_raw.replace(",", ".")) if price_raw else None
 
     body = (
         soup.select_one('[itemprop="description"]')
@@ -285,14 +359,26 @@ def save_my_coffees(data):
         f.write("\n")
 
 
-MARKETPLACE_DOMAINS = {"kofio.co"}
+MARKETPLACE_DOMAINS = {"kofio.co", "every.coffee"}
 
 
 def add_one(url, roasters_by_domain, my_coffees, s):
+    # Strip tracking query strings (e.g. Google's ?srsltid=...) -- harmless
+    # for URLs that don't have any, but left in place they'd get appended
+    # BEFORE the ".json" fetch_shopify adds, breaking that request entirely.
+    url = urlparse(url)._replace(query="", fragment="").geturl()
+
     domain = urlparse(url).netloc
     is_marketplace = domain.lower().removeprefix("www.") in MARKETPLACE_DOMAINS
     config_entry = None if is_marketplace else find_roaster_by_domain(domain, roasters_by_domain)
-    platform = config_entry["platform"] if config_entry else ("kofio" if is_marketplace else None)
+    if config_entry:
+        platform = config_entry["platform"]
+    elif domain.lower().removeprefix("www.") == "every.coffee":
+        platform = "every_coffee"
+    elif is_marketplace:
+        platform = "kofio"
+    else:
+        platform = None
     site_name = config_entry["name"] if config_entry else domain
 
     print(f"{url}")
@@ -306,8 +392,29 @@ def add_one(url, roasters_by_domain, my_coffees, s):
         fetched = fetch_prestashop(s, url)
     elif platform == "kofio":
         fetched = fetch_kofio(s, url)
+    elif platform == "every_coffee":
+        fetched = fetch_every_coffee(s, url, roasters_by_domain)
+        if fetched.get("resolved_url"):
+            # Redirected to the roaster's own product page -- use that as
+            # the retailer link and slug source from here on, not the
+            # every.coffee aggregator page.
+            url = fetched["resolved_url"]
+            print(f"  every.coffee -> redirection vers la fiche du torréfacteur : {url}")
     else:
-        fetched = fetch_generic(s, url)
+        # Unknown platform: plenty of roasters run Shopify or WooCommerce
+        # without being in config/roasters.json yet, and either's
+        # structured endpoint gives far better data (real variants/stock,
+        # no meta-tag price parsing that a page might not even carry --
+        # confirmed missing entirely on a WooCommerce store that has no
+        # product:price:amount/og:price:amount meta tag) than the generic
+        # fallback -- worth trying both before settling for it.
+        try:
+            fetched = fetch_shopify(s, url)
+        except Exception:
+            try:
+                fetched = fetch_woocommerce(s, url, domain)
+            except Exception:
+                fetched = fetch_generic(s, url)
 
     # Marketplaces resell many roasters' coffee -- the real roaster is named
     # on the page itself (fetched["roastery_name"]), never the marketplace's
@@ -322,7 +429,18 @@ def add_one(url, roasters_by_domain, my_coffees, s):
         site_name = roastery_name
         print(f"  torréfacteur (lu sur la page) : {roastery_name} -> roaster_id={roaster_id}")
     else:
-        roaster_id = config_entry["id"] if config_entry else slugify(domain.removeprefix("www."))
+        # A roaster first met through a marketplace listing (kofio.co,
+        # every.coffee) has no domain on file, so a later direct add from
+        # their own site would otherwise mint a second, differently-slugged
+        # roaster for the same real torréfacteur. Reuse the existing entry
+        # when one already carries this domain.
+        domain_norm = domain.lower().removeprefix("www.")
+        existing_by_domain = next(
+            (rid for rid, r in my_coffees["roasters"].items()
+             if (r.get("domain") or "").lower().removeprefix("www.") == domain_norm),
+            None,
+        )
+        roaster_id = config_entry["id"] if config_entry else (existing_by_domain or slugify(domain.removeprefix("www.")))
 
     slug = urlparse(url).path.rstrip("/").rsplit("/", 1)[-1] or slugify(fetched["name"])
 
