@@ -419,17 +419,18 @@
   .stars{ display:flex; gap:3px; }
   .stars button{ background:none; border:none; cursor:pointer; font-size:20px; color:var(--panel-light); padding:0; line-height:1; }
   .stars button.filled{ color:var(--gold); }
-  /* Personal rating input: a read-only partial-fill star readout (two
-     stacked rows, the gold one clipped to rating/5 width) next to a
-     dropdown that's the actual input -- lets a note land on a quarter
-     star (4,25/5) instead of only whole stars, which clicking directly
-     on a star glyph can't express. */
-  .stars-row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
-  .stars-display{ position:relative; display:inline-block; font-size:20px; line-height:1; letter-spacing:3px; }
+  /* Personal rating input: only ever shows the partial-fill star readout
+     (two stacked rows, the gold one clipped to rating/5 width) -- the
+     dropdown that actually sets the 0,25-step value is a real <select>
+     sitting invisibly on top of it (opacity:0, same box via inset:0), so
+     tapping the stars is tapping the select itself and opens its native
+     picker directly, with no separate visible control ever taking up its
+     own space in the row (that's what was overlapping the coffee title). */
+  .stars-row{ position:relative; display:inline-flex; align-items:center; flex-shrink:0; }
+  .stars-display{ position:relative; display:inline-block; font-size:20px; line-height:1; letter-spacing:3px; pointer-events:none; }
   .stars-display .bg{ color:var(--panel-light); }
   .stars-display .fg{ position:absolute; top:0; left:0; overflow:hidden; white-space:nowrap; color:var(--gold); }
-  .rating-select{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13px; font-weight:600; padding:6px 10px; border-radius:8px; outline:none; cursor:pointer; }
-  .rating-select:hover, .rating-select:focus{ border-color:var(--gold); }
+  .rating-select{ position:absolute; inset:0; width:100%; height:100%; opacity:0; border:none; padding:0; cursor:pointer; }
   .field-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px; }
   .grinder-row{ display:grid; grid-template-columns:2fr 1fr 1fr; gap:12px; margin-bottom:12px; }
   .field{ display:flex; flex-direction:column; gap:5px; }
