@@ -419,6 +419,17 @@
   .stars{ display:flex; gap:3px; }
   .stars button{ background:none; border:none; cursor:pointer; font-size:20px; color:var(--panel-light); padding:0; line-height:1; }
   .stars button.filled{ color:var(--gold); }
+  /* Personal rating input: a read-only partial-fill star readout (two
+     stacked rows, the gold one clipped to rating/5 width) next to a
+     dropdown that's the actual input -- lets a note land on a quarter
+     star (4,25/5) instead of only whole stars, which clicking directly
+     on a star glyph can't express. */
+  .stars-row{ display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .stars-display{ position:relative; display:inline-block; font-size:20px; line-height:1; letter-spacing:3px; }
+  .stars-display .bg{ color:var(--panel-light); }
+  .stars-display .fg{ position:absolute; top:0; left:0; overflow:hidden; white-space:nowrap; color:var(--gold); }
+  .rating-select{ background:var(--panel-light); border:1px solid var(--line); color:var(--cream); font-family:'Inter',sans-serif; font-size:13px; font-weight:600; padding:6px 10px; border-radius:8px; outline:none; cursor:pointer; }
+  .rating-select:hover, .rating-select:focus{ border-color:var(--gold); }
   .field-grid{ display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:12px; }
   .grinder-row{ display:grid; grid-template-columns:2fr 1fr 1fr; gap:12px; margin-bottom:12px; }
   .field{ display:flex; flex-direction:column; gap:5px; }
@@ -2262,7 +2273,12 @@ async function openDetail(id){
     if(community.reviews.length===0){ reviewsEl.innerHTML = 'Aucun avis public pour ce café pour le moment.'; }
     else{
       reviewsEl.innerHTML = community.reviews.map(rv=>{
-        const stars = '★'.repeat(rv.rating||0) + '☆'.repeat(5-(rv.rating||0));
+        // .repeat() truncates a non-integer count rather than rounding, so
+        // a quarter-star rating (now possible -- see the rating dropdown)
+        // could leave the two repeats not summing to 5 glyphs. Round once
+        // to a whole star count for this glyph readout.
+        const filled = Math.round(rv.rating||0);
+        const stars = '★'.repeat(filled) + '☆'.repeat(5-filled);
         return `<div class="review-item">
           <div class="rv-head"><span class="rv-stars">${stars}</span><span>${rv.brewMethod||'Méthode non précisée'}</span></div>
           ${rv.notes ? `<div class="rv-note">${rv.notes}</div>` : ''}
@@ -2405,11 +2421,27 @@ function wireBrewTimer(id){
   });
 }
 
-function starsHTML(id, rating){
-  let html = '<div class="stars">';
-  for(let i=1;i<=5;i++) html += `<button data-id="${id}" data-val="${i}" class="star-btn ${i<=rating?'filled':''}">★</button>`;
-  html += '</div>';
+function formatRatingLabel(v){
+  return Number.isInteger(v) ? String(v) : v.toFixed(2).replace(/0$/,'').replace('.', ',');
+}
+function ratingOptionsHTML(rating){
+  const cur = Math.round((rating||0)*4)/4; // snap to the nearest quarter, in case an old whole-star rating is passed in
+  let html = `<option value="0" ${cur===0?'selected':''}>Pas de note</option>`;
+  for(let v=0.25; v<=5; v+=0.25){
+    const val = Math.round(v*100)/100;
+    html += `<option value="${val}" ${Math.abs(cur-val)<0.001?'selected':''}>${formatRatingLabel(val)} / 5</option>`;
+  }
   return html;
+}
+function starsHTML(id, rating){
+  const pct = Math.max(0, Math.min(100, (rating||0)/5*100));
+  return `<div class="stars-row">
+    <div class="stars-display" aria-hidden="true">
+      <div class="bg">★★★★★</div>
+      <div class="fg" style="width:${pct}%;">★★★★★</div>
+    </div>
+    <select class="rating-select" data-id="${id}">${ratingOptionsHTML(rating)}</select>
+  </div>`;
 }
 function starsReadout(rating){
   let s = ''; for(let i=1;i<=5;i++) s += i<=(rating||0) ? '★' : '☆';
@@ -2611,12 +2643,11 @@ function renderLibrary(filter){
     </div>`;
   }).join('');
 
-  list.querySelectorAll('.lib-summary .star-btn').forEach(btn=>{
-    btn.addEventListener('click', async (ev)=>{
-      ev.stopPropagation();
-      const id = btn.dataset.id;
-      const val = parseInt(btn.dataset.val,10);
-      libraryCache[id].rating = (libraryCache[id].rating===val) ? 0 : val;
+  list.querySelectorAll('.lib-summary .rating-select').forEach(sel=>{
+    sel.addEventListener('click', ev=> ev.stopPropagation());
+    sel.addEventListener('change', async ()=>{
+      const id = sel.dataset.id;
+      libraryCache[id].rating = parseFloat(sel.value);
       await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); await refreshCommunityAvg(id);
       renderLibrary(document.getElementById('library-search-input').value);
     });
@@ -2838,10 +2869,9 @@ function wireBrewHistoryActions(id){
 
 function wireLibraryDetailForm(id){
   const content = document.getElementById('detail-content');
-  content.querySelectorAll('.star-btn').forEach(btn=>{
-    btn.addEventListener('click', async ()=>{
-      const val = parseInt(btn.dataset.val,10);
-      libraryCache[id].rating = (libraryCache[id].rating===val) ? 0 : val;
+  content.querySelectorAll('.rating-select').forEach(sel=>{
+    sel.addEventListener('change', async ()=>{
+      libraryCache[id].rating = parseFloat(sel.value);
       await saveEntry(id, libraryCache[id]); await syncShared(id, libraryCache[id]); await refreshCommunityAvg(id);
       openLibraryDetail(id);
       renderLibrary(document.getElementById('library-search-input').value);
