@@ -2158,6 +2158,13 @@ function coffeeMetaGridHTML(c){
 async function openDetail(id){
   const c = COFFEES.find(x=>x.id===id);
   if(!c) return;
+  // Several handlers below re-call openDetail(id) on the SAME id just to
+  // re-render the sheet in place (e.g. after a wishlist toggle) without
+  // the overlay ever having closed -- lockBodyScroll() must only run on
+  // an actual closed->open transition, or its counter drifts up on every
+  // in-place refresh and closeDetail()'s one matching unlock can never
+  // catch up, leaving the page stuck unscrollable after close.
+  const wasOpen = document.getElementById('overlay').classList.contains('open');
   const r = ROASTERS[c.roasterId];
   const inLib = !!libraryCache[id];
   const usage = getUsage(c);
@@ -2264,7 +2271,7 @@ async function openDetail(id){
     wishlistBtn.classList.toggle('active', wishlist.has(id));
   };
   document.getElementById('overlay').classList.add('open');
-  lockBodyScroll();
+  if(!wasOpen) lockBodyScroll();
 
   const community = await fetchCommunityData(id);
   const avgEl = document.getElementById('avg-rating');
@@ -2664,6 +2671,10 @@ function renderLibrary(filter){
 function openLibraryDetail(id){
   const c = COFFEES.find(x=>x.id===id);
   if(!c) return;
+  // Same reentrancy guard as openDetail() -- logging a brew, deleting a
+  // brew entry, or changing the rating dropdown all re-call this on an
+  // already-open sheet to refresh it in place.
+  const wasOpen = document.getElementById('overlay').classList.contains('open');
   const r = ROASTERS[c.roasterId];
   const e = libraryCache[id];
   const content = document.getElementById('detail-content');
@@ -2772,7 +2783,7 @@ function openLibraryDetail(id){
   document.getElementById('remove-from-lib').addEventListener('click', async ()=>{ await removeEntry(id); closeDetail(); });
   wireBrewHistoryActions(id);
   document.getElementById('overlay').classList.add('open');
-  lockBodyScroll();
+  if(!wasOpen) lockBodyScroll();
 }
 
 function renderBrewHistoryHTML(e, id, editIndex){
