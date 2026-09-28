@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://kaffa-roastery.com/wp-content/uploads/2024/12/logoKAFFAweb.png"
   },
-  "scrapedAt": "2026-09-21T05:20:41Z",
+  "scrapedAt": "2026-09-28T05:19:51Z",
   "products": [
     {
       "id": "kaffa-torrefacteur-gaia",
@@ -46,7 +46,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-21T05:20:41Z"
+      "lastSeenAt": "2026-09-28T05:19:51Z"
     },
     {
       "id": "kaffa-torrefacteur-colombie",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:36Z",
-      "lastSeenAt": "2026-09-21T05:20:41Z"
+      "lastSeenAt": "2026-09-28T05:19:51Z"
     },
     {
       "id": "kaffa-torrefacteur-rwanda",
@@ -114,7 +114,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:36Z",
       "lastSeenAt": "2026-09-21T05:20:41Z"
     },
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:14:49Z",
-      "lastSeenAt": "2026-09-21T05:20:41Z"
+      "lastSeenAt": "2026-09-28T05:19:51Z"
     },
     {
       "id": "kaffa-torrefacteur-cafe-amkeni",
@@ -221,7 +221,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:14:49Z",
-      "lastSeenAt": "2026-09-21T05:20:41Z"
+      "lastSeenAt": "2026-09-28T05:19:51Z"
     },
     {
       "id": "kaffa-torrefacteur-kenya",
@@ -256,7 +256,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T13:14:49Z",
-      "lastSeenAt": "2026-09-21T05:20:41Z"
+      "lastSeenAt": "2026-09-28T05:19:51Z"
     },
     {
       "id": "kaffa-torrefacteur-cascara-de-gloria-gummerus",
@@ -291,7 +291,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:20:07Z",
-      "lastSeenAt": "2026-09-21T05:20:41Z"
+      "lastSeenAt": "2026-09-28T05:19:51Z"
+    },
+    {
+      "id": "kaffa-torrefacteur-cafe-jorge-vasquez",
+      "name": "Café de Jorge Vasquez",
+      "originCountry": null,
+      "originDetail": "Costa Rica, Tarrazú",
+      "process": "Lavé",
+      "variety": "Caturra",
+      "producer": "Jorge Vasquez",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Toutes méhodes",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://kaffa-roastery.com/wp-content/uploads/2025/09/costa-rica-quetzal-site.jpg",
+      "retailers": [
+        {
+          "site": "Kaffa Torréfacteur",
+          "url": "https://kaffa-roastery.com/produit/cafe-jorge-vasquez/",
+          "price": 9.2,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-28T05:19:51Z",
+      "lastSeenAt": "2026-09-28T05:19:51Z"
     }
   ]
 }

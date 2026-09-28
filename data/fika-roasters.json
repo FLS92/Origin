@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.fikaroasters.fr/wp-content/uploads/2025/07/BACKFichier-4@4x-1.png"
   },
-  "scrapedAt": "2026-09-21T05:18:11Z",
+  "scrapedAt": "2026-09-28T05:18:25Z",
   "products": [
     {
       "id": "fika-roasters-cafe-perou-perlamayo",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-el-silencio",
@@ -89,7 +89,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-indonesie-tuang",
@@ -130,7 +130,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-ouganda-mukuru-west",
@@ -169,7 +169,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-attia",
@@ -207,7 +207,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-nicaragua-los-papales",
@@ -245,7 +245,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-costa-rica-las-lajas",
@@ -282,7 +282,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-ethiopie-wamena",
@@ -322,7 +322,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-decafeine-mexique",
@@ -355,7 +355,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-colombie-suukala",
@@ -393,7 +393,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-bresil-san-rafael",
@@ -430,7 +430,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-el-recreo",
@@ -463,7 +463,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:18:11Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-ethiopie-ayla",
@@ -496,7 +496,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:18:11Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     },
     {
       "id": "fika-roasters-cafe-guatemala-jacinta",
@@ -529,7 +529,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:18:11Z",
-      "lastSeenAt": "2026-09-21T05:18:11Z"
+      "lastSeenAt": "2026-09-28T05:18:25Z"
     }
   ]
 }

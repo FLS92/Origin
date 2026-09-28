@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
   },
-  "scrapedAt": "2026-09-21T05:24:45Z",
+  "scrapedAt": "2026-09-28T05:21:18Z",
   "products": [
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
@@ -34,7 +34,7 @@
       ],
       "harvestYear": null,
       "description": "Café mexicain fruité d'origine Majomut, certifié biologique et équitable, avec des notes de vanille, chocolat noir, caramel et fruits rouges.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2025/11/LIlot-Cafes-Produits_MEXIQUE-Majomut_specialite-qualite-premium.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2026/02/LIlot-Cafes-Mexique-Majomut-indiens-bio-equitable.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
@@ -124,7 +124,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafes-maison-dola-fami",
@@ -182,7 +182,7 @@
       ],
       "harvestYear": null,
       "description": "Assemblage maison certifié biologique et équitable, caractérisé par un profil suave et doux avec des notes chocolatées et de fruits noirs.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/DOLA-FAMI-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/LIlot-Cafes-Assemblage-DOLAFAMI-expresso-doux-bio-equitable-specialite.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -197,7 +197,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafe-maison-cuilco",
@@ -218,7 +218,7 @@
       ],
       "harvestYear": null,
       "description": "Assemblage maison certifié biologique et équitable, offrant un profil équilibré avec des notes de cacao et de fruits secs.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/CUILCO-Assemblage-maison_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/LIlot-Cafes-Produits-CUILCO-assemblage-expresso-capuccino-latte.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
@@ -254,7 +254,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café nicaraguayen de Jinotega offre une tasse au profil doux avec des notes de chocolat et caramel. Il est certifié biologique et équitable.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/Nicaragua-Jinotega-Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/01/LIlot-Cafes-Nicaragua-Jinotega-bio-ethique-Gers.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -263,13 +263,13 @@
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
@@ -306,7 +306,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-santa-rosa",
@@ -329,7 +329,7 @@
       ],
       "harvestYear": null,
       "description": "Café biologique et équitable d'origine péruvienne présentant un corps corsé avec des notes de fruits secs et de mangue.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/PEROU-Santa-Rosa_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Santa-Rosa-Perou-bio-equitable-micro-lot.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
@@ -381,7 +381,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
@@ -402,7 +402,7 @@
       ],
       "harvestYear": null,
       "description": "Café biologique et équitable d'Honduras présentant un profil sucré et fruité avec des notes de cacao et fruits secs.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/HONDURAS-Capucas_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Honduras-bio-equitable-cooperative-amerique-latine-specialite.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -417,7 +417,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
@@ -454,7 +454,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
@@ -477,7 +477,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café équatorien de Palanda offre un profil gustatif doux et sucré avec des notes de chocolat, caramel, miel et malt. Il est certifié biologique et équitable.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/EQUATEUR-Palanda_Lilot-Cafes-Torrefaction-Occitane-Gers-biologique-equitable.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Equateur-Palanda-bio-equitable-haut-de-gamme.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
@@ -492,7 +492,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-09-21T05:24:45Z"
+      "lastSeenAt": "2026-09-28T05:21:18Z"
     }
   ]
 }

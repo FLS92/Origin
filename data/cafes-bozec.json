@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1"
   },
-  "scrapedAt": "2026-09-21T05:25:22Z",
+  "scrapedAt": "2026-09-28T05:21:51Z",
   "products": [
     {
       "id": "cafes-bozec-cafes-bozec-indonesie-sumatra",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-nicaragua-maragogype",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-huila",
@@ -115,7 +115,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-salvador-cerro-el-aguila",
@@ -153,7 +153,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
@@ -252,7 +252,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-blend-historique-costa-rica-mexique-bresil",
@@ -288,7 +288,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-blend-signature-ethiopie-bresil-colombie",
@@ -323,11 +323,11 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-bresil-fazenda-jaguara",
-      "name": "Cafés Bozec Brésil Fazenda Jaguara",
+      "name": "Brésil Fazenda Jaguara",
       "originCountry": "Brésil",
       "originDetail": "Région de Campo das Vertentes, Minas Gerais, Fazenda Jaguara",
       "process": null,
@@ -356,7 +356,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-origine",
@@ -395,7 +395,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-kobi-gamme-terroir",
@@ -430,7 +430,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-nicaragua-mogoton",
@@ -466,7 +466,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua",
@@ -501,7 +501,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-07T05:21:13Z",
       "lastSeenAt": "2026-09-21T05:25:22Z"
     },
@@ -539,7 +539,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:22:33Z",
-      "lastSeenAt": "2026-09-21T05:25:22Z"
+      "lastSeenAt": "2026-09-28T05:21:51Z"
+    },
+    {
+      "id": "cafes-bozec-cafes-bozec-honduras-la-esmeralda",
+      "name": "Honduras – La Esmeralda",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/6.png?fit=1063%2C1063&ssl=1",
+      "retailers": [
+        {
+          "site": "Cafés Bozec",
+          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-honduras-la-esmeralda/",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-28T05:21:51Z",
+      "lastSeenAt": "2026-09-28T05:21:51Z"
     }
   ]
 }

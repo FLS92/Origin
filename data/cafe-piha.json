@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafepiha.com/wp-content/themes/piha/images/logo-piha-site.svg"
   },
-  "scrapedAt": "2026-09-21T05:21:01Z",
+  "scrapedAt": "2026-09-28T05:20:12Z",
   "products": [
     {
       "id": "cafe-piha-miss-wush",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-jungle-halo",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-villa-pastora-2",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-jos-papayo",
@@ -148,7 +148,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-mandela-100g",
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-mystic-geisha-cafe",
@@ -223,7 +223,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-box-decouverte-piha",
@@ -256,7 +256,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-petit-creme-chocolat-hasnaa",
@@ -289,7 +289,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-los-campos",
@@ -322,7 +322,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-la-victoria-honey",
@@ -355,7 +355,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-cascara",
@@ -388,7 +388,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-fleurs-de-cafe",
@@ -421,7 +421,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-blend-bio-haka",
@@ -456,7 +456,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-cafe-bio-honduras-la-victoria-nature",
@@ -489,7 +489,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-decafeine-la-belle-endormie",
@@ -526,7 +526,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-melange-cafes-grains-blend-all-blacks",
@@ -562,7 +562,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:42Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-la-victoria-lave",
@@ -595,7 +595,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:20:39Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-edema",
@@ -628,7 +628,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:21:01Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     },
     {
       "id": "cafe-piha-bourbon-sidra",
@@ -661,7 +661,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:21:01Z",
-      "lastSeenAt": "2026-09-21T05:21:01Z"
+      "lastSeenAt": "2026-09-28T05:20:12Z"
     }
   ]
 }

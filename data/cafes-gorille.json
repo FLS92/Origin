@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg"
   },
-  "scrapedAt": "2026-09-14T05:21:08Z",
+  "scrapedAt": "2026-09-28T05:20:39Z",
   "products": [
     {
       "id": "cafes-gorille-cafe-de-colombie-neiva",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-pays-nom-fiche-type-a-dupliquer-biologique",
@@ -87,7 +87,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-macucane",
@@ -118,7 +118,7 @@
         {
           "site": "Cafés Gorille",
           "url": "https://cafes-gorille.com/produit/cafe-du-nicaragua-macucane/",
-          "price": 10.0,
+          "price": 11.0,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -128,7 +128,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-moyobamba-biologique",
@@ -166,7 +166,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-dindonesie-ijenhighlands",
@@ -205,7 +205,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-rugamba",
@@ -243,7 +243,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-saqulew-biologique",
@@ -280,7 +280,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-dethiopie-moka-abyssinia",
@@ -318,7 +318,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-xarisma",
@@ -355,7 +355,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-honduras-copanti-biologique",
@@ -391,7 +391,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-muka-kivu",
@@ -433,7 +433,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-de-colombie-golden-huila",
@@ -470,7 +470,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-tata-nahual",
@@ -507,7 +507,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-matunda",
@@ -544,7 +544,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-kiambu",
@@ -587,7 +587,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-pozuzo",
@@ -625,7 +625,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-mexique-custepec-rainforest-alliance",
@@ -662,7 +662,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda",
@@ -705,7 +705,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-du-bresil",
@@ -742,7 +742,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     },
     {
       "id": "cafes-gorille-cafe-dindonesie-manggarai",
@@ -769,7 +769,7 @@
       ],
       "harvestYear": null,
       "description": "Café indonésien issu de la région de Manggarai présentant un profil aromatique complexe dominé par des notes chocolatées et épicées, avec un corps crémeux et une persistance marquée en bouche.",
-      "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/04/Cafes-gorille-nouveautes-indonesie.webp",
+      "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/09/Pochette-Indonesie-Manggarai-e1788619690971.png",
       "retailers": [
         {
           "site": "Cafés Gorille",
@@ -784,7 +784,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:19:58Z",
-      "lastSeenAt": "2026-09-14T05:21:08Z"
+      "lastSeenAt": "2026-09-28T05:20:39Z"
+    },
+    {
+      "id": "cafes-gorille-cafe-d-ouganda-malidadi-micro-lot-by-norman-mukuru",
+      "name": "CAFÉ D’OUGANDA – MALIDADI – Micro-lot by Norman Mukuru",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/04/Cafes-gorille-nouveautes-indonesie.webp",
+      "retailers": [
+        {
+          "site": "Cafés Gorille",
+          "url": "https://cafes-gorille.com/produit/cafe-d-ouganda-malidadi-micro-lot-by-norman-mukuru/",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-28T05:20:39Z",
+      "lastSeenAt": "2026-09-28T05:20:39Z"
+    },
+    {
+      "id": "cafes-gorille-cafe-du-honduras-ika-hau-biologique",
+      "name": "CAFÉ DU HONDURAS – IKA HAU – Biologique",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cafes-gorille.com/wp-content/uploads/2026/04/Cafes-gorille-nouveautes-indonesie.webp",
+      "retailers": [
+        {
+          "site": "Cafés Gorille",
+          "url": "https://cafes-gorille.com/produit/cafe-du-honduras-ika-hau-biologique/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-09-28T05:20:39Z",
+      "lastSeenAt": "2026-09-28T05:20:39Z"
     }
   ]
 }

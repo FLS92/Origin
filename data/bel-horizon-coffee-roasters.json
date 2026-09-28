@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
   },
-  "scrapedAt": "2026-09-21T05:17:31Z",
+  "scrapedAt": "2026-09-28T05:17:53Z",
   "products": [
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
@@ -43,13 +43,13 @@
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
@@ -80,13 +80,13 @@
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-1000-hills",
@@ -119,13 +119,13 @@
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-cordillera-del-fuego",
@@ -160,13 +160,13 @@
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-el-porvenir",
@@ -237,7 +237,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-finca-bella",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-04-coconut-co-ferment-espresso",
@@ -307,13 +307,13 @@
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:29Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-02-bright-yellow-co-ferment-filter",
@@ -336,7 +336,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/superposition-2027-02-bright-yellow-co-ferment-filter",
-          "price": 15.0,
+          "price": 14.0,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
@@ -346,7 +346,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-03-watermelon-co-ferment-filter",
@@ -379,7 +379,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-01-peach-co-ferment-filter",
@@ -412,7 +412,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-09-21T05:17:31Z"
+      "lastSeenAt": "2026-09-28T05:17:53Z"
     }
   ]
 }
