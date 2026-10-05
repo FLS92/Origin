@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
   },
-  "scrapedAt": "2026-09-28T05:17:53Z",
+  "scrapedAt": "2026-10-05T05:26:19Z",
   "products": [
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
@@ -39,7 +39,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-02-okapa-filter",
-          "price": 12.0,
+          "price": 11.0,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
@@ -76,7 +76,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/singularity-2027-01-gasharu-filter",
-          "price": 12.0,
+          "price": 11.0,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-1000-hills",
@@ -123,7 +123,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:53Z",
       "lastSeenAt": "2026-09-28T05:17:53Z"
     },
@@ -156,7 +156,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/cordillera-del-fuego",
-          "price": 30.0,
+          "price": 29.0,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -166,7 +166,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-el-porvenir",
@@ -235,7 +235,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:53Z",
       "lastSeenAt": "2026-09-28T05:17:53Z"
     },
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-04-coconut-co-ferment-espresso",
@@ -313,7 +313,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:29Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-02-bright-yellow-co-ferment-filter",
@@ -346,7 +346,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-03-watermelon-co-ferment-filter",
@@ -379,7 +379,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-01-peach-co-ferment-filter",
@@ -402,7 +402,7 @@
         {
           "site": "Bel Horizon Coffee Roasters",
           "url": "https://belhorizon.coffee/products/superposition-2027-01-peach-co-ferment-filter",
-          "price": 16.0,
+          "price": 15.0,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": "à partir de",
@@ -412,7 +412,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-09-28T05:17:53Z"
+      "lastSeenAt": "2026-10-05T05:26:19Z"
     }
   ]
 }

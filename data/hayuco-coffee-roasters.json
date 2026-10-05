@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.hayuco.coffee/cdn/shop/files/Logotype_BLANC_HD_180x.png?v=1786376226"
   },
-  "scrapedAt": "2026-09-28T05:20:36Z",
+  "scrapedAt": "2026-10-05T05:29:05Z",
   "products": [
     {
       "id": "hayuco-coffee-roasters-lec-1",
@@ -45,7 +45,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:57Z",
       "lastSeenAt": "2026-09-28T05:20:36Z"
     },
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-luis-b",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-anderson",
@@ -156,7 +156,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:57Z",
       "lastSeenAt": "2026-09-28T05:20:36Z"
     },
@@ -195,7 +195,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-naeb-ituze-1",
@@ -232,7 +232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-exclow",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-opita",
@@ -304,7 +304,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-cielow",
@@ -339,7 +339,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-trinity-zero",
@@ -372,7 +372,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:57Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     },
     {
       "id": "hayuco-coffee-roasters-yoiner-mosquera",
@@ -409,7 +409,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:21:04Z",
-      "lastSeenAt": "2026-09-28T05:20:36Z"
+      "lastSeenAt": "2026-10-05T05:29:05Z"
+    },
+    {
+      "id": "hayuco-coffee-roasters-las-lajas",
+      "name": "Las Lajas",
+      "originCountry": "Costa Rica",
+      "originDetail": "San José",
+      "process": null,
+      "variety": "Catuai",
+      "producer": "Las Lajas",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0256/6022/7658/files/IMG_20200510_191110_53d7b44e-43b9-4e3d-9d6f-1021f683d09b-384ceb5b56.webp?v=1786428091",
+      "retailers": [
+        {
+          "site": "Hayuco Coffee Roasters",
+          "url": "https://hayuco.coffee/products/las-lajas",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:29:05Z",
+      "lastSeenAt": "2026-10-05T05:29:05Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
-  "scrapedAt": "2026-09-28T05:21:12Z",
+  "scrapedAt": "2026-10-05T05:29:33Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -120,7 +120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -157,7 +157,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -194,7 +194,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -232,7 +232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p910",
@@ -340,7 +340,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -377,7 +377,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -410,7 +410,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -441,7 +441,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-09-28T05:21:12Z"
     },
@@ -474,7 +474,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-09-28T05:21:12Z"
     },
@@ -509,7 +509,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -544,7 +544,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -584,7 +584,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1903",
@@ -617,7 +617,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -650,7 +650,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p657",
@@ -681,9 +681,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1927",
@@ -720,7 +720,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:21:43Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1901",
@@ -751,9 +751,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-14T05:21:43Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p905",
@@ -786,7 +786,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:24:39Z",
-      "lastSeenAt": "2026-09-28T05:21:12Z"
+      "lastSeenAt": "2026-10-05T05:29:33Z"
     }
   ]
 }

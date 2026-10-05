@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lapellecafe.com/wp-content/uploads/2017/12/admin-ajax.png"
   },
-  "scrapedAt": "2026-09-28T05:20:14Z",
+  "scrapedAt": "2026-10-05T05:28:43Z",
   "products": [
     {
       "id": "la-pelle-cafe-cafe-specialite-rwanda-gatare-titus",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:44Z",
-      "lastSeenAt": "2026-09-28T05:20:14Z"
+      "lastSeenAt": "2026-10-05T05:28:43Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-nicaragua-geisha-el-paraiso",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:44Z",
-      "lastSeenAt": "2026-09-28T05:20:14Z"
+      "lastSeenAt": "2026-10-05T05:28:43Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-ethiopie-guji-coba",
@@ -160,7 +160,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:44Z",
-      "lastSeenAt": "2026-09-28T05:20:14Z"
+      "lastSeenAt": "2026-10-05T05:28:43Z"
     },
     {
       "id": "la-pelle-cafe-cafe-specialite-bresil-caparao-santa-rita-2",
@@ -197,7 +197,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:44Z",
-      "lastSeenAt": "2026-09-28T05:20:14Z"
+      "lastSeenAt": "2026-10-05T05:28:43Z"
     }
   ]
 }

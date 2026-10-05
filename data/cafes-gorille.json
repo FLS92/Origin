@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafes-gorille.com/wp-content/uploads/2024/10/Logo_Mondial_Relay_Cafes_gorille.svg"
   },
-  "scrapedAt": "2026-09-28T05:20:39Z",
+  "scrapedAt": "2026-10-05T05:29:08Z",
   "products": [
     {
       "id": "cafes-gorille-cafe-de-colombie-neiva",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-pays-nom-fiche-type-a-dupliquer-biologique",
@@ -87,7 +87,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-macucane",
@@ -128,7 +128,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-moyobamba-biologique",
@@ -166,7 +166,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-dindonesie-ijenhighlands",
@@ -205,7 +205,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-rugamba",
@@ -243,7 +243,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-saqulew-biologique",
@@ -280,7 +280,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-dethiopie-moka-abyssinia",
@@ -318,7 +318,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-nicaragua-xarisma",
@@ -355,7 +355,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-honduras-copanti-biologique",
@@ -391,7 +391,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda-muka-kivu",
@@ -433,7 +433,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-de-colombie-golden-huila",
@@ -470,7 +470,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-guatemala-tata-nahual",
@@ -507,7 +507,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-matunda",
@@ -544,7 +544,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-kenya-kiambu",
@@ -587,7 +587,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-perou-pozuzo",
@@ -625,7 +625,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-mexique-custepec-rainforest-alliance",
@@ -662,7 +662,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-rwanda",
@@ -705,7 +705,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-bresil",
@@ -742,7 +742,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:00Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-dindonesie-manggarai",
@@ -784,7 +784,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:19:58Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-d-ouganda-malidadi-micro-lot-by-norman-mukuru",
@@ -817,7 +817,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:20:39Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     },
     {
       "id": "cafes-gorille-cafe-du-honduras-ika-hau-biologique",
@@ -850,7 +850,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:20:39Z",
-      "lastSeenAt": "2026-09-28T05:20:39Z"
+      "lastSeenAt": "2026-10-05T05:29:08Z"
     }
   ]
 }

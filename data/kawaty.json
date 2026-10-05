@@ -11,7 +11,7 @@
     "notes": "Plateforme Wizishop (SaaS français), pas d'API JSON publique connue — scraping via parsing HTML des pages catégories/produits (contenu rendu côté serveur).",
     "logoUrl": "https://media.cdnws.com/_i/154691/751/3394/53/logo-kawaty-principal.jpeg"
   },
-  "scrapedAt": "2026-09-28T05:22:36Z",
+  "scrapedAt": "2026-10-05T05:31:06Z",
   "products": [
     {
       "id": "kawaty-1982",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-alta-mogiana",
@@ -82,7 +82,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T07:04:21Z",
       "lastSeenAt": "2026-09-28T05:22:36Z"
     },
@@ -120,7 +120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-bridazul-nicaragua",
@@ -158,7 +158,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T07:04:21Z",
       "lastSeenAt": "2026-09-28T05:22:36Z"
     },
@@ -195,7 +195,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-cafe-aromatise-noisette",
@@ -230,7 +230,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-cafe-aromatise-vanille",
@@ -265,7 +265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-colombie-sofia",
@@ -301,7 +301,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-guatemala-los-volcanes",
@@ -338,7 +338,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-honduras-lenca",
@@ -376,7 +376,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-kawaty-blend",
@@ -412,7 +412,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-melange-italien",
@@ -447,7 +447,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-mexique-chocaman",
@@ -483,7 +483,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-perou-sueno-decafeine",
@@ -519,7 +519,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-mokaharrar",
@@ -554,7 +554,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-sidamo-moka",
@@ -590,7 +590,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-nicaragua",
@@ -625,7 +625,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-perou-palomar",
@@ -660,7 +660,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T07:04:21Z",
-      "lastSeenAt": "2026-09-28T05:22:36Z"
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     },
     {
       "id": "kawaty-costarica-san-rafael-tarrazu",
@@ -696,7 +696,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T07:04:21Z",
       "lastSeenAt": "2026-09-28T05:22:36Z"
     },
@@ -736,9 +736,141 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T07:04:21Z",
       "lastSeenAt": "2026-09-28T05:22:36Z"
+    },
+    {
+      "id": "kawaty-ethiopie-bedeye",
+      "name": "Bedeye Ehtiopie",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://media.cdnws.com/_i/154691/779/3510/81/microlots-paquets-90x140mm.png",
+      "retailers": [
+        {
+          "site": "Kawaty",
+          "url": "https://www.kawaty.fr/nos-cafes/les-signatures/ethiopie-bedeye.html",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:31:06Z",
+      "lastSeenAt": "2026-10-05T05:31:06Z"
+    },
+    {
+      "id": "kawaty-bendincion-nicaragua",
+      "name": "Bendicion Nicaragua",
+      "originCountry": "Nicaragua",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://media.cdnws.com/_i/154691/787/1519/89/microlots-paquets-90x140mm.png",
+      "retailers": [
+        {
+          "site": "Kawaty",
+          "url": "https://www.kawaty.fr/nos-cafes/les-signatures/bendincion-nicaragua.html",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:31:06Z",
+      "lastSeenAt": "2026-10-05T05:31:06Z"
+    },
+    {
+      "id": "kawaty-echemo-ethiopie",
+      "name": "ECHEMO Ethiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://media.cdnws.com/_i/154691/782/3873/84/microlots-paquets-90x140mm.png",
+      "retailers": [
+        {
+          "site": "Kawaty",
+          "url": "https://www.kawaty.fr/nos-cafes/les-signatures/echemo-ethiopie.html",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:31:06Z",
+      "lastSeenAt": "2026-10-05T05:31:06Z"
+    },
+    {
+      "id": "kawaty-inde-malabar",
+      "name": "Inde Malabar",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://media.cdnws.com/_i/154691/778/2372/80/origines-paquets-55x140mm.png",
+      "retailers": [
+        {
+          "site": "Kawaty",
+          "url": "https://www.kawaty.fr/nos-cafes/les-origines/inde-malabar.html",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:31:06Z",
+      "lastSeenAt": "2026-10-05T05:31:06Z"
     }
   ]
 }

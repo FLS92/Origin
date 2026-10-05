@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
-  "scrapedAt": "2026-09-28T05:21:46Z",
+  "scrapedAt": "2026-10-05T05:30:15Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -45,7 +45,7 @@
           "stockStatus": "outofstock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:38Z",
       "lastSeenAt": "2026-09-28T05:21:46Z"
     },
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-09-28T05:21:46Z"
+      "lastSeenAt": "2026-10-05T05:30:15Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -152,7 +152,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:25:15Z",
-      "lastSeenAt": "2026-09-28T05:21:46Z"
+      "lastSeenAt": "2026-10-05T05:30:15Z"
     },
     {
       "id": "cafe-1802-san-miguel-bio",
@@ -185,7 +185,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:21:46Z",
-      "lastSeenAt": "2026-09-28T05:21:46Z"
+      "lastSeenAt": "2026-10-05T05:30:15Z"
+    },
+    {
+      "id": "cafe-1802-gaseke-rwanda-naturel",
+      "name": "Gaseke - Rwanda - Naturel",
+      "originCountry": "Rwanda",
+      "originDetail": "Nyamasheke",
+      "process": "Naturel",
+      "variety": "Bourbon rouge",
+      "producer": null,
+      "score": 85.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Gaseke.png?v=1790691134",
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/gaseke-rwanda-naturel",
+          "price": 9.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:30:15Z",
+      "lastSeenAt": "2026-10-05T05:30:15Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
   },
-  "scrapedAt": "2026-09-28T05:18:50Z",
+  "scrapedAt": "2026-10-05T05:27:20Z",
   "products": [
     {
       "id": "loutsa-cafe-salvador-apanea",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -81,9 +81,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-14T05:18:37Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cold-brew",
@@ -121,7 +121,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-geisha-cafe-dexception",
@@ -160,7 +160,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -236,7 +236,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -311,7 +311,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -350,7 +350,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-coffret-artisanal",
@@ -383,7 +383,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-espresso-duo",
@@ -416,7 +416,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -455,7 +455,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -494,7 +494,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -534,7 +534,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -567,7 +567,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -600,7 +600,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-espresso",
@@ -676,7 +676,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -715,7 +715,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -753,7 +753,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -792,7 +792,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -832,7 +832,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -871,7 +871,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-09-28T05:18:50Z"
+      "lastSeenAt": "2026-10-05T05:27:20Z"
+    },
+    {
+      "id": "loutsa-cafe-solidaire-octobre-rose",
+      "name": "CAFÉ SOLIDAIRE OCTOBRE ROSE",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": "Bourbon, Caturra, SL28, Ruiru 11",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": "Moelleux · Rond",
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-solidaire-octobre-rose-3935503.png?v=1790854540",
+      "retailers": [
+        {
+          "site": "Loutsa",
+          "url": "https://loutsa.fr/products/cafe-solidaire-octobre-rose",
+          "price": 15.8,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:27:20Z",
+      "lastSeenAt": "2026-10-05T05:27:20Z"
     }
   ]
 }

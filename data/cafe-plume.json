@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png"
   },
-  "scrapedAt": "2026-09-28T05:21:06Z",
+  "scrapedAt": "2026-10-05T05:29:28Z",
   "products": [
     {
       "id": "cafe-plume-colombie-yuppie-100-arabica",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-perou-cataratas-100-arabica-bio",
@@ -88,7 +88,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-guatemala-panama-100-robusta",
@@ -126,7 +126,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-nicaragua-jinotega-100-arabica",
@@ -162,7 +162,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
@@ -199,7 +199,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-ethiopie-moka-boji-wollega",
@@ -235,7 +235,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-inde-bresil-le-melange-corse",
@@ -273,7 +273,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-bresil-espirito-santo-vanille",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-09-28T05:21:06Z"
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     },
     {
       "id": "cafe-plume-ethiopie-jebena",
@@ -344,9 +344,86 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:16Z",
       "lastSeenAt": "2026-09-28T05:21:06Z"
+    },
+    {
+      "id": "cafe-plume-colombie-narino-100-arabica",
+      "name": "Colombie – Nariño 100% Arabica",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": "Lavé – Patios",
+      "variety": "Castillo, Cenicafe, Caturra rouge",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Abricot",
+        "Chocolat au lait",
+        "Panela"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/10/Narino-paquet-scaled.jpg",
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/colombie-narino-100-arabica/",
+          "price": 9.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:29:28Z",
+      "lastSeenAt": "2026-10-05T05:29:28Z"
+    },
+    {
+      "id": "cafe-plume-ethiopie-gundira-shela-100-arabica",
+      "name": "Ethiopie – Gundira Shela 100% Arabica",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Nature – Lits africains",
+      "variety": "74112, 74110",
+      "producer": "Ephrem Mulugeta",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Floral",
+        "Agrumes",
+        "Fruits tropicaux",
+        "Cacao",
+        "Sucré",
+        "Epicé"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://plumedecafe.fr/wp-content/uploads/2026/10/Gundira-Shela-paquet-scaled.jpg",
+      "retailers": [
+        {
+          "site": "Café Plume",
+          "url": "https://plumedecafe.fr/boutique/ethiopie-gundira-shela-100-arabica/",
+          "price": 9.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:29:28Z",
+      "lastSeenAt": "2026-10-05T05:29:28Z"
     }
   ]
 }

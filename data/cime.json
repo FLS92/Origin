@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg"
   },
-  "scrapedAt": "2026-09-28T05:21:32Z",
+  "scrapedAt": "2026-10-05T05:30:00Z",
   "products": [
     {
       "id": "cime-p517",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p516",
@@ -157,7 +157,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:30Z",
       "lastSeenAt": "2026-09-28T05:21:32Z"
     },
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p542",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p541",
@@ -270,7 +270,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p538",
@@ -307,7 +307,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p508",
@@ -414,7 +414,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p267",
@@ -451,7 +451,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p153",
@@ -488,7 +488,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p85",
@@ -525,7 +525,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p5",
@@ -560,9 +560,83 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:30Z",
       "lastSeenAt": "2026-09-28T05:21:32Z"
+    },
+    {
+      "id": "cime-p552",
+      "name": "Alo - Mosto Natural Anaérobie 72H",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": "74518",
+      "producer": "ALO VILLAGE",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Raisin",
+        "Ananas",
+        "Fruits Jaune"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/a/l/alo_wesbite.jpg",
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cafe_exception_finca_nogales_geisha_azahar_ci-1.html",
+          "price": 25.0,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:30:00Z",
+      "lastSeenAt": "2026-10-05T05:30:00Z"
+    },
+    {
+      "id": "cime-p551",
+      "name": "Sergio Gomez",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Ombligon",
+      "producer": "Finca Anaya",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Mangue",
+        "Ananas",
+        "Romarin"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/g/o/gomez_website.jpg",
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/cafe_exception_finca_nogales_geisha_azahar_cim-1.html",
+          "price": 18.5,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:30:00Z",
+      "lastSeenAt": "2026-10-05T05:30:00Z"
     }
   ]
 }

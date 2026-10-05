@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.larbreacafe.com/cdn/shop/files/logo-laac24-vertical_674095ea-346b-4191-af03-defc403300e3_1600x.png?v=1773997418"
   },
-  "scrapedAt": "2026-09-28T05:16:13Z",
+  "scrapedAt": "2026-10-05T05:24:28Z",
   "products": [
     {
       "id": "l-arbre-a-cafe-mariposa-java",
@@ -39,7 +39,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-java",
-          "price": 24.28,
+          "price": 23.99,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-gedeo-naturel",
@@ -76,7 +76,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gedeo-naturel",
-          "price": 21.96,
+          "price": 21.69,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-mariposa-cristal-coffee-globe",
@@ -114,7 +114,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-cristal-coffee-globe",
-          "price": 34.74,
+          "price": 34.32,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -124,7 +124,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-lajones-bambu",
@@ -152,7 +152,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/lajones-bambu",
-          "price": 42.87,
+          "price": 42.36,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -162,7 +162,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-chichogallo",
@@ -190,7 +190,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chichogallo",
-          "price": 28.93,
+          "price": 28.58,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -200,7 +200,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-assortiment-grands-crus-chocolates",
@@ -228,7 +228,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-grands-crus-chocolates",
-          "price": 59.25,
+          "price": 58.54,
           "currency": "EUR",
           "unitWeightG": 750,
           "priceNote": null,
@@ -238,7 +238,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-zelaya",
@@ -265,7 +265,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/zelaya",
-          "price": 20.21,
+          "price": 19.97,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-fhlor-1",
@@ -303,7 +303,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/fhlor-1",
-          "price": 19.63,
+          "price": 19.97,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -313,7 +313,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-mariposa-isabelina",
@@ -340,7 +340,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-isabelina",
-          "price": 23.12,
+          "price": 22.84,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -350,7 +350,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-autour-du-volcan-1",
@@ -376,7 +376,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/autour-du-volcan-1",
-          "price": 40.54,
+          "price": 40.06,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -386,7 +386,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-mariposa-atlas-coffee-globe",
@@ -413,7 +413,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-atlas-coffee-globe",
-          "price": 30.09,
+          "price": 29.73,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -423,7 +423,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-chakra-do-dago",
@@ -450,7 +450,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chakra-do-dago",
-          "price": 20.79,
+          "price": 20.55,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -460,7 +460,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-assortiment-degustation-decouverte",
@@ -488,7 +488,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-degustation-decouverte",
-          "price": 113.01,
+          "price": 111.66,
           "currency": "EUR",
           "unitWeightG": 1500,
           "priceNote": null,
@@ -498,7 +498,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-kit-decouverte-offre-de-lancement-reniala",
@@ -521,7 +521,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/kit-decouverte-offre-de-lancement-reniala",
-          "price": 118.73,
+          "price": 117.31,
           "currency": "EUR",
           "unitWeightG": 963,
           "priceNote": null,
@@ -531,7 +531,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-flhor-en-dosettes-reniala-by-larbre-a-cafe",
@@ -559,7 +559,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/flhor-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": 13.24,
+          "price": 13.09,
           "currency": "EUR",
           "unitWeightG": 120,
           "priceNote": "à partir de",
@@ -569,7 +569,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-amarillo-en-dosettes-reniala-by-larbre-a-cafe",
@@ -596,7 +596,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/amarillo-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": 22.31,
+          "price": 22.04,
           "currency": "EUR",
           "unitWeightG": 120,
           "priceNote": "à partir de",
@@ -606,7 +606,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-gera-en-dosettes-reniala-by-larbre-a-cafe",
@@ -633,7 +633,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gera-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": 13.24,
+          "price": 13.09,
           "currency": "EUR",
           "unitWeightG": 120,
           "priceNote": "à partir de",
@@ -643,7 +643,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-origine-en-dosettes-reniala-by-larbre-a-cafe",
@@ -671,7 +671,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": 11.85,
+          "price": 11.71,
           "currency": "EUR",
           "unitWeightG": 120,
           "priceNote": "à partir de",
@@ -681,7 +681,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe",
@@ -708,7 +708,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": 13.94,
+          "price": 13.77,
           "currency": "EUR",
           "unitWeightG": 120,
           "priceNote": "à partir de",
@@ -718,7 +718,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-bourbon-pointu-grand-cru",
@@ -746,7 +746,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/bourbon-pointu-grand-cru",
-          "price": 68.43,
+          "price": 67.61,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -756,7 +756,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-canopee-en-capsule",
@@ -783,7 +783,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/canopee-en-capsule",
-          "price": 20.79,
+          "price": 20.55,
           "currency": "EUR",
           "unitWeightG": 131,
           "priceNote": "à partir de",
@@ -793,7 +793,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-origine-en-capsule",
@@ -821,7 +821,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-capsule",
-          "price": 20.79,
+          "price": 20.55,
           "currency": "EUR",
           "unitWeightG": 131,
           "priceNote": "à partir de",
@@ -831,7 +831,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-saqulew",
@@ -858,7 +858,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saqulew",
-          "price": 20.79,
+          "price": 20.55,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -868,7 +868,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-blue-mariposa-1",
@@ -895,7 +895,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/blue-mariposa-1",
-          "price": 21.96,
+          "price": 21.69,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -905,7 +905,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-timana",
@@ -932,7 +932,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/timana",
-          "price": 21.96,
+          "price": 21.69,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -942,7 +942,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-coffret-illumination",
@@ -967,7 +967,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-illumination",
-          "price": 156.83,
+          "price": 154.96,
           "currency": "EUR",
           "unitWeightG": 400,
           "priceNote": null,
@@ -977,7 +977,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-coffret-metamorphose",
@@ -1000,7 +1000,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-metamorphose",
-          "price": 98.75,
+          "price": 97.57,
           "currency": "EUR",
           "unitWeightG": 300,
           "priceNote": null,
@@ -1010,7 +1010,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-au-coeur-de-la-foret-1",
@@ -1039,7 +1039,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/au-coeur-de-la-foret-1",
-          "price": 28.93,
+          "price": 28.58,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -1049,7 +1049,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-source",
@@ -1076,7 +1076,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/source",
-          "price": 18.47,
+          "price": 18.25,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -1086,7 +1086,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-nouvel-assemblage-canopee",
@@ -1113,7 +1113,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-canopee",
-          "price": 17.31,
+          "price": 17.1,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -1123,7 +1123,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-saio",
@@ -1151,7 +1151,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saio",
-          "price": 21.96,
+          "price": 21.69,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -1161,7 +1161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-assortiment-initiation",
@@ -1189,7 +1189,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-initiation",
-          "price": 50.42,
+          "price": 49.82,
           "currency": "EUR",
           "unitWeightG": 750,
           "priceNote": null,
@@ -1199,7 +1199,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-decafeine-en-capsule",
@@ -1226,7 +1226,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine-en-capsule",
-          "price": 23.12,
+          "price": 22.84,
           "currency": "EUR",
           "unitWeightG": 131,
           "priceNote": "à partir de",
@@ -1236,7 +1236,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-nouvel-assemblage-origine",
@@ -1264,7 +1264,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-origine",
-          "price": 17.31,
+          "price": 17.1,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -1274,7 +1274,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-decafeine",
@@ -1301,7 +1301,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine",
-          "price": 19.63,
+          "price": 19.4,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -1311,7 +1311,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:10Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-mariposa-monarca-coffee-globe",
@@ -1339,7 +1339,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-monarca-coffee-globe",
-          "price": 26.6,
+          "price": 26.29,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -1349,7 +1349,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-06T06:40:05Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-reserve-agua-coffee-globe",
@@ -1377,7 +1377,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/reserve-agua-coffee-globe",
-          "price": 57.97,
+          "price": 57.28,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -1387,7 +1387,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:15:31Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-echo",
@@ -1414,7 +1414,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/echo",
-          "price": 57.97,
+          "price": 57.28,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -1424,7 +1424,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:15:31Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-radiance",
@@ -1451,7 +1451,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/radiance",
-          "price": 61.46,
+          "price": 60.72,
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
@@ -1461,7 +1461,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:15:31Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     },
     {
       "id": "l-arbre-a-cafe-assortiment-coffee-globe",
@@ -1493,7 +1493,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-coffee-globe",
-          "price": 86.86,
+          "price": 85.82,
           "currency": "EUR",
           "unitWeightG": 1500,
           "priceNote": null,
@@ -1503,7 +1503,44 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:15:31Z",
-      "lastSeenAt": "2026-09-28T05:16:13Z"
+      "lastSeenAt": "2026-10-05T05:24:28Z"
+    },
+    {
+      "id": "l-arbre-a-cafe-globe",
+      "name": "Globe",
+      "originCountry": "Pérou",
+      "originDetail": "Junin",
+      "process": "Sur lit en chambre",
+      "variety": "Arabica",
+      "producer": "L'Arbre à Café",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Fruits blancs",
+        "épices",
+        "agrumes"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/mariposa-isabelina-larbre-a-cafe-cafe-7453315.webp?v=1784688792",
+      "retailers": [
+        {
+          "site": "L'Arbre à Café",
+          "url": "https://larbreacafe.com/products/globe",
+          "price": 34.32,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:24:28Z",
+      "lastSeenAt": "2026-10-05T05:24:28Z"
     }
   ]
 }

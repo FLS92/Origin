@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://montista.com/wp-content/uploads/2020/11/cropped-Logo_blanc_trsp.png"
   },
-  "scrapedAt": "2026-09-28T05:20:53Z",
+  "scrapedAt": "2026-10-05T05:29:17Z",
   "products": [
     {
       "id": "montista-san-antonio-el-salvador",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-papa-blend",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-guariroba-bresil",
@@ -120,7 +120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-cundinamarca-colombie",
@@ -158,7 +158,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-kamunyaka-kenya-nyeri",
@@ -194,7 +194,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-dcaf5",
@@ -231,7 +231,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-kinini-rwanda",
@@ -268,7 +268,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-ayla-bombe-ethiopie",
@@ -305,7 +305,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-mexique-huehuetepan",
@@ -342,7 +342,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-mbili-tanzanie",
@@ -378,7 +378,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-clark-lave-ouganda",
@@ -413,7 +413,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-simbu-cafe-papouasie-nouvelle-guinee",
@@ -451,7 +451,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-finca-union-cafe-mexique",
@@ -489,7 +489,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-baragwi-cafe-kenya",
@@ -524,7 +524,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-don-claudio-costa-rica",
@@ -558,7 +558,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:07Z",
       "lastSeenAt": "2026-09-28T05:20:53Z"
     },
@@ -593,7 +593,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-don-victor-nicaragua",
@@ -630,7 +630,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-blend5",
@@ -667,7 +667,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-el-puente",
@@ -704,7 +704,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-thageini",
@@ -740,7 +740,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-c-hamburgo",
@@ -773,7 +773,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-la-esperanza",
@@ -809,7 +809,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-c-huehuetepan-lave",
@@ -842,7 +842,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-huehuetepan",
@@ -875,7 +875,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-c-sunheri",
@@ -908,7 +908,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-c-suke-afursa",
@@ -941,7 +941,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-c-dcaf1",
@@ -974,7 +974,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     },
     {
       "id": "montista-c-blend3",
@@ -1011,7 +1011,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:07Z",
-      "lastSeenAt": "2026-09-28T05:20:53Z"
+      "lastSeenAt": "2026-10-05T05:29:17Z"
+    },
+    {
+      "id": "montista-don-senel-costa-rica",
+      "name": "Don Senel | Costa Rica",
+      "originCountry": "Costa Rica",
+      "originDetail": "Costa Rica – Brunca",
+      "process": "Naturel",
+      "variety": "Catigua",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso, Filtres et Méthodes Douces, Tout (omniroast)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://montista.com/wp-content/uploads/2026/09/don-senel-cafe-montista-pack-250g-shot-002-scaled.jpg",
+      "retailers": [
+        {
+          "site": "Montista",
+          "url": "https://montista.com/boutique/cafe-de-specialite/don-senel-costa-rica/",
+          "price": 14.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:29:17Z",
+      "lastSeenAt": "2026-10-05T05:29:17Z"
     }
   ]
 }

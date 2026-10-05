@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.yellowpeak.fr/wp-content/uploads/elementor/thumbs/Logo-Yellow-Peak-torrefacteur-cafe-de-specialite-pau-1-qyp8s8axq94t7rcp0hmd3u4fj2k1o33ijao6rmhdw0.png"
   },
-  "scrapedAt": "2026-09-28T05:20:18Z",
+  "scrapedAt": "2026-10-05T05:28:46Z",
   "products": [
     {
       "id": "yellow-peak-cafe-doradito",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-alapi-honey-du-bresil",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-coucal",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-monterita",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-decafeine-roupillon",
@@ -188,7 +188,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-papou",
@@ -223,7 +223,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-drongo",
@@ -260,7 +260,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:20:45Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     },
     {
       "id": "yellow-peak-cafe-senegali",
@@ -297,7 +297,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:20:45Z",
-      "lastSeenAt": "2026-09-28T05:20:18Z"
+      "lastSeenAt": "2026-10-05T05:28:46Z"
     }
   ]
 }

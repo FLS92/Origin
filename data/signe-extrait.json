@@ -11,7 +11,7 @@
     "notes": "La marque s'appelle maintenant simplement \"Extrait\" (extrait.fr) — le coffee-shop \"Signé Extrait\" a fermé en 2022, mais la boutique en ligne est active.",
     "logoUrl": "https://www.extrait.fr/img/extraitfr-logo-1455523302.jpg"
   },
-  "scrapedAt": "2026-09-28T05:19:36Z",
+  "scrapedAt": "2026-10-05T05:28:15Z",
   "products": [
     {
       "id": "signe-extrait-p69",
@@ -32,7 +32,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café propose un profil épicé et vanillé, convenant aussi bien à l'espresso qu'aux méthodes de filtration pour une tasse riche et puissante.",
-      "imageUrl": "https://www.extrait.fr/201-home_default/sunda-indonesie-cafe-grains-300g.jpg",
+      "imageUrl": "https://www.extrait.fr/225-home_default/sunda-indonesie-cafe-grains-300g.jpg",
       "retailers": [
         {
           "site": "Signé Extrait",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:29Z",
-      "lastSeenAt": "2026-09-28T05:19:36Z"
+      "lastSeenAt": "2026-10-05T05:28:15Z"
     },
     {
       "id": "signe-extrait-p80",
@@ -82,7 +82,106 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:29Z",
-      "lastSeenAt": "2026-09-28T05:19:36Z"
+      "lastSeenAt": "2026-10-05T05:28:15Z"
+    },
+    {
+      "id": "signe-extrait-p84",
+      "name": "CERRADO",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.extrait.fr/223-home_default/cerrado-bresil-cafe-grains.jpg",
+      "retailers": [
+        {
+          "site": "Signé Extrait",
+          "url": "https://www.extrait.fr/cafes/84-cerrado-bresil-cafe-grains.html",
+          "price": 11.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:28:15Z",
+      "lastSeenAt": "2026-10-05T05:28:15Z"
+    },
+    {
+      "id": "signe-extrait-p85",
+      "name": "SIDAMA",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.extrait.fr/227-home_default/sidama-ethiopie-cafe-arabica.jpg",
+      "retailers": [
+        {
+          "site": "Signé Extrait",
+          "url": "https://www.extrait.fr/cafes/85-sidama-ethiopie-cafe-arabica.html",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:28:15Z",
+      "lastSeenAt": "2026-10-05T05:28:15Z"
+    },
+    {
+      "id": "signe-extrait-p86",
+      "name": "YIRGACHEFFE",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.extrait.fr/229-home_default/yirgacheffe-ethiopie-cafe-grains.jpg",
+      "retailers": [
+        {
+          "site": "Signé Extrait",
+          "url": "https://www.extrait.fr/cafes/86-yirgacheffe-ethiopie-cafe-grains.html",
+          "price": 12.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:28:15Z",
+      "lastSeenAt": "2026-10-05T05:28:15Z"
     }
   ]
 }

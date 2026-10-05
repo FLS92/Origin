@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
   },
-  "scrapedAt": "2026-09-28T05:21:42Z",
+  "scrapedAt": "2026-10-05T05:30:10Z",
   "products": [
     {
       "id": "tinto-recreio-cafe-du-bresil-250g-1kg",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-paz-decafeine-250g-1-kg-2",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-kebena-cafe-dethiopie-250-g-1-kg",
@@ -117,7 +117,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-lunatico-cafe-ouganda-250g-1kg-copie",
@@ -150,7 +150,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-resiliencia-cafe-de-colombie-250g-1kg",
@@ -187,7 +187,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-guarapito-cafe-de-colombie",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-bocadillo-cafe-colombie-250g-1kg",
@@ -263,7 +263,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-pura-vida-mae-cafe-de-costa-rica-250g-1kg",
@@ -299,7 +299,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-komothai-cafe-du-kenya-250g-1kg",
@@ -338,7 +338,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     },
     {
       "id": "tinto-quilombo-cafe-bresilien-250g-1kg",
@@ -375,7 +375,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-09-28T05:21:42Z"
+      "lastSeenAt": "2026-10-05T05:30:10Z"
+    },
+    {
+      "id": "tinto-octubre-rojo-cafe-5-ans",
+      "name": "Octubre Rojo – Café 5 ans",
+      "originCountry": "Colombie",
+      "originDetail": "Palestina, Huila",
+      "process": "Lavé (Washed) Score SCA : 87 pts",
+      "variety": "Pink Bourbon",
+      "producer": "Juan Jiménez Peña & Leidy (Ferme El Porvenir)",
+      "score": 87,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/09/Pura-Vida-WOOPlan-de-travail-23.png?fit=369%2C349&ssl=1",
+      "retailers": [
+        {
+          "site": "TINTO",
+          "url": "https://www.tintonantes.fr/produit/octubre-rojo-cafe-5-ans/",
+          "price": 18.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:30:10Z",
+      "lastSeenAt": "2026-10-05T05:30:10Z"
+    },
+    {
+      "id": "tinto-esperanza-cafe-de-colombie",
+      "name": "Esperanza – Café de Colombie",
+      "originCountry": "Colombie",
+      "originDetail": "Rica Brisa, Tarquí (Huila)",
+      "process": "Lavé (Fermentation en sacs de 40h-50h & séchage sous serre)",
+      "variety": "Pink Bourbon",
+      "producer": "Finca La",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/09/Esperanza-02.png?fit=1537%2C1454&ssl=1",
+      "retailers": [
+        {
+          "site": "TINTO",
+          "url": "https://www.tintonantes.fr/produit/esperanza-cafe-de-colombie/",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-05T05:30:10Z",
+      "lastSeenAt": "2026-10-05T05:30:10Z"
     }
   ]
 }
