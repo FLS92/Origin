@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cime-cafe.fr/pub/media/config/default/CIME-Logotype-home-123x110_2_.svg"
   },
-  "scrapedAt": "2026-10-05T05:30:00Z",
+  "scrapedAt": "2026-10-12T13:00:57Z",
   "products": [
     {
       "id": "cime-p517",
@@ -37,7 +37,7 @@
       "retailers": [
         {
           "site": "Cime",
-          "url": "https://www.cime-cafe.fr/cafe_exception_finca_lasoledad_cime.html",
+          "url": "https://www.cime-cafe.fr/cafe_exception_lasoledad_pepe_sidra_washed.html",
           "price": 32.0,
           "currency": "EUR",
           "unitWeightG": 150,
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p516",
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p542",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p541",
@@ -270,7 +270,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p538",
@@ -307,7 +307,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p508",
@@ -412,7 +412,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:30Z",
       "lastSeenAt": "2026-10-05T05:30:00Z"
     },
@@ -451,7 +451,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p153",
@@ -477,7 +477,7 @@
       "retailers": [
         {
           "site": "Cime",
-          "url": "https://www.cime-cafe.fr/assemblage_le_blend_arabica_cime.html",
+          "url": "https://www.cime-cafe.fr/cafe_single_origin_brésil_cime.html",
           "price": 8.5,
           "currency": "EUR",
           "unitWeightG": 250,
@@ -488,7 +488,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p85",
@@ -523,13 +523,13 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:30Z",
       "lastSeenAt": "2026-10-05T05:30:00Z"
     },
     {
       "id": "cime-p5",
-      "name": "Planadas - Décaféiné",
+      "name": "Condor Decaf - Décaféiné",
       "originCountry": "Colombie",
       "originDetail": null,
       "process": null,
@@ -547,12 +547,12 @@
       ],
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/p/l/planadas-de_ca-online.jpg",
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/c/o/condor_decaf.jpg",
       "retailers": [
         {
           "site": "Cime",
-          "url": "https://www.cime-cafe.fr/café_décaféiné_planadas_colombie.html",
-          "price": 13.2,
+          "url": "https://www.cime-cafe.fr/café_décaféiné_elvergel_colombie.html",
+          "price": 13.5,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": null,
@@ -560,9 +560,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:17:30Z",
-      "lastSeenAt": "2026-09-28T05:21:32Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p552",
@@ -588,7 +588,7 @@
       "retailers": [
         {
           "site": "Cime",
-          "url": "https://www.cime-cafe.fr/cafe_exception_finca_nogales_geisha_azahar_ci-1.html",
+          "url": "https://www.cime-cafe.fr/microlot_excpetion_alo_mosto_anaerobic_cime.html",
           "price": 25.0,
           "currency": "EUR",
           "unitWeightG": 150,
@@ -599,7 +599,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:30:00Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     },
     {
       "id": "cime-p551",
@@ -625,7 +625,7 @@
       "retailers": [
         {
           "site": "Cime",
-          "url": "https://www.cime-cafe.fr/cafe_exception_finca_nogales_geisha_azahar_cim-1.html",
+          "url": "https://www.cime-cafe.fr/microlot_sergio_gomez_fincaanaya_cime.html",
           "price": 18.5,
           "currency": "EUR",
           "unitWeightG": 150,
@@ -636,7 +636,154 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:30:00Z",
-      "lastSeenAt": "2026-10-05T05:30:00Z"
+      "lastSeenAt": "2026-10-12T13:00:57Z"
+    },
+    {
+      "id": "cime-p555",
+      "name": "Virtuoso",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": "Typica",
+      "producer": "Nogales",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": [
+        "Banane",
+        "Mangue  Ananas"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/v/i/virtuooso_web.jpg",
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/microlot_nogales_virtuoso_cime.html",
+          "price": 20.0,
+          "currency": "EUR",
+          "unitWeightG": 150,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T13:00:57Z",
+      "lastSeenAt": "2026-10-12T13:00:57Z"
+    },
+    {
+      "id": "cime-p554",
+      "name": "Finca Las Brisas - Profil Espresso",
+      "originCountry": "Guatemala",
+      "originDetail": null,
+      "process": null,
+      "variety": "Mélange",
+      "producer": "Finca las Brisas",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": [
+        "Caramel",
+        "Orange",
+        "Pomme Rouge"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/l/a/las_brisas_guatemala_website.jpg",
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/las_brisas_guatemala_single_origin_cime.html",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T13:00:57Z",
+      "lastSeenAt": "2026-10-12T13:00:57Z"
+    },
+    {
+      "id": "cime-p553",
+      "name": "Nuru - Profil Filtre",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": null,
+      "variety": "SL-34, SL28",
+      "producer": "Thirikwa",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": [
+        "Pêche",
+        "Fruits jaunes",
+        "Caramel"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/n/u/nuruweb.jpg",
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/nuru_kenya_washed_filter_coffee_cime.html",
+          "price": 18.6,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T13:00:57Z",
+      "lastSeenAt": "2026-10-12T13:00:57Z"
+    },
+    {
+      "id": "cime-p387",
+      "name": "Daterra Summer Solstice - Profil Espresso",
+      "originCountry": "Brésil",
+      "originDetail": null,
+      "process": null,
+      "variety": "Mélange",
+      "producer": "Daterra",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": [
+        "Chocolat noir",
+        "Fraise",
+        "Miel"
+      ],
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.cime-cafe.fr/pub/media/catalog/product/cache/a2212fa664cb1d1800b67d5b8d9c1408/d/a/daterra_website.jpg",
+      "retailers": [
+        {
+          "site": "Cime",
+          "url": "https://www.cime-cafe.fr/daterra_summer_solstice_single_origin_brazil.html",
+          "price": 12.6,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T13:00:57Z",
+      "lastSeenAt": "2026-10-12T13:00:57Z"
     }
   ]
 }

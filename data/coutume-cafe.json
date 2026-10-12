@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400"
   },
-  "scrapedAt": "2026-10-05T05:23:44Z",
+  "scrapedAt": "2026-10-12T12:54:20Z",
   "products": [
     {
       "id": "coutume-cafe-coffee-lover",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-carafe-a-cafe-en-verre-300-ml-kinto",
@@ -462,7 +462,7 @@
       ],
       "harvestYear": "2025",
       "description": "Un café brésilien de la région de Mogiana au profil rond et gourmand, travaillé en méthode naturelle et marqué par des saveurs de cacao et de fruits sucrés.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA1KG_927127ee-6356-4533-9016-6b2c733dbad1.png?v=1783613949",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA_1KG.png?v=1791206630",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -477,7 +477,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-250g",
@@ -499,7 +499,7 @@
       ],
       "harvestYear": "2025",
       "description": "Café brésilien de la région de São José de Rio Pardo, traité en naturel, offrant un profil rond et gourmand avec des saveurs de cacao et praliné, adapté à une consommation quotidienne.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA250G.png?v=1783614075",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA250G_0735483f-9140-4106-b47a-7d580a4d758f.png?v=1791367682",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -514,7 +514,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-2-kg",
@@ -536,7 +536,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café brésilien de la région de Mogiana, traité en naturel, propose un profil sucré et gourmand avec des saveurs de cacao et de fruits confits, adapté à une consommation généraliste.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA2KG.png?v=1783680808",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/MOGIANA2KG_91978fdd-fc9a-486e-86af-1a6c46ec496f.png?v=1791368057",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -551,7 +551,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-filadelfia",
@@ -732,7 +732,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:07Z",
       "lastSeenAt": "2026-10-05T05:23:44Z"
     },
@@ -754,7 +754,7 @@
       ],
       "harvestYear": "2025",
       "description": "Café décaféiné de spécialité en provenance du Chiapas au Mexique, élaboré à partir d'un mélange de trois variétés et traité en méthode lavée pour une tasse équilibrée. Il se caractérise par des notes de cacao qui en font un café gourmand accessible au quotidien.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO1KG.png?v=1783681103",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO1KG_b68b6194-8200-4611-b4af-87d3b005abdf.png?v=1791368645",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -769,7 +769,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-250g",
@@ -789,7 +789,7 @@
       ],
       "harvestYear": "2025",
       "description": "Ce café décaféiné mexicain du Chiapas allie plusieurs variétés travaillées en lavé pour offrir une tasse équilibrée aux notes de cacao, conçu pour une consommation quotidienne accessible.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO250G.png?v=1783680991",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO250G_eb35567a-e9ac-4f59-9cd9-66f40c8d3eec.png?v=1791368530",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -804,7 +804,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-2kg",
@@ -824,7 +824,7 @@
       ],
       "harvestYear": null,
       "description": "Café décaféiné de spécialité mexicain issu du Chiapas, traité par voie lavée et présentant un profil équilibré avec des notes de cacao.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO2KG.png?v=1783681046",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/SUENO2KG_44f091f2-c27b-430f-ba8d-aea373598200.png?v=1791368590",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -839,7 +839,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-1kg",
@@ -861,7 +861,7 @@
       ],
       "harvestYear": "2025",
       "description": "Café d'Éthiopie traité en naturel, provenant de la ferme Bedaye, proposant un profil fruité avec des notes de myrtille, raisin et abricot dans une tasse douce et onctueuse.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE1KG.png?v=1785244488",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE1KG_8c71ba96-fbcd-4a71-9102-274c33e30124.png?v=1791203927",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -876,7 +876,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-250g",
@@ -898,7 +898,7 @@
       ],
       "harvestYear": "2025",
       "description": "Café de spécialité éthiopien traité en naturel, issu de la ferme Bedaye et offrant un profil aromatique fruité avec des notes de myrtille, raisin et abricot.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE250G_2938df86-8975-456e-a1bb-f51b1663580f.png?v=1785244459",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE250G_b216f18b-770d-4ed9-9ac6-d8bdfc071766.png?v=1791203896",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -913,7 +913,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-2kg",
@@ -935,7 +935,7 @@
       ],
       "harvestYear": null,
       "description": "Café de spécialité éthiopien traité en naturel, originaire de la région de Jimma, présentant un profil aromatique fruité et complexe.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE2KG.png?v=1785244517",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BEDAYE2KG_e8f742e8-f16e-4a9a-92d5-6ecc650f1e23.png?v=1791204150",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -950,7 +950,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-sedi-loya-bio-2kg-copie",
@@ -985,7 +985,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:07Z",
       "lastSeenAt": "2026-10-05T05:23:44Z"
     },
@@ -1022,7 +1022,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:07Z",
       "lastSeenAt": "2026-10-05T05:23:44Z"
     },
@@ -1044,7 +1044,7 @@
       ],
       "harvestYear": "2025",
       "description": "Ce café guatémaltèque cultivé en altitude sur des sols volcaniques propose un profil équilibré et gourmand avec des notes de cacao, adapté à la consommation quotidienne.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION1KG.png?v=1783680871",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION1KG_6ebc0ee4-21cc-4fd9-939d-ebdbe6604688.png?v=1791368398",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1059,7 +1059,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-bendicion-250g",
@@ -1079,7 +1079,7 @@
       ],
       "harvestYear": "2025",
       "description": "Café de spécialité guatémaltèque cultivé en altitude sur sols volcaniques, traité par voie lavée pour une tasse équilibrée et gourmande dominée par les notes de cacao.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION250G.png?v=1783613794",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION_250G.png?v=1791206945",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1094,7 +1094,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
@@ -1114,7 +1114,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café de spécialité guatémaltéen au profil équilibré se distingue par ses notes de cacao et sa régularité d'extraction, le rendant particulièrement adapté à un usage professionnel.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION2KG.png?v=1783673358",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION2KG_2cbb6129-5316-4950-9c8a-1f841e3634a4.png?v=1791368278",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1129,7 +1129,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-tajumulco",
@@ -1151,7 +1151,7 @@
       ],
       "harvestYear": "2025",
       "description": "Ce café guatémaltèque de montagne offre une tasse équilibrée et généreuse marquée par des notes de chocolat, caramel et vanille.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO1Kg.png?v=1781172439",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO_1Kg.png?v=1791206447",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1166,7 +1166,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-tajumulco-250g",
@@ -1188,7 +1188,7 @@
       ],
       "harvestYear": "2025",
       "description": "Ce café guatémaltèque traité en lavé propose un profil équilibré et corsé avec des notes de chocolat au lait, caramel et vanille.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO250g.png?v=1781172251",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO_250g.png?v=1791205980",
       "retailers": [
         {
           "site": "Coutume Café",
@@ -1203,7 +1203,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-cubi-10-litres",
@@ -1234,13 +1234,13 @@
           "currency": "EUR",
           "unitWeightG": 10000,
           "priceNote": null,
-          "inStock": true,
-          "stockStatus": "instock"
+          "inStock": false,
+          "stockStatus": "outofstock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cubi-10l-copie",
@@ -1277,7 +1277,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-12-canettes",
@@ -1314,7 +1314,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-24-canettes",
@@ -1351,7 +1351,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-pack-de-6-canettes",
@@ -1388,7 +1388,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-banko-taratu-1kg",
@@ -1421,7 +1421,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-banko-taratu-250g",
@@ -1454,7 +1454,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-gerba-dogo-250g-copie",
@@ -1487,7 +1487,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-gerba-dogo-250g",
@@ -1520,7 +1520,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-honduras-marcala-1kg",
@@ -1553,7 +1553,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-honduras-marcala-250g",
@@ -1586,7 +1586,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-honduras-marcala-2kg",
@@ -1619,7 +1619,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-05T05:23:44Z"
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-tajumulco-2kg",
@@ -1650,9 +1650,306 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-05T05:23:44Z",
       "lastSeenAt": "2026-10-05T05:23:44Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-burundi-butihinda-2kg",
+      "name": "Café Burundi Butihinda 1kg",
+      "originCountry": "Burundi",
+      "originDetail": "Muyinga",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BUTIHINDA_1KG.png?v=1791474252",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-burundi-butihinda-2kg",
+          "price": 37.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-burundi-butihinda-1kg-copie",
+      "name": "Café Burundi Butihinda 250g",
+      "originCountry": "Burundi",
+      "originDetail": "Muyinga",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BUTIHINDA_250G.png?v=1791474252",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-burundi-butihinda-1kg-copie",
+          "price": 11.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-ethiopie-banko-taratu-2kg",
+      "name": "Café Ethiopie Banko Taratu 2kg",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BANKO_TARATU_2KG.png?v=1791359042",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-ethiopie-banko-taratu-2kg",
+          "price": 73.85,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-ethiopie-bule-hora-1kg",
+      "name": "Café Ethiopie Bule Hora 1kg",
+      "originCountry": "Éthiopie",
+      "originDetail": "Bule Hora",
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BULE_HORA_-_1KG.png?v=1791383846",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-ethiopie-bule-hora-1kg",
+          "price": 47.9,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-ethiopie-bule-hora-250g",
+      "name": "Café Ethiopie Bule Hora 250g",
+      "originCountry": "Éthiopie",
+      "originDetail": "Bule Hora",
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BULE_HORA_-_250G.png?v=1791383846",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-ethiopie-bule-hora-250g",
+          "price": 14.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-ethiopie-bule-hora-2kg",
+      "name": "Café Ethiopie Bule Hora 2kg",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BULE_HORA_-_2KG.png?v=1791383846",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-ethiopie-bule-hora-2kg",
+          "price": 59.08,
+          "currency": "EUR",
+          "unitWeightG": 2000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-kenya-nyeri-1kg",
+      "name": "Café Kenya Nyeri 1kg",
+      "originCountry": "Kenya",
+      "originDetail": "Mont Kenya",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/NYERI_-_250G_2.png?v=1791383846",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-kenya-nyeri-1kg",
+          "price": 52.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-kenya-nyeri-250g",
+      "name": "Café Kenya Nyeri 250g",
+      "originCountry": "Kenya",
+      "originDetail": "Mont Kenya",
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/NYERI_-_250G.png?v=1791383845",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-kenya-nyeri-250g",
+          "price": 17.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
+    },
+    {
+      "id": "coutume-cafe-cafe-kenya-nyeri-2kg",
+      "name": "Café Kenya Nyeri 2kg",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/NYERI_-_2KG.png?v=1791383846",
+      "retailers": [
+        {
+          "site": "Coutume Café",
+          "url": "https://coutumecafe.com/products/cafe-kenya-nyeri-2kg",
+          "price": 65.41,
+          "currency": "EUR",
+          "unitWeightG": 2000,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:54:20Z",
+      "lastSeenAt": "2026-10-12T12:54:20Z"
     }
   ]
 }

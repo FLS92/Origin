@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
   },
-  "scrapedAt": "2026-10-05T05:26:48Z",
+  "scrapedAt": "2026-10-12T12:57:37Z",
   "products": [
     {
       "id": "mokxa-cafe-de-poche",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-cafe-saudade-blend",
@@ -82,7 +82,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-cafe-notorious-rob-blend",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-sitiodatorre",
@@ -154,7 +154,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:08Z",
       "lastSeenAt": "2026-10-05T05:26:48Z"
     },
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-santarosa-guatemala-bio",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-ayni-cafe-du-perou",
@@ -270,7 +270,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-taba-cafe-du-rwanda",
@@ -307,7 +307,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-decafeine-cafe-de-colombie",
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-coba-cafe-dethiopie",
@@ -449,7 +449,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-los-lirios-cafe-du-nicaragua-bio-2026",
@@ -486,7 +486,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-don-lino-cafe-de-colombie",
@@ -521,7 +521,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T10:45:00Z",
       "lastSeenAt": "2026-10-05T05:26:48Z"
     },
@@ -559,7 +559,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-04T14:54:09Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-la-independencia-cafe-du-salvador",
@@ -596,7 +596,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:18:05Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     },
     {
       "id": "mokxa-freestyle-batchs-blend-1",
@@ -633,7 +633,106 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:18:05Z",
-      "lastSeenAt": "2026-10-05T05:26:48Z"
+      "lastSeenAt": "2026-10-12T12:57:37Z"
+    },
+    {
+      "id": "mokxa-rio-brilhante-cafe-du-bresil",
+      "name": "Rio Brilhante - Café du Brésil",
+      "originCountry": "Brésil",
+      "originDetail": "Cerrado Mineiro",
+      "process": null,
+      "variety": "Blend de variétés",
+      "producer": "Inácio Urban",
+      "score": 84,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/BresilRioBrilhante03.jpg?v=1791796755",
+      "retailers": [
+        {
+          "site": "Mokxa",
+          "url": "https://cafemokxa.com/products/rio-brilhante-cafe-du-bresil",
+          "price": 8.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:57:37Z",
+      "lastSeenAt": "2026-10-12T12:57:37Z"
+    },
+    {
+      "id": "mokxa-la-llanara-cafe-de-colombie-15ans",
+      "name": "NOT BURNT YET - La Llanara - Café de Colombie",
+      "originCountry": "Colombie",
+      "originDetail": "Pitalito, Huila",
+      "process": null,
+      "variety": "Bourbon Papayo",
+      "producer": "Oscar Ome Llanara",
+      "score": 88,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/ColombieLaLlanara03.jpg?v=1781859306",
+      "retailers": [
+        {
+          "site": "Mokxa",
+          "url": "https://cafemokxa.com/products/la-llanara-cafe-de-colombie-15ans",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:57:37Z",
+      "lastSeenAt": "2026-10-12T12:57:37Z"
+    },
+    {
+      "id": "mokxa-hoang-hong-vietnam",
+      "name": "Hoàng Hôn - Café de Vietnam",
+      "originCountry": "Vietnam",
+      "originDetail": "Đung K’No, Lac Duong",
+      "process": null,
+      "variety": "Blend de variétés",
+      "producer": "Coopérative New Gikaru",
+      "score": 87,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/HoangHonMokxa03.jpg?v=1791193269",
+      "retailers": [
+        {
+          "site": "Mokxa",
+          "url": "https://cafemokxa.com/products/hoang-hong-vietnam",
+          "price": 19.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:57:37Z",
+      "lastSeenAt": "2026-10-12T12:57:37Z"
     }
   ]
 }

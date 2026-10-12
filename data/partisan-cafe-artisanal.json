@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
   },
-  "scrapedAt": "2026-10-05T05:25:10Z",
+  "scrapedAt": "2026-10-12T12:55:51Z",
   "products": [
     {
       "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-10-05T05:25:10Z"
+      "lastSeenAt": "2026-10-12T12:55:51Z"
     },
     {
       "id": "partisan-cafe-artisanal-colombie-aruzi-250g",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-10-05T05:25:10Z"
+      "lastSeenAt": "2026-10-12T12:55:51Z"
     },
     {
       "id": "partisan-cafe-artisanal-italian-blend-250g-copy",
@@ -179,7 +179,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-10-05T05:25:10Z"
+      "lastSeenAt": "2026-10-12T12:55:51Z"
     },
     {
       "id": "partisan-cafe-artisanal-copy-of-copy-of-colombie-la-claudina-250g",
@@ -212,7 +212,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:16:24Z",
-      "lastSeenAt": "2026-10-05T05:25:10Z"
+      "lastSeenAt": "2026-10-12T12:55:51Z"
     },
     {
       "id": "partisan-cafe-artisanal-copy-of-colombie-madremonte-250g",
@@ -245,7 +245,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:16:24Z",
-      "lastSeenAt": "2026-10-05T05:25:10Z"
+      "lastSeenAt": "2026-10-12T12:55:51Z"
     },
     {
       "id": "partisan-cafe-artisanal-ethiopia-samii-chelbesa",
@@ -278,7 +278,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:16:24Z",
-      "lastSeenAt": "2026-10-05T05:25:10Z"
+      "lastSeenAt": "2026-10-12T12:55:51Z"
+    },
+    {
+      "id": "partisan-cafe-artisanal-peru-gesha-250g",
+      "name": "UGANDA KIWABO 250g",
+      "originCountry": "Ouganda",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot_2026-10-09_at_09.49.08.png?v=1791532353",
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/peru-gesha-250g",
+          "price": 16.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-12T12:55:51Z",
+      "lastSeenAt": "2026-10-12T12:55:51Z"
     }
   ]
 }
