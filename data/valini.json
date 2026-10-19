@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
   },
-  "scrapedAt": "2026-10-12T13:00:16Z",
+  "scrapedAt": "2026-10-19T10:42:46Z",
   "products": [
     {
       "id": "valini-p2",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p77",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p91",
@@ -118,7 +118,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p94",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p93",
@@ -192,7 +192,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p105",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p104",
@@ -265,7 +265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p103",
@@ -298,7 +298,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:24:23Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     },
     {
       "id": "valini-p106",
@@ -331,7 +331,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:24:23Z",
-      "lastSeenAt": "2026-10-12T13:00:16Z"
+      "lastSeenAt": "2026-10-19T10:42:46Z"
+    },
+    {
+      "id": "valini-p107",
+      "name": "EL DIVISO - NESTO LASSO",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/453-full_default/Diviso.jpg",
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/accueil/107-Diviso.html",
+          "price": 29.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-19T10:42:46Z",
+      "lastSeenAt": "2026-10-19T10:42:46Z"
+    },
+    {
+      "id": "valini-p108",
+      "name": "HACIENDA LA ESMERALDA -...",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://valini.fr/458-full_default/Esmeralda.jpg",
+      "retailers": [
+        {
+          "site": "Valini",
+          "url": "https://valini.fr/accueil/108-Esmeralda.html",
+          "price": 24.9,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-19T10:42:46Z",
+      "lastSeenAt": "2026-10-19T10:42:46Z"
     }
   ]
 }

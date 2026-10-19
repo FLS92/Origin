@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/08/Cafe-Chulo_logo_noir_80.png?fit=80%2C80&ssl=1"
   },
-  "scrapedAt": "2026-10-12T12:58:47Z",
+  "scrapedAt": "2026-10-19T10:41:30Z",
   "products": [
     {
       "id": "cafe-chulo-la-bolsa-pacamara-natural-2026-vrac",
@@ -42,7 +42,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:23Z",
       "lastSeenAt": "2026-10-12T12:58:47Z"
     },
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-don-pilo-vrac-1kg",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-caturra-disabel-santa-rosa-vrac",
@@ -141,7 +141,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:23Z",
       "lastSeenAt": "2026-10-12T12:58:47Z"
     },
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-ayarza-natural-vrac",
@@ -209,7 +209,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-edo-barista-pichet-inox-590ml",
@@ -227,7 +227,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/06/inox-milk-pitcher-350-ml.jpg?fit=800%2C800&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2025/06/inox-milk-pitcher-350-ml.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-edo-barista-pichet-inox-350ml",
@@ -260,7 +260,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2025/06/inox-milk-pitcher-350-ml.jpg?fit=800%2C800&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2025/06/inox-milk-pitcher-350-ml.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-la-colina-antigua-vrac-1kg",
@@ -306,7 +306,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:23Z",
       "lastSeenAt": "2026-10-12T12:58:47Z"
     },
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-el-patio-huehuetenango-vrac-1kg",
@@ -374,7 +374,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-la-danta-huehuetenango-vrac-1kg",
@@ -407,7 +407,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-gobelet-2",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-tapis-de-tassage",
@@ -458,7 +458,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2023/01/Tamping-Mat-L.jpg?fit=1200%2C1200&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2023/01/Tamping-Mat-L.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -473,7 +473,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-verre-doseur-gradue",
@@ -491,7 +491,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2022/12/VD2155.jpg?fit=1000%2C800&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2022/12/VD2155.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -506,7 +506,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-el-potrero-antigua",
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-latte-glace",
@@ -572,7 +572,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-espresso-tonic",
@@ -605,7 +605,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-cold-brew-tonic",
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-siphon-4t",
@@ -671,7 +671,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-brosse-nettoyage-groupe-espresso",
@@ -689,7 +689,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2021/08/13-cbb-espresso-group-brush-black.jpg?fit=600%2C450&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2021/08/13-cbb-espresso-group-brush-black.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -704,7 +704,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-cuillere-de-degustation-cupping-motta",
@@ -722,7 +722,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2021/08/9_scu_stainless_cupping_spoon.jpg?fit=600%2C563&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2021/08/9_scu_stainless_cupping_spoon.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -737,7 +737,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-supplement-lait",
@@ -770,7 +770,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-caffe-in-ghiaccio",
@@ -803,7 +803,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-chocolat-mini",
@@ -836,7 +836,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-cold-brew",
@@ -869,7 +869,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-esprecieux-double",
@@ -902,7 +902,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-joefrex-microfibre-barista-noire",
@@ -920,7 +920,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://i0.wp.com/cafechulo.fr/wp-content/uploads/2021/03/12_bl1_barista_towel_black_600x600.jpg?fit=600%2C400&ssl=1",
+      "imageUrl": "https://cafechulo.fr/wp-content/uploads/2021/03/12_bl1_barista_towel_black_600x600.jpg",
       "retailers": [
         {
           "site": "Café Chulo",
@@ -935,7 +935,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-extra-shot-espresso",
@@ -968,7 +968,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-long-black",
@@ -1001,7 +1001,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-mocaccino",
@@ -1034,7 +1034,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-piston-4t",
@@ -1067,7 +1067,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-piston-2t",
@@ -1100,7 +1100,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-the",
@@ -1133,7 +1133,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-chocolat",
@@ -1166,7 +1166,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-piccolo",
@@ -1199,7 +1199,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-macchiato",
@@ -1232,7 +1232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-cortado",
@@ -1265,7 +1265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-latte",
@@ -1298,7 +1298,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-americano",
@@ -1331,7 +1331,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-flat-white",
@@ -1364,7 +1364,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-double",
@@ -1397,7 +1397,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-espresso",
@@ -1430,7 +1430,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-cappuccino",
@@ -1463,7 +1463,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:23Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     },
     {
       "id": "cafe-chulo-la-colina-26-vrac",
@@ -1496,7 +1496,106 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:19:28Z",
-      "lastSeenAt": "2026-10-12T12:58:47Z"
+      "lastSeenAt": "2026-10-19T10:41:30Z"
+    },
+    {
+      "id": "cafe-chulo-manos-de-mujer-geisha-amarillo-lavado-vrac",
+      "name": "Manos de Mujer – Geisha Amarillo Lavado – vrac",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": null,
+      "retailers": [
+        {
+          "site": "Café Chulo",
+          "url": "https://cafechulo.fr/boutique/cafe-movil/cafe-vrac/manos-de-mujer-geisha-amarillo-lavado-vrac/",
+          "price": 65.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-19T10:41:30Z",
+      "lastSeenAt": "2026-10-19T10:41:30Z"
+    },
+    {
+      "id": "cafe-chulo-catuai-disabel-lave-vrac",
+      "name": "Catuaí d’Isabel – lavé – vrac",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": null,
+      "retailers": [
+        {
+          "site": "Café Chulo",
+          "url": "https://cafechulo.fr/boutique/cafe-movil/cafe-vrac/catuai-disabel-lave-vrac/",
+          "price": 52.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-19T10:41:30Z",
+      "lastSeenAt": "2026-10-19T10:41:30Z"
+    },
+    {
+      "id": "cafe-chulo-la-bolsa-pacamara-natural-vrac",
+      "name": "La Bolsa – Pacamara Natural – vrac",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": null,
+      "retailers": [
+        {
+          "site": "Café Chulo",
+          "url": "https://cafechulo.fr/boutique/cafe-movil/cafe-vrac/la-bolsa-pacamara-natural-vrac/",
+          "price": 65.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-19T10:41:30Z",
+      "lastSeenAt": "2026-10-19T10:41:30Z"
     }
   ]
 }

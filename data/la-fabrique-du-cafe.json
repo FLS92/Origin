@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lafabriqueducafe.fr/wp-content/uploads/2024/07/Logo_Fabrique.png"
   },
-  "scrapedAt": "2026-10-12T12:59:46Z",
+  "scrapedAt": "2026-10-19T10:42:21Z",
   "products": [
     {
       "id": "la-fabrique-du-cafe-bedaye-bio-ethiopie-nature",
@@ -141,7 +141,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:56Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },
@@ -174,7 +174,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:56Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },
@@ -207,7 +207,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:56Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },
@@ -240,7 +240,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-14T05:20:59Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },
@@ -273,7 +273,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-14T05:20:59Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },
@@ -339,7 +339,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-14T05:20:59Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },
@@ -405,7 +405,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-14T05:20:59Z",
       "lastSeenAt": "2026-10-12T12:59:46Z"
     },

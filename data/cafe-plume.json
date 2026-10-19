@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://plumedecafe.fr/wp-content/uploads/2024/12/LOGO-GM_v1-245x184.png"
   },
-  "scrapedAt": "2026-10-12T13:00:22Z",
+  "scrapedAt": "2026-10-19T10:42:51Z",
   "products": [
     {
       "id": "cafe-plume-colombie-yuppie-100-arabica",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-perou-cataratas-100-arabica-bio",
@@ -86,7 +86,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:16Z",
       "lastSeenAt": "2026-10-12T13:00:22Z"
     },
@@ -124,7 +124,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:16Z",
       "lastSeenAt": "2026-10-12T13:00:22Z"
     },
@@ -162,7 +162,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-vietnam-dak-lak-robusta-100-robusta",
@@ -199,7 +199,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-ethiopie-moka-boji-wollega",
@@ -235,7 +235,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-inde-bresil-le-melange-corse",
@@ -273,7 +273,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-bresil-espirito-santo-vanille",
@@ -308,7 +308,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:16Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-ethiopie-jebena",
@@ -383,7 +383,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:29:28Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     },
     {
       "id": "cafe-plume-ethiopie-gundira-shela-100-arabica",
@@ -423,7 +423,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:29:28Z",
-      "lastSeenAt": "2026-10-12T13:00:22Z"
+      "lastSeenAt": "2026-10-19T10:42:51Z"
     }
   ]
 }
