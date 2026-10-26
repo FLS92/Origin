@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg"
   },
-  "scrapedAt": "2026-10-19T10:44:03Z",
+  "scrapedAt": "2026-10-26T10:58:22Z",
   "products": [
     {
       "id": "moklair-hendra-eclipse-2",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-lalesa-anaerobic",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-lalesa-washed-2",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-finca-voo-cup-of-excellence",
@@ -137,13 +137,13 @@
           "currency": "EUR",
           "unitWeightG": 100,
           "priceNote": null,
-          "inStock": false,
-          "stockStatus": "outofstock"
+          "inStock": true,
+          "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-finca-milan-watermelon-2",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-aguila-4-banc-hacienda-la-esmeralda-2",
@@ -242,7 +242,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-janson-908",
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-19T10:44:03Z"
+      "lastSeenAt": "2026-10-26T10:58:22Z"
     },
     {
       "id": "moklair-gaitania-2",
@@ -471,7 +471,7 @@
           "stockStatus": "outofstock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:56Z",
       "lastSeenAt": "2026-10-19T10:44:03Z"
     }

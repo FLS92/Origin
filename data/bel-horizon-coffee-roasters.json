@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://belhorizon.coffee/cdn/shop/t/4/assets/BHCR-logo.svg?v=21821067849853595001780785270"
   },
-  "scrapedAt": "2026-10-19T10:39:48Z",
+  "scrapedAt": "2026-10-26T10:54:09Z",
   "products": [
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-02-okapa-filter",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-01-gasharu-filter",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-1000-hills",
@@ -166,7 +166,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-el-porvenir",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:53Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-04-coconut-co-ferment-espresso",
@@ -313,7 +313,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:17:29Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-02-bright-yellow-co-ferment-filter",
@@ -346,7 +346,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-03-watermelon-co-ferment-filter",
@@ -379,7 +379,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-superposition-2027-01-peach-co-ferment-filter",
@@ -412,7 +412,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:17:31Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-05-pacamara-filter",
@@ -445,7 +445,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:57:05Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     },
     {
       "id": "bel-horizon-coffee-roasters-singularity-2027-06-bourbopacas-filter",
@@ -478,7 +478,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:57:05Z",
-      "lastSeenAt": "2026-10-19T10:39:48Z"
+      "lastSeenAt": "2026-10-26T10:54:09Z"
     }
   ]
 }

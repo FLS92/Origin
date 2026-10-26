@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://coutumecafe.com/cdn/shop/files/logo_300_x_100_px.png?v=1778604970&width=400"
   },
-  "scrapedAt": "2026-10-19T10:36:56Z",
+  "scrapedAt": "2026-10-26T10:51:29Z",
   "products": [
     {
       "id": "coutume-cafe-coffee-lover",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-carafe-a-cafe-en-verre-300-ml-kinto",
@@ -477,7 +477,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-250g",
@@ -514,7 +514,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-bresil-mogiana-2-kg",
@@ -551,7 +551,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-filadelfia",
@@ -769,7 +769,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-250g",
@@ -804,7 +804,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-decafeine-mexique-sueno-2kg",
@@ -839,7 +839,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-1kg",
@@ -876,7 +876,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-250g",
@@ -913,7 +913,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bedaye-2kg",
@@ -950,7 +950,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-sedi-loya-bio-2kg-copie",
@@ -1059,7 +1059,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-bendicion-250g",
@@ -1094,7 +1094,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
@@ -1127,7 +1127,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:07Z",
       "lastSeenAt": "2026-10-19T10:36:56Z"
     },
@@ -1164,7 +1164,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:07Z",
       "lastSeenAt": "2026-10-19T10:36:56Z"
     },
@@ -1240,7 +1240,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cubi-10l-copie",
@@ -1277,7 +1277,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-12-canettes",
@@ -1314,7 +1314,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-pack-de-24-canettes",
@@ -1351,7 +1351,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cold-brew-bio-pack-de-6-canettes",
@@ -1388,7 +1388,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:07Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-banko-taratu-1kg",
@@ -1421,7 +1421,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-banko-taratu-250g",
@@ -1454,7 +1454,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-gerba-dogo-250g-copie",
@@ -1487,7 +1487,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-gerba-dogo-250g",
@@ -1520,7 +1520,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-honduras-marcala-1kg",
@@ -1553,7 +1553,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-honduras-marcala-250g",
@@ -1586,7 +1586,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-honduras-marcala-2kg",
@@ -1619,7 +1619,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:14:58Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-guatemala-tajumulco-2kg",
@@ -1685,7 +1685,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-burundi-butihinda-1kg-copie",
@@ -1718,7 +1718,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-banko-taratu-2kg",
@@ -1751,7 +1751,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bule-hora-1kg",
@@ -1784,7 +1784,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bule-hora-250g",
@@ -1817,7 +1817,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-ethiopie-bule-hora-2kg",
@@ -1850,7 +1850,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-kenya-nyeri-1kg",
@@ -1883,7 +1883,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-kenya-nyeri-250g",
@@ -1916,7 +1916,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     },
     {
       "id": "coutume-cafe-cafe-kenya-nyeri-2kg",
@@ -1949,7 +1949,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:54:20Z",
-      "lastSeenAt": "2026-10-19T10:36:56Z"
+      "lastSeenAt": "2026-10-26T10:51:29Z"
     }
   ]
 }

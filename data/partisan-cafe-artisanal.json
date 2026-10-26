@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.parispartisancafe.com/cdn/shop/files/partisan_logo_FINAL_2_300x300.jpg?v=1613701133"
   },
-  "scrapedAt": "2026-10-19T10:38:44Z",
+  "scrapedAt": "2026-10-26T10:53:07Z",
   "products": [
     {
       "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
@@ -42,7 +42,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:14Z",
       "lastSeenAt": "2026-10-19T10:38:44Z"
     },
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-10-19T10:38:44Z"
+      "lastSeenAt": "2026-10-26T10:53:07Z"
     },
     {
       "id": "partisan-cafe-artisanal-italian-blend-250g-copy",
@@ -179,7 +179,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:14Z",
-      "lastSeenAt": "2026-10-19T10:38:44Z"
+      "lastSeenAt": "2026-10-26T10:53:07Z"
     },
     {
       "id": "partisan-cafe-artisanal-copy-of-copy-of-colombie-la-claudina-250g",
@@ -212,7 +212,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:16:24Z",
-      "lastSeenAt": "2026-10-19T10:38:44Z"
+      "lastSeenAt": "2026-10-26T10:53:07Z"
     },
     {
       "id": "partisan-cafe-artisanal-copy-of-colombie-madremonte-250g",
@@ -245,7 +245,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:16:24Z",
-      "lastSeenAt": "2026-10-19T10:38:44Z"
+      "lastSeenAt": "2026-10-26T10:53:07Z"
     },
     {
       "id": "partisan-cafe-artisanal-ethiopia-samii-chelbesa",
@@ -278,7 +278,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:16:24Z",
-      "lastSeenAt": "2026-10-19T10:38:44Z"
+      "lastSeenAt": "2026-10-26T10:53:07Z"
     },
     {
       "id": "partisan-cafe-artisanal-peru-gesha-250g",
@@ -311,7 +311,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:55:51Z",
-      "lastSeenAt": "2026-10-19T10:38:44Z"
+      "lastSeenAt": "2026-10-26T10:53:07Z"
+    },
+    {
+      "id": "partisan-cafe-artisanal-colombie-papayo-250g-copy",
+      "name": "KENYA KIANDERI AB 250g",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-10-24at10.32.41.png?v=1792830781",
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/colombie-papayo-250g-copy",
+          "price": 19.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-10-26T10:53:07Z",
+      "lastSeenAt": "2026-10-26T10:53:07Z"
     }
   ]
 }

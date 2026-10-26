@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://valini.fr/img/prestashop-logo-1585639196.jpg"
   },
-  "scrapedAt": "2026-10-19T10:42:46Z",
+  "scrapedAt": "2026-10-26T10:57:03Z",
   "products": [
     {
       "id": "valini-p2",
@@ -42,7 +42,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:12Z",
       "lastSeenAt": "2026-10-19T10:42:46Z"
     },
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p91",
@@ -118,7 +118,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p94",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p93",
@@ -192,7 +192,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p105",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p104",
@@ -265,7 +265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:12Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p103",
@@ -296,7 +296,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-21T05:24:23Z",
       "lastSeenAt": "2026-10-19T10:42:46Z"
     },
@@ -331,7 +331,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:24:23Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p107",
@@ -364,7 +364,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:42:46Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     },
     {
       "id": "valini-p108",
@@ -397,7 +397,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:42:46Z",
-      "lastSeenAt": "2026-10-19T10:42:46Z"
+      "lastSeenAt": "2026-10-26T10:57:03Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.latorref.com/cdn/shop/files/LA-TORREF_Logo_blanc-jaune.png?v=1740614365&width=600"
   },
-  "scrapedAt": "2026-10-19T10:42:11Z",
+  "scrapedAt": "2026-10-26T10:56:31Z",
   "products": [
     {
       "id": "la-torref-ico-gerba-dogo-ethiopie-ico-torrefaction",
@@ -50,7 +50,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-espresso-chr-bio-cafe-en-grain-pro",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-summer-blend-colombie-perou-ico-torrefaction",
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-house-blend-medium-dark-roast",
@@ -380,7 +380,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-manzanilla-perou-cafe-bio-decafeine",
@@ -419,7 +419,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:47Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-la-pradera-colombie-ico-torrefaction",
@@ -452,7 +452,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:28:46Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-coffret-repere-cafe-bio",
@@ -485,7 +485,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:59:33Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-coffret-explorateur-cafe-bio",
@@ -518,7 +518,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:59:33Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     },
     {
       "id": "la-torref-ico-coffret-gerba-dogo-deux-torrefactions",
@@ -551,7 +551,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:59:33Z",
-      "lastSeenAt": "2026-10-19T10:42:11Z"
+      "lastSeenAt": "2026-10-26T10:56:31Z"
     }
   ]
 }

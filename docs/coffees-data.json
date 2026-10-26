@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-19T10:44:54Z",
+  "generatedAt": "2026-10-26T10:59:04Z",
   "roasterCount": 67,
-  "coffeeCount": 1150,
+  "coffeeCount": 1148,
   "roasters": {
     "anbassa": {
       "name": "Anbassa",
@@ -739,7 +739,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/arlos-coffee",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "à partir de"
         }
       ]
@@ -766,7 +766,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-tolima",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "à partir de"
         }
       ]
@@ -820,7 +820,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/bresil-silvia",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "à partir de"
         }
       ]
@@ -874,7 +874,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/honduras-marco",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "à partir de"
         }
       ]
@@ -928,7 +928,7 @@
         {
           "site": "Arlo's Coffee",
           "url": "https://arloscoffee.com/products/colombie-deca",
-          "price": "5,00 €",
+          "price": "4,00 €",
           "note": "à partir de"
         }
       ]
@@ -1982,33 +1982,6 @@
           "site": "Belleville Brûlerie",
           "url": "https://cafesbelleville.com/products/sl-28-benjamin-paz-dolmin-moreno",
           "price": "28,95 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "belleville-brulerie-neptaly-bautista-honduras-cafe-belleville",
-      "roasterId": "belleville-brulerie",
-      "name": "Neptaly Bautista Finca Jazmin",
-      "origin": "Honduras · Santa Barbara, Finca Jazmin",
-      "originCountry": "Honduras",
-      "process": null,
-      "usage": "Omni",
-      "variety": "Arabica",
-      "producer": "Neptaly Bautista",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Cerises, Fruits confits, Miel",
-      "desc": "Un café hondurien cultivé en altitude à la Finca Jazmin, réputé pour son profil sucré et ses notes de cerises et fruits confits, issu d'une collaboration de longue date avec un producteur de renom.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0110/8118/7428/products/Bellevill-Brulerie-Paris-Honduras-1.jpg?v=1615539150",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Belleville Brûlerie",
-          "url": "https://cafesbelleville.com/products/neptaly-bautista-honduras-cafe-belleville",
-          "price": "21,90 €",
           "note": "à partir de"
         }
       ]
@@ -5794,33 +5767,6 @@
       ]
     },
     {
-      "id": "cafe-piha-villa-pastora-2",
-      "roasterId": "cafe-piha",
-      "name": "Villa Pastora",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": "Bourbon rouge",
-      "producer": "Yulieth et Gerson Mora Ortega",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": "Café vendu au kilo bénéficiant d'une réduction promotionnelle.",
-      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/07/IM1-VILLA-PASTORA2.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Café Piha",
-          "url": "https://www.cafepiha.com/e-boutique/villa-pastora-2/",
-          "price": "18,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "cafe-piha-jos-papayo",
       "roasterId": "cafe-piha",
       "name": "Jo’s Papayo",
@@ -6275,6 +6221,60 @@
           "site": "Café Piha",
           "url": "https://www.cafepiha.com/e-boutique/liberica/",
           "price": "27,50 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "cafe-piha-moon-blossom",
+      "roasterId": "cafe-piha",
+      "name": "Moon Blossom",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": "Catimor",
+      "producer": "Zebra Estate (Sun Shuang)",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/10/IM1-MOON-BLOSSOM.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Café Piha",
+          "url": "https://www.cafepiha.com/e-boutique/moon-blossom/",
+          "price": "21,30 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "cafe-piha-las-tres-hermanas-cafe",
+      "roasterId": "cafe-piha",
+      "name": "Las Tres Hermanas",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": "Bourbon Tékésic",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.cafepiha.com/wp-content/uploads/2026/10/IM1-TRES-HERMANAS.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Café Piha",
+          "url": "https://www.cafepiha.com/e-boutique/las-tres-hermanas-cafe/",
+          "price": "18,60 €",
           "note": "à partir de"
         }
       ]
@@ -7981,33 +7981,6 @@
       ]
     },
     {
-      "id": "cafes-goneo-p597",
-      "roasterId": "cafes-goneo",
-      "name": "Café en grains Souvenir de Goma | Blend 100% Arabica",
-      "origin": "Éthiopie",
-      "originCountry": "Éthiopie",
-      "process": "Nature-Honey ·",
-      "usage": null,
-      "variety": "100% Arabica ·",
-      "producer": null,
-      "score": 85,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Fruits noirs, Miel, Orange, Chocolat blanc",
-      "desc": "Un assemblage éthiopien créé pour le Paris Coffee Show 2022, combinant des notes de fruits noirs, miel, orange et chocolat blanc avec un équilibre entre sucrosité et douceur.",
-      "imageUrl": "https://shop.cafes-goneo.fr/3496-large_default/souvenir-de-goma.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés Gonéo",
-          "url": "https://shop.cafes-goneo.fr/nos-cafes/597-souvenir-de-goma-3760332491064.html",
-          "price": "14,50 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "cafes-goneo-p592",
       "roasterId": "cafes-goneo",
       "name": "Café en grains Barista 25' | Blend espresso 100% Arabica",
@@ -8084,6 +8057,33 @@
           "site": "Cafés Gonéo",
           "url": "https://shop.cafes-goneo.fr/nos-cafes/588-1391-samba-3760330053011.html",
           "price": "33,00 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "cafes-goneo-p603",
+      "roasterId": "cafes-goneo",
+      "name": "Café en grains BIO Pérou Palma Central | 100% Arabica",
+      "origin": "Pérou",
+      "originCountry": "Pérou",
+      "process": "Lavé ·",
+      "usage": null,
+      "variety": "100% Arabica ·",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://shop.cafes-goneo.fr/3488-large_default/perou-palma-central.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Cafés Gonéo",
+          "url": "https://shop.cafes-goneo.fr/nos-cafes/603-1370-perou-palma-central-3760330054025.html",
+          "price": "19,00 €",
           "note": ""
         }
       ]
@@ -8833,7 +8833,7 @@
       "roast": null,
       "flavors": "Cerise, cacao, chocolat",
       "desc": null,
-      "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/450/image_1024/Euphoria%20%E2%80%93%20Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20gourmand%20et%20%C3%A9l%C3%A9gant%20%28Grain%29?unique=543770b",
+      "imageUrl": "https://cafeslecoeur.fr/web/image/product.product/450/image_1024/Euphoria%20%E2%80%93%20Caf%C3%A9%20en%20grain%20de%20Colombie%2C%20gourmand%20et%20%C3%A9l%C3%A9gant%20%28Grain%29?unique=83e859e",
       "available": true,
       "retailers": [
         {
@@ -8975,33 +8975,6 @@
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/sitio-cordilheiras-honey-filtre",
           "price": "15,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "cafes-muda-zarza-gesha-nature-colombie",
-      "roasterId": "cafes-muda",
-      "name": "ZARZA - GESHA - NATURE - COLOMBIE",
-      "origin": "Colombie · Montagnes Bruselas, région de Huila",
-      "originCountry": "Colombie",
-      "process": "Naturel",
-      "usage": "Omni",
-      "variety": "Geisha",
-      "producer": "Ferme Zarza",
-      "score": 90,
-      "acidity": null,
-      "body": null,
-      "roast": "Moyenne",
-      "flavors": "Mangue, Abricot, Fraise",
-      "desc": "Un café colombien de variété Geisha traité en naturel avec fermentation contrôlée, provenant de la ferme familiale Zarza. Il exprime des arômes intenses de fruits tropicaux et des notes florales caractéristiques de cette variété recherchée.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/Gesha-Nature-Colombie-Zarza-Packshot.jpg?v=1769263263",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Cafés Muda",
-          "url": "https://cafesmuda.fr/products/zarza-gesha-nature-colombie",
-          "price": "Rupture de stock",
           "note": "à partir de"
         }
       ]
@@ -9379,6 +9352,33 @@
         {
           "site": "Cafés Muda",
           "url": "https://cafesmuda.fr/products/la-lucuma-cafe-perou",
+          "price": "13,90 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "cafes-muda-rushashi-rwanda-anaerobie-nature-bio",
+      "roasterId": "cafes-muda",
+      "name": "RUSHASHI - RWANDA - ANAÉROBIE NATURE - BIO",
+      "origin": "Rwanda",
+      "originCountry": "Rwanda",
+      "process": "Anaérobie",
+      "usage": "Omni",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0551/0440/5667/files/20250324-Muda-Packshot-Omni-Rushashi.jpg?v=1742887337",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Cafés Muda",
+          "url": "https://cafesmuda.fr/products/rushashi-rwanda-anaerobie-nature-bio",
           "price": "13,90 €",
           "note": "à partir de"
         }
@@ -10789,60 +10789,6 @@
       ]
     },
     {
-      "id": "coutume-cafe-cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
-      "roasterId": "coutume-cafe",
-      "name": "Café Guatemala Bendición 2kg",
-      "origin": "Guatemala · Acatenango",
-      "originCountry": "Guatemala",
-      "process": "Lavé",
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Cacao",
-      "desc": "Ce café de spécialité guatémaltéen au profil équilibré se distingue par ses notes de cacao et sa régularité d'extraction, le rendant particulièrement adapté à un usage professionnel.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/BENDICION2KG_2cbb6129-5316-4950-9c8a-1f841e3634a4.png?v=1791368278",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/cafe-en-grains-ou-moulu-colombie-bendicion-2kg",
-          "price": "59,08 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "coutume-cafe-tajumulco",
-      "roasterId": "coutume-cafe",
-      "name": "Café Guatemala Tajumulco 1kg",
-      "origin": "Guatemala · Acatenango",
-      "originCountry": "Guatemala",
-      "process": "Lavé",
-      "usage": null,
-      "variety": null,
-      "producer": "San Marcos",
-      "score": null,
-      "acidity": null,
-      "body": "Corpulent",
-      "roast": null,
-      "flavors": "Chocolat au lait, Caramel, Vanille",
-      "desc": "Ce café guatémaltèque de montagne offre une tasse équilibrée et généreuse marquée par des notes de chocolat, caramel et vanille.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0960/4549/8692/files/TAJUMULCO_1Kg.png?v=1791206447",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Coutume Café",
-          "url": "https://coutumecafe.com/products/tajumulco",
-          "price": "51,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "coutume-cafe-cold-brew-bio-cafe-noir-glace-cubi-10-litres",
       "roasterId": "coutume-cafe",
       "name": "Cold Brew Bio Cubi 10L",
@@ -11628,7 +11574,7 @@
     {
       "id": "dose-cafe-trio-espresso",
       "roasterId": "dose",
-      "name": "Café Trio Espresso",
+      "name": "Café Trio Espresso – 3 cafés de spécialité",
       "origin": null,
       "originCountry": null,
       "process": null,
@@ -11736,7 +11682,7 @@
     {
       "id": "dose-cafe-decouverte-trio-filtre",
       "roasterId": "dose",
-      "name": "Café Trio Filtre",
+      "name": "Café Trio Filtre – 3 cafés de spécialité",
       "origin": null,
       "originCountry": null,
       "process": null,
@@ -11749,40 +11695,13 @@
       "roast": null,
       "flavors": null,
       "desc": "Assortiment de trois cafés distincts : un guatémaltèque à l'arôme intense et à la texture crémeuse, un micro-lot du Salvador traité en anaérobie, et un éthiopien sauvage aux notes de fruits tropicaux et finales florales.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-cafe-trio-filtre-8124131.jpg?v=1756276260",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-family-cafe-trio-filtre-3-cafes-de-specialite-6765975.png?v=1792787168",
       "available": true,
       "retailers": [
         {
           "site": "Dose",
           "url": "https://dose.paris/products/cafe-decouverte-trio-filtre",
           "price": "39,90 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "dose-salvador",
-      "roasterId": "dose",
-      "name": "Café San Salvador",
-      "origin": "Salvador · Villa Galicia, région d'Apaneca Ilamatepec",
-      "originCountry": "Salvador",
-      "process": "Nature",
-      "usage": "Omni",
-      "variety": null,
-      "producer": "Villa Galicia",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Fruits exotiques, Ananas",
-      "desc": "Café originaire d'une ancienne ferme salvadorienne, traité par voie naturelle et caractérisé par sa pureté en tasse, sa douceur et son profil fruité accessible.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-san-salvador-7564295.jpg?v=1756278738",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/salvador",
-          "price": "17,90 €",
           "note": "à partir de"
         }
       ]
@@ -12019,7 +11938,7 @@
       "roast": null,
       "flavors": null,
       "desc": "Café décaféiné mexicain proposé en capsules biodégradables compatibles Nespresso, utilisant une méthode de décaféination naturelle pour préserver la qualité du café.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-boite-de-10-capsules-sueno-decafeine-7533782.jpg?v=1756278890",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/mexcaps.jpg?v=1774619834",
       "available": true,
       "retailers": [
         {
@@ -12161,33 +12080,6 @@
           "site": "Dose",
           "url": "https://dose.paris/products/lima-pro",
           "price": "32,50 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "dose-san-salvador-pro",
-      "roasterId": "dose",
-      "name": "Café San Salvador (Pro)",
-      "origin": "Salvador · Finca Himalaya",
-      "originCountry": "Salvador",
-      "process": null,
-      "usage": "Filtre",
-      "variety": null,
-      "producer": "Finca Himalaya",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "fruits exotiques",
-      "desc": "Café d'une grande finesse aromatique originaire d'une ferme historique salvadorienne, caractérisé par des notes de fruits exotiques et une intensité modérée.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-san-salvador-7435437.jpg?v=1756278750",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Dose",
-          "url": "https://dose.paris/products/san-salvador-pro",
-          "price": "36,80 €",
           "note": "à partir de"
         }
       ]
@@ -12539,6 +12431,33 @@
           "site": "Dose",
           "url": "https://dose.paris/products/coffret-200-capsules",
           "price": "89,00 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "dose-carafe-scs-en-verre-600ml-kinto",
+      "roasterId": "dose",
+      "name": "Carafe SCS en verre 600ml - Kinto",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0902/5237/8379/files/dose-paris-carafe-scs-en-verre-600ml-kinto-5215204.png?v=1758270140",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Dose",
+          "url": "https://dose.paris/products/carafe-scs-en-verre-600ml-kinto",
+          "price": "18,90 €",
           "note": ""
         }
       ]
@@ -13214,33 +13133,6 @@
           "site": "Fika Roasters",
           "url": "https://www.fikaroasters.fr/produit/cafe-indonesie-tuang",
           "price": "15,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "fika-roasters-cafe-ouganda-mukuru-west",
-      "roasterId": "fika-roasters",
-      "name": "MUKURU WEST",
-      "origin": "Ouganda · Montagnes du Rwenzori, ouest du pays",
-      "originCountry": "Ouganda",
-      "process": "Naturel",
-      "usage": "Claire",
-      "variety": null,
-      "producer": null,
-      "score": 85.75,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "orange sanguine, confiture de framboise, thé citron, chocolat noir, amande",
-      "desc": "Café naturel ougandais aux caractéristiques intenses et équilibrées, offrant un profil aromatique complexe associant des notes d'agrumes et de fruits rouges à des finales chocolatées.",
-      "imageUrl": "https://www.fikaroasters.fr/wp-content/uploads/2026/01/Design-sans-titre.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Fika Roasters",
-          "url": "https://www.fikaroasters.fr/produit/cafe-ouganda-mukuru-west",
-          "price": "14,00 €",
           "note": "à partir de"
         }
       ]
@@ -15352,33 +15244,6 @@
       ]
     },
     {
-      "id": "kb-coffee-roasters-nicaragua-supernatural",
-      "roasterId": "kb-coffee-roasters",
-      "name": "Nicaragua - Supernatural",
-      "origin": "Nicaragua · Dipilto",
-      "originCountry": "Nicaragua",
-      "process": "Naturel",
-      "usage": "Filtre",
-      "variety": "Caturra & Catuai",
-      "producer": "Multiple producers",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Framboises, praliné, prunes",
-      "desc": "Assemblage nicaraguayen en traitement naturel regroupant plusieurs petits producteurs de la région de Nueva Segovia, réunis par le projet Bridazul pour offrir une qualité et une rémunération équitable.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Nicaragua-Supernatural-Naturel-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009_285fa1ac-3a63-47ce-87e5-b4e0604916ff.png?v=1788165002",
-      "available": true,
-      "retailers": [
-        {
-          "site": "KB Coffee Roasters",
-          "url": "https://kbcoffeeroasters.com/products/nicaragua-supernatural",
-          "price": "18,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "kb-coffee-roasters-ethiopie-uraga-oro",
       "roasterId": "kb-coffee-roasters",
       "name": "Espresso - Ethiopie - Uraga Oro",
@@ -16027,6 +15892,87 @@
       ]
     },
     {
+      "id": "kb-coffee-roasters-india-ratnagiri-dark-room",
+      "roasterId": "kb-coffee-roasters",
+      "name": "India - Ratnagiri Dark Room",
+      "origin": "India · Chikmagalur",
+      "originCountry": "India",
+      "process": "Naturel Dark Room process",
+      "usage": "Filtre",
+      "variety": "Chandragiri",
+      "producer": "Ashok & Divya Patre",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Prunes, raison secs, dattes",
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/India-Ratnagiri-DarkRoom-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe75009.png?v=1764149698",
+      "available": true,
+      "retailers": [
+        {
+          "site": "KB Coffee Roasters",
+          "url": "https://kbcoffeeroasters.com/products/india-ratnagiri-dark-room",
+          "price": "22,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "kb-coffee-roasters-colombie-el-placer-gesha-naturel",
+      "roasterId": "kb-coffee-roasters",
+      "name": "Colombie - El Placer Gesha Naturel",
+      "origin": "Colombie · El Eje Cafetero - Quindio",
+      "originCountry": "Colombie",
+      "process": "Naturel",
+      "usage": "Filtre",
+      "variety": "Gesha",
+      "producer": "Sebastian Ramirez",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "jasmin, mirabelle, cerises, agrumes",
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-ElPlacer-SebastianRamirez-Gesha-Geisha-Naturel-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011-cafe750.jpg?v=1772297630",
+      "available": true,
+      "retailers": [
+        {
+          "site": "KB Coffee Roasters",
+          "url": "https://kbcoffeeroasters.com/products/colombie-el-placer-gesha-naturel",
+          "price": "39,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "kb-coffee-roasters-colombie-los-nogales-virtuoso-decafeine-filtre-espresso",
+      "roasterId": "kb-coffee-roasters",
+      "name": "Colombie - Nogales DÉCAFÉINÉ !! Filtre & Espresso",
+      "origin": "Colombie · Pitalito - Huila",
+      "originCountry": "Colombie",
+      "process": "Lavé Thermal Shock décaféiné",
+      "usage": "Filtre",
+      "variety": "Caturra",
+      "producer": "Oscar Hernandez",
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Ananas, pêche, abricot",
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1591/2665/files/Colombie-LosNogales-OscarHernandez-MostoThermalShock-decafeine-KBCoffeeRoasters-torrefactioncafeParis-BackinBlackcafe-cafedespecialite-France-MontmartrePigalleBastilleParis-cafe75011.jpg?v=1766253306",
+      "available": true,
+      "retailers": [
+        {
+          "site": "KB Coffee Roasters",
+          "url": "https://kbcoffeeroasters.com/products/colombie-los-nogales-virtuoso-decafeine-filtre-espresso",
+          "price": "28,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
       "id": "kultivar-colombie-gesha-lave",
       "roasterId": "kultivar",
       "name": "COLOMBIE – GESHA – LAVÉ",
@@ -16561,7 +16507,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-java",
-          "price": "23,96 €",
+          "price": "23,89 €",
           "note": ""
         }
       ]
@@ -16588,7 +16534,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gedeo-naturel",
-          "price": "21,66 €",
+          "price": "21,61 €",
           "note": "à partir de"
         }
       ]
@@ -16615,7 +16561,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-cristal-coffee-globe",
-          "price": "34,27 €",
+          "price": "34,18 €",
           "note": ""
         }
       ]
@@ -16642,7 +16588,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chichogallo",
-          "price": "28,54 €",
+          "price": "28,47 €",
           "note": ""
         }
       ]
@@ -16669,7 +16615,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-grands-crus-chocolates",
-          "price": "58,46 €",
+          "price": "58,30 €",
           "note": ""
         }
       ]
@@ -16696,7 +16642,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/zelaya",
-          "price": "19,95 €",
+          "price": "19,89 €",
           "note": "à partir de"
         }
       ]
@@ -16723,7 +16669,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/fhlor-1",
-          "price": "19,95 €",
+          "price": "19,89 €",
           "note": "à partir de"
         }
       ]
@@ -16750,7 +16696,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-isabelina",
-          "price": "22,81 €",
+          "price": "22,75 €",
           "note": "à partir de"
         }
       ]
@@ -16777,7 +16723,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/autour-du-volcan-1",
-          "price": "40,00 €",
+          "price": "39,90 €",
           "note": ""
         }
       ]
@@ -16804,7 +16750,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-atlas-coffee-globe",
-          "price": "29,69 €",
+          "price": "29,61 €",
           "note": ""
         }
       ]
@@ -16831,7 +16777,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/chakra-do-dago",
-          "price": "20,52 €",
+          "price": "20,46 €",
           "note": "à partir de"
         }
       ]
@@ -16858,7 +16804,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-degustation-decouverte",
-          "price": "111,51 €",
+          "price": "111,21 €",
           "note": ""
         }
       ]
@@ -16885,7 +16831,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/kit-decouverte-offre-de-lancement-reniala",
-          "price": "117,15 €",
+          "price": "116,84 €",
           "note": ""
         }
       ]
@@ -16912,7 +16858,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/flhor-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "13,07 €",
+          "price": "13,03 €",
           "note": "à partir de"
         }
       ]
@@ -16939,7 +16885,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/amarillo-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "22,01 €",
+          "price": "21,95 €",
           "note": "à partir de"
         }
       ]
@@ -16966,7 +16912,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gera-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "13,07 €",
+          "price": "13,03 €",
           "note": "à partir de"
         }
       ]
@@ -16993,7 +16939,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "11,69 €",
+          "price": "11,66 €",
           "note": "à partir de"
         }
       ]
@@ -17020,7 +16966,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/gramo-de-oro-en-dosettes-reniala-by-larbre-a-cafe",
-          "price": "13,76 €",
+          "price": "13,72 €",
           "note": "à partir de"
         }
       ]
@@ -17074,7 +17020,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/canopee-en-capsule",
-          "price": "20,52 €",
+          "price": "20,46 €",
           "note": "à partir de"
         }
       ]
@@ -17101,7 +17047,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/origine-en-capsule",
-          "price": "20,52 €",
+          "price": "20,46 €",
           "note": "à partir de"
         }
       ]
@@ -17128,7 +17074,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saqulew",
-          "price": "20,52 €",
+          "price": "20,46 €",
           "note": "à partir de"
         }
       ]
@@ -17155,7 +17101,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/blue-mariposa-1",
-          "price": "21,66 €",
+          "price": "21,61 €",
           "note": "à partir de"
         }
       ]
@@ -17182,7 +17128,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/timana",
-          "price": "21,66 €",
+          "price": "21,61 €",
           "note": "à partir de"
         }
       ]
@@ -17209,7 +17155,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-illumination",
-          "price": "154,75 €",
+          "price": "154,33 €",
           "note": ""
         }
       ]
@@ -17236,7 +17182,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/coffret-metamorphose",
-          "price": "97,43 €",
+          "price": "97,17 €",
           "note": ""
         }
       ]
@@ -17263,7 +17209,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/au-coeur-de-la-foret-1",
-          "price": "28,54 €",
+          "price": "28,47 €",
           "note": ""
         }
       ]
@@ -17290,7 +17236,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/source",
-          "price": "18,23 €",
+          "price": "18,18 €",
           "note": "à partir de"
         }
       ]
@@ -17317,7 +17263,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-canopee",
-          "price": "17,08 €",
+          "price": "17,03 €",
           "note": "à partir de"
         }
       ]
@@ -17344,7 +17290,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/saio",
-          "price": "21,66 €",
+          "price": "21,61 €",
           "note": "à partir de"
         }
       ]
@@ -17371,7 +17317,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-initiation",
-          "price": "49,75 €",
+          "price": "49,62 €",
           "note": ""
         }
       ]
@@ -17398,7 +17344,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/nouvel-assemblage-origine",
-          "price": "17,08 €",
+          "price": "17,03 €",
           "note": "à partir de"
         }
       ]
@@ -17425,7 +17371,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/decafeine",
-          "price": "19,37 €",
+          "price": "19,32 €",
           "note": "à partir de"
         }
       ]
@@ -17452,7 +17398,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/mariposa-monarca-coffee-globe",
-          "price": "26,25 €",
+          "price": "26,18 €",
           "note": ""
         }
       ]
@@ -17479,7 +17425,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/reserve-agua-coffee-globe",
-          "price": "57,20 €",
+          "price": "57,05 €",
           "note": ""
         }
       ]
@@ -17506,7 +17452,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/echo",
-          "price": "57,20 €",
+          "price": "57,05 €",
           "note": ""
         }
       ]
@@ -17533,7 +17479,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/radiance",
-          "price": "60,64 €",
+          "price": "60,48 €",
           "note": ""
         }
       ]
@@ -17564,7 +17510,7 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/assortiment-coffee-globe",
-          "price": "85,71 €",
+          "price": "85,48 €",
           "note": ""
         }
       ]
@@ -17591,8 +17537,35 @@
         {
           "site": "L'Arbre à Café",
           "url": "https://larbreacafe.com/products/globe",
-          "price": "34,27 €",
+          "price": "34,18 €",
           "note": ""
+        }
+      ]
+    },
+    {
+      "id": "l-arbre-a-cafe-montagne-sacree",
+      "roasterId": "l-arbre-a-cafe",
+      "name": "Montagne sacrée",
+      "origin": "Pérou",
+      "originCountry": "Pérou",
+      "process": "Sur lit en chambre de déshydratation",
+      "usage": null,
+      "variety": "Arabica",
+      "producer": "L'Arbre à Café, Finca Mariposa, Chakra do Dago",
+      "score": 87,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Chocolat blanc, noir, mangue, caramel",
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0435/0201/0530/files/montagne-sacree-larbre-a-cafe-cafe-8286757.webp?v=1792647439",
+      "available": true,
+      "retailers": [
+        {
+          "site": "L'Arbre à Café",
+          "url": "https://larbreacafe.com/products/montagne-sacree",
+          "price": "21,61 €",
+          "note": "à partir de"
         }
       ]
     },
@@ -19076,7 +19049,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-bresil-daterra",
-          "price": "7,90 €",
+          "price": "8,50 €",
           "note": "à partir de"
         }
       ]
@@ -19130,7 +19103,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
-          "price": "19,90 €",
+          "price": "20,90 €",
           "note": "à partir de"
         }
       ]
@@ -19157,7 +19130,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-decafeine-swisswater-du-perou",
-          "price": "18,70 €",
+          "price": "19,70 €",
           "note": "à partir de"
         }
       ]
@@ -19184,7 +19157,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-perou-ceranor",
-          "price": "16,80 €",
+          "price": "17,80 €",
           "note": "à partir de"
         }
       ]
@@ -19211,7 +19184,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-dethiopie-koke",
-          "price": "18,70 €",
+          "price": "19,70 €",
           "note": "à partir de"
         }
       ]
@@ -19265,7 +19238,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-en-grains-du-nicaragua",
-          "price": "17,35 €",
+          "price": "18,35 €",
           "note": "à partir de"
         }
       ]
@@ -19319,7 +19292,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-honduras-finca-liquidambar",
-          "price": "17,30 €",
+          "price": "18,30 €",
           "note": "à partir de"
         }
       ]
@@ -19346,7 +19319,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-costa-rica",
-          "price": "16,95 €",
+          "price": "17,95 €",
           "note": "à partir de"
         }
       ]
@@ -19373,7 +19346,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-guatemala",
-          "price": "16,00 €",
+          "price": "17,00 €",
           "note": "à partir de"
         }
       ]
@@ -20069,14 +20042,14 @@
       "roast": null,
       "flavors": "Espresso : Dattes, Miel - Filtre : Prune, Cerise Amarena",
       "desc": "Un café d'origine brésilienne cultivé en altitude dans le Cerrado Mineiro, traité naturellement par une famille de producteurs attachée à la qualité. Produit en hommage aux enfants du cultivateur, il incarne une tradition familiale de savoir-faire.",
-      "imageUrl": "https://cdn.swell.store/lomi/693bd8bf4afc92001225df36/7ecdbf0ad80a051fbf15c75e7001c183/Dois%20Irmaos%20Espresso.jpg",
+      "imageUrl": "https://cdn.swell.store/lomi/6ad9da0ffbea3400128cfb6e/ad0215b829689391c4c8cedddcee5dcc/DOISIRMAOS.jpg",
       "available": true,
       "retailers": [
         {
           "site": "Lomi",
           "url": "https://lomi.cafe/products/cafe-bresil-dois-irmaos",
-          "price": "11,73 €",
-          "note": "à partir de"
+          "price": "Rupture de stock",
+          "note": ""
         }
       ]
     },
@@ -21128,7 +21101,7 @@
         {
           "site": "MÖKA",
           "url": "https://www.brulerie-moka.com/produit/cerrado-bresil/",
-          "price": "Rupture de stock",
+          "price": "9,00 €",
           "note": "à partir de"
         }
       ]
@@ -22619,6 +22592,60 @@
       ]
     },
     {
+      "id": "moka-brix-breaker-nicaragua",
+      "roasterId": "moka",
+      "name": "Brix Breaker – Nicaragua",
+      "origin": "Nicaragua",
+      "originCountry": "Nicaragua",
+      "process": "Naturel",
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/brix-breaker-nicaragua.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/brix-breaker-nicaragua/",
+          "price": "18,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "moka-amoruso-panama",
+      "roasterId": "moka",
+      "name": "Amoruso – Panama",
+      "origin": "Panama",
+      "originCountry": "Panama",
+      "process": "Naturel",
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/amoruso-panama.jpg",
+      "available": true,
+      "retailers": [
+        {
+          "site": "MÖKA",
+          "url": "https://www.brulerie-moka.com/produit/amoruso-panama/",
+          "price": "16,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
       "id": "moklair-hendra-eclipse-2",
       "roasterId": "moklair",
       "name": "HENDRA ECLIPSE",
@@ -22721,7 +22748,7 @@
         {
           "site": "Moklair",
           "url": "https://moklair.fr/product/finca-voo-cup-of-excellence/",
-          "price": "Rupture de stock",
+          "price": "26,50 €",
           "note": ""
         }
       ]
@@ -22803,33 +22830,6 @@
           "site": "Moklair",
           "url": "https://moklair.fr/product/assemblage-signature-2/",
           "price": "12,95 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "moklair-gaitania-2",
-      "roasterId": "moklair",
-      "name": "GAITANIA",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": "Filtre, Omni roast (espresso light &amp; filtre)",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://moklair.fr/wp-content/uploads/2025/04/moklair2025-mockup-gaitania1.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Moklair",
-          "url": "https://moklair.fr/product/gaitania-2/",
-          "price": "Rupture de stock",
           "note": "à partir de"
         }
       ]
@@ -23051,33 +23051,6 @@
       ]
     },
     {
-      "id": "mokxa-los-lirios-cafe-du-nicaragua-bio-2026",
-      "roasterId": "mokxa",
-      "name": "Los Lirios - Café du Nicaragua BIO",
-      "origin": "Nicaragua · San Juan del Río Coco",
-      "originCountry": "Nicaragua",
-      "process": "Lavé",
-      "usage": "Omni",
-      "variety": "Blend de variétés",
-      "producer": "Coopérative Reina del Café (petits caféiculteurs)",
-      "score": 84.5,
-      "acidity": "Acidulée",
-      "body": "Rond",
-      "roast": null,
-      "flavors": "Caramel, Chocolat au lait, Pomme verte",
-      "desc": "Café nicaraguayen issu d'une coopérative de petits producteurs, offrant un profil gourmand avec des notes de caramel et chocolat complétées par une légère acidité fruitée.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/Los_Lirios_Cafe_Mokxa_03.png?v=1788187521",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Mokxa",
-          "url": "https://cafemokxa.com/products/los-lirios-cafe-du-nicaragua-bio-2026",
-          "price": "10,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "mokxa-el-silencio-geisha-cafe-de-colombie",
       "roasterId": "mokxa",
       "name": "El Silencio Geisha - Café de Colombie",
@@ -23100,60 +23073,6 @@
           "site": "Mokxa",
           "url": "https://cafemokxa.com/products/el-silencio-geisha-cafe-de-colombie",
           "price": "21,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "mokxa-la-independencia-cafe-du-salvador",
-      "roasterId": "mokxa",
-      "name": "La Independencia - Café du Salvador",
-      "origin": "Salvador · Ahuachapán",
-      "originCountry": "Salvador",
-      "process": "Nature",
-      "usage": "Omni",
-      "variety": "Bourbon, Catuai",
-      "producer": "Familia Salaverria",
-      "score": 85,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Baies noires, Pralin, Biscuit",
-      "desc": "Café sucré et enveloppant de la famille Salaverria, productrice salvadorienne de six générations engagée dans des pratiques durables et l'amélioration de ses terroirs.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/LaIndependenciaMokxaCover.jpg?v=1788866453",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Mokxa",
-          "url": "https://cafemokxa.com/products/la-independencia-cafe-du-salvador",
-          "price": "14,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
-      "id": "mokxa-freestyle-batchs-blend-1",
-      "roasterId": "mokxa",
-      "name": "Freestyle Batchs - Blend #1",
-      "origin": "Nicaragua, Rwanda",
-      "originCountry": "Nicaragua, Rwanda",
-      "process": null,
-      "usage": "Omni",
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Chocolat, Oranges, Vanille",
-      "desc": "Un blend expérimental issu du développement de recettes, associant des cafés du Nicaragua et du Rwanda pour un profil chocolaté avec des notes d'agrumes et de vanille.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0922/9074/4665/files/CHARLY.AUGAIS-412_714c33dd-226a-407d-ac56-b83ff5026678.jpg?v=1779782923",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Mokxa",
-          "url": "https://cafemokxa.com/products/freestyle-batchs-blend-1",
-          "price": "25,00 €",
           "note": "à partir de"
         }
       ]
@@ -24185,33 +24104,6 @@
       ]
     },
     {
-      "id": "partisan-cafe-artisanal-kenya-aa-kianyangi-250g",
-      "roasterId": "partisan-cafe-artisanal",
-      "name": "KENYA AB KIANGOI 250g",
-      "origin": "Kenya · Kirinyaga Nearest",
-      "originCountry": "Kenya",
-      "process": "Washed",
-      "usage": null,
-      "variety": "Ruiru 11, SL-34, Batian, SL-28",
-      "producer": "Coopérative Rung'eto, Station Kiangoi Factory",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": "Café kényan cultivé en altitude sur les pentes du mont Kenya, issu d'une coopérative locale et traité selon une méthode lavée traditionnelle sélective associant fermentation et séchage prolongé.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-05-20at11.17.57.png?v=1779269028",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Partisan Café Artisanal",
-          "url": "https://parispartisancafe.com/products/kenya-aa-kianyangi-250g",
-          "price": "19,00 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "partisan-cafe-artisanal-kenya-aa-inoi-kianderi-250g-copy",
       "roasterId": "partisan-cafe-artisanal",
       "name": "COLOMBIE LOS DIECINUEVE DECAF 250g",
@@ -24374,6 +24266,33 @@
       ]
     },
     {
+      "id": "partisan-cafe-artisanal-colombie-papayo-250g-copy",
+      "roasterId": "partisan-cafe-artisanal",
+      "name": "KENYA KIANDERI AB 250g",
+      "origin": "Kenya",
+      "originCountry": "Kenya",
+      "process": null,
+      "usage": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/2937/9492/files/Screenshot2026-10-24at10.32.41.png?v=1792830781",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Partisan Café Artisanal",
+          "url": "https://parispartisancafe.com/products/colombie-papayo-250g-copy",
+          "price": "19,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
       "id": "pikaro-coffee-box-cafes-assemblages",
       "roasterId": "pikaro-coffee",
       "name": "BOX CAFES ASSEMBLAGES",
@@ -24396,33 +24315,6 @@
           "site": "Pikaro Coffee",
           "url": "https://www.pikaro.fr/cafe/offres/box-cafes-assemblages.html",
           "price": "26,00 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "pikaro-coffee-carpeaux",
-      "roasterId": "pikaro-coffee",
-      "name": "Carpeaux",
-      "origin": null,
-      "originCountry": null,
-      "process": null,
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Une attaque douce",
-      "desc": "Assemblage maison proposant une attaque douce avec des notes de chocolat et boisé, accompagné d'une finale sucrée aux arômes de moka, particulièrement recommandé pour le café du matin.",
-      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Pikaro Coffee",
-          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/carpeaux.html",
-          "price": "6,90 €",
           "note": ""
         }
       ]
@@ -24617,6 +24509,33 @@
       ]
     },
     {
+      "id": "pikaro-coffee-nvelle-guinee-papouasie-sigri",
+      "roasterId": "pikaro-coffee",
+      "name": "Le Raggiana : Café de spécialité de Papouasie-Nouvelle-Guinée",
+      "origin": "Papouasie-Nouvelle-Guinée",
+      "originCountry": "Papouasie-Nouvelle-Guinée",
+      "process": null,
+      "usage": null,
+      "variety": "Arabica Typica, Bourbon rouge. Café lavé. Récolte/",
+      "producer": null,
+      "score": 81,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "Épices, pain de mie, noix",
+      "desc": null,
+      "imageUrl": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Pikaro Coffee",
+          "url": "https://www.pikaro.fr/cafe/cafe-pikaro/nvelle-guinee-papouasie-sigri.html",
+          "price": "10,80 €",
+          "note": ""
+        }
+      ]
+    },
+    {
       "id": "signe-extrait-p69",
       "roasterId": "signe-extrait",
       "name": "SUNDA",
@@ -24773,7 +24692,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-iris-estate-afterglow/",
-          "price": "50,00 €",
+          "price": "Rupture de stock",
           "note": ""
         }
       ]
@@ -24908,7 +24827,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/colombia-la-roca-state-2026/",
-          "price": "Rupture de stock",
+          "price": "28,00 €",
           "note": ""
         }
       ]
@@ -24989,7 +24908,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-mi-finquita-chibor-lot-126/",
-          "price": "70,00 €",
+          "price": "Rupture de stock",
           "note": ""
         }
       ]
@@ -25043,7 +24962,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-auromar-catalina/",
-          "price": "42,00 €",
+          "price": "Rupture de stock",
           "note": ""
         }
       ]
@@ -25178,7 +25097,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/kenya-kagumo/",
-          "price": "22,00 €",
+          "price": "Rupture de stock",
           "note": ""
         }
       ]
@@ -25232,7 +25151,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-elida-estate-falda-natural-crd/",
-          "price": "Rupture de stock",
+          "price": "55,00 €",
           "note": ""
         }
       ]
@@ -25313,7 +25232,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-hacienda-la-esmeralda-fundador/",
-          "price": "Rupture de stock",
+          "price": "70,00 €",
           "note": ""
         }
       ]
@@ -25340,7 +25259,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/ethiopia-gesha-village-lot-137-2026/",
-          "price": "35,00 €",
+          "price": "Rupture de stock",
           "note": ""
         }
       ]
@@ -26042,7 +25961,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-iris-estate-terroir-2026/",
-          "price": "Rupture de stock",
+          "price": "50,00 €",
           "note": ""
         }
       ]
@@ -26069,7 +25988,7 @@
         {
           "site": "Substance",
           "url": "https://www.substancecafe.com/product/panama-black-moon-farm-chiroso-lot-55/",
-          "price": "45,00 €",
+          "price": "Rupture de stock",
           "note": ""
         }
       ]
@@ -29687,7 +29606,7 @@
         {
           "site": "Terres de Café",
           "url": "https://www.terresdecafe.com/fr/les-capsules/1861-capsules-lenca-x-10-3700926100194.html",
-          "price": "Indisponible",
+          "price": "8,40 €",
           "note": ""
         }
       ]
@@ -30201,6 +30120,33 @@
           "site": "Terres de Café",
           "url": "https://www.terresdecafe.com/fr/cafes-de-specialite/398-27838-cafe-volcan-azul-volcancito-kg.html",
           "price": "52,90 €",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "terres-de-cafe-p1700",
+      "roasterId": "terres-de-cafe",
+      "name": "Café Lechuza Geisha",
+      "origin": "Salvador · Juayua - Santa Ana / Finca Lechuza",
+      "originCountry": "Salvador",
+      "process": "Nature Anaérobique",
+      "usage": null,
+      "variety": "Geisha",
+      "producer": "Cesar Magana",
+      "score": 88,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": "cerise noire, prune noire, miel, nocciolata",
+      "desc": null,
+      "imageUrl": "https://www.terresdecafe.com/10485-medium_default/cafe-lechuza-geisha.webp",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Terres de Café",
+          "url": "https://www.terresdecafe.com/fr/cafes-en-grains/1700-24475-cafe-lechuza-geisha-3700926147236.html",
+          "price": "27,70 €",
           "note": ""
         }
       ]
@@ -31016,33 +30962,6 @@
       ]
     },
     {
-      "id": "valini-p2",
-      "roasterId": "valini",
-      "name": "Le \"CROCO\"",
-      "origin": "Ethiopie/Brésil",
-      "originCountry": "Ethiopie/Brésil",
-      "process": "Nature",
-      "usage": null,
-      "variety": "Heirloom / Mundo Novo / Catuai",
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": "Assemblage de cafés d'Éthiopie et du Brésil, formulé pour offrir un café polyvalent et accessible à toute heure de la journée.",
-      "imageUrl": "https://valini.fr/267-full_default/cafe-croco.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Valini",
-          "url": "https://valini.fr/cafe/2-61-cafe-croco.html",
-          "price": "7,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
       "id": "valini-p77",
       "roasterId": "valini",
       "name": "Café décaféiné Pure Origine...",
@@ -31200,33 +31119,6 @@
           "site": "Valini",
           "url": "https://valini.fr/cafe/104-1017-cafe-ethiopie-nyala.html",
           "price": "11,90 €",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "valini-p103",
-      "roasterId": "valini",
-      "name": "Café Pure Origine Pérou...",
-      "origin": "Pérou",
-      "originCountry": "Pérou",
-      "process": "Extended Fermentation",
-      "usage": null,
-      "variety": "Bourbon",
-      "producer": "Timbuyacu",
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": null,
-      "desc": null,
-      "imageUrl": "https://valini.fr/420-full_default/cafe-pure-origine-el-salvador-oasis.jpg",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Valini",
-          "url": "https://valini.fr/cafe/103-1002-cafe-pure-origine-el-salvador-oasis.html",
-          "price": "12,50 €",
           "note": ""
         }
       ]
@@ -31448,33 +31340,6 @@
       ]
     },
     {
-      "id": "yellow-peak-cafe-papou",
-      "roasterId": "yellow-peak",
-      "name": "Café Papou",
-      "origin": "Papouasie · hauts plateaux de l'Ouest",
-      "originCountry": "Papouasie",
-      "process": "Lavé",
-      "usage": null,
-      "variety": null,
-      "producer": null,
-      "score": null,
-      "acidity": null,
-      "body": null,
-      "roast": null,
-      "flavors": "Chocolat noir",
-      "desc": "Café cultivé en altitude sur sols volcaniques, présentant un profil équilibré avec des notes de chocolat noir.",
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/11/cafe-papou-cacao-equilibre-wahgi-valley-papouasie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
-      "available": true,
-      "retailers": [
-        {
-          "site": "Yellow Peak",
-          "url": "https://www.yellowpeak.fr/boutique/cafe-papou/",
-          "price": "13,50 €",
-          "note": "à partir de"
-        }
-      ]
-    },
-    {
       "id": "yellow-peak-cafe-drongo",
       "roasterId": "yellow-peak",
       "name": "Café Drongo",
@@ -31517,13 +31382,94 @@
       "roast": null,
       "flavors": "Floral, Fruité, Myrtille",
       "desc": "Café d'Éthiopie traité en naturel, issu de la station Benti Nenka en Oromia, offrant des arômes floraux et fruités avec des notes de myrtille, adapté à plusieurs méthodes de préparation.",
-      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/08/cafe-senegali-floral-myrtille-west-guji-ethiopie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/09/cafe-senegali-floral-myrtille-west-guji-ethiopie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
       "available": true,
       "retailers": [
         {
           "site": "Yellow Peak",
           "url": "https://www.yellowpeak.fr/boutique/cafe-senegali/",
           "price": "16,50 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "yellow-peak-cafe-batara",
+      "roasterId": "yellow-peak",
+      "name": "Café Batara",
+      "origin": null,
+      "originCountry": null,
+      "process": "Nature",
+      "usage": null,
+      "variety": "Bourbon rouge, Catigua",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/10/cafe-batara-fruits-a-coque-chocolat-noir-minas-gerais-bresil-process-naturel-cerrado-yellow-peak-cafe-de-specialite.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-batara/",
+          "price": "15,00 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "yellow-peak-cafe-black-inca",
+      "roasterId": "yellow-peak",
+      "name": "Café Black Inca",
+      "origin": null,
+      "originCountry": null,
+      "process": "lavé (fully washed)",
+      "usage": null,
+      "variety": "Castillo",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2026/10/cafe-black-inca-chocolat-noir-noix-orange-palmor-colombie-process-lave-fully-washed-yellow-peak-cafe-de-specialite.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/cafe-black-inca/",
+          "price": "14,50 €",
+          "note": "à partir de"
+        }
+      ]
+    },
+    {
+      "id": "yellow-peak-infusion-cascara",
+      "roasterId": "yellow-peak",
+      "name": "Infusion cascara",
+      "origin": null,
+      "originCountry": null,
+      "process": null,
+      "usage": null,
+      "variety": "Caturra",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "roast": null,
+      "flavors": null,
+      "desc": null,
+      "imageUrl": "https://www.yellowpeak.fr/wp-content/uploads/2020/10/infusion-cascara-cerise-de-cafe-narino-colombie-yellow-peak-cafe-de-specialite-torrefacteur-pau.png",
+      "available": true,
+      "retailers": [
+        {
+          "site": "Yellow Peak",
+          "url": "https://www.yellowpeak.fr/boutique/infusion-cascara/",
+          "price": "5,00 €",
           "note": "à partir de"
         }
       ]

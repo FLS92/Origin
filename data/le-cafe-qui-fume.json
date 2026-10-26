@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://lecafequifume.com/cdn/shop/files/LECAFEQUIFUME-LOGO_5fbc5764-1287-436d-847b-a963b7028110.png?v=1679420795&width=600"
   },
-  "scrapedAt": "2026-10-19T10:43:55Z",
+  "scrapedAt": "2026-10-26T10:58:14Z",
   "products": [
     {
       "id": "le-cafe-qui-fume-cafe-du-salvador",
@@ -74,7 +74,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-bresil-daterra",
-          "price": 7.9,
+          "price": 8.5,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-ephemere-du-ouganda",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
@@ -145,7 +145,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-en-grain-victoria-ines-cardona-parcelle-le-cafe-qui-fume",
-          "price": 19.9,
+          "price": 20.9,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -155,7 +155,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-decafeine-swisswater-du-perou",
@@ -180,7 +180,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-decafeine-swisswater-du-perou",
-          "price": 18.7,
+          "price": 19.7,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -190,7 +190,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-perou-ceranor",
@@ -218,7 +218,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-perou-ceranor",
-          "price": 16.8,
+          "price": 17.8,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -228,7 +228,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-dethiopie-koke",
@@ -255,7 +255,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-dethiopie-koke",
-          "price": 18.7,
+          "price": 19.7,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -265,7 +265,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica-hermosa-copy",
@@ -303,7 +303,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-panier-garni-offre-speciale",
@@ -363,7 +363,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-en-grains-du-nicaragua",
-          "price": 17.35,
+          "price": 18.35,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -373,7 +373,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-vert-bio",
@@ -408,7 +408,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-honduras-finca-liquidambar",
@@ -437,7 +437,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-honduras-finca-liquidambar",
-          "price": 17.3,
+          "price": 18.3,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -447,7 +447,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-costa-rica",
@@ -474,7 +474,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-costa-rica",
-          "price": 16.95,
+          "price": 17.95,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -484,7 +484,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:50Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     },
     {
       "id": "le-cafe-qui-fume-cafe-guatemala",
@@ -507,7 +507,7 @@
         {
           "site": "Le Café qui Fume",
           "url": "https://lecafequifume.com/products/cafe-guatemala",
-          "price": 16.0,
+          "price": 17.0,
           "currency": "EUR",
           "unitWeightG": 500,
           "priceNote": "à partir de",
@@ -517,7 +517,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:25:34Z",
-      "lastSeenAt": "2026-10-19T10:43:55Z"
+      "lastSeenAt": "2026-10-26T10:58:14Z"
     }
   ]
 }
