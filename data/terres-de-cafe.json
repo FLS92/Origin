@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.terresdecafe.com/img/logo.png"
   },
-  "scrapedAt": "2026-10-26T10:50:54Z",
+  "scrapedAt": "2026-11-02T13:15:26Z",
   "products": [
     {
       "id": "terres-de-cafe-p2099",
@@ -45,7 +45,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -82,7 +82,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -119,7 +119,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -159,7 +159,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -199,7 +199,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -239,7 +239,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -275,7 +275,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -312,7 +312,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -389,7 +389,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -427,7 +427,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -502,7 +502,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -537,7 +537,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -575,7 +575,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -618,7 +618,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -657,7 +657,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -704,7 +704,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -744,7 +744,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -782,7 +782,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -819,7 +819,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -860,7 +860,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -897,7 +897,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -977,7 +977,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1016,7 +1016,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1057,7 +1057,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1134,7 +1134,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1171,7 +1171,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1248,7 +1248,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1285,7 +1285,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1324,7 +1324,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1361,7 +1361,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1399,7 +1399,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1436,7 +1436,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1474,7 +1474,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1514,7 +1514,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1551,7 +1551,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1588,7 +1588,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1626,7 +1626,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1664,7 +1664,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1700,7 +1700,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1741,7 +1741,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1778,7 +1778,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1815,7 +1815,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1851,7 +1851,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1889,7 +1889,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -1927,7 +1927,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2006,7 +2006,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2044,7 +2044,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2083,7 +2083,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2120,7 +2120,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2166,7 +2166,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2208,7 +2208,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2278,7 +2278,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2314,7 +2314,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2352,7 +2352,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2390,7 +2390,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2428,7 +2428,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2466,7 +2466,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2501,7 +2501,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2537,7 +2537,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2576,7 +2576,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2617,7 +2617,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2655,7 +2655,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2695,7 +2695,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2732,7 +2732,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2771,7 +2771,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2813,7 +2813,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2850,7 +2850,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2924,7 +2924,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -2962,7 +2962,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3001,7 +3001,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3037,7 +3037,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3077,7 +3077,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3117,7 +3117,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3158,7 +3158,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3195,7 +3195,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3234,7 +3234,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3273,7 +3273,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3308,7 +3308,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3348,7 +3348,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3386,7 +3386,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:15:05Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3423,7 +3423,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-14T05:14:22Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3460,7 +3460,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-21T05:14:26Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3500,7 +3500,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-21T05:14:26Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3542,7 +3542,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-21T05:14:26Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3580,7 +3580,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-21T05:14:26Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3613,7 +3613,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-05T05:23:16Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3650,7 +3650,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-05T05:23:16Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3690,7 +3690,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-19T10:36:18Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3731,7 +3731,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-19T10:36:18Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3771,7 +3771,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-19T10:36:18Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     },
@@ -3809,7 +3809,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-26T10:50:54Z",
       "lastSeenAt": "2026-10-26T10:50:54Z"
     }

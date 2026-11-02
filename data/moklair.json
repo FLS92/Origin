@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://moklair.fr/wp-content/uploads/2025/01/logo.svg"
   },
-  "scrapedAt": "2026-10-26T10:58:22Z",
+  "scrapedAt": "2026-11-02T13:23:07Z",
   "products": [
     {
       "id": "moklair-hendra-eclipse-2",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-26T10:58:22Z"
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     },
     {
       "id": "moklair-lalesa-anaerobic",
@@ -77,7 +77,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-26T10:58:22Z"
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     },
     {
       "id": "moklair-lalesa-washed-2",
@@ -110,7 +110,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-26T10:58:22Z"
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     },
     {
       "id": "moklair-finca-voo-cup-of-excellence",
@@ -143,7 +143,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-26T10:58:22Z"
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     },
     {
       "id": "moklair-finca-milan-watermelon-2",
@@ -176,7 +176,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-26T10:58:22Z"
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     },
     {
       "id": "moklair-aguila-4-banc-hacienda-la-esmeralda-2",
@@ -240,7 +240,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:56Z",
       "lastSeenAt": "2026-10-26T10:58:22Z"
     },
@@ -440,7 +440,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:56Z",
-      "lastSeenAt": "2026-10-26T10:58:22Z"
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     },
     {
       "id": "moklair-gaitania-2",
@@ -474,6 +474,600 @@
       "available": false,
       "firstSeenAt": "2026-09-03T21:17:56Z",
       "lastSeenAt": "2026-10-19T10:44:03Z"
+    },
+    {
+      "id": "moklair-chiroso-lot-47-2",
+      "name": "CHIROSO LOT 47",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-CHIROSOLOT47-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/chiroso-lot-47-2/",
+          "price": 32.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-lerida-8912",
+      "name": "LERIDA 8912",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-LERIDA8912-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/lerida-8912/",
+          "price": 29.9,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-pink-bourbon-la-riviera",
+      "name": "PINK BOURBON LA RIVIERA",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-PINKBOURBONLARIVIERA-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/pink-bourbon-la-riviera/",
+          "price": 24.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-alo-morki-village-72h",
+      "name": "ALO MORKI VILLAGE 72H",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-ALOMORKIVILLAGE72H-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/alo-morki-village-72h/",
+          "price": 23.5,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-adaura-pacamara-asd-2",
+      "name": "ADAURA PACAMARA ASD",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-ADAURAPACAMARAASD-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/adaura-pacamara-asd-2/",
+          "price": 26.5,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-los-nogales-decaf",
+      "name": "NOGALES DECAF’",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-LOSNOGALESTYPICADECAF-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/los-nogales-decaf/",
+          "price": 22.9,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-inyange-gardens-2",
+      "name": "INYANGE GARDENS",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-INYANGEGARDENS-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/inyange-gardens-2/",
+          "price": 19.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-los-papales-2",
+      "name": "LOS PAPALES",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-LOSPAPALES-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/los-papales-2/",
+          "price": 13.95,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-alo-huru-meda-2",
+      "name": "ALO HURU MEDA",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-ALOHUROMEDA-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/alo-huru-meda-2/",
+          "price": 21.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-banko-taratu",
+      "name": "BANKO TARATU",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-BANKOTARATU-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/banko-taratu/",
+          "price": 21.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-betania-pink-bourbon-2",
+      "name": "BETANIA PINK BOURBON",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-BETANIAPINKBOURBON-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/betania-pink-bourbon-2/",
+          "price": 22.5,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-boss-lady-2",
+      "name": "BOSS LADY",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-BOSSLADY-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/boss-lady-2/",
+          "price": 20.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-chelchele-super-natural",
+      "name": "CHELCHELE (SUPER) NATURAL",
+      "originCountry": null,
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-CHELCHELE-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/chelchele-super-natural/",
+          "price": 20.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-doyo-jimma",
+      "name": "DOYO JIMMA",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-DOYOJIMMA-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/doyo-jimma/",
+          "price": 15.5,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-linarco-rodriguez-sl28",
+      "name": "LINARCO RODRIGUEZ SL28",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-LINARCORODRIGUEZSL28-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/linarco-rodriguez-sl28/",
+          "price": 19.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-tres-cielos-wush-wush-2",
+      "name": "TRES CIELOS WUSH WUSH",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-TRESCIELOSWUSHWUSH-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/tres-cielos-wush-wush-2/",
+          "price": 19.5,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-jhonatan-gasca-gn06-2",
+      "name": "Jhonatan Gasca GN06",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-JHONATANGASCAGN06-2.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/jhonatan-gasca-gn06-2/",
+          "price": 21.5,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
+    },
+    {
+      "id": "moklair-badeyi-lot-6",
+      "name": "BADEYI LOT 6",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Filtre, Omni roast (espresso light &amp; filtre)",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://moklair.fr/wp-content/uploads/2026/10/moklair2025-mockup-BADEYILOT6-1.png",
+      "retailers": [
+        {
+          "site": "Moklair",
+          "url": "https://moklair.fr/product/badeyi-lot-6/",
+          "price": 14.95,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:23:07Z",
+      "lastSeenAt": "2026-11-02T13:23:07Z"
     }
   ]
 }

@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://colors.coffee/cdn/shop/files/LOGO_ICONS_Plan_de_travail_1_copie_3.png?crop=center&height=131&v=1751302534&width=250"
   },
-  "scrapedAt": "2026-10-26T10:57:39Z",
+  "scrapedAt": "2026-11-02T13:22:26Z",
   "products": [
     {
       "id": "colors-coffee-roasters-burundi-nemba-copie",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:29Z",
-      "lastSeenAt": "2026-10-26T10:57:39Z"
+      "lastSeenAt": "2026-11-02T13:22:26Z"
     },
     {
       "id": "colors-coffee-roasters-ethiopie-guji",
@@ -83,7 +83,7 @@
           "stockStatus": "outofstock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:29Z",
       "lastSeenAt": "2026-10-26T10:57:39Z"
     },
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:29Z",
-      "lastSeenAt": "2026-10-26T10:57:39Z"
+      "lastSeenAt": "2026-11-02T13:22:26Z"
     },
     {
       "id": "colors-coffee-roasters-el-salvador-pacamara",
@@ -157,9 +157,174 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:29Z",
       "lastSeenAt": "2026-10-26T10:57:39Z"
+    },
+    {
+      "id": "colors-coffee-roasters-indonesie-barokah-anaerobie-honey",
+      "name": "INDONÉSIE - Barokah {Anaérobie Honey}",
+      "originCountry": "Indonésie",
+      "originDetail": null,
+      "process": "Anaérobie",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_IND_ab7cb211-ddd6-4c97-8bc8-33b5608305a5.png?v=1793546702",
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/indonesie-barokah-anaerobie-honey",
+          "price": 14.5,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:22:26Z",
+      "lastSeenAt": "2026-11-02T13:22:26Z"
+    },
+    {
+      "id": "colors-coffee-roasters-ethiopie-sidamo-nature",
+      "name": "ÉTHIOPIE - Sidamo {Nature}",
+      "originCountry": "Éthiopie",
+      "originDetail": null,
+      "process": "Naturel",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_ETH2.png?v=1793545713",
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/ethiopie-sidamo-nature",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:22:26Z",
+      "lastSeenAt": "2026-11-02T13:22:26Z"
+    },
+    {
+      "id": "colors-coffee-roasters-kenya-swara-aa-washed",
+      "name": "KENYA - Swara AA {Washed}",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_KE2.png?v=1793546020",
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/kenya-swara-aa-washed",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:22:26Z",
+      "lastSeenAt": "2026-11-02T13:22:26Z"
+    },
+    {
+      "id": "colors-coffee-roasters-el-salvador-pacas-honey",
+      "name": "EL SALVADOR - PACAS {Honey}",
+      "originCountry": "Salvador",
+      "originDetail": null,
+      "process": "Honey",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_SALV2.png?v=1793545394",
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/el-salvador-pacas-honey",
+          "price": 12.0,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:22:26Z",
+      "lastSeenAt": "2026-11-02T13:22:26Z"
+    },
+    {
+      "id": "colors-coffee-roasters-colombie-las-palmas-co-fermante",
+      "name": "COLOMBIE - Las Palmas {Co-fermanté}",
+      "originCountry": "Colombie",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0515/3456/1440/files/PACK_2026_200G_COL.png?v=1793547756",
+      "retailers": [
+        {
+          "site": "Colors Coffee & Roasters",
+          "url": "https://colors.coffee/products/colombie-las-palmas-co-fermante",
+          "price": 20.0,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-02T13:22:26Z",
+      "lastSeenAt": "2026-11-02T13:22:26Z"
     }
   ]
 }
