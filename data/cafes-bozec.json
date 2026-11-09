@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/04/cropped-favicon-1.png?fit=180%2C180&ssl=1"
   },
-  "scrapedAt": "2026-11-02T13:22:47Z",
+  "scrapedAt": "2026-11-09T13:50:10Z",
   "products": [
     {
       "id": "cafes-bozec-cafes-bozec-indonesie-sumatra",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-nicaragua-maragogype",
@@ -75,7 +75,7 @@
           "stockStatus": "outofstock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:46Z",
       "lastSeenAt": "2026-11-02T13:22:47Z"
     },
@@ -115,7 +115,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-salvador-cerro-el-aguila",
@@ -153,7 +153,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-comayagua-micro-lot",
@@ -252,7 +252,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-blend-historique-costa-rica-mexique-bresil",
@@ -288,7 +288,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-blend-signature-ethiopie-bresil-colombie",
@@ -323,7 +323,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-bresil-fazenda-jaguara",
@@ -356,7 +356,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-colombie-origine",
@@ -395,7 +395,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-ethiopie-kobi-gamme-terroir",
@@ -430,7 +430,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:46Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-nicaragua-mogoton",
@@ -464,7 +464,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:46Z",
       "lastSeenAt": "2026-11-02T13:22:47Z"
     },
@@ -539,7 +539,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:22:33Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     },
     {
       "id": "cafes-bozec-cafes-bozec-honduras-la-esmeralda",
@@ -572,7 +572,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:21:51Z",
-      "lastSeenAt": "2026-11-02T13:22:47Z"
+      "lastSeenAt": "2026-11-09T13:50:10Z"
+    },
+    {
+      "id": "cafes-bozec-cafes-bozec-kenya-province-centrale",
+      "name": "Kenya – Province centrale",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2026/04/Kenya.png?fit=1063%2C1063&ssl=1",
+      "retailers": [
+        {
+          "site": "Cafés Bozec",
+          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-kenya-province-centrale/",
+          "price": 15.0,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:50:10Z",
+      "lastSeenAt": "2026-11-09T13:50:10Z"
+    },
+    {
+      "id": "cafes-bozec-cafes-bozec-perou-norandino",
+      "name": "Pérou – Norandino – BIO",
+      "originCountry": "Pérou",
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://i0.wp.com/www.cafesbozec.fr/wp-content/uploads/2025/03/2-1.png?fit=1063%2C1063&ssl=1",
+      "retailers": [
+        {
+          "site": "Cafés Bozec",
+          "url": "https://www.cafesbozec.fr/produit/cafes-bozec-perou-norandino/",
+          "price": 10.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:50:10Z",
+      "lastSeenAt": "2026-11-09T13:50:10Z"
     }
   ]
 }

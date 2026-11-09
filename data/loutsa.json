@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
   },
-  "scrapedAt": "2026-11-02T13:19:48Z",
+  "scrapedAt": "2026-11-09T13:45:48Z",
   "products": [
     {
       "id": "loutsa-cafe-salvador-apanea",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -160,7 +160,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -236,7 +236,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -303,15 +303,15 @@
           "url": "https://loutsa.fr/products/coffret-gourmand",
           "price": 29.8,
           "currency": "EUR",
-          "unitWeightG": 480,
-          "priceNote": null,
+          "unitWeightG": null,
+          "priceNote": "à partir de",
           "inStock": true,
           "stockStatus": "instock"
         }
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -350,7 +350,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-coffret-artisanal",
@@ -383,7 +383,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-espresso-duo",
@@ -416,7 +416,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -455,7 +455,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -479,7 +479,7 @@
       ],
       "harvestYear": null,
       "description": "Assemblage maison torréfié à Paris, proposant un profil équilibré aux notes de chocolat, caramel et agrumes avec une finale cacaotée persistante.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-paris-bio-9842080.png?v=1784888412",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-paris-bio-4224427.jpg?v=1793837650",
       "retailers": [
         {
           "site": "Loutsa",
@@ -494,7 +494,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -519,7 +519,7 @@
       ],
       "harvestYear": null,
       "description": "Assemblage maison torréfié à Lyon, caractérisé par des notes aromatiques de chocolat, amande et noisette, avec une acidité vive et un corps onctueux.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-de-lyon-bio-1611179.png?v=1784888413",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/CDL_vignetteWEB.jpg?v=1793785181",
       "retailers": [
         {
           "site": "Loutsa",
@@ -534,7 +534,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -567,7 +567,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -600,7 +600,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-espresso",
@@ -676,7 +676,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -700,7 +700,7 @@
       ],
       "harvestYear": null,
       "description": "Café indonésien d'altitude provenant de la plantation Ketiara à Sumatra, offrant un profil équilibré avec des notes boisées et tabacées, particulièrement adapté à la préparation en espresso.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-grain-expresso-trio-371762.jpg?v=1750065811",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-indonesie-ketiara-gayo-bio-8882288.png?v=1793921893",
       "retailers": [
         {
           "site": "Loutsa",
@@ -715,7 +715,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -753,7 +753,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -792,7 +792,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -817,7 +817,7 @@
       ],
       "harvestYear": null,
       "description": "Un café biologique colombien cultivé entre 1800 et 2200 mètres d'altitude, aux notes de caramel et d'orange, transporté à la voile pour minimiser son impact carbone.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-grain-expresso-trio-673081.jpg?v=1749048246",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-colombie-nasa-wesx-bio-7022337.png?v=1793921890",
       "retailers": [
         {
           "site": "Loutsa",
@@ -832,7 +832,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -856,7 +856,7 @@
       ],
       "harvestYear": null,
       "description": "Café éthiopien aux notes fruités subtiles de cerises et myrtilles, marqué par sa vivacité naturelle et ses saveurs sucrées.",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/HABTAMU_vignetteWEB.jpg?v=1781017431",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-ethiopie-habtamu-bio-3421624.png?v=1793921890",
       "retailers": [
         {
           "site": "Loutsa",
@@ -871,7 +871,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-cafe-solidaire-octobre-rose",
@@ -904,7 +904,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:27:20Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-lot-octobre-rose-movember",
@@ -937,7 +937,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:41:02Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     },
     {
       "id": "loutsa-movember-cafe-engage",
@@ -955,7 +955,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-solidaire-movember-1781592.jpg?v=1791931527",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-solidaire-movember-1781592.jpg?v=1793775969",
       "retailers": [
         {
           "site": "Loutsa",
@@ -970,7 +970,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:41:02Z",
-      "lastSeenAt": "2026-11-02T13:19:48Z"
+      "lastSeenAt": "2026-11-09T13:45:48Z"
+    },
+    {
+      "id": "loutsa-coffret-gastronomique-1",
+      "name": "COFFRET GASTRONOMIQUE",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-gastronomique-211597.jpg?v=1749047518",
+      "retailers": [
+        {
+          "site": "Loutsa",
+          "url": "https://loutsa.fr/products/coffret-gastronomique-1",
+          "price": 38.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:45:48Z",
+      "lastSeenAt": "2026-11-09T13:45:48Z"
     }
   ]
 }

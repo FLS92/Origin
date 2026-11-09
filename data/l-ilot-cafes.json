@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
   },
-  "scrapedAt": "2026-11-02T13:22:10Z",
+  "scrapedAt": "2026-11-09T13:49:33Z",
   "products": [
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
@@ -39,7 +39,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-mexique-majomut-cafe-indigene/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
@@ -76,7 +76,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-colombie-sud-cauca/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
@@ -114,7 +114,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-perou-pangoa/",
-          "price": 9.5,
+          "price": 10.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -124,7 +124,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
@@ -151,7 +151,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-deca-mexique-veracruz/",
-          "price": 9.3,
+          "price": 9.5,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafes-maison-dola-fami",
@@ -187,7 +187,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/assemblage-cafes-maison-dola-fami/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 250,
           "priceNote": "à partir de",
@@ -197,7 +197,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafe-maison-cuilco",
@@ -223,7 +223,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/assemblage-cafe-maison-cuilco/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
@@ -259,7 +259,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-nicaragua-jinotega/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
@@ -304,7 +304,7 @@
           "stockStatus": "outofstock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:25Z",
       "lastSeenAt": "2026-11-02T13:22:10Z"
     },
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
@@ -371,7 +371,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-mexique-chiapas/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -381,7 +381,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
@@ -417,7 +417,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
@@ -444,7 +444,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-guatemala-kitche/",
-          "price": 8.9,
+          "price": 9.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -454,7 +454,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
@@ -482,7 +482,7 @@
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-equateur-palanda/",
-          "price": 9.8,
+          "price": 10.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -492,7 +492,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-02T13:22:10Z"
+      "lastSeenAt": "2026-11-09T13:49:33Z"
+    },
+    {
+      "id": "l-ilot-cafes-cafe-micro-lot-pure-origine-honduras-bourbon-jaune",
+      "name": "Café micro-lot pure origine Honduras – Bourbon Jaune",
+      "originCountry": "Honduras",
+      "originDetail": null,
+      "process": "Fermentation anaérobique partielle, Nature",
+      "variety": "Bourbon jaune",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": "Moyenne",
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2026/11/LIlot-Cafes-specialite-micro-lot-bourbon-jaune-nature-fermentation-anaerobique-qualite-exception.png",
+      "retailers": [
+        {
+          "site": "L'Îlot Cafés",
+          "url": "https://www.lilotcafes.fr/produit/cafe-micro-lot-pure-origine-honduras-bourbon-jaune/",
+          "price": 14.0,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:49:33Z",
+      "lastSeenAt": "2026-11-09T13:49:33Z"
     }
   ]
 }

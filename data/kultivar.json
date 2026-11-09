@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2024/07/logo_mono.svg"
   },
-  "scrapedAt": "2026-11-02T13:22:34Z",
+  "scrapedAt": "2026-11-09T13:49:57Z",
   "products": [
     {
       "id": "kultivar-colombie-gesha-lave",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-11-02T13:22:34Z"
+      "lastSeenAt": "2026-11-09T13:49:57Z"
     },
     {
       "id": "kultivar-ethiopie-guji-nature",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-11-02T13:22:34Z"
+      "lastSeenAt": "2026-11-09T13:49:57Z"
     },
     {
       "id": "kultivar-colombie-castillo-lave",
@@ -123,7 +123,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:32Z",
-      "lastSeenAt": "2026-11-02T13:22:34Z"
+      "lastSeenAt": "2026-11-09T13:49:57Z"
     },
     {
       "id": "kultivar-los-nogales-lowcaf-typica",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:22:14Z",
-      "lastSeenAt": "2026-11-02T13:22:34Z"
+      "lastSeenAt": "2026-11-09T13:49:57Z"
     },
     {
       "id": "kultivar-bresil-minas-gerais",
@@ -194,7 +194,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:21:35Z",
-      "lastSeenAt": "2026-11-02T13:22:34Z"
+      "lastSeenAt": "2026-11-09T13:49:57Z"
+    },
+    {
+      "id": "kultivar-kenya-ichuga-lave",
+      "name": "KENYA – ICHUGA – LAVÉ",
+      "originCountry": "Kenya",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://www.kultivarcafe.fr/wp-content/uploads/2026/10/25_SF_KY_ICH_SL2-SL3-K7-R11_LAV_PHOTO1-1.webp",
+      "retailers": [
+        {
+          "site": "Kultivar",
+          "url": "https://www.kultivarcafe.fr/nos-cafes/kenya-ichuga-lave/",
+          "price": 13.5,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:49:57Z",
+      "lastSeenAt": "2026-11-09T13:49:57Z"
     }
   ]
 }

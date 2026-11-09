@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2024/09/Tinto-logo-horizontal-couleur-rvb.png?fit=768%2C197&ssl=1"
   },
-  "scrapedAt": "2026-11-02T13:22:37Z",
+  "scrapedAt": "2026-11-09T13:50:00Z",
   "products": [
     {
       "id": "tinto-recreio-cafe-du-bresil-250g-1kg",
@@ -48,7 +48,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-paz-decafeine-250g-1-kg-2",
@@ -81,7 +81,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-kebena-cafe-dethiopie-250-g-1-kg",
@@ -115,7 +115,7 @@
           "stockStatus": "outofstock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:33Z",
       "lastSeenAt": "2026-11-02T13:22:37Z"
     },
@@ -150,7 +150,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-resiliencia-cafe-de-colombie-250g-1kg",
@@ -187,7 +187,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-guarapito-cafe-de-colombie",
@@ -225,7 +225,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-bocadillo-cafe-colombie-250g-1kg",
@@ -263,7 +263,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-pura-vida-mae-cafe-de-costa-rica-250g-1kg",
@@ -299,7 +299,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-komothai-cafe-du-kenya-250g-1kg",
@@ -338,7 +338,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-quilombo-cafe-bresilien-250g-1kg",
@@ -375,7 +375,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:33Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-octubre-rojo-cafe-5-ans",
@@ -408,7 +408,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:30:10Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     },
     {
       "id": "tinto-esperanza-cafe-de-colombie",
@@ -441,7 +441,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:30:10Z",
-      "lastSeenAt": "2026-11-02T13:22:37Z"
+      "lastSeenAt": "2026-11-09T13:50:00Z"
+    },
+    {
+      "id": "tinto-tokuma-cafe-dethiopie-250-g-1-kg",
+      "name": "Tokuma- Café d’Ethiopie",
+      "originCountry": "Éthiopie",
+      "originDetail": "Zone de Jimma (District de Goma)",
+      "process": "Naturel Note SCA: 87,5",
+      "variety": "JARC 74110",
+      "producer": "Mensur Abahika (Tokuma Farmer Group)",
+      "score": 87.5,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://i0.wp.com/www.tintonantes.fr/wp-content/uploads/2026/06/Tokuma-02.png?fit=1536%2C1454&ssl=1",
+      "retailers": [
+        {
+          "site": "TINTO",
+          "url": "https://www.tintonantes.fr/produit/tokuma-cafe-dethiopie-250-g-1-kg/",
+          "price": 10.5,
+          "currency": "EUR",
+          "unitWeightG": 1000,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:50:00Z",
+      "lastSeenAt": "2026-11-09T13:50:00Z"
     }
   ]
 }

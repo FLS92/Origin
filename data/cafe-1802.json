@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://cafe1802.fr/cdn/shop/files/LOGO_CAFE1802_BLANC_BASELINE_4x_419e774b-db6f-41e1-a15b-f9b5fa157214.png?v=1625776975&width=300"
   },
-  "scrapedAt": "2026-11-02T13:22:40Z",
+  "scrapedAt": "2026-11-09T13:50:04Z",
   "products": [
     {
       "id": "cafe-1802-bella-vista-zarza-colombie-natural",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:38Z",
-      "lastSeenAt": "2026-11-02T13:22:40Z"
+      "lastSeenAt": "2026-11-09T13:50:04Z"
     },
     {
       "id": "cafe-1802-buhoro-rwanda-anaerobic",
@@ -152,7 +152,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:25:15Z",
-      "lastSeenAt": "2026-11-02T13:22:40Z"
+      "lastSeenAt": "2026-11-09T13:50:04Z"
     },
     {
       "id": "cafe-1802-san-miguel-bio",
@@ -185,7 +185,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-28T05:21:46Z",
-      "lastSeenAt": "2026-11-02T13:22:40Z"
+      "lastSeenAt": "2026-11-09T13:50:04Z"
     },
     {
       "id": "cafe-1802-gaseke-rwanda-naturel",
@@ -218,7 +218,73 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:30:15Z",
-      "lastSeenAt": "2026-11-02T13:22:40Z"
+      "lastSeenAt": "2026-11-09T13:50:04Z"
+    },
+    {
+      "id": "cafe-1802-el-oregano-guatemala",
+      "name": "3 CIELOS DECAF - Colombie",
+      "originCountry": "Colombie",
+      "originDetail": "Pitalito, Huila",
+      "process": "Sugar Cane décaféiné",
+      "variety": "Castillo",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/3_cielos_decaf.png?v=1793631405",
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/el-oregano-guatemala",
+          "price": 10.75,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:50:04Z",
+      "lastSeenAt": "2026-11-09T13:50:04Z"
+    },
+    {
+      "id": "cafe-1802-zarza-colombie-honey",
+      "name": "Geisha Pinton -Zarza - Colombie - Extended fermentation",
+      "originCountry": "Colombie",
+      "originDetail": "Pitalito , Huila",
+      "process": "lavé+ fermentation étendue",
+      "variety": "Geisha",
+      "producer": null,
+      "score": 88,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0349/5673/8698/files/Zarza_pinton.png?v=1775651607",
+      "retailers": [
+        {
+          "site": "Café 1802",
+          "url": "https://cafe1802.fr/products/zarza-colombie-honey",
+          "price": 14.58,
+          "currency": "EUR",
+          "unitWeightG": 200,
+          "priceNote": "à partir de",
+          "inStock": false,
+          "stockStatus": "outofstock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-09T13:50:04Z",
+      "lastSeenAt": "2026-11-09T13:50:04Z"
     }
   ]
 }

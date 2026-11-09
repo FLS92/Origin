@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.cafemokxa.com/cdn/shop/files/LOGOVERT2025.png?crop=center&height=42&v=1758117772&width=420"
   },
-  "scrapedAt": "2026-11-02T13:19:16Z",
+  "scrapedAt": "2026-11-09T13:45:13Z",
   "products": [
     {
       "id": "mokxa-cafe-de-poche",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-cafe-saudade-blend",
@@ -82,7 +82,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-cafe-notorious-rob-blend",
@@ -119,7 +119,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-sitiodatorre",
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-santarosa-guatemala-bio",
@@ -270,7 +270,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-taba-cafe-du-rwanda",
@@ -307,7 +307,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-decafeine-cafe-de-colombie",
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-coba-cafe-dethiopie",
@@ -449,7 +449,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:08Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-los-lirios-cafe-du-nicaragua-bio-2026",
@@ -557,7 +557,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-04T14:54:09Z",
       "lastSeenAt": "2026-11-02T13:19:16Z"
     },
@@ -666,7 +666,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:57:37Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-la-llanara-cafe-de-colombie-15ans",
@@ -699,7 +699,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T12:57:37Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-hoang-hong-vietnam",
@@ -730,7 +730,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-10-12T12:57:37Z",
       "lastSeenAt": "2026-11-02T13:19:16Z"
     },
@@ -765,7 +765,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:40:21Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-chelbesa-cafe-ethiopie",
@@ -798,7 +798,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:40:21Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-ceiba-cafe-du-honduras",
@@ -831,7 +831,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-11-02T13:19:16Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     },
     {
       "id": "mokxa-nueva-segovia-cafe-du-nicaragua",
@@ -864,7 +864,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-11-02T13:19:16Z",
-      "lastSeenAt": "2026-11-02T13:19:16Z"
+      "lastSeenAt": "2026-11-09T13:45:13Z"
     }
   ]
 }
