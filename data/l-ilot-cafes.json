@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.lilotcafes.fr/wp-content/uploads/2023/09/Logo-complet-1.png"
   },
-  "scrapedAt": "2026-11-09T13:49:33Z",
+  "scrapedAt": "2026-11-16T13:32:51Z",
   "products": [
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-majomut-cafe-indigene",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-colombie-sud-cauca",
@@ -86,7 +86,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-pangoa",
@@ -124,7 +124,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-deca-mexique-veracruz",
@@ -161,7 +161,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafes-maison-dola-fami",
@@ -197,7 +197,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-assemblage-cafe-maison-cuilco",
@@ -233,7 +233,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-nicaragua-jinotega",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-perou-el-palomar",
@@ -329,12 +329,12 @@
       ],
       "harvestYear": null,
       "description": "Café biologique et équitable d'origine péruvienne présentant un corps corsé avec des notes de fruits secs et de mangue.",
-      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Santa-Rosa-Perou-bio-equitable-micro-lot.png",
+      "imageUrl": "https://www.lilotcafes.fr/wp-content/uploads/2022/12/LIlot-Cafes-Speciaux-micro-lot-arabica-qualite-premium-bio-equitable-Perou.png",
       "retailers": [
         {
           "site": "L'Îlot Cafés",
           "url": "https://www.lilotcafes.fr/produit/cafe-pure-origine-perou-santa-rosa/",
-          "price": 9.9,
+          "price": 11.0,
           "currency": "EUR",
           "unitWeightG": 1000,
           "priceNote": "à partir de",
@@ -344,7 +344,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-mexique-chiapas",
@@ -381,7 +381,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-honduras-capucas",
@@ -417,7 +417,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-guatemala-kitche",
@@ -454,7 +454,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-pure-origine-equateur-palanda",
@@ -492,7 +492,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:25Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     },
     {
       "id": "l-ilot-cafes-cafe-micro-lot-pure-origine-honduras-bourbon-jaune",
@@ -525,7 +525,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-11-09T13:49:33Z",
-      "lastSeenAt": "2026-11-09T13:49:33Z"
+      "lastSeenAt": "2026-11-16T13:32:51Z"
     }
   ]
 }

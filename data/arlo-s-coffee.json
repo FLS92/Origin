@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://arloscoffee.com/cdn/shop/files/Transparent_cd7c9c11-fb3b-4573-a1ea-c73a9ba9cffc.png?height=300&v=1659540432"
   },
-  "scrapedAt": "2026-11-09T13:44:20Z",
+  "scrapedAt": "2026-11-16T13:29:18Z",
   "products": [
     {
       "id": "arlo-s-coffee-rwanda-murambi-bio",
@@ -85,7 +85,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-equateur-tulipe",
@@ -122,7 +122,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-https-5d68m8epxonxleoz-7663747149-shopifypreview-com-products_preview-preview_key-f17099a352d8ea9ff7977529f1cd0d34",
@@ -196,7 +196,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-colombie-tolima",
@@ -232,7 +232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-ethiopie-ali-bio",
@@ -269,7 +269,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-bresil-silvia",
@@ -306,7 +306,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-cafeespresso",
@@ -341,7 +341,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-honduras-marco",
@@ -378,7 +378,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-coffret-cafe-gamme-ephemere",
@@ -411,7 +411,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-colombie-deca",
@@ -448,7 +448,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:15:46Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     },
     {
       "id": "arlo-s-coffee-ethiopie-kurupe",
@@ -481,7 +481,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:26:03Z",
-      "lastSeenAt": "2026-11-09T13:44:20Z"
+      "lastSeenAt": "2026-11-16T13:29:18Z"
+    },
+    {
+      "id": "arlo-s-coffee-nicaragua-dipilto",
+      "name": "NICARAGUA - DIPILTO",
+      "originCountry": "Nicaragua",
+      "originDetail": "Nueva Segovia",
+      "process": "Lavé",
+      "variety": "Arabica",
+      "producer": "Finca Buenos Aires",
+      "score": 84.25,
+      "acidity": null,
+      "body": null,
+      "method": "Espresso",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0076/6374/7149/files/Visuel_sachet_Nicaragua_Dipilto.png?v=1794288891",
+      "retailers": [
+        {
+          "site": "Arlo's Coffee",
+          "url": "https://arloscoffee.com/products/nicaragua-dipilto",
+          "price": 6.0,
+          "currency": "EUR",
+          "unitWeightG": 100,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-16T13:29:18Z",
+      "lastSeenAt": "2026-11-16T13:29:18Z"
     }
   ]
 }

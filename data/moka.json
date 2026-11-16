@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/sticky.png"
   },
-  "scrapedAt": "2026-11-09T13:49:45Z",
+  "scrapedAt": "2026-11-16T13:33:03Z",
   "products": [
     {
       "id": "moka-maritza-nicaragua",
@@ -34,7 +34,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café nicaraguayen de variété Maracaturra est traité en naturel avec macération carbonique. Il développe des profils aromatiques complexes dominés par les fruits rouges et les fleurs.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/maritza-nicaragua.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/maritza-nicaragua.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -49,7 +49,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-lonya-perou",
@@ -69,7 +69,7 @@
       ],
       "harvestYear": null,
       "description": "Café péruvien issu d'un projet coopératif mené par des femmes productrices en Amazonie, traité par voie lavée et présenté pour l'espresso avec des caractéristiques douces.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/lonya-perou-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/lonya-perou-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -84,7 +84,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-zocapa-mexique",
@@ -102,7 +102,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café produit dans une ferme mexicaine à 950 mètres d'altitude sous un système agroforestier associant caféiers et chênes centenaires, cultivé selon des pratiques durables et qualitatives.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/zocapa-mexique-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/zocapa-mexique-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -117,7 +117,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-shanga-rwanda",
@@ -135,7 +135,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café rwandais issu de la station de lavage Simbi, gérée par Abdul dans le district de Huye, fondée en 2011-2012 et classée 9e à la Rwanda Cup of Excellence en 2013.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/shanga-rwanda.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/shanga-rwanda.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -150,7 +150,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-julio-cesar-colombie",
@@ -171,7 +171,7 @@
       ],
       "harvestYear": null,
       "description": "Café colombien produit à la Finca La Milán par Julio Cesar Madrid, traité en co-fermentation nitro pour développer un profil aromatique distinctif.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/julio-cesar-colombie-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/julio-cesar-colombie-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -186,7 +186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-misadhi-kenya",
@@ -206,7 +206,7 @@
       ],
       "harvestYear": null,
       "description": "Un café kényan issu d'une fermentation lactique innovante à la station Misadhi, offrant un profil sucré et fruité avec une acidité équilibrée.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/misadhi-kenya-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/misadhi-kenya-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -221,7 +221,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-edilberto-colombie",
@@ -239,7 +239,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café de spécialité colombien cultivé à la Finca Flores par deux frères qui expérimentent différents procédés de traitement pour mettre en avant les caractéristiques de chaque variété.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/edilberto-brulerie_moka.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/edilberto-brulerie_moka.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -254,7 +254,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-cerrado-bresil",
@@ -276,7 +276,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café brésilien du Cerrado se caractérise par un profil équilibré avec des notes de praline et de noisette, accompagné d'une faible acidité et d'une finale douce chocolatée. Issu d'une région certifiée depuis 2013 pour la qualité et l'authenticité de sa production arabica.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/cerrado-bresil-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/cerrado-bresil-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -291,7 +291,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-alma-guatemala",
@@ -313,7 +313,7 @@
       ],
       "harvestYear": null,
       "description": "Café produit par un exportateur familial dans les régions caféières du Guatemala, offrant un profil aromatique marqué par des notes chocolatées et fruitées avec une acidité modérée.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/alma-guatemala-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/alma-guatemala-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -328,7 +328,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-copanito-honduras",
@@ -346,7 +346,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café hondurien issu d'un exportateur familial établi dans la région productrice de Copán, conseillé pour la préparation à l'italienne et en espresso.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/copanito-honduras-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/copanito-honduras-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -361,7 +361,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-hadama-ethiopie",
@@ -379,7 +379,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Ce café d'Éthiopie provient de la station de Shakiso qui collecte les cerises auprès de plus de 500 petits producteurs locaux et cultive plusieurs variétés traditionnelles et améliorées.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/hadama-ethiopie-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/hadama-ethiopie-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -394,7 +394,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-negele-ethiopie",
@@ -412,7 +412,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café éthiopien cultivé près de Mundayo selon des méthodes traditionnelles, associé à d'autres cultures vivrières et exploité de manière essentiellement biologique par défaut.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/negele-ethiopie.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/negele-ethiopie.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -427,7 +427,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-melaku-ethiopie",
@@ -448,7 +448,7 @@
       ],
       "harvestYear": null,
       "description": "Café éthiopien cultivé dans la région montagneuse de Guji, produit par une station de lavage travaillant en collaboration avec des associations de petits producteurs locaux.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/melaku-ethiopie-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/melaku-ethiopie-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -463,7 +463,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-palestina-colombie",
@@ -481,7 +481,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café issu d'une coopérative regroupant cinquante familles de producteurs colombiens cultivant plusieurs variétés botaniques, traité selon des méthodes innovantes combinant techniques traditionnelles et processus naturels pour réduire la consommation d'eau.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/palestina-colombie-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/palestina-colombie-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -496,7 +496,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-lucha-libre-mexique",
@@ -514,7 +514,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Un café issu d'une coopérative de petits producteurs du Chiapas, traité en fermentation longue et séchage solaire, soutenu par un projet de financement participatif pour la qualité.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/freepik__shooting-photo-professionnel-de-packaging-de-caf-d__7035.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/freepik__shooting-photo-professionnel-de-packaging-de-caf-d__7035.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -529,7 +529,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-rosa-colombie-bio",
@@ -564,7 +564,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-decaf-colombie",
@@ -582,7 +582,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café de Colombie décaféiné selon le procédé Sugarcane, qui utilise l'acétate d'éthyle issu naturellement de la canne à sucre pour préserver les arômes. Cette méthode confère un profil doux et sucré.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/decaf-colombie-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/decaf-colombie-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -597,7 +597,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-nobo-nicaragua",
@@ -615,7 +615,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café nicaraguayen issu d'un regroupement de producteurs engagés dans la production de spécialité, combinant plusieurs récoltes et méthodes de traitement soigneusement sélectionnées et contrôlées.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/10/nobo-nicaragua-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2024/10/nobo-nicaragua-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -630,7 +630,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:28Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-blanca-nieve-nicaragua",
@@ -648,7 +648,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café nicaraguayen produit par Blanca Nieve à la finca El Diamante, membre d'un regroupement de producteurs spécialisés dans les cafés de haute qualité. Traitement lavé recommandé pour espresso et préparation à l'italienne.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-blanca_nieve-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/09/etiq-blanca_nieve-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -663,7 +663,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-lino-colombie",
@@ -681,7 +681,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café colombien cultivé à la Finca Betania en Huila par une productrice traditionnelle et son fils, qui appliquent des techniques de traitement modernes pour améliorer la qualité. Plusieurs variétés de café sont produites sur cette ferme familiale.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/01/etiq-lino-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/01/etiq-lino-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -696,7 +696,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-nubia-colombie",
@@ -729,7 +729,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-baya-nicaragua",
@@ -762,7 +762,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-mumbi-kenya",
@@ -797,7 +797,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-zapote-honduras",
@@ -815,7 +815,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café produit par la famille Romero au Honduras en partenariat avec EduCafe, cultivé en variété Parinema et adapté à la préparation en espresso.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/zapote-brulerie_moka-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/02/zapote-brulerie_moka-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -830,7 +830,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-ayoub-yemen",
@@ -865,7 +865,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-romero-honduras",
@@ -883,7 +883,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Ce café hondurien provient d'une collaboration entre EduCafe et la famille Romero, proposant un micro-lot de Parinema traité naturellement, adapté à la préparation en espresso.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/etiq-romero-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2025/03/etiq-romero-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -898,7 +898,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-othaya-kenya",
@@ -933,7 +933,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-ochoa-honduras",
@@ -966,7 +966,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-yello-nicaragua",
@@ -1002,7 +1002,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-mi-pana-colombie",
@@ -1035,7 +1035,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-carmen-salvador",
@@ -1068,7 +1068,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-mulugeta-ethiopie",
@@ -1101,7 +1101,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-damba-el-salvador",
@@ -1134,7 +1134,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-bernal-colombie",
@@ -1167,7 +1167,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-lalo-ethiopie",
@@ -1203,7 +1203,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-kivu-congo-bio",
@@ -1224,7 +1224,7 @@
       ],
       "harvestYear": null,
       "description": "Café congolais cultivé en altitude par la coopérative RAEK, issu de l'agriculture biologique, qui offre une tasse vive avec des notes de cacao et de fruits tropicaux associées à un corps léger.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/05/etiq-kivu-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/05/etiq-kivu-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1239,7 +1239,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-glenda-honduras",
@@ -1272,7 +1272,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-cafe-kaffa-ethiopie",
@@ -1295,7 +1295,7 @@
       ],
       "harvestYear": null,
       "description": "Un café éthiopien de la région de Kaffa, cultivé en forêt dense par Zinabu sur sa ferme où la variété 74110 bénéficie d'une gestion environnementale attentive et de pratiques agricoles rigoureuses.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kaffa-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kaffa-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1310,7 +1310,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-gitega-rwanda",
@@ -1328,7 +1328,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café rwandais de spécialité traité à la station Gitega Hill, cultivé en haute altitude sur sol volcanique et lavé selon un procédé rigoureux.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-gitega-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-gitega-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1343,7 +1343,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-urubamba-perou",
@@ -1368,7 +1368,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café péruvien est issu d'une coopérative biologique de la région de Cajamarca et combine trois variétés cultivées en altitude. Il développe des notes sucrées et épicées avec des accents de fruits d'agrumes.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-urubamba-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-urubamba-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1383,7 +1383,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-kabira-ethiopie",
@@ -1401,7 +1401,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Un café produit par un petit exploitant en Éthiopie qui cultive ses plants à haute altitude et traite son café selon deux méthodes : une portion lavée et l'autre naturelle, avec un accompagnement technique pour améliorer les processus de transformation.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kabira-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2023/01/etiq-kabira-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1416,7 +1416,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-del-micay-colombie",
@@ -1434,7 +1434,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Ce café provient de petits producteurs de la région d'Argelia en Colombie, accompagnés par Siruma Coffee qui leur offre un soutien technique en matière de récolte et de traitement post-récolte.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/12/etiq-del_micay-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/12/etiq-del_micay-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1449,7 +1449,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-chevere-perou-bio",
@@ -1467,7 +1467,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Un assemblage de trois variétés cultivées en altitude dans la région de Cajamarca, au Pérou, produit par la coopérative COOPAGRO.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/07/etiq-chevere-perou-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/07/etiq-chevere-perou-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1482,7 +1482,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-la-palma-perou",
@@ -1502,7 +1502,7 @@
       ],
       "harvestYear": null,
       "description": "Café péruvien issu de la région de La Palma, cultivé en altitude par des petits producteurs locaux selon des pratiques traditionnelles de fermentation et séchage.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-la_palma-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-la_palma-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1517,7 +1517,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-sidamo-ethiopie",
@@ -1538,7 +1538,7 @@
       ],
       "harvestYear": null,
       "description": "Café éthiopien de la région de Sidama, cultivé par de petits producteurs en système agroforestier. Les cafés de cette appellation proposent des profils variés selon leur zone géographique, avec des notes caractéristiques de fruits jaunes et une sucrosité marquée pour les meilleurs crus.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2018/09/etiq-sidamo-brulerie_moka-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2018/09/etiq-sidamo-brulerie_moka-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1553,7 +1553,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-tata-nahual-guatemala",
@@ -1571,7 +1571,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Un café guatémaltèque cultivé à haute altitude sur les sols volcaniques de la ferme Chalabal Estrella, bénéficiant d'un environnement naturel préservé et de conditions climatiques optimales.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-nahual-brulerie_moka-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-nahual-brulerie_moka-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1586,7 +1586,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-isabelia-nicaragua",
@@ -1604,7 +1604,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café biologique nicaraguayen produit par la coopérative COOMCAFE selon des pratiques agricoles durables, cultivé sous ombrage d'arbres endémiques à 18°C et traité par fermentation puis lavage.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-isabelia-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-isabelia-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1619,7 +1619,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-cafe-lahuerta-nicaragua",
@@ -1637,7 +1637,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café nicaraguayen cultivé à petite échelle sur une ferme familiale près du Cerro Mogoton, traité en lavé et séché au moulin Cafetos de Segovia selon des méthodes contrôlées alternant ombre et soleil.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/10/etiq-la_huerta-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/10/etiq-la_huerta-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1652,7 +1652,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-piendamo-colombie",
@@ -1675,7 +1675,7 @@
       ],
       "harvestYear": null,
       "description": "Arabica colombien cultivé en altitude, certifié biologique, offrant un profil aromatique complexe associant fruits secs et notes chocolatées.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-piendamo-brulerie_moka-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-piendamo-brulerie_moka-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1690,7 +1690,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-rancho-bresil",
@@ -1713,7 +1713,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café brésilien offre un profil équilibré dominé par des notes de chocolat et de noisettes, avec une acidité modérée et une belle persistance aromatique en bouche.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-rancho-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2022/01/etiq-rancho-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1728,7 +1728,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-zebigi-ouganda",
@@ -1746,7 +1746,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Ce micro-lot ougandais provient d'un partenariat avec le projet The Coffee Gardens, associant 89 petits producteurs locaux dans une démarche éthique et transparente. Les cerises sont traitées à la station de lavage de Bukyabo, avec un prix d'achat premium et des programmes de soutien aux agriculteurs.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-zebigi-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-zebigi-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1761,7 +1761,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-bwenda-rwanda",
@@ -1784,7 +1784,7 @@
       ],
       "harvestYear": null,
       "description": "Un café rwandais de la station Bwenda présentant une acidité modérée, une structure charpentée et des notes florales et fruitées associées à des saveurs beurrées.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-bwenda_rwanda-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/05/etiq-bwenda_rwanda-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1799,7 +1799,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-san-ignacio-costa-rica",
@@ -1827,7 +1827,7 @@
       ],
       "harvestYear": null,
       "description": "Café costaricien de la région de Los Santos présentant un profil aromatique complexe avec des notes variées allant des fruits aux épices et au bois.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/11/etiq-san_ignacio-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/11/etiq-san_ignacio-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1842,7 +1842,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-gayuku-ini-kenya",
@@ -1864,7 +1864,7 @@
       ],
       "harvestYear": null,
       "description": "Cet arabica kényan offre un profil complexe aux notes de fruits rouges, d'abricot confit et de vanille, avec une texture soyeuse et équilibrée, adapté aux préparations filtrées.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-gayuku_ini-brulerie_moka-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-gayuku_ini-brulerie_moka-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1879,7 +1879,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-alero-honduras",
@@ -1897,7 +1897,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café biologique du Honduras provenant de la coopérative COMSA à Marcala, issue d'une collaboration entre plus de 2000 producteurs engagés dans une agriculture durable.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/etiq-alero-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/01/etiq-alero-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1912,7 +1912,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-don-ricardo-salvador",
@@ -1930,7 +1930,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Un café originaire de la Finca Joya Verde au Salvador, porté par l'héritage familial de Don Ricardo et cultivé par ses petits-enfants sur les terres de Tecapa Chinameca.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-don_ricardo-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/05/etiq-don_ricardo-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1945,7 +1945,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-san-antonio-salvador",
@@ -1967,7 +1967,7 @@
       ],
       "harvestYear": null,
       "description": "Un café d'origine salvadorienne cultivé en altitude sur sols volcaniques et sous ombrage naturel, présentant des notes de cacao, caramel et raisins.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/09/etiq-san-antonio-min-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/09/etiq-san-antonio-min-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -1982,7 +1982,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-wolichu-wachu-ethiopie",
@@ -2003,7 +2003,7 @@
       ],
       "harvestYear": null,
       "description": "Arabica éthiopien de haut de gamme originaire du Guji, composé majoritairement de la variété Bourbon et sélectionné minutieusement. Ce café aux caractéristiques florales et fruitées convient à la préparation en espresso comme en méthodes de filtration.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-wolichu-brulerie_moka-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2020/03/etiq-wolichu-brulerie_moka-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2018,7 +2018,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-aba-kika-ethiopie",
@@ -2039,7 +2039,7 @@
       ],
       "harvestYear": null,
       "description": "Café provenant d'une ferme familiale de 18 hectares en altitude, traité naturellement avec une variété de heirloom réputée pour ses notes florales et agrumées, sélectionnée et distribuée par des instituts de recherche depuis 1979.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-aba-kika-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-aba-kika-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2054,7 +2054,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-santa-fe-mexique",
@@ -2072,7 +2072,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café biologique cultivé au Mexique dans la région de Motozintla par Jorge Arreola Nava sur sa finca Santa Fé, dans un environnement préservé d'altitude moyenne.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-sante_fe-brulerie_moka.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-sante_fe-brulerie_moka.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2087,7 +2087,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-ibisi-rwanda",
@@ -2105,7 +2105,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Café rwandais traité à la station de lavage Ibisi, situé dans le sud du pays. Le café subit un processus de lavage détaillé incluant fermentation, lavage en canaux de tri et séchage progressif à l'ombre puis au soleil.",
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-ibisi-brulerie_moka-min.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2021/01/etiq-ibisi-brulerie_moka-min.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2120,7 +2120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-07T05:20:39Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-elto-hamasho-ethiopie",
@@ -2138,7 +2138,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/elto-hamasho-ethiopie.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/elto-hamasho-ethiopie.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2153,7 +2153,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T13:00:45Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-alo-tamiru-ethiopie",
@@ -2171,7 +2171,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/alo-tamiru-ethiopie.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/09/alo-tamiru-ethiopie.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2186,7 +2186,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-12T13:00:45Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-brix-breaker-nicaragua",
@@ -2204,7 +2204,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/brix-breaker-nicaragua.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/brix-breaker-nicaragua.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2219,7 +2219,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-26T10:57:33Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-amoruso-panama",
@@ -2237,7 +2237,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/amoruso-panama.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/amoruso-panama.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2252,7 +2252,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-26T10:57:33Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     },
     {
       "id": "moka-tsegay-ethiopie",
@@ -2270,7 +2270,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": null,
-      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/tsegay-ethiopie-1.jpg",
+      "imageUrl": "https://www.brulerie-moka.com/wp-content/uploads/2026/10/tsegay-ethiopie-1.webp",
       "retailers": [
         {
           "site": "MÖKA",
@@ -2285,7 +2285,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-11-02T13:22:19Z",
-      "lastSeenAt": "2026-11-09T13:49:45Z"
+      "lastSeenAt": "2026-11-16T13:33:03Z"
     }
   ]
 }

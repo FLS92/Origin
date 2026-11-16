@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.labruleriedesfilatiers.fr/web/image/website/1/logo/La%20Br%C3%BBlerie%20des%20Filatiers?unique=8038835"
   },
-  "scrapedAt": "2026-11-09T13:49:29Z",
+  "scrapedAt": "2026-11-16T13:32:45Z",
   "products": [
     {
       "id": "la-brulerie-des-filatiers-p642",
@@ -47,7 +47,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p801",
@@ -83,7 +83,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p803",
@@ -120,7 +120,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p804",
@@ -157,7 +157,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p800",
@@ -194,7 +194,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p645",
@@ -232,7 +232,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p906",
@@ -267,7 +267,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-11-09T13:49:29Z"
     },
@@ -290,7 +290,7 @@
       ],
       "harvestYear": null,
       "description": "Ce café brésilien de la région de Mogiana offre un profil rond et confortable avec des notes de chocolat et praline, caractérisé par son équilibre et sa texture veloutée.",
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/910/image_512/Br%C3%A9sil%20-%20Mogiana%20-%20Fazenda%20Alian%C3%A7a?unique=7ddab15",
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/910/image_512/Br%C3%A9sil%20-%20Mogiana%20-%20Fazenda%20Alian%C3%A7a?unique=22be28f",
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -303,9 +303,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-09-14T05:21:43Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p752",
@@ -340,7 +340,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p648",
@@ -377,7 +377,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p651",
@@ -410,7 +410,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p930",
@@ -443,7 +443,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p814",
@@ -476,7 +476,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1904",
@@ -509,7 +509,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p653",
@@ -544,7 +544,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p655",
@@ -584,7 +584,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1903",
@@ -602,7 +602,7 @@
       "flavors": null,
       "harvestYear": null,
       "description": "Un café guatémaltèque de montagne traité par voie naturelle, issu d'une coopérative locale et torréfié artisanalement.",
-      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1903/image_512/GUATEMALA%20-%20Huehuetenango%20-%20El%20Panal?unique=f62e55e",
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/1903/image_512/GUATEMALA%20-%20Huehuetenango%20-%20El%20Panal?unique=f3bf319",
       "retailers": [
         {
           "site": "La Brûlerie des Filatiers",
@@ -615,9 +615,9 @@
           "stockStatus": "instock"
         }
       ],
-      "available": false,
+      "available": true,
       "firstSeenAt": "2026-09-03T21:17:21Z",
-      "lastSeenAt": "2026-11-02T13:22:05Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p614",
@@ -648,7 +648,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-11-09T13:49:29Z"
     },
@@ -681,7 +681,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:17:21Z",
       "lastSeenAt": "2026-11-09T13:49:29Z"
     },
@@ -720,7 +720,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-14T05:21:43Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     },
     {
       "id": "la-brulerie-des-filatiers-p1901",
@@ -786,7 +786,40 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-21T05:24:39Z",
-      "lastSeenAt": "2026-11-09T13:49:29Z"
+      "lastSeenAt": "2026-11-16T13:32:45Z"
+    },
+    {
+      "id": "la-brulerie-des-filatiers-p872",
+      "name": "GUATEMALA - El Rabinal",
+      "originCountry": "Guatemala",
+      "originDetail": null,
+      "process": "Lavé",
+      "variety": "Arabica - Blend de Variétés ​ ​",
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": null,
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://labruleriedesfilatiers.fr/web/image/product.template/872/image_512/GUATEMALA%20-%20El%20Rabinal%20?unique=dfdbc68",
+      "retailers": [
+        {
+          "site": "La Brûlerie des Filatiers",
+          "url": "https://labruleriedesfilatiers.fr/shop/guatemala-el-rabinal-872",
+          "price": 11.18,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": null,
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-16T13:32:45Z",
+      "lastSeenAt": "2026-11-16T13:32:45Z"
     }
   ]
 }

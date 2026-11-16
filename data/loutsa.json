@@ -11,7 +11,7 @@
     "notes": null,
     "logoUrl": "https://www.loutsa.fr/cdn/shop/files/logo_loutsa_bd792704-1484-4315-acae-e1dec4c59955.png?v=1779124029&width=1005"
   },
-  "scrapedAt": "2026-11-09T13:45:48Z",
+  "scrapedAt": "2026-11-16T13:30:28Z",
   "products": [
     {
       "id": "loutsa-cafe-salvador-apanea",
@@ -44,7 +44,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-ethiopie-chelchele",
@@ -160,7 +160,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-signature-mouffetard-1",
@@ -236,7 +236,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-bresil-peaberry",
@@ -275,7 +275,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-coffret-gourmand",
@@ -311,7 +311,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-coffret-gastronomique",
@@ -348,7 +348,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:13Z",
       "lastSeenAt": "2026-11-09T13:45:48Z"
     },
@@ -381,7 +381,7 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-09-03T21:16:13Z",
       "lastSeenAt": "2026-11-09T13:45:48Z"
     },
@@ -416,7 +416,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-fazenda-rio",
@@ -455,7 +455,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-de-paris-bio",
@@ -494,7 +494,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-de-lyon-bio",
@@ -534,7 +534,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-copie-de-arhuaco-bio",
@@ -567,7 +567,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-trio-espresso-3-cafes-pures-origines",
@@ -600,7 +600,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-italian-roast",
@@ -638,7 +638,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-espresso",
@@ -676,7 +676,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-arabica-indonesie-bio",
@@ -715,7 +715,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-deca-sueno",
@@ -753,7 +753,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-arabica-perou-bio",
@@ -792,7 +792,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-colombie-bio-voile-ocean-clean",
@@ -832,7 +832,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-arabica-ethiopie",
@@ -871,7 +871,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-09-03T21:16:13Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-cafe-solidaire-octobre-rose",
@@ -904,7 +904,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-05T05:27:20Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-lot-octobre-rose-movember",
@@ -937,7 +937,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:41:02Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-movember-cafe-engage",
@@ -970,7 +970,7 @@
       ],
       "available": true,
       "firstSeenAt": "2026-10-19T10:41:02Z",
-      "lastSeenAt": "2026-11-09T13:45:48Z"
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     },
     {
       "id": "loutsa-coffret-gastronomique-1",
@@ -1001,9 +1001,75 @@
           "stockStatus": "instock"
         }
       ],
-      "available": true,
+      "available": false,
       "firstSeenAt": "2026-11-09T13:45:48Z",
       "lastSeenAt": "2026-11-09T13:45:48Z"
+    },
+    {
+      "id": "loutsa-coffret-gastronomique-cafe",
+      "name": "COFFRET GASTRONOMIQUE",
+      "originCountry": null,
+      "originDetail": null,
+      "process": null,
+      "variety": null,
+      "producer": null,
+      "score": null,
+      "acidity": null,
+      "body": null,
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/coffret-gastronomique-9729305.png?v=1794417492",
+      "retailers": [
+        {
+          "site": "Loutsa",
+          "url": "https://loutsa.fr/products/coffret-gastronomique-cafe",
+          "price": 38.0,
+          "currency": "EUR",
+          "unitWeightG": null,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-16T13:30:28Z",
+      "lastSeenAt": "2026-11-16T13:30:28Z"
+    },
+    {
+      "id": "loutsa-mitapila-ouganda",
+      "name": "Café OUGANDA ZOMBO",
+      "originCountry": "Ouganda",
+      "originDetail": null,
+      "process": "Nature anaérobique – fermentation de 36 h Score SCA : 86/100",
+      "variety": "Arabica",
+      "producer": "Mitapila Microstation",
+      "score": 86,
+      "acidity": null,
+      "body": "lacté, texture onctueuse",
+      "method": "Omni",
+      "roastLevel": null,
+      "flavors": null,
+      "harvestYear": null,
+      "description": null,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0767/8243/6668/files/cafe-ouganda-zombo-3345080.jpg?v=1794335059",
+      "retailers": [
+        {
+          "site": "Loutsa",
+          "url": "https://loutsa.fr/products/mitapila-ouganda",
+          "price": 16.9,
+          "currency": "EUR",
+          "unitWeightG": 250,
+          "priceNote": "à partir de",
+          "inStock": true,
+          "stockStatus": "instock"
+        }
+      ],
+      "available": true,
+      "firstSeenAt": "2026-11-16T13:30:28Z",
+      "lastSeenAt": "2026-11-16T13:30:28Z"
     }
   ]
 }
